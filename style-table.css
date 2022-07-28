@@ -43,6 +43,7 @@ p {
 .text {
   text-align: justify;
   color: black;
+  font-weight: bold;
   font-size: 1.0em;
   margin-bottom: 0.6em;
 }
