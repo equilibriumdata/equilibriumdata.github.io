@@ -34,17 +34,17 @@ p.name {
   margin: 0;
 }
 .topnumber,
-p {
-  text-align: center;
-  color: black;
-  font-size: 0.8em;
-  margin-bottom: 0.2em;
-}
 ptext {
   text-align: justify;
   color: black;
   font-size: 1.4em;
   margin-bottom: 0.6em;
+}
+p {
+  text-align: center;
+  color: black;
+  font-size: 0.8em;
+  margin-bottom: 0.2em;
 }
 .number2 {
   grid-row: 2/3;
