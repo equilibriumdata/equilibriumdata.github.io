@@ -1,7 +1,7 @@
-# Constants
+# Equilibrium data
 
-Please find her constants from two different sources: European project COST, Working Group NECTAR, and IUPAC.
+A crucial part of any equilibrium modelling calculation is the selection of equilibrium constants that quantify the strength of interactions between metals and ligands. Locating suitable equilibrium constants that lead to reliable model results can be problematic. Numerous large compilations of equilibrium constant values have been published each having their own limitations, coverage and  availability. The persistence of existing compilations is problematic given that it is widely underappreciated how much ongoing work and effort are required just to maintain and distribute functional versions of computer databases. As a result, the access to existing compilations of equilibrium has become problematic 
 
-[WG1 - NECTAR](cost-nectar.html) for highly hydrolysable (HHC) and/or low-valence state (LVC) cations has prepareed a compilation of the hydrolysis constants of most elements of the periodic table. This work is related to its task of providing reliable, accurate and comprehensive sets of thermodynamic data of systems containing HHE and LVC.
+Here, when possible, to plan to make available compilations which have become difficult to access.
 
-You can find the result of the work in the following periodic table. By clicking in a given element, you can access a PDF file containing its hydrolysis constants at infinite dilution and T = 298.15 K gathered from the most relevant literature compilations (in green, recommended values).
+Access to the [COST action NECTAR data])cost-nectar.html) and the IUPAC data.
