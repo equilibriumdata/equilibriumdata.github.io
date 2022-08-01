@@ -27,7 +27,7 @@ ul.breadcrumb li a:hover {
 <ul class="breadcrumb">
   <li><a href="/">Equilibrium data</a></li>
   <li><a href="/cost-nectar.html">NECTAR</a></li>
-  <li><a href="/sc-database.html>SC</a></li>
+  <li><a href="/sc-database.html">SC</a></li>
 </ul>
 </body>
 
