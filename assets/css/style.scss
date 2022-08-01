@@ -4,6 +4,8 @@
 @import 'jekyll-theme-cayman.scss';
 @import 'variables.scss';
 
+{% include navigation.html}
+
 #banner { 
     background: unset;
 }
