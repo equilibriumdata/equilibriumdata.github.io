@@ -8,9 +8,30 @@
     <link
       href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
       rel="stylesheet"
-    />
+          />
+    <style>
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  }
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+}
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}
+</style>
   </head>
   <body> 
+<ul class="breadcrumb">
+  <li><a href="#">Home</a></li>
+</ul>
     <h1>NECTAR metal hydrolysis constants</h1>
     <p>The Working Group “NECTAR for highly hydrolysable (HHC) cations” (WG1) of the COST Action 18202, Network for Equilibria and Chemical Thermodynamics Advanced Research, is compiling published critical values of metal hydrolysis constants.</p>
     
