@@ -1,9 +1,7 @@
-<html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NECTAR metal hydrolysis constants</title>
-    <link rel="stylesheet" href="style-table.css" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link
       href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
@@ -51,4 +49,3 @@ ul.breadcrumb li a:hover {
     <hr>
     {% include table.html %}
     </body>
-</html>
