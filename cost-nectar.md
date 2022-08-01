@@ -10,7 +10,7 @@
     page.title: NECTAR metal hydrolysis constants;
     <style>
 h2 {
-    font-size: x-large;
+    font-size: xx-large;
    }
 ul.breadcrumb {
   padding: 10px 25px;
