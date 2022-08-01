@@ -9,7 +9,7 @@
           />
     <style>
 ul.breadcrumb {
-  padding: 10px 16px;
+  padding: 10px 25px;
   list-style: none;
   }
 ul.breadcrumb li {
