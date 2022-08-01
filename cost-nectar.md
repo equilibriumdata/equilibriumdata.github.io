@@ -48,5 +48,6 @@ ul.breadcrumb li a:hover {
 <p>Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Galceran, Sofia Gama, Gabriele Lando, Demetrio Milea, Andrejz Mular, Vladimir Sladkov, Kamila Stokowa-Sołtys, Yuliya Toporivska, Emanuele Zanda, Veronika Zinovyeva.</p>
 
     <hr>
+  {% include table.html %}
     
 </body>
