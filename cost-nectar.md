@@ -7,6 +7,7 @@
       href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
       rel="stylesheet"
           />
+    <title>NECTAR metal hydrolysis constants</title>
     <style>
 ul.breadcrumb {
   padding: 10px 25px;
