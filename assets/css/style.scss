@@ -4,11 +4,15 @@
 @import 'jekyll-theme-cayman.scss';
 @import 'variables.scss';
 
+<header class="page-header" role="banner">
+            
+</header>
+
 {% include navigation.html}
 
 #banner { 
-    background: unset;
+    background-color: unset;
 }
 #banner { 
-    background: #4d4d4d;
+    background-color: #4d4d4d;
 }
