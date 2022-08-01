@@ -5,8 +5,6 @@ body {
 
 a { text-decoration: none; }
 
-h5 {  font-weight: lighter;}
-
 #table {
   display: grid;
   grid-template-columns: repeat(19, auto);
