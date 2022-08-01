@@ -44,6 +44,4 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
 
     <hr>
     
-    {% include table.html %}
-    
 </body>
