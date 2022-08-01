@@ -13,7 +13,7 @@ h2 {
     font-size: xx-large;
    }
 ul.breadcrumb {
-  padding: 10px 25px;
+  padding: 10px 0px;
   list-style: none;
   }
 ul.breadcrumb li {
@@ -33,9 +33,9 @@ ul.breadcrumb li a:hover {
   <body> 
 <ul class="breadcrumb">
   <li><a href="/">Equilibrium data</a></li>
-  <li><a href="#"> / </a></li>
+  <li><a href="#">   /   </a></li>
   <li><a href="/cost-nectar.html">NECTAR</a></li>
-  <li><a href="#"> / </a></li>
+  <li><a href="#">   /   </a></li>
   <li><a href="/sc-database.html">SC</a></li>
 </ul>
 <h2>NECTAR metal hydrolysis constants</h2>
