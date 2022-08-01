@@ -30,7 +30,11 @@ ul.breadcrumb li a:hover {
 </style>
   </head>
   <body> 
-<ul class="breadcrumb">
+---
+title: Nectar metals
+layout: default
+---
+  <ul class="breadcrumb">
   <li><a href="/">Equilibrium data</a></li>
   <li><a href="#">   /   </a></li>
   <li><a href="/cost-nectar.html">NECTAR</a></li>
