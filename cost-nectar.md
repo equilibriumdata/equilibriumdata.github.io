@@ -12,6 +12,3 @@ This table is a mirror of the periodic table available at the <a href="https://w
 
 Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Galceran, Sofia Gama, Gabriele Lando, Demetrio Milea, Andrejz Mular, Vladimir Sladkov, Kamila Stokowa-Sołtys, Yuliya Toporivska, Emanuele Zanda, Veronika Zinovyeva.
 
-<hr>
-
-{% include table.html %}
