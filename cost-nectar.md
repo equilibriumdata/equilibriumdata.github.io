@@ -30,7 +30,7 @@ ul.breadcrumb li a:hover {
 <ul class="breadcrumb">
   <li><a href="/">Equilibrium data</a></li>
   <li><a href="/cost-nectar.html">NECTAR</a></li>
-  <li><a href="/sc-database.html">SC-Database</a></li>
+  <li><a href="/sc-database.html">SC</a></li>
 </ul>
 <hl>NECTAR metal hydrolysis constants</hl>
     
