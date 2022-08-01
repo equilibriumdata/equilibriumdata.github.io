@@ -30,7 +30,6 @@ ul.breadcrumb li a:hover {
 </style>
   </head>
   <body> 
-<h1 >NECTAR metal hydrolysis constants</h1>
 <ul class="breadcrumb">
   <li><a href="/">Equilibrium data</a></li>
   <li><a href="#">   /   </a></li>
@@ -38,7 +37,7 @@ ul.breadcrumb li a:hover {
   <li><a href="#">   /   </a></li>
   <li><a href="/sc-database.html">SC</a></li>
 </ul>
-<h2>NECTAR metal hydrolysis constants</h2>
+<h1>NECTAR metal hydrolysis constants</h1>
     
 <p>The Working Group “NECTAR for highly hydrolysable (HHC) cations” (WG1) of the COST Action 18202, Network for Equilibria and Chemical Thermodynamics Advanced Research, is compiling published critical values of metal hydrolysis constants.</p>
 
