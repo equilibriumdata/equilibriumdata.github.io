@@ -7,7 +7,7 @@
       href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
       rel="stylesheet"
           />
-    page.title: NECTAR metal hydrolysis constants;
+<h1 class="project-name">{{NECTAR metal hydrolysis constants}}</h1>
     <style>
 h2 {
     font-size: xx-large;
