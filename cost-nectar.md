@@ -7,7 +7,6 @@
       href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
       rel="stylesheet"
           />
-<h1 class="project-name">{{NECTAR metal hydrolysis constants}}</h1>
     <style>
 h2 {
     font-size: xx-large;
@@ -31,6 +30,7 @@ ul.breadcrumb li a:hover {
 </style>
   </head>
   <body> 
+<h1 >NECTAR metal hydrolysis constants</h1>
 <ul class="breadcrumb">
   <li><a href="/">Equilibrium data</a></li>
   <li><a href="#">   /   </a></li>
