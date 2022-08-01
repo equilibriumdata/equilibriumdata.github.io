@@ -9,6 +9,9 @@
           />
     <title>NECTAR metal hydrolysis constants</title>
     <style>
+h2 {
+    font-size: larger;
+   }
 ul.breadcrumb {
   padding: 10px 25px;
   list-style: none;
