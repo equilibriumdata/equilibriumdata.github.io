@@ -10,5 +10,5 @@ By clicking on a given element, you can access a PDF file containing its hydroly
 
 This table is a mirror of the periodic table available at the <a href="https://www.cost-nectar.eu/pages/wg1_period.html" target="_blank" rel="noopener">COST action webpage</a>.
 
-Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Galceran, Sofia Gama, Gabriele Lando, Demetrio Milea, Andrejz Mular, Vladimir Sladkov, Kamila Stokowa-Sołtys, Yuliya Toporivska, Emanuele Zanda, Veronika Zinovyeva.
+Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Galceran, Sofia Gama, Gabriele Lando, Demetrio Milea, Andrejz Mular, Michaela Rendošová, Vladimir Sladkov, Kamila Stokowa-Sołtys, Yuliya Toporivska, Zuzana Vargová, Emanuele Zanda, Veronika Zinovyeva.
 
