@@ -8,7 +8,7 @@ The Working Group “NECTAR for highly hydrolysable (HHC) cations” (WG1) of th
 
 By clicking on a given element, you can access a PDF file containing its hydrolysis constants at infinite dilution and T = 298.15 K gathered from the most relevant literature compilations (in green, recommended values).
 
-This table is a mirror of the periodic table available at the <a href="https://www.cost-nectar.eu/pages/wg1_period.html" target="_blank" rel="noopener">COST action webpage</a>.
+[This table](/table.html) is a mirror of the periodic table available at the <a href="https://www.cost-nectar.eu/pages/wg1_period.html" target="_blank" rel="noopener">COST action webpage</a>.
 
 Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Galceran, Sofia Gama, Gabriele Lando, Demetrio Milea, Andrejz Mular, Michaela Rendošová, Vladimir Sladkov, Kamila Stokowa-Sołtys, Yuliya Toporivska, Zuzana Vargová, Emanuele Zanda, Veronika Zinovyeva.
 
