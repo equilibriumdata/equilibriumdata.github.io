@@ -2,6 +2,7 @@ body {
   background-color: white;
   font-family: 'Lato', 'monospace';
   max-width: 800px;
+  margin-left: 80px;
 }
 
 a { text-decoration: none; }
