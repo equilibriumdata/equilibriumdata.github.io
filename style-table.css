@@ -24,9 +24,9 @@ a { text-decoration: none; }
 }
 p.name {
   padding-top: 0.1em;
-  padding-right: 0.5em;
+  padding-right: 0.3em;
   padding-bottom: 0.5em;
-  padding-left: 0.5em;
+  padding-left: 0.3em;
   text-align: center;
   font-weight: bold;
   color: white;
@@ -37,7 +37,7 @@ p.name {
 p {
   text-align: center;
   color: black;
-  font-size: 0.6em;
+  font-size: 0.4em;
   margin-bottom: 0.2em;
 }
 .number2 {
@@ -110,7 +110,7 @@ p {
 }
 .rownumber {
   text-align: center;
-  color: white;
+  color: red;
   margin-left: 0;
   font-size: 0.8em;
 }
