@@ -38,8 +38,8 @@ p.name {
 .topnumber,
 p {
   text-align: center;
-  color: black;
-  font-size: 0.7em;
+  color: red;
+  font-size: 0.8em;
   margin-bottom: 0.1em;
 }
 .number2 {
@@ -112,9 +112,9 @@ p {
 }
 .rownumber {
   text-align: center;
-  color: black;
+  color: red;
   margin-left: 0;
-  font-size: 0.7em;
+  font-size: 0.8em;
 }
 .row1 {
   grid-row-start: 1;
