@@ -1,8 +1,9 @@
 body {
   background-color: white;
   font-family: 'Lato', 'monospace';
+  max-width: 800px;
+  margin-left: 150px;
 }
-
 a { text-decoration: none; }
 
 h5 {  font-weight: lighter;}
