@@ -1,8 +1,6 @@
 ---
-title: Eqqqilibrium data
+title: Equilibrium data
 layout: default
-header-bg-color: #155799
-header-bg-color-secondary: #159957 
 ---
 # Equilibrium data
 
