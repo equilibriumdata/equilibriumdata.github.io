@@ -1,4 +1,4 @@
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #155799 !default;
-$header-bg-color-secondary: #159957 !default;
+$header-bg-color: #333333 !default;
+$header-bg-color-secondary: #666666 !default;
