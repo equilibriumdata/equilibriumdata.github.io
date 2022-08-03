@@ -1,5 +1,5 @@
 ---
-title: Qqqqilibrium data
+title: Eqqqilibrium data
 layout: default
 header-bg-color: #155799
 header-bg-color-secondary: #159957 
