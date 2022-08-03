@@ -4,4 +4,4 @@ For many years, the International Union of Pure and Applied Chemistry (IUPAC) sp
 
 We will upload here the result of data queries for various chemical elements in pdf files.
 
-[Ga](/docs/IUPAC/gallium.pdf)  /  [Ge](/docs/IUPAC/germanium.pdf)  /  [In](/docs/IUPAC/indium.pdf)  /  [Ir](/docs/IUPAC/iridium.pdf)  /  [Nb](/docs/IUPAC/niobium.pdf)  /  [Os](/docs/IUPAC/osmium.pdf)  /  [Pa](/docs/IUPAC/palladium.pdf)  /  [Pt](/docs/IUPAC/platinum.pdf)  /  [Rh](/docs/IUPAC/rhodium.pdf)  /  [Ru](/docs/IUPAC/rutheniumbo.pdf)  /  [Ta](/docs/IUPAC/tantalum.pdf)  /  [Te](/docs/IUPAC/tellurium.pdf)
+<a href="docs/IUPAC/gallium.pdf" target="_blank" rel="noopener">Ga</a>   /   [Ge](/docs/IUPAC/germanium.pdf)  /  [In](/docs/IUPAC/indium.pdf)  /  [Ir](/docs/IUPAC/iridium.pdf)  /  [Nb](/docs/IUPAC/niobium.pdf)  /  [Os](/docs/IUPAC/osmium.pdf)  /  [Pa](/docs/IUPAC/palladium.pdf)  /  [Pt](/docs/IUPAC/platinum.pdf)  /  [Rh](/docs/IUPAC/rhodium.pdf)  /  [Ru](/docs/IUPAC/rutheniumbo.pdf)  /  [Ta](/docs/IUPAC/tantalum.pdf)  /  [Te](/docs/IUPAC/tellurium.pdf)
