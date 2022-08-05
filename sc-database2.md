@@ -3,7 +3,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Equilibrium data</title>
+<title>SC-Database</title>
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="SC-Database" />
 <meta property="og:locale" content="en_US" />
