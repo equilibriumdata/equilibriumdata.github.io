@@ -1,10 +1,9 @@
+---
 <ul>
   <li><a href="/">Home</a></li>
   <li><a class="active" href="/">Nectar</a></li>
   <li><a href="/sc-database.html">IUPAC</a></li>
 </ul>
-
----
 title: Metal hydrolysis constants
 layout: default
 ---
