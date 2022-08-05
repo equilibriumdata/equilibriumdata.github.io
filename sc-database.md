@@ -1,3 +1,7 @@
+---
+title: SC Database
+layout: default
+---
 <ul>
   <li><a href="/">Home</a></li>
   <li><a href="/cost-nectar.html">Nectar</a></li>
