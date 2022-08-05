@@ -26,12 +26,6 @@
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
   </head>
   <body>
-     <header class="page-header" role="banner">
-      <h1 class="project-name">SC-Database</h1>
-      <h2 class="project-tagline"></h2>
-      
-      
-    </header>
  <ul>
   <li><a href="/">Home</a></li>
   <li><a href="/cost-nectar.html">Nectar</a></li>
