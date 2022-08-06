@@ -3,12 +3,13 @@ body {
   font-family: 'Lato', 'monospace';
   max-width: 70%;
   margin-left: 15%;
-  margin-right: 50%;
+  margin-right: 0%;
 }
 a { text-decoration: none; }
 
 h1 { background-color: #666666;
   text-align: center;
+  text-color: white
   padding-top: 80px;
   padding-right: 30px;
   padding-bottom: 50px;
