@@ -1,11 +1,11 @@
 ---
-title: SC Database
+title: SC-Database
 layout: default
 ---
 <ul>
   <li><a href="/">Home</a></li>
-  <li><a href="/cost-nectar.html">Nectar</a></li>
-  <li><a class="active" href="/sc-database.html">IUPAC</a></li>
+  <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
+  <li><a class="active" href="/sc-database.html">SC-Database</a></li>
 </ul>
 
 # SC-Database
