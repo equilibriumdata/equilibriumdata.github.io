@@ -7,6 +7,14 @@ body {
 }
 a { text-decoration: none; }
 
+h1 { background-color: #666666;
+  text-align: center;
+  padding-top: 80px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
