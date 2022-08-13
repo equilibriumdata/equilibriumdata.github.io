@@ -12,7 +12,7 @@ h1 { background-color: #666666;
   font-size: 3.25rem;
   font-weight: bold;
   padding-top: 50px;
-  padding-right: 10px;
+  padding-right: 0px;
   padding-bottom: 50px;
   padding-left: 10px;
 }
@@ -25,7 +25,7 @@ ul {
   background-color: #333;
   position: fixed;
   top: 0;
-  width: 80%;
+  width: 70%;
 }
 
 li {
