@@ -11,16 +11,26 @@ layout: default
 
 # Sources
 
-- [Non-critical IUPAC compilation](/cost-nectar.html)
-- [Critical IUPAC publication of equilibrium data](/cost-nectar.html)
-- [Critical IUPAC publication of solubility data](/cost-nectar.html)
-- [NBS Tables](/cost-nectar.html)
-- [CODATA](/cost-nectar.html)
-- [NIST Critically Selected Stability Constants of Metal Complexes](/cost-nectar.html)
-- [JESS](/cost-nectar.html)
-- [NEA Chemical Thermodynamics Series](/cost-nectar.html)
-- [PSI/Nagra](/cost-nectar.html)
-- [ThermoChimie](/cost-nectar.html)
-- [THEREDA](/cost-nectar.html)
+[Non-critical IUPAC compilation](/cost-nectar.html)
+
+[Critical IUPAC publication of equilibrium data](/cost-nectar.html)
+
+[Critical IUPAC publication of solubility data](/cost-nectar.html)
+
+[NBS Tables](/cost-nectar.html)
+
+[CODATA](/cost-nectar.html)
+
+[NIST Critically Selected Stability Constants of Metal Complexes](/cost-nectar.html)
+
+[JESS](/cost-nectar.html)
+
+[NEA Chemical Thermodynamics Series](/cost-nectar.html)
+
+[PSI/Nagra](/cost-nectar.html)
+
+[ThermoChimie](/cost-nectar.html)
+
+[THEREDA](/cost-nectar.html)
 
 N.B.: no hi ha introducció (seccions 1 i 2), ni last remarks o biblio
