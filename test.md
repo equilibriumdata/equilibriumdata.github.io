@@ -77,83 +77,83 @@ We will upload here the result of data queries for various chemical elements in 
   </tr>
   <tr border="1">
     <td align="center" border="1">K</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center" border="1">Ca</td>
+    <td align="center" border="1">Sc</td>
+    <td align="center" border="1">Ti</td>
+    <td align="center" border="1">V</td>
+    <td align="center" border="1">Cr</td>
+    <td align="center" border="1">Mn</td>
+    <td align="center" border="1">Fe</td>
+    <td align="center" border="1">Co</td>
+    <td align="center" border="1">Ni</td>
+    <td align="center" border="1">Cu</td>
+    <td align="center" border="1">Zn</td>
+    <td align="center" border="1">Ga</td>
+    <td align="center" border="1">Ge</td>
+    <td align="center" border="1">As</td>
+    <td align="center" border="1">Se</td>
+    <td align="center" border="1">Br</td>
+    <td align="center" border="1">KrHe</td>
+  </tr>
+  <tr>
+    <td align="center" border="1">Rb</td>
+    <td align="center" border="1">Sr</td>
+    <td align="center" border="1">Y</td>
+    <td align="center" border="1">Zr</td>
+    <td align="center" border="1">Nb</td>
+    <td align="center" border="1">Mo</td>
+    <td align="center" border="1">Tu</td>
+    <td align="center" border="1">Cr</td>
+    <td align="center" border="1">Rh</td>
+    <td align="center" border="1">Pd</td>
+    <td align="center" border="1">Ag</td>
+    <td align="center" border="1">Cd</td>
+    <td align="center" border="1">In</td>
+    <td align="center" border="1">Sn</td>
+    <td align="center" border="1">Sb</td>
+    <td align="center" border="1">Te</td>
+    <td align="center" border="1">I</td>
+    <td align="center" border="1">Xe</td>
+  </tr>
+  <tr>
+    <td align="center" border="1">H</td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
     <td align="center" border="1">He</td>
   </tr>
   <tr>
     <td align="center" border="1">H</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
+    <td align="center" border="1"></td>
     <td align="center" border="1">He</td>
-  </tr>
-  <tr>
-    <td align="center" border="1">H</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td align="center" border="1">He</td>
-  </tr>
-  <tr>
-    <td align="center" border="1">H</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>He</td>
   </tr>
 </table>
   
