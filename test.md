@@ -14,8 +14,8 @@ For many years, the International Union of Pure and Applied Chemistry (IUPAC) sp
 
 We will upload here the result of data queries for various chemical elements in pdf files.
 
-<table border="1">
-  <tr>
+<table>
+  <tr border="1">
     <td align="center" border="1">H</td>
     <td></td>
     <td></td>
@@ -35,7 +35,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td></td>
     <td align="center" border="1">He</td>
   </tr>
-  <tr>
+  <tr border="1">
     <td align="center" border="1">Li</td>
     <td align="center" border="1">Be</td>
     <td></td>
@@ -55,7 +55,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1">F</td>
     <td align="center" border="1">Ne</td>
   </tr>
-  <tr>
+  <tr border="1">
     <td align="center" border="1">Na</td>
     <td align="center" border="1">Mg</td>
     <td></td>
@@ -75,8 +75,8 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1">Cl</td>
     <td align="center" border="1">Ar</td>
   </tr>
-  <tr>
-    <td align="center" border="1">H</td>
+  <tr border="1">
+    <td align="center" border="1">K</td>
     <td></td>
     <td></td>
     <td></td>
