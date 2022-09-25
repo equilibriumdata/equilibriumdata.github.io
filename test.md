@@ -31,7 +31,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td></td>
     <td></td>
     <td></td>
-     <td></td>
+    <td></td>
     <td></td>
     <td align="center" border="1">He</td>
   </tr>
@@ -176,7 +176,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td></td>
   </tr>
   <tr>
-    <td"></td>
+    <td></td>
     <td></td>
     <td></td>
     <td align="center" border="1">Ce</td>
