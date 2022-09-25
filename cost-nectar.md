@@ -16,5 +16,5 @@ By clicking on a given element in [this table](/table.html), you can access a PD
 
 This table is a mirror of the periodic table available at the <a href="https://www.cost-nectar.eu/pages/wg1_period.html" target="_blank" rel="noopener">COST action webpage</a>.
 
-Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Galceran, Sofia Gama, Gabriele Lando, Demetrio Milea, Andrejz Mular, Michaela Rendošová, Vladimir Sladkov, Kamila Stokowa-Sołtys, Yuliya Toporivska, Zuzana Vargová, Emanuele Zanda, Veronika Zinovyeva.
+Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Galceran, Sofia Gama, Elżbieta Gumienna-Kontecka, Gabriele Lando, Demetrio Milea, Andrejz Mular, Bartosz Orzeł, Michaela Rendošová, Vladimir Sladkov, Kamila Stokowa-Sołtys, Yuliya Toporivska, Zuzana Vargová, Emanuele Zanda, Veronika Zinovyeva.
 
