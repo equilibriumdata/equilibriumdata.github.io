@@ -155,5 +155,65 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1"></td>
     <td align="center" border="1">He</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td"></td>
+    <td></td>
+    <td></td>
+    <td align="center" border="1">Ce</td>
+    <td align="center" border="1">Pr</td>
+    <td align="center" border="1">Nd</td>
+    <td align="center" border="1">Pm</td>
+    <td align="center" border="1">Sm</td>
+    <td align="center" border="1">Eu</td>
+    <td align="center" border="1">Gd</td>
+    <td align="center" border="1">Tb</td>
+    <td align="center" border="1">Dy</td>
+    <td align="center" border="1">Ho</td>
+    <td align="center" border="1">Er</td>
+    <td align="center" border="1">Tm</td>
+    <td align="center" border="1">Yb</td>
+    <td align="center" border="1">Lu</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center" border="1">Th</td>
+    <td align="center" border="1">Pa</td>
+    <td align="center" border="1">U</td>
+    <td align="center" border="1">Np</td>
+    <td align="center" border="1">Pu</td>
+    <td align="center" border="1">Am</td>
+    <td align="center" border="1">Cm</td>
+    <td align="center" border="1">Bk</td>
+    <td align="center" border="1">Cf</td>
+    <td align="center" border="1">Es</td>
+    <td align="center" border="1">Fm</td>
+    <td align="center" border="1">Md</td>
+    <td align="center" border="1">No</td>
+    <td align="center" border="1">Lr</td>
+    <td></td>
+  </tr>
 </table>
   
