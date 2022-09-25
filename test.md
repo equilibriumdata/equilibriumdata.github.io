@@ -16,7 +16,7 @@ We will upload here the result of data queries for various chemical elements in 
 
 <table border="1">
   <td>
-  <th align="center" border="1">H</th>
+    <th align="center" border="1">H</th>
     <th></th>
     <th></th>
     <th></th>
@@ -36,11 +36,8 @@ We will upload here the result of data queries for various chemical elements in 
     <th align="center" border="1">He</th>
   <td>
   <td>
-  <th align="center" border="1">H</th>
-    <th></th>
-    <th></th>
-     <th></th>
-    <th></th>
+    <th align="center" border="1">Li</th>
+    <th align="center" border="1">Be</th>
     <th></th>
     <th></th>
     <th></th>
@@ -51,9 +48,12 @@ We will upload here the result of data queries for various chemical elements in 
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
-    <th></th>
-    <th align="center" border="1">He</th>
+    <th align="center" border="1">B</th>
+    <th align="center" border="1">C</th>
+    <th align="center" border="1">N</th>
+    <th align="center" border="1">O</th>
+    <th align="center" border="1">F</th>
+    <th align="center" border="1">Ne</th>
   <td>
   <td>
   <th align="center" border="1">H</th>
