@@ -93,7 +93,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1">As</td>
     <td align="center" border="1">Se</td>
     <td align="center" border="1">Br</td>
-    <td align="center" border="1">KrHe</td>
+    <td align="center" border="1">Kr</td>
   </tr>
   <tr>
     <td align="center" border="1">Rb</td>
