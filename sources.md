@@ -4,8 +4,8 @@ layout: default
 ---
 <ul>
   <li><a href="/">Home</a></li>
-  <li><a href="/cost-nectar.md">Metal hydrolysis</a></li>
-  <li><a href="/sc-database.md">SC-Database</a></li>
+  <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
+  <li><a href="/sc-database.html">SC-Database</a></li>
   <li><a class="active" href="/sources.md">Sources</a></li>
 </ul>
 
