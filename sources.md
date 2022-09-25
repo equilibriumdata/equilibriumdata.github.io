@@ -6,7 +6,7 @@ layout: default
   <li><a href="/">Home</a></li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
   <li><a href="/sc-database.html">SC-Database</a></li>
-  <li><a class="active" href="/sources.md">Sources</a></li>
+  <li><a class="active" href="/sources.html">Sources</a></li>
 </ul>
 
 # Sources
