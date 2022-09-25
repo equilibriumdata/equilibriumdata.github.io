@@ -56,7 +56,8 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1">Ne</td>
   </tr>
   <tr>
-    <td align="center" border="1">H</td>
+    <td align="center" border="1">Na</td>
+    <td align="center" border="1">Mg</td>
     <td></td>
     <td></td>
     <td></td>
@@ -67,13 +68,12 @@ We will upload here the result of data queries for various chemical elements in 
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td align="center" border="1">He</td>
+    <td align="center" border="1">Al</td>
+    <td align="center" border="1">Si</td>
+    <td align="center" border="1">P</td>
+    <td align="center" border="1">S</td>
+    <td align="center" border="1">Cl</td>
+    <td align="center" border="1">Ar</td>
   </tr>
   <tr>
     <td align="center" border="1">H</td>
