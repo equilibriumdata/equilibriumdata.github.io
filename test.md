@@ -15,144 +15,145 @@ For many years, the International Union of Pure and Applied Chemistry (IUPAC) sp
 We will upload here the result of data queries for various chemical elements in pdf files.
 
 <table border="1">
-  <td>
-    <th align="center" border="1">H</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-     <th></th>
-    <th></th>
-    <th align="center" border="1">He</th>
-  <td>
-  <td>
-    <th align="center" border="1">Li</th>
-    <th align="center" border="1">Be</th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th align="center" border="1">B</th>
-    <th align="center" border="1">C</th>
-    <th align="center" border="1">N</th>
-    <th align="center" border="1">O</th>
-    <th align="center" border="1">F</th>
-    <th align="center" border="1">Ne</th>
-  <td>
-  <td>
-  <th align="center" border="1">H</th>
-    <th></th>
-     <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th align="center" border="1">He</th>
-  <td>
-  <td>
-  <th align="center" border="1">H</th>
-    <th></th>
-     <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th align="center" border="1">He</th>
-  <td>
-  <td>
-  <th align="center" border="1">H</th>
-    <th></th>
-    <th></th>
-     <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th align="center" border="1">He</th>
-  <td>
-  <td>
-  <th align="center" border="1">H</th>
-    <th></th>
-     <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th align="center" border="1">He</th>
-  <td>
-  <td>
-  <th align="center" border="1">H</th>
-    <th></th>
-     <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th>He</th>
-  <td>
+  <tr>
+    <td align="center" border="1">H</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+     <td></td>
+    <td></td>
+    <td align="center" border="1">He</td>
+  </tr>
+  <tr>
+    <td align="center" border="1">Li</td>
+    <td align="center" border="1">Be</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center" border="1">B</td>
+    <td align="center" border="1">C</td>
+    <td align="center" border="1">N</td>
+    <td align="center" border="1">O</td>
+    <td align="center" border="1">F</td>
+    <td align="center" border="1">Ne</td>
+  </tr>
+  <tr>
+    <td align="center" border="1">H</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center" border="1">He</td>
+  </tr>
+  <tr>
+    <td align="center" border="1">H</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center" border="1">He</td>
+  </tr>
+  <tr>
+    <td align="center" border="1">H</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center" border="1">He</td>
+  </tr>
+  <tr>
+    <td align="center" border="1">H</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center" border="1">He</td>
+  </tr>
+  <tr>
+    <td align="center" border="1">H</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>He</td>
+  </tr>
+</table>
   
