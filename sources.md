@@ -5,15 +5,14 @@ layout: default
 <ul>
   <li><a href="/">Home</a></li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
-  <li><a href="/sc-database.html">SC-Database</a></li>
-  <li><a class="active" href="/sources.html">Sources</a></li>
+  <li><a href="/sc-database.md">SC-Database</a></li>
+  <li><a class="active" href="/sources.md">Sources</a></li>
 </ul>
 
 # Sources
 
-<ul>
-  <li><a href="/">Non-critical IUPAC compilation</a></li>
-  <li><a href="/">Critical IUPAC publication of equilibrium data</a></li>
+1. [Non-critical IUPAC compilation](/cost-nectar.html)
+2. [Critical IUPAC publication of equilibrium data](/cost-nectar.html)
   <li><a href="/">Critical IUPAC publication of solubility data</a></li>
   <li><a href="/">NBS Tables</a></li>
   <li><a href="/">CODATA</a></li>
