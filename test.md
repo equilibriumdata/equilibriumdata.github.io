@@ -16,7 +16,7 @@ We will upload here the result of data queries for various chemical elements in 
 
 <table style="font-size:11px; color:black">
   <tr border="1">
-    <td align="center" border="1">H</td>
+    <td align="center" border="1" bgcolor="#ffffb3">H</td>
     <td></td>
     <td></td>
     <td></td>
@@ -33,7 +33,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1">He</td>
+    <td align="center" border="1" bgcolor="#ffffb3">He</td>
   </tr>
   <tr border="1">
     <td align="center" border="1" bgcolor="#ffffb3"><a href="docs//IUPAC/Li.pdf" target="_blank" rel="noopener">Li</a></td>
