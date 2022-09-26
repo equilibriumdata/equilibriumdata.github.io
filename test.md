@@ -15,7 +15,6 @@ For many years, the International Union of Pure and Applied Chemistry (IUPAC) sp
 We will upload here the result of data queries for various chemical elements in pdf files.
 
 <table style="font-size:9px" style="color:DarkBlue>
-  <b>
   <tr border="1">
     <td align="center" border="1">H</td>
     <td></td>
@@ -216,6 +215,4 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1">Lr</td>
     <td></td>
   </tr>
-  </b>
 </table>
-  
