@@ -4,7 +4,14 @@ layout: default
 ---
 <ul>
   <li><a href="/">Home</a></li>
-  <li><a class="active" href="/sources.html">Sources</a></li>
+  <li class="dropdown">
+    <a class="active" href="javascript:void(0)" class="dropbtn">Sources</a>
+    <div class="dropdown-content">
+      <a href="noncritical.html">Non-critical</a>
+      <a href="#">Critical equilibrium</a>
+      <a href="#">Critical solubility</a>
+    </div>
+  </li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
