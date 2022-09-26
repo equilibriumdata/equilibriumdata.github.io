@@ -102,7 +102,7 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Zr.pdf" target="_blank" rel="noopener">Zr</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Nb.pdf" target="_blank" rel="noopener">Nb</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Mo.pdf" target="_blank" rel="noopener">Mo</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Tc</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Tc.pdf" target="_blank" rel="noopener">Tc</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Cr.pdf" target="_blank" rel="noopener">Cr</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Rh.pdf" target="_blank" rel="noopener">Rh</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Pd.pdf" target="_blank" rel="noopener">Pd</a></td>
