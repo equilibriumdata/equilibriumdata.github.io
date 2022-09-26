@@ -85,7 +85,7 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Mn.pdf" target="_blank" rel="noopener">Mn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Fe.pdf" target="_blank" rel="noopener">Fe</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Co.pdf" target="_blank" rel="noopener">Co</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Ni.pdf" target="_blank" rel="noopener"Ni</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Cu.pdf" target="_blank" rel="noopener">Cu</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Ga.pdf" target="_blank" rel="noopener">Ga</a></td>
