@@ -1,5 +1,5 @@
 ---
-title: SC-Database
+title: Equilibrium data
 layout: default
 ---
 <ul>
