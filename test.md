@@ -14,7 +14,7 @@ For many years, the International Union of Pure and Applied Chemistry (IUPAC) sp
 
 Here the result of data queries for most elements in the periodic in pdf format. Still investigating how to extract protonation constants for organic ligands. Data for Cu(II), Ni and Zn are incomplete due to the limit of 4999 experiments that can be exported at once from the SC-Database. Total number of Cu(II) experiments is 10906, Ni 6750 and Zn 6107.
 
-<table style="font-size:11px; color:black"  link="black">
+<table style="font-size:11px; color:black" >
   <tr>
     <td align="center" border="1" bgcolor="#ffece6">H</td>
     <td></td>
@@ -36,7 +36,7 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td align="center" border="1" bgcolor="#ffece6">He</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Li.pdf" target="_blank" rel="noopener">Li</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Li.pdf" target="_blank" rel="noopener"  style="color: red">Li</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Be.pdf" target="_blank" rel="noopener">Be</a></td>
     <td></td>
     <td></td>
