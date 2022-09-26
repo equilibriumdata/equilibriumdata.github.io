@@ -15,7 +15,7 @@ For many years, the International Union of Pure and Applied Chemistry (IUPAC) sp
 We will upload here the result of data queries for various chemical elements in pdf files.
 
 <table style="font-size:11px; color:black">
-  <tr border="1">
+  <tr>
     <td align="center" border="1" bgcolor="#d9d9d9">H</td>
     <td></td>
     <td></td>
@@ -35,7 +35,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td></td>
     <td align="center" border="1" bgcolor="#d9d9d9">He</td>
   </tr>
-  <tr border="1">
+  <tr>
     <td align="center" border="1" bgcolor="#d9d9d9"><a href="docs//IUPAC/Li.pdf" target="_blank" rel="noopener">Li</a></td>
     <td align="center" border="1" bgcolor="#d9d9d9"><a href="docs//IUPAC/Be.pdf" target="_blank" rel="noopener">Be</a></td>
     <td></td>
