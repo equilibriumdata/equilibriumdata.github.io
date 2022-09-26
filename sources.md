@@ -1,5 +1,5 @@
 ---
-title: cosa rara
+title: Equilibrium data
 layout: default
 ---
 <ul>
