@@ -9,7 +9,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-[Critical IUPAC publication of equilibrium data])critical-equilibrium.html)
+[Critical IUPAC publication of equilibrium data](critical-equilibrium.html)
 
 # Non-critical IUPAC compilation
 
