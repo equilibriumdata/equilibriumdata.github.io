@@ -37,7 +37,7 @@ We will upload here the result of data queries for various chemical elements in 
   </tr>
   <tr border="1">
     <td align="center" border="1"><a href="docs//IUPAC/Li.pdf" target="_blank" rel="noopener">Li</a></td>
-    <td align="center" border="1">Be</td>
+    <td align="center" border="1"><a href="docs//IUPAC/Be.pdf" target="_blank" rel="noopener">Be</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -48,7 +48,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" style="color:yellow">B</td>
+    <td align="center" border="1" style="bgcolor:yellow">B</td>
     <td align="center" border="1">C</td>
     <td align="center" border="1">N</td>
     <td align="center" border="1">O</td>
