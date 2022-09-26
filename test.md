@@ -56,7 +56,7 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td align="center" border="1" bgcolor="#ffece6">Ne</td>
   </tr>
   <tr border="1">
-    <td align="center" border="1" bgcolor="#ffece6">Na</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Na.pdf" target="_blank" rel="noopener">Na</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Mg.pdf" target="_blank" rel="noopener">Mg</a></td>
     <td></td>
     <td></td>
@@ -68,7 +68,7 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6">Al</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Al.pdf" target="_blank" rel="noopener">Al</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Si.pdf" target="_blank" rel="noopener">Si</a></td>
     <td align="center" border="1" bgcolor="#ffece6">P</td>
     <td align="center" border="1" bgcolor="#ffece6">S</td>
@@ -85,13 +85,13 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Mn.pdf" target="_blank" rel="noopener">Mn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Fe.pdf" target="_blank" rel="noopener">Fe</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Co.pdf" target="_blank" rel="noopener">Co</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Ni</td>
-    <td align="center" border="1" bgcolor="#ffece6">Cu</td>
-    <td align="center" border="1" bgcolor="#ffece6">Zn</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Ni.pdf" target="_blank" rel="noopener"Ni</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Cu.pdf" target="_blank" rel="noopener">Cu</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Ga.pdf" target="_blank" rel="noopener">Ga</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Ge.pdf" target="_blank" rel="noopener">Ge</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/As.pdf" target="_blank" rel="noopener">As</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Se</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Se.pdf" target="_blank" rel="noopener">Se</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Br.pdf" target="_blank" rel="noopener">Br</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Kr</td>
   </tr>
@@ -111,7 +111,7 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/In.pdf" target="_blank" rel="noopener">In</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Sn.pdf" target="_blank" rel="noopener">Sn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Sb.pdf" target="_blank" rel="noopener">Sb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Te</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Te.pdf" target="_blank" rel="noopener">Te</a></td>
     <td align="center" border="1" bgcolor="#ffece6">I</td>
     <td align="center" border="1" bgcolor="#ffece6">Xe</td>
   </tr>
@@ -131,7 +131,7 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Tl.pdf" target="_blank" rel="noopener">Tl</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Pb.pdf" target="_blank" rel="noopener">Pb</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Bi.pdf" target="_blank" rel="noopener">Bi</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Po</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Po.pdf" target="_blank" rel="noopener">Po</a></td>
     <td align="center" border="1" bgcolor="#ffece6">At</td>
     <td align="center" border="1" bgcolor="#ffece6">Rn</td>
   </tr>
@@ -200,7 +200,7 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td></td>
     <td></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Th.pdf" target="_blank" rel="noopener">Th</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Pa</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Pa.pdf" target="_blank" rel="noopener">Pa</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/U.pdf" target="_blank" rel="noopener">U</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Np.pdf" target="_blank" rel="noopener">Np</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="docs//IUPAC/Pu.pdf" target="_blank" rel="noopener">Pu</a></td>
