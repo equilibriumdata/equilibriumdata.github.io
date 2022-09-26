@@ -1,5 +1,5 @@
 ---
-title: Non-critical IUPAC compilation
+title: Equilibrium data
 layout: default
 ---
 <ul>
