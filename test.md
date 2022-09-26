@@ -15,8 +15,8 @@ For many years, the International Union of Pure and Applied Chemistry (IUPAC) sp
 We will upload here the result of data queries for various chemical elements in pdf files.
 
 <table style="font-size:9px"; "color:black>
-  <tr border="1">
-    <td align="center" border="1">HP</td>
+  <tr border="1" style="color:black>
+    <td align="center" border="1">HPP</td>
     <td></td>
     <td></td>
     <td></td>
