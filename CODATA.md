@@ -1,5 +1,5 @@
 ---
-title: CODATA
+title: Equilibrium data
 layout: default
 ---
 <ul>
