@@ -3,8 +3,8 @@ title: Equilibrium data
 layout: default
 ---
 <ul>
-  <li><a  style="color: black" href="/">Home</a></li>
-  <li><a  style="color: black" href="/cost-nectar.html">Metal hydrolysis</a></li>
+  <li><a href="/">Home</a></li>
+  <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
   <li><a class="active" href="/sc-database.html">SC-Database</a></li>
 </ul>
 
