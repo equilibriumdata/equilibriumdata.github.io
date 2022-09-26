@@ -36,7 +36,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1">He</td>
   </tr>
   <tr border="1">
-    <td align="center" border="1">Li</td>
+    <td align="center" border="1"><a href="docs//IUPAC/Li.pdf" target="_blank" rel="noopener">Li</a></td>
     <td align="center" border="1">Be</td>
     <td></td>
     <td></td>
