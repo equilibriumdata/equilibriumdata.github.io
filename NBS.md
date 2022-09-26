@@ -1,5 +1,5 @@
 ---
-title: NBS Tables
+title: Equilibrium data
 layout: default
 ---
 <ul>
