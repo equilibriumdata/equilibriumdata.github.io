@@ -48,7 +48,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" style="color:paleyellow">B</td>
+    <td align="center" border="1" style="color:yellow">B</td>
     <td align="center" border="1">C</td>
     <td align="center" border="1">N</td>
     <td align="center" border="1">O</td>
