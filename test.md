@@ -14,9 +14,9 @@ For many years, the International Union of Pure and Applied Chemistry (IUPAC) sp
 
 We will upload here the result of data queries for various chemical elements in pdf files.
 
-<table style="font-size:9px">
-  <tr border="1" style="color:black">
-    <td align="center" border="1">HPPP</td>
+<table style="font-size:9px; color:darkblue">
+  <tr border="1">
+    <td align="center" border="1">H</td>
     <td></td>
     <td></td>
     <td></td>
@@ -116,29 +116,29 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1">Xe</td>
   </tr>
   <tr>
-    <td align="center" border="1">H</td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1">He</td>
+    <td align="center" border="1">Cs</td>
+    <td align="center" border="1">Ba</td>
+    <td align="center" border="1">La</td>
+    <td align="center" border="1">Hf</td>
+    <td align="center" border="1">Ta</td>
+    <td align="center" border="1">W</td>
+    <td align="center" border="1">Re</td>
+    <td align="center" border="1">Os</td>
+    <td align="center" border="1">Ir</td>
+    <td align="center" border="1">Pt</td>
+    <td align="center" border="1">Au</td>
+    <td align="center" border="1">Hg</td>
+    <td align="center" border="1">Tl</td>
+    <td align="center" border="1">Pb</td>
+    <td align="center" border="1">Bi</td>
+    <td align="center" border="1">Po</td>
+    <td align="center" border="1">At</td>
+    <td align="center" border="1">Rn</td>
   </tr>
   <tr>
-    <td align="center" border="1">H</td>
-    <td align="center" border="1"></td>
-    <td align="center" border="1"></td>
+    <td align="center" border="1">Fr</td>
+    <td align="center" border="1">Ra</td>
+    <td align="center" border="1">Ac</td>
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
