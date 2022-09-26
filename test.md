@@ -36,8 +36,8 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1">He</td>
   </tr>
   <tr border="1">
-    <td align="center" border="1"><a href="docs//IUPAC/Li.pdf" target="_blank" rel="noopener">Li</a></td>
-    <td align="center" border="1"><a href="docs//IUPAC/Be.pdf" target="_blank" rel="noopener">Be</a></td>
+    <td align="center" border="1" style="bgcolor:yellow"><a href="docs//IUPAC/Li.pdf" target="_blank" rel="noopener">Li</a></td>
+    <td align="center" border="1" style="bgcolor:yellow"><a href="docs//IUPAC/Be.pdf" target="_blank" rel="noopener">Be</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -48,8 +48,8 @@ We will upload here the result of data queries for various chemical elements in 
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" style="bgcolor:yellow">B</td>
-    <td align="center" border="1">C</td>
+    <td align="center" border="1" style="bgcolor:yellow"><a href="docs//IUPAC/B.pdf" target="_blank" rel="noopener">B</a></td>
+    <td align="center" border="1" style="bgcolor:yellow"><a href="docs//IUPAC/C.pdf" target="_blank" rel="noopener">C</a></td>
     <td align="center" border="1">N</td>
     <td align="center" border="1">O</td>
     <td align="center" border="1">F</td>
