@@ -4,10 +4,26 @@ layout: default
 ---
 <ul>
   <li><a href="/">Home</a></li>
-  <li><a class="active" href="/sources.html">Sources</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Sources</a>
+    <div class="dropdown-content">
+      <a href="noncritical.html">Non-critical</a>
+      <a href="critical-equilibrium.html">Critical equilibrium</a>
+      <a href="#">Critical solubility</a>
+      <a href="#">NBS</a>
+      <a href="#">CODATA</a>
+      <a href="#">NIST</a>
+      <a href="#">JESS</a>
+      <a href="#">NEA</a>
+      <a href="#">PSI/Nagra</a>
+      <a href="#">ThermoChimie</a>
+      <a href="#">THEREDA</a>
+    </div>
+  </li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
+
 
 # Critical IUPAC publication of equilibrium data
 
