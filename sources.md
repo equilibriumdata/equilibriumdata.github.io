@@ -9,15 +9,15 @@ layout: default
     <div class="dropdown-content">
       <a href="noncritical.html">Non-critical</a>
       <a href="critical-equilibrium.html">Critical equilibrium</a>
-      <a href="#">Critical solubility</a>
-      <a href="#">NBS</a>
-      <a href="#">CODATA</a>
-      <a href="#">NIST</a>
-      <a href="#">JESS</a>
-      <a href="#">NEA</a>
-      <a href="#">PSI/Nagra</a>
-      <a href="#">ThermoChimie</a>
-      <a href="#">THEREDA</a>
+      <a href="critical-solubility.html">Critical solubility</a>
+      <a href="NBS.html">NBS</a>
+      <a href="CODATA.html">CODATA</a>
+      <a href="NIST.html">NIST</a>
+      <a href="JESS.html">JESS</a>
+      <a href="NEA.html">NEA</a>
+      <a href="PSI.html">PSI/Nagra</a>
+      <a href="thermochimie.html">ThermoChimie</a>
+      <a href="THEREDA.html">THEREDA</a>
     </div>
   </li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
@@ -26,26 +26,26 @@ layout: default
 
 # Sources
 
-[Non-critical IUPAC compilation](/cost-nectar.html)
+[Non-critical IUPAC compilation](/noncritical.html)
 
-[Critical IUPAC publication of equilibrium data](/cost-nectar.html)
+[Critical IUPAC publication of equilibrium data](/critical-equilibrium.html)
 
-[Critical IUPAC publication of solubility data](/cost-nectar.html)
+[Critical IUPAC publication of solubility data](/critical-solubility.html)
 
-[NBS Tables](/cost-nectar.html)
+[NBS Tables](/NBS.html)
 
-[CODATA](/cost-nectar.html)
+[CODATA](/CODATA.html)
 
-[NIST Critically Selected Stability Constants of Metal Complexes](/cost-nectar.html)
+[NIST Critically Selected Stability Constants of Metal Complexes](/NIST.html)
 
-[JESS](/cost-nectar.html)
+[JESS](/JESS.html)
 
-[NEA Chemical Thermodynamics Series](/cost-nectar.html)
+[NEA Chemical Thermodynamics Series](/NEA.html)
 
-[PSI/Nagra](/cost-nectar.html)
+[PSI/Nagra](/PSI.html)
 
-[ThermoChimie](/cost-nectar.html)
+[ThermoChimie](/thermochimie.html)
 
-[THEREDA](/cost-nectar.html)
+[THEREDA](/THEREDA.html)
 
 N.B.: no hi ha introducció (seccions 1 i 2), ni last remarks o biblio
