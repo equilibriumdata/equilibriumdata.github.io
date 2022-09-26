@@ -212,7 +212,7 @@ We will upload here the result of data queries for various chemical elements in 
     <td align="center" border="1" style="bgcolor:yellow"><a href="docs//IUPAC/Fm.pdf" target="_blank" rel="noopener">Fm</a></td>
     <td align="center" border="1" style="bgcolor:yellow"><a href="docs//IUPAC/Md.pdf" target="_blank" rel="noopener">Md</a></td>
     <td align="center" border="1" style="bgcolor:yellow"><a href="docs//IUPAC/No.pdf" target="_blank" rel="noopener">No</a></td>
-    <td align="center" border="1" style="bgcolor:yellow"><a href="docs//IUPAC/C.pdf" target="_blank" rel="noopener">Lr</td>
+    <td align="center" border="1" style="bgcolor:yellow"><a href="docs//IUPAC/C.pdf" target="_blank" rel="noopener">Lr</a></td>
     <td></td>
   </tr>
 </table>
