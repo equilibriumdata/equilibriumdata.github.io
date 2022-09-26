@@ -1,5 +1,5 @@
 ---
-title: Critical IUPAC publication of solubility data
+title: Equilibrium data
 layout: default
 ---
 <ul>
