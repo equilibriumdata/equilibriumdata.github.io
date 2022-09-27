@@ -25,6 +25,9 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
+
+[[Critical IUPAC publication of equilibrium data](/critical-equilibrium.html)] [[NBS Tables](/NBS.html)]
+
 # Critical IUPAC publication of solubility data
 
 ## Historical
