@@ -25,6 +25,8 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
+[[Non-critical IUPAC compilation](/noncritical.html)] [[Critical IUPAC publication of solubility data](/critical-solubility.html)]
+
 # Critical IUPAC publication of equilibrium data
 
 ## Historical
