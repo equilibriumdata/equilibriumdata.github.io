@@ -40,4 +40,4 @@ The NIST database contains in total 6’166 ligands and 112’559 lines of data 
 
 ## Availability
 
-This database has been discontinued but the latest version (Version 8) can be downloaded from https://www.nist.gov/srd/nist46. It is compatible with most versions of Windows (excluding 64-bit systems).
+This database has been discontinued but the latest version (Version 8) can be <a  href="https://www.nist.gov/srd/nist46" target="_blank" rel="noopener">downloaded here</a>. It is compatible with most versions of Windows (excluding 64-bit systems).
