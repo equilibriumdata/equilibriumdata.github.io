@@ -46,4 +46,4 @@ The PSI/Nagra database relies to a large extent on the values recommended so far
 
 ## Availability
 
-The documentations of all versions of the PSI/Nagra database, including data tables, can be downloaded from the [Nagra website](https://www.nagra.ch/en). The documentation and the electronic versions of the latest update are available at the [PSI website](https://www.psi.ch/les/database).
+The documentations of all versions of the PSI/Nagra database, including data tables, can be downloaded from the <a  href="https://www.nagra.ch/en" target="_blank" rel="noopener">Nagra website</a>. The documentation and the electronic versions of the latest update are available at the <a  href="https://www.psi.ch/les/database" target="_blank" rel="noopener">PSI website</a>.
