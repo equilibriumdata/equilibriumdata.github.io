@@ -30,7 +30,7 @@ layout: default
 
 ## Historical
 
-[THEREDA](https://www.thereda.de/en/) (Thermodynamic Reference Database) is a joint project collectively planned and executed since 2006 by German and Swiss research institutions which work in the field of final disposal of radioactive waste.
+<a  href="https://www.thereda.de/en/" target="_blank" rel="noopener">THEREDA</a> (Thermodynamic Reference Database) is a joint project collectively planned and executed since 2006 by German and Swiss research institutions which work in the field of final disposal of radioactive waste.
 
 ## Scope
 
@@ -38,4 +38,4 @@ The THEREDA project is dedicated to the creation of a comprehensive, internally 
 
 ## Availability
 
-Registered users have access (free of charge) to the different releases of the database and to all references, from which the released data sets were created, via [https://www.thereda.de/en/](https://www.thereda.de/en/).
+Registered users have access (free of charge) to the different releases of the database and to all references, from which the released data sets were created, via <a  href="https://www.thereda.de/en/" target="_blank" rel="noopener">https://www.thereda.de/en/</a>.
