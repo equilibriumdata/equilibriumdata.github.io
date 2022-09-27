@@ -10,7 +10,7 @@ layout: default
       <a href="sources.html">Index</a>
       <a href="noncritical.html">Non-critical</a>
       <a href="critical-equilibrium.html">Critical equilibrium</a>
-      <a href="critical-solubility.html">Critical solubility</a>
+      <a class="active" href="critical-solubility.html">Critical solubility</a>
       <a href="NBS.html">NBS</a>
       <a href="CODATA.html">CODATA</a>
       <a href="NIST.html">NIST</a>
