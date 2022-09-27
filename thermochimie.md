@@ -30,7 +30,7 @@ layout: default
 
 ## Historical
 
-[ThermoChimie](https://www.thermochimie-tdb.com/) is a thermodynamic database created and developed by Andra, the French national radioactive waste management agency, over the last 10 years. Data acquisition is supported by an experimental program, in addition to active literature survey and the development of predictive models.
+<a  href="https://www.thermochimie-tdb.com/" target="_blank" rel="noopener">ThermoChimie</a> is a thermodynamic database created and developed by Andra, the French national radioactive waste management agency, over the last 10 years. Data acquisition is supported by an experimental program, in addition to active literature survey and the development of predictive models.
 
 ## Scope
 
@@ -39,4 +39,4 @@ ThermoChimie addresses geochemical modelling and performance assessment tasks fo
 The database contains source references for each selected equilibrium constant. However, there is no detailed documentation concerning the selection process of individual equilibrium constants.
 
 ## Availability
-There is [online access to the latest version of the database and to some general documentation](https://www.thermochimie-tdb.com/).
+There is <a  href="https://www.thermochimie-tdb.com/" target="_blank" rel="noopener">online access to the latest version of the database and to some general documentation</a>.
