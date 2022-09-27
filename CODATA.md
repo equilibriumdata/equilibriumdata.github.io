@@ -52,7 +52,7 @@ The work of Parker and Khodakovskii (1995) has later been used in the NEA TDB re
 
 ## Scope
 
-Values for the standard molar enthalpy of formation, &#916;<sub>f</sub>H<sub>m</sub>&deg; [kJ&middot;mol<sup>-1</sup>], and the standard molar entropy, S<sub>m<sub>&deg; [J&middot;K<sup>-1</sup>&middot;mol<sup>-1</sup>], are tabulated in *CODATA Key Values for Thermodynamics* (Cox et al. 1989) for 151 gaseous, liquid, and crystalline substances, and for basic aqueous species. 
+Values for the standard molar enthalpy of formation, &#916;<sub>f</sub>H<sub>m</sub>&deg; [kJ&middot;mol<sup>-1</sup>], and the standard molar entropy, S<sub>m</sub>&deg; [J&middot;K<sup>-1</sup>&middot;mol<sup>-1</sup>], are tabulated in *CODATA Key Values for Thermodynamics* (Cox et al. 1989) for 151 gaseous, liquid, and crystalline substances, and for basic aqueous species. 
 
 ## Availability
 
