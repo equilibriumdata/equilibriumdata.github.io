@@ -40,10 +40,10 @@ Unfortunately, none of these envisioned reports ever appeared. Consequently, val
 
 ## Scope
 
-Values for the Gibbs free energy of formation, fGm, the standard molar enthalpy of formation, fHm, and the standard molar entropy, Sm, are given for gaseous, liquid, and crystalline substances, for solutions in water, and for mixed aqueous and organic solutions. Values are not given for alloys or other solid solutions, fused salts or for substances of undefined composition. Compounds of the transuranium elements are not included.
+Values for the Gibbs free energy of formation, fGm&deg;, the standard molar enthalpy of formation, fHm, and the standard molar entropy, Sm, are given for gaseous, liquid, and crystalline substances, for solutions in water, and for mixed aqueous and organic solutions. Values are not given for alloys or other solid solutions, fused salts or for substances of undefined composition. Compounds of the transuranium elements are not included.
 
 Wagman et al. (1982) list 26’000 values for the chemical thermodynamic properties of 14’300 substances, counting separately the same compound in different phases and at different concentrations. Enthalpies of formation at 298.15 K dominate with 12’800 entries, with 4’400 values for Gibbs energies and 3’600 for entropies. Wagman et al. (1982) estimate that 60’000 references were used in the development of the tables, and that these produced 180’000 cards in their index to thermodynamic measurements.
 
 ## Availability
 
-The values of the NBS tables are still in widespread use in thermodynamic databases. The original publication (Wagman et al. 1982), a supplement to the Journal of Physical and Chemical Reference Data, is now available online: https://www.nist.gov/srd/journal-physical-and-chemical-reference-data-monographs-or-supplements
+The values of the NBS tables are still in widespread use in thermodynamic databases. <a  href="https://www.nist.gov/srd/journal-physical-and-chemical-reference-data-monographs-or-supplements" target="_blank" rel="noopener">The original publication</a> (Wagman et al. 1982), a supplement to the Journal of Physical and Chemical Reference Data, is now available online.
