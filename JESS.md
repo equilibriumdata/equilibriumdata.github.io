@@ -14,7 +14,7 @@ layout: default
       <a href="NBS.html">NBS</a>
       <a href="CODATA.html">CODATA</a>
       <a href="NIST.html">NIST</a>
-      <a href="JESS.html">JESS</a>
+      <a class="active" href="JESS.html">JESS</a>
       <a href="NEA.html">NEA</a>
       <a href="PSI.html">PSI/Nagra</a>
       <a href="thermochimie.html">ThermoChimie</a>
