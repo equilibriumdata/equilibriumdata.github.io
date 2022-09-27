@@ -38,6 +38,6 @@ Thirteen volumes of the Chemical Thermodynamics Series have been produced so far
 
 ## Availability
 
-All volumes in the series can be downloaded from the <a  href="(https://www.oecd-nea.org/dbtdb/info/publications" target="_blank" rel="noopener">NEA website</a>. Note that Bruno et al. (2007) is a “state-of-the-art” report on solid solutions and does not contain any thermodynamic data.
+All volumes in the series can be downloaded from the <a  href="https://www.oecd-nea.org/dbtdb/info/publications" target="_blank" rel="noopener">NEA website</a>. Note that Bruno et al. (2007) is a “state-of-the-art” report on solid solutions and does not contain any thermodynamic data.
 
 A new interactive TDB electronic database is now available. Registration with the NEA is required in order to obtain access. The content of the e-TDB includes (a) all recommended thermodynamic data of the 12 Chemical Thermodynamic Series volumes, (b) a PHREEQC formatted database file, ready to download and use, and (c) searchable information on all the bibliographic references that have been used in the TDB published material. 
