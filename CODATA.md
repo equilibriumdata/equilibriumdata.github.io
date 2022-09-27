@@ -30,7 +30,7 @@ layout: default
 
 ## Historical
 
-CODATA (Committee on Data for Science and Technology, http://www.codata.org/) had in the past several task groups working on thermodynamic data. The task group on Key Values for Thermodynamics was a success story, while the other task groups (Chemical Thermodynamic Tables, Geothermodynamic Data, Thermodynamic Data for Key Chemical Substances) were failures (Lide and Wood 2012).
+<a  href="http://www.codata.org/" target="_blank" rel="noopener">CODATA</a> (Committee on Data for Science and Technology) had in the past several task groups working on thermodynamic data. The task group on Key Values for Thermodynamics was a success story, while the other task groups (Chemical Thermodynamic Tables, Geothermodynamic Data, Thermodynamic Data for Key Chemical Substances) were failures (Lide and Wood 2012).
 
 **Task Group on Key Values for Thermodynamics** – Beginning in 1968, most of the data evaluation in this task group was performed in collaboration between the NBS (now NIST) in Washington and the Institute for High Temperatures in Moscow. Two comprehensive sets of recommended values were published during the first decade (CODATA Bulletin No. 10 in 1973 and CODATA Bulletin No. 28 in 1978). The group continued to work for another decade, culminating in the publication of CODATA Key Values for Thermodynamics (Cox et al. 1989). The final results covered 151 key chemical species and included extensive documentation of the data analysis.
 
@@ -55,4 +55,5 @@ The work of Parker and Khodakovskii (1995) has later been used in the NEA TDB re
 Values for the standard molar enthalpy of formation, fHm [kJmol-1], and the standard molar entropy, Sm [JK-1mol-1], are tabulated in *CODATA Key Values for Thermodynamics* (Cox et al. 1989) for 151 gaseous, liquid, and crystalline substances, and for basic aqueous species. 
 
 ## Availability
-The book *CODATA Key Values for Thermodynamics* (Cox et al. 1989) is still available. Furthermore, all CODATA key values, and the Gibbs free energy of formation values, fGm, calculated there  from, are included as auxiliary data in all NEA TDB volumes, e.g. Lemire et al. (2013), which are free for download: https://www.oecd-nea.org/dbtdb/info/publications/
+
+The book *CODATA Key Values for Thermodynamics* (Cox et al. 1989) is still available. Furthermore, all CODATA key values, and the Gibbs free energy of formation values, &#916;<sub>f</sub>G<sub>m</sub>&deg;, calculated there  from, are included as auxiliary data in all NEA TDB volumes, e.g. Lemire et al. (2013), which are <a  href="https://www.oecd-nea.org/dbtdb/info/publications/" target="_blank" rel="noopener">free for download</a>.
