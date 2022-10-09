@@ -48,5 +48,3 @@ layout: default
 [ThermoChimie](/thermochimie.html)
 
 [THEREDA](/THEREDA.html)
-
-N.B.: no hi ha introducció (seccions 1 i 2), ni last remarks o biblio
