@@ -56,11 +56,18 @@ List of published surveys :
 | Nucleotide complexes      | Smith et al. (1991)       |
 | Glycines   | Kiss et al. (1991)        |
 | Alanine, Valine, Leucine      | Sovágó et al. (1993)       |
-| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
-| EDTA      | Title       |
-| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
-| EDTA      | Title       |
-| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
+| Cysteine, Cystine, Methionine, Serine, Threonine, Asparagine, Glutamine   | Berthon (1995)        |
+| Agrinine, Lysine, Ornithine      | Yamauchi and Odani (1996)       |
+| Salicylic acid and other aromatic hydroxycarboxylic acids   | Lajunen et al. (1997)        |
+| Phosphonic acids      | Ρopov et al. (2001)       |
+| Crown ethers   | Arnaud-Neu et al. (2003)        |
+| Aliphatic hydroxo-acids      | Portanova et al. (2003)       |
+| IDA, MIDA, DTPA, TTHA, DOTA, NOTA, TETA   | Anderegg et al. (2005)        |
+| Hg2+ + OH–, Cl–, CO32–, SO42–, and PO43–      | Powell et al. (2005)       |
+| Cu2+ + OH–, Cl–, CO32–, SO42–, and PO43–   | Powell et al. (2007)        |
+| Pb2+ + OH–, Cl–, CO32–, SO42–, and PO43–      | Powell et al. (2009)       |
+| Cd2+ + OH–, Cl–, CO32–, SO42–, and PO43–   | Powell et al. (2011)        |
+| Zn2+ + OH–, Cl–, CO32–, SO42–, and PO43–      | Powell et al. (2013)       |
 
 
 The recent reviews have been prepared by the same group of experts scrutinising data reported in the SC-Database. Detailed discussions of the pros and cons of each decision in the selection of the recommended constants from the literature values are given in each report.
