@@ -69,7 +69,7 @@ List of published surveys :
 | Cd<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>   | Powell et al. (2011)        |
 | Zn<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | Powell et al. (2013)       |
 
-[^a] Abbreviations: MIDA - Methyliminodiacetic acid; TTHA - Triethylenetetraminehexaacetic acid; NOTA - 1,4,7-Triazacyclononane-N,N',N''-triacetic acid; TETA -Triethylenetetramine; DOTA - 1,4,7,10-Tetraazacyclododecane-1,4,7,10-tetraacetic acid.
+[^a]: Abbreviations: MIDA - Methyliminodiacetic acid; TTHA - Triethylenetetraminehexaacetic acid; NOTA - 1,4,7-Triazacyclononane-N,N',N''-triacetic acid; TETA -Triethylenetetramine; DOTA - 1,4,7,10-Tetraazacyclododecane-1,4,7,10-tetraacetic acid.
 
 The recent reviews have been prepared by the same group of experts scrutinising data reported in the SC-Database. Detailed discussions of the pros and cons of each decision in the selection of the recommended constants from the literature values are given in each report.
 
