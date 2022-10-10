@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-[[ThermoChimie](/thermochimie.html)]
+[[ThermoChimie](thermochimie.html)]
 
 # THEREDA
 
