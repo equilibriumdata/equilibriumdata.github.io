@@ -47,10 +47,10 @@ List of published surveys :
 | 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | [McBryde (1978)](https://www.elsevier.com/books/a-critical-review-of-equilibrium-data-for-proton-and-metal-complexes-of-1-10-phenanthroline-2-2-bipyridyl-and-related-compounds/mcbryde/978-0-08-022344-5)        |
 | 8-hydroxyquinoline      | [Starý et al. (1979)](https://www.elsevier.com/books/critical-evaluation-of-equilibrium-constants-involving-8-hydroxyquinoline-and-its-metal-chelates/stary/978-0-08-023929-3)       |
 | Fluoride   | [Bond and Hefter (1980)](https://www.elsevier.com/books/critical-survey-of-stability-constants-and-related-thermodynamic-data-of-fluoride-complexes-in-aqueous-solution/bond/978-0-08-022377-3)        |
-| Acetylacetone      | Starý and Lijenzin (1982)       |
-| NTA   | Anderegg (1982)        |
-| Indium      | Tuck (1983)       |
-| Histidine, phenylalanine, tyrosine, L-DOPA and tryptophan   | Pettit (1984)        |
+| Acetylacetone      | [Starý and Lijenzin (1982)](https://www.degruyter.com/document/doi/10.1351/pac198254122557)       |
+| NTA   | [Anderegg (1982)](https://www.degruyter.com/document/doi/10.1351/pac198254122693/html)        |
+| Indium      | [Tuck (1983)](https://doi.org/10.1351/pac198355091477)       |
+| Histidine, phenylalanine, tyrosine, L-DOPA and tryptophan   | [Pettit (1984)](http://dx.doi.org/10.1351/pac198456020247)        |
 | Ethylenediamine      | Paoletti (1984)       |
 | Cyano complexes   | Beck (1987)        |
 | Nucleotide complexes      | Smith et al. (1991)       |
