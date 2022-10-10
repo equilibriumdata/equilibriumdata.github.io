@@ -26,7 +26,7 @@ layout: default
 </ul>
 
 
-[[Critical IUPAC publication of equilibrium data](/critical-equilibrium.html)] [[NBS Tables](/NBS.html)]
+[[Critical IUPAC publication of equilibrium data](critical-equilibrium.html)] [[NBS Tables](NBS.html)]
 
 # Critical IUPAC publication of solubility data
 
