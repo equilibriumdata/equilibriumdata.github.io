@@ -65,7 +65,7 @@ List of all references of interest for the reader.
 | Rare earth metal iodides and bromides in water and aqueous systems. Part 2. Bromides |	[Mioduski et al. (2013)]( https://doi.org/10.1063/1.4766752) |
 | Alkaline earth carbonates in aqueous systems. Part 1. Introduction, Be and Mg |	[De Visscher et al. (2012)](https://doi.org/10.1063/1.3675992) |
 | Alkaline earth carbonates in aqueous systems. Part 2. Ca |	[De Visscher and Vanderdeelen (2012)](https://doi.org/10.1063/1.4704138) |
-| Rare earth metal fluorides in water and aqueous systems. Part 1. Scandium group (Sc, Y, La) |	[Mioduski et al. (2014)](doi: 10.1063/1.4866773) |
+| Rare earth metal fluorides in water and aqueous systems. Part 1. Scandium group (Sc, Y, La) |	[Mioduski et al. (2014)]([doi: ](https://doi.org/10.1063/1.4866773) |
 | Rare earth metal fluorides in water and aqueous systems. Part 2. Light lanthanides (Ce–Eu) |	[Mioduski et al. (2014)](https://doi.org/10.1063/1.4903362) |
 | Rare earth metal fluorides in water and aqueous systems. Part 3. Heavy lanthanides (Gd–Lu) |	[Mioduski et al. (2015)](https://doi.org/10.1063/1.4918371) |
 | Alkali metal nitrates. Part 2. Sodium nitrate |	[Eysseltová et al. (2017)](https://doi.org/10.1063/1.4972807) |
