@@ -5,9 +5,9 @@ layout: default
 <ul>
   <li><a href="/">Home</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Sources</a>
+    <a href="javascript:void(0)" class="dropbtn" class="active">Guide</a>
     <div class="dropdown-content">
-      <a href="sources.html">Index</a>
+      <a href="index.html">Index</a>
       <a class="active" href="noncritical.html">Non-critical</a>
       <a href="critical-equilibrium.html">Critical equilibrium</a>
       <a href="critical-solubility.html">Critical solubility</a>
