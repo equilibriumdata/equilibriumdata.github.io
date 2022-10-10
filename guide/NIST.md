@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-[[CODATA](/CODATA.html)] [[JESS](/JESS.html)]
+[[CODATA](CODATA.html)] [[JESS](JESS.html)]
 
 
 # NIST Critically Selected Stability Constants of Metal Complexes
