@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-[[PSI/Nagra](/PSI.html)] [[THEREDA](/THEREDA.html)]
+[[PSI/Nagra](PSI.html)] [[THEREDA](THEREDA.html)]
 
 # ThermoChimie
 
