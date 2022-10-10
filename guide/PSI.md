@@ -7,7 +7,7 @@ layout: default
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Sources</a>
     <div class="dropdown-content">
-      <a href="sources.html">Index</a>
+      <a href="index.html">Index</a>
       <a href="noncritical.html">Non-critical</a>
       <a href="critical-equilibrium.html">Critical equilibrium</a>
       <a href="critical-solubility.html">Critical solubility</a>
