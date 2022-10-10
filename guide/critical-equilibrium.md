@@ -42,24 +42,26 @@ More recently, criteria have been modified and literature data have been accepte
 List of published surveys :
 
 | Ligand or system      | Reference |
-| ----------- | ----------- |
+| ----------------      | --------- |
+| EDTA      | Anderegg (1977)       |
+| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | McBryde (1978)        |
+| 8-hydroxyquinoline      | Starý et al. (1979)       |
+| Fluoride   | Bond and Hefter (1980)        |
+| Acetylacetone      | Starý and Lijenzin (1982)       |
+| NTA   | Anderegg (1982)        |
+| Indium      | Tuck (1983)       |
+| Histidine, phenylalanine, tyrosine, L-DOPA and tryptophan   | Pettit (1984)        |
+| Ethylenediamine      | Paoletti (1984)       |
+| Cyano complexes   | Beck (1987)        |
+| Nucleotide complexes      | Smith et al. (1991)       |
+| Glycines   | Kiss et al. (1991)        |
+| Alanine, Valine, Leucine      | Sovágó et al. (1993)       |
+| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
 | EDTA      | Title       |
 | 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
-| 8-hydroxyquinoline      | Title       |
-| Fluoride   | Text        |
-| Acetylacetone      | Title       |
-| NTA   | Text        |
 | EDTA      | Title       |
 | 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
-| EDTA      | Title       |
-| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
-| EDTA      | Title       |
-| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
-| EDTA      | Title       |
-| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
-xxx
-xxx
-xxx
+
 
 The recent reviews have been prepared by the same group of experts scrutinising data reported in the SC-Database. Detailed discussions of the pros and cons of each decision in the selection of the recommended constants from the literature values are given in each report.
 
