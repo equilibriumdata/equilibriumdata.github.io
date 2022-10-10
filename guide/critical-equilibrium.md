@@ -63,11 +63,11 @@ List of published surveys :
 | Crown ethers   | Arnaud-Neu et al. (2003)        |
 | Aliphatic hydroxo-acids      | Portanova et al. (2003)       |
 | IDA, MIDA, DTPA, TTHA, DOTA, NOTA, TETA   | Anderegg et al. (2005)        |
-| Hg2+ + OH–, Cl–, CO32–, SO42–, and PO43–      | Powell et al. (2005)       |
-| Cu2+ + OH–, Cl–, CO32–, SO42–, and PO43–   | Powell et al. (2007)        |
-| Pb2+ + OH–, Cl–, CO32–, SO42–, and PO43–      | Powell et al. (2009)       |
-| Cd2+ + OH–, Cl–, CO32–, SO42–, and PO43–   | Powell et al. (2011)        |
-| Zn2+ + OH–, Cl–, CO32–, SO42–, and PO43–      | Powell et al. (2013)       |
+| Hg<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | Powell et al. (2005)       |
+| Cu<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>   | Powell et al. (2007)        |
+| Pb<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | Powell et al. (2009)       |
+| Cd<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>   | Powell et al. (2011)        |
+| Zn<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | Powell et al. (2013)       |
 
 [^a] Abbreviations: MIDA - Methyliminodiacetic acid; TTHA - Triethylenetetraminehexaacetic acid; NOTA - 1,4,7-Triazacyclononane-N,N',N''-triacetic acid; TETA -Triethylenetetramine; DOTA - 1,4,7,10-Tetraazacyclododecane-1,4,7,10-tetraacetic acid.
 
