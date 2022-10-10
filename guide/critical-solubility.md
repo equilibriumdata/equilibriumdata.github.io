@@ -42,6 +42,35 @@ The IUPAC Solubility Data Project (SDP) has as its aim a comprehensive review of
 
 List of all references of interest for the reader.
 
+| System      | Reference |
+| -----------------    | ------------  |
+| Scandium, yttrium, lanthanum and lanthanide nitrates      | Siekierski et al. (1983) |
+| Alkaline earth metal halates      | Miyamoto et al. (1983) |
+| Copper, silver, gold and zinc, cadmium, mercury oxides and hydroxides      | Dirkse (1986) |
+| Sulfites, selenites and tellurites      | Masson et al. (1986) |
+| Alkali metal orthophosphates   |	Eysseltova and Dirkse (1988) |
+| Hydrogen sulfide, deuterium sulfide and hydrogen selenide   |	Fogg and Young (1988) |
+|Copper and silver halates  |	Miyamoto et al. (1990) |
+| Alkaline earth hydroxides in water and aqueous solutions	 |  Lambert and Clever (1992) |
+| Copper(I) halides and pseudohalides |	Fritz and Koenigsberger (1996) |
+| Ammonium phosphates |	Eysseltova and Dirkse (1998) |
+| Solubility of inorganic actinide compounds |	Hala and Miyamoto (2007) |
+| Rare earth metal chlorides in water and aqueous systems. Part 1. Scandium group (Sc, Y, La) |	Mioduski et al. (2008) |
+| Rare earth metal chlorides in water and aqueous systems. Part 2. Light lanthanides (Ce-Eu) |	Mioduskia et al. (2009|
+| Rare earth metal chlorides in water and aqueous systems. Part 3. Heavy lanthanides (Gd-Lu) |	Mioduski et al. (2009) |
+| Alkali metal nitrates. Part 1. Lithium nitrate |	Eysseltová and Orlova (2010) |
+| Metal carbonates. Part 1. Solubility and related thermodynamic quantities of cadmium(II) carbonate in aqueous systems |	Gamsjäger et al. (2011) |
+| Potassium sulfate in water |	Eysseltová and Bouaziz (2012) |
+| Rare earth metal iodides and bromides in water and aqueous systems. Part 1. Iodides |	Mioduski et al. (2012) |
+| Rare earth metal iodides and bromides in water and aqueous systems. Part 2. Bromides |	Mioduski et al. (2013) |
+| Alkaline earth carbonates in aqueous systems. Part 1. Introduction, Be and Mg |	De Visscher et al. (2012) |
+| Alkaline earth carbonates in aqueous systems. Part 2. Ca |	De Visscher and Vanderdeelen (2012) |
+| Rare earth metal fluorides in water and aqueous systems. Part 1. Scandium group (Sc, Y, La) |	Mioduski et al. (2014) |
+| Rare earth metal fluorides in water and aqueous systems. Part 2. Light lanthanides (Ce–Eu) |	Mioduski et al. (2014) |
+| Rare earth metal fluorides in water and aqueous systems. Part 3. Heavy lanthanides (Gd–Lu) |	Mioduski et al. (2015) |
+| Alkali metal nitrates. Part 2. Sodium nitrate |	Eysseltová et al. (2017) |
+| Lithium sulfate and its double salts in aqueous solutions |	Sohr et al. (2017) |
+
 ## Availability
 
 The list of all solubility volumes is available <a  href="https://srdata.nist.gov/solubility/IUPAC/iupac.aspx" target="_blank" rel="noopener">here</a>. Volumes 66-102 are available at the Journal of Physical and Chemical Reference Data and thus at a cost. The original volumes were scanned by NIST into PDF files and digitized. Table of Contents are provided for Volumes 20-40, providing a description of the organization of each of the volumes. These volumes are available in sections. 
