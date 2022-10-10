@@ -40,6 +40,23 @@ More recently, criteria have been modified and literature data have been accepte
 ## Scope
 
 List of published surveys :
+
+| Ligand or system      | Reference |
+| ----------- | ----------- |
+| EDTA      | Title       |
+| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
+| 8-hydroxyquinoline      | Title       |
+| Fluoride   | Text        |
+| Acetylacetone      | Title       |
+| NTA   | Text        |
+| EDTA      | Title       |
+| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
+| EDTA      | Title       |
+| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
+| EDTA      | Title       |
+| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
+| EDTA      | Title       |
+| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | Text        |
 xxx
 xxx
 xxx
