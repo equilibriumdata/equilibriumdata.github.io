@@ -44,16 +44,16 @@ List of all references of interest for the reader.
 
 | System      | Reference |
 | -----------------    | ------------  |
-| Scandium, yttrium, lanthanum and lanthanide nitrates      | Siekierski et al. (1983) |
-| Alkaline earth metal halates      | Miyamoto et al. (1983) |
-| Copper, silver, gold and zinc, cadmium, mercury oxides and hydroxides      | Dirkse (1986) |
-| Sulfites, selenites and tellurites      | Masson et al. (1986) |
-| Alkali metal orthophosphates   |	Eysseltova and Dirkse (1988) |
-| Hydrogen sulfide, deuterium sulfide and hydrogen selenide   |	Fogg and Young (1988) |
-|Copper and silver halates  |	Miyamoto et al. (1990) |
-| Alkaline earth hydroxides in water and aqueous solutions	 |  Lambert and Clever (1992) |
-| Copper(I) halides and pseudohalides |	Fritz and Koenigsberger (1996) |
-| Ammonium phosphates |	Eysseltova and Dirkse (1998) |
+| Scandium, yttrium, lanthanum and lanthanide nitrates  | [Siekierski et al. (1983)](https://srdata.nist.gov/solubility/IUPAC/SDS-13/SDS-13.pdf ) |
+| Alkaline earth metal halates  | [Miyamoto et al. (1983)](https://srdata.nist.gov/solubility/IUPAC/SDS-14/SDS-14.pdf) |
+| Copper, silver, gold and zinc, cadmium, mercury oxides and hydroxides  | [](https://srdata.nist.gov/solubility/IUPAC/SDS-23/SDS-23.aspx) |
+| Sulfites, selenites and tellurites      | [Masson et al. (1986)](https://srdata.nist.gov/solubility/IUPAC/SDS-26/SDS-26.aspx) |
+| Alkali metal orthophosphates   |	[Eysseltova and Dirkse (1988)](https://srdata.nist.gov/solubility/IUPAC/SDS-31/SDS-31.aspx) |
+| Hydrogen sulfide, deuterium sulfide and hydrogen selenide   |	[Fogg and Young (1988)](https://srdata.nist.gov/solubility/IUPAC/SDS-32/SDS-32.aspx) |
+|Copper and silver halates  |	[Miyamoto et al. (1990)](https://srdata.nist.gov/solubility/IUPAC/SDS-44/SDS-44.pdf) |
+| Alkaline earth hydroxides in water and aqueous solutions	 |  [Lambert and Clever (1992)](https://srdata.nist.gov/solubility/IUPAC/SDS-52/SDS-52.pdf) |
+| Copper(I) halides and pseudohalides |	[Fritz and Koenigsberger (1996)](https://srdata.nist.gov/solubility/IUPAC/SDS-65/SDS-65.pdf ) |
+| Ammonium phosphates |	[Eysseltova and Dirkse (1998)](https://aip.scitation.org/doi/10.1063/1.556030) |
 | Solubility of inorganic actinide compounds |	Hala and Miyamoto (2007) |
 | Rare earth metal chlorides in water and aqueous systems. Part 1. Scandium group (Sc, Y, La) |	Mioduski et al. (2008) |
 | Rare earth metal chlorides in water and aqueous systems. Part 2. Light lanthanides (Ce-Eu) |	Mioduskia et al. (2009|
