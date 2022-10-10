@@ -58,16 +58,16 @@ List of published surveys :
 | Alanine, Valine, Leucine      | [Sovágó et al. (1993)](https://doi.org/10.1351/pac199365051029)       |
 | Cysteine, Cystine, Methionine, Serine, Threonine, Asparagine, Glutamine   | [Berthon (1995)](http://dx.doi.org/10.1351/pac199567071117)        |
 | Agrinine, Lysine, Ornithine      | [Yamauchi and Odani (1996)](http://dx.doi.org/10.1351/pac199668020469)       |
-| Salicylic acid and other aromatic hydroxycarboxylic acids   | Lajunen et al. (1997)        |
-| Phosphonic acids      | Ρopov et al. (2001)       |
-| Crown ethers   | Arnaud-Neu et al. (2003)        |
-| Aliphatic hydroxo-acids      | Portanova et al. (2003)       |
-| IDA, MIDA, DTPA, TTHA, DOTA, NOTA, TETA   | Anderegg et al. (2005)        |
-| Hg<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | Powell et al. (2005)       |
-| Cu<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>   | Powell et al. (2007)        |
-| Pb<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | Powell et al. (2009)       |
-| Cd<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>   | Powell et al. (2011)        |
-| Zn<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | Powell et al. (2013)       |
+| Salicylic acid and other aromatic hydroxycarboxylic acids   | [Lajunen et al. (1997)](http://dx.doi.org/10.1351/pac199769020329)        |
+| Phosphonic acids      | [Ρopov et al. (2001)](http://dx.doi.org/10.1351/pac200173101641)       |
+| Crown ethers   | [Arnaud-Neu et al. (2003)](doi: 10.1351/pac200375010071)        |
+| Aliphatic hydroxo-acids      | [Portanova et al. (2003)](https://doi.org/10.1351/pac200375040495)       |
+| IDA, MIDA, DTPA, TTHA, DOTA, NOTA, TETA   | [Anderegg et al. (2005)]( http://dx.doi.org/10.1351/pac200577081445)        |
+| Hg<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | [Powell et al. (2005)](doi:10.1351/pac200577040739)       |
+| Cu<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>   | [Powell et al. (2007)](http://dx.doi.org/10.1351/pac200779050895)        |
+| Pb<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | [Powell et al. (2009)](http://dx.doi.org/10.1351/PAC-REP-09-03-05)       |
+| Cd<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>   | [Powell et al. (2011)](http://dx.doi.org/10.1351/PAC-REP-10-08-09)        |
+| Zn<sup>2+</sup> + OH<sup>-</sup>, Cl<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, and PO<sub>4</sub><sup>3-</sup>      | [Powell et al. (2013)](http://dx.doi.org/10.1351/PAC-REP-13-06-03)       |
 
 [^a]: Abbreviations: MIDA - Methyliminodiacetic acid; TTHA - Triethylenetetraminehexaacetic acid; NOTA - 1,4,7-Triazacyclononane-N,N',N''-triacetic acid; TETA -Triethylenetetramine; DOTA - 1,4,7,10-Tetraazacyclododecane-1,4,7,10-tetraacetic acid.
 
