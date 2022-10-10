@@ -54,22 +54,22 @@ List of all references of interest for the reader.
 | Alkaline earth hydroxides in water and aqueous solutions	 |  [Lambert and Clever (1992)](https://srdata.nist.gov/solubility/IUPAC/SDS-52/SDS-52.pdf) |
 | Copper(I) halides and pseudohalides |	[Fritz and Koenigsberger (1996)](https://srdata.nist.gov/solubility/IUPAC/SDS-65/SDS-65.pdf ) |
 | Ammonium phosphates |	[Eysseltova and Dirkse (1998)](https://aip.scitation.org/doi/10.1063/1.556030) |
-| Solubility of inorganic actinide compounds |	Hala and Miyamoto (2007) |
-| Rare earth metal chlorides in water and aqueous systems. Part 1. Scandium group (Sc, Y, La) |	Mioduski et al. (2008) |
-| Rare earth metal chlorides in water and aqueous systems. Part 2. Light lanthanides (Ce-Eu) |	Mioduskia et al. (2009|
-| Rare earth metal chlorides in water and aqueous systems. Part 3. Heavy lanthanides (Gd-Lu) |	Mioduski et al. (2009) |
-| Alkali metal nitrates. Part 1. Lithium nitrate |	Eysseltová and Orlova (2010) |
-| Metal carbonates. Part 1. Solubility and related thermodynamic quantities of cadmium(II) carbonate in aqueous systems |	Gamsjäger et al. (2011) |
-| Potassium sulfate in water |	Eysseltová and Bouaziz (2012) |
-| Rare earth metal iodides and bromides in water and aqueous systems. Part 1. Iodides |	Mioduski et al. (2012) |
-| Rare earth metal iodides and bromides in water and aqueous systems. Part 2. Bromides |	Mioduski et al. (2013) |
-| Alkaline earth carbonates in aqueous systems. Part 1. Introduction, Be and Mg |	De Visscher et al. (2012) |
-| Alkaline earth carbonates in aqueous systems. Part 2. Ca |	De Visscher and Vanderdeelen (2012) |
-| Rare earth metal fluorides in water and aqueous systems. Part 1. Scandium group (Sc, Y, La) |	Mioduski et al. (2014) |
-| Rare earth metal fluorides in water and aqueous systems. Part 2. Light lanthanides (Ce–Eu) |	Mioduski et al. (2014) |
-| Rare earth metal fluorides in water and aqueous systems. Part 3. Heavy lanthanides (Gd–Lu) |	Mioduski et al. (2015) |
-| Alkali metal nitrates. Part 2. Sodium nitrate |	Eysseltová et al. (2017) |
-| Lithium sulfate and its double salts in aqueous solutions |	Sohr et al. (2017) |
+| Solubility of inorganic actinide compounds |	[Hála and Miyamoto (2007)](https://doi.org/10.1063/1.2741386) |
+| Rare earth metal chlorides in water and aqueous systems. Part 1. Scandium group (Sc, Y, La) |	[Mioduski et al. (2008)]( https://doi.org/10.1063/1.2956740) |
+| Rare earth metal chlorides in water and aqueous systems. Part 2. Light lanthanides (Ce-Eu) |	[Mioduskia et al. (2009](https://doi.org/10.1063/1.3112775) |
+| Rare earth metal chlorides in water and aqueous systems. Part 3. Heavy lanthanides (Gd-Lu) |	[Mioduski et al. (2009)](https://doi.org/10.1063/1.3212962) |
+| Alkali metal nitrates. Part 1. Lithium nitrate |	[Eysseltová and Orlova (2010)](https://doi.org/10.1063/1.3437029) |
+| Metal carbonates. Part 1. Solubility and related thermodynamic quantities of cadmium(II) carbonate in aqueous systems |	[Gamsjäger et al. (2011)](http://dx.doi.org/10.1063/1.3645087) |
+| Potassium sulfate in water |	[Eysseltová and Bouaziz (2012)](https://doi.org/10.1063/1.3679678) |
+| Rare earth metal iodides and bromides in water and aqueous systems. Part 1. Iodides |	[Mioduski et al. (2012)](https://doi.org/10.1063/1.3682093) |
+| Rare earth metal iodides and bromides in water and aqueous systems. Part 2. Bromides |	[Mioduski et al. (2013)]( https://doi.org/10.1063/1.4766752) |
+| Alkaline earth carbonates in aqueous systems. Part 1. Introduction, Be and Mg |	[De Visscher et al. (2012)](https://doi.org/10.1063/1.3675992) |
+| Alkaline earth carbonates in aqueous systems. Part 2. Ca |	[De Visscher and Vanderdeelen (2012)](https://doi.org/10.1063/1.4704138) |
+| Rare earth metal fluorides in water and aqueous systems. Part 1. Scandium group (Sc, Y, La) |	[Mioduski et al. (2014)](doi: 10.1063/1.4866773) |
+| Rare earth metal fluorides in water and aqueous systems. Part 2. Light lanthanides (Ce–Eu) |	[Mioduski et al. (2014)](https://doi.org/10.1063/1.4903362) |
+| Rare earth metal fluorides in water and aqueous systems. Part 3. Heavy lanthanides (Gd–Lu) |	[Mioduski et al. (2015)](https://doi.org/10.1063/1.4918371) |
+| Alkali metal nitrates. Part 2. Sodium nitrate |	[Eysseltová et al. (2017)](https://doi.org/10.1063/1.4972807) |
+| Lithium sulfate and its double salts in aqueous solutions |	[Sohr et al. (2017)]( https://doi.org/10.1063/1.4977190) |
 
 ## Availability
 
