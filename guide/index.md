@@ -5,7 +5,7 @@ layout: default
 <ul>
   <li><a href="/">Home</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Sources</a>
+    <a href="javascript:void(0)" class="dropbtn" class="active">Guide</a>
     <div class="dropdown-content">
       <a class="active" href="sources.html">Index</a>
       <a href="noncritical.html">Non-critical</a>
