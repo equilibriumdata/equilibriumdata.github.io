@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-[[Critical IUPAC publication of solubility data](/critical-solubility.html)] [[CODATA](/CODATA.html)]
+[[Critical IUPAC publication of solubility data](critical-solubility.html)] [[CODATA](CODATA.html)]
 
 # NBS Tables
 
