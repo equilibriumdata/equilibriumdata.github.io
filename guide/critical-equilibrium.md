@@ -76,3 +76,5 @@ The recent reviews have been prepared by the same group of experts scrutinising 
 ## Availability
 
 The critical reviews published in Pure & Applied Chemistry until 2013 can be downloaded for free. In 2014 the publishing rights for new reviews were obtained by De Gruyter (although no new reviews have appeared since that time) and therefore may attract a fee for access.
+
+---
