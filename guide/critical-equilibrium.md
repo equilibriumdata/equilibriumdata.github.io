@@ -51,12 +51,12 @@ List of published surveys :
 | NTA   | [Anderegg (1982)](https://www.degruyter.com/document/doi/10.1351/pac198254122693/html)        |
 | Indium      | [Tuck (1983)](https://doi.org/10.1351/pac198355091477)       |
 | Histidine, phenylalanine, tyrosine, L-DOPA and tryptophan   | [Pettit (1984)](http://dx.doi.org/10.1351/pac198456020247)        |
-| Ethylenediamine      | Paoletti (1984)       |
-| Cyano complexes   | Beck (1987)        |
-| Nucleotide complexes      | Smith et al. (1991)       |
-| Glycines   | Kiss et al. (1991)        |
-| Alanine, Valine, Leucine      | Sovágó et al. (1993)       |
-| Cysteine, Cystine, Methionine, Serine, Threonine, Asparagine, Glutamine   | Berthon (1995)        |
+| Ethylenediamine      | [Paoletti (1984)](https://doi.org/10.1351/pac198456040491)       |
+| Cyano complexes   | [Beck (1987)](https://doi.org/10.1351/pac198759121703)        |
+| Nucleotide complexes      | [Smith et al. (1991)](https://doi.org/10.1351/pac199163071015)       |
+| Glycines   | [Kiss et al. (1991)](https://doi.org/10.1351/pac199163040597)        |
+| Alanine, Valine, Leucine      | [Sovágó et al. (1993)](https://doi.org/10.1351/pac199365051029)       |
+| Cysteine, Cystine, Methionine, Serine, Threonine, Asparagine, Glutamine   | [Berthon (1995)](http://dx.doi.org/10.1351/pac199567071117)        |
 | Agrinine, Lysine, Ornithine      | Yamauchi and Odani (1996)       |
 | Salicylic acid and other aromatic hydroxycarboxylic acids   | Lajunen et al. (1997)        |
 | Phosphonic acids      | Ρopov et al. (2001)       |
