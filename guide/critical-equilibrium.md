@@ -41,7 +41,7 @@ More recently, criteria have been modified and literature data have been accepte
 
 List of published surveys :
 
-| Ligand or system      | Reference |
+| Ligand or system[^a]      | Reference |
 | ----------------      | --------- |
 | EDTA      | Anderegg (1977)       |
 | 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | McBryde (1978)        |
@@ -69,6 +69,7 @@ List of published surveys :
 | Cd2+ + OH–, Cl–, CO32–, SO42–, and PO43–   | Powell et al. (2011)        |
 | Zn2+ + OH–, Cl–, CO32–, SO42–, and PO43–      | Powell et al. (2013)       |
 
+[^a] Abbreviations: MIDA - Methyliminodiacetic acid; TTHA - Triethylenetetraminehexaacetic acid; NOTA - 1,4,7-Triazacyclononane-N,N',N''-triacetic acid; TETA -Triethylenetetramine; DOTA - 1,4,7,10-Tetraazacyclododecane-1,4,7,10-tetraacetic acid.
 
 The recent reviews have been prepared by the same group of experts scrutinising data reported in the SC-Database. Detailed discussions of the pros and cons of each decision in the selection of the recommended constants from the literature values are given in each report.
 
