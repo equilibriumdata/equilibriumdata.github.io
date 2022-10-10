@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-[[JESS](/JESS.html)] [[PSI/Nagra](/PSI.html)]
+[[JESS](JESS.html)] [[PSI/Nagra](PSI.html)]
 
 # NEA Chemical Thermodynamics Series
 
