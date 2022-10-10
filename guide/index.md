@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-# Sources
+# Guide of sources
 
 [Non-critical IUPAC compilation](/noncritical.html)
 
