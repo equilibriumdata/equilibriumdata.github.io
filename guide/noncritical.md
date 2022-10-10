@@ -39,4 +39,4 @@ The IUPAC volumes and SC-Database aimed to include all published constants with 
 
 ## Availability
 
-The IUPAC volumes may still be available in some science libraries but can also be obtained at relatively low cost from online / second-hand bookstores. The SC-Database was still being distributed by Academic Software until 2016-17 but is no longer available. Files result of metal queries can be found at: xxxx.
+The IUPAC volumes may still be available in some science libraries but can also be obtained at relatively low cost from online / second-hand bookstores. The SC-Database was still being distributed by Academic Software until 2016-17 but is no longer available. Files resulting from metal queries can be found [here](/sc-database.html).
