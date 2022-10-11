@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-[[NIST Critically Selected Stability Constants of Metal Complexes](NIST.html)] [[NEA Thermochemical Database](NEA.html)]
+[[NIST Critically Selected Stability Constants of Metal Complexes](NIST.html)] [[NEA Thermochemical Database (TDB)](NEA.html)]
 
 # JESS
 
