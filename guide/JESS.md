@@ -31,7 +31,7 @@ layout: default
 
 ## Historical
 
-The Joint Expert Speciation System (JESS) software package is designed for modelling chemical systems in aqueous solution and has been in development since 1985; its thermodynamic reaction database was described in 1991 (May and Murray, 1991). The database systems were designed to overcome problems with existing compilations of equilibrium constants such as by allowing freedom for expressing reactions in any form as they appear in the literature, indexing of substances by name, molecular formula and/or CAS number, inclusion of large numbers of organic and inorganic ligands, inclusion of ternary complexes, and inclusion of estimates of reliability for every constant. These approaches enable the database to be both comprehensive and critical. The database is one of the longest actively maintained computer database for equilibrium constants.
+The Joint Expert Speciation System (JESS) software package is designed for modelling chemical systems in aqueous solution and has been in development since 1985; its thermodynamic reaction database was described in 1991 (May and Murray, 1991)[^1]. The database systems were designed to overcome problems with existing compilations of equilibrium constants such as by allowing freedom for expressing reactions in any form as they appear in the literature, indexing of substances by name, molecular formula and/or CAS number, inclusion of large numbers of organic and inorganic ligands, inclusion of ternary complexes, and inclusion of estimates of reliability for every constant. These approaches enable the database to be both comprehensive and critical. The database is one of the longest actively maintained computer database for equilibrium constants.
 
 ## Scope
 
@@ -44,3 +44,7 @@ Consistency between thermodynamic parameters for the same reaction and for other
 ## Availability
 
 Throughout its life JESS has targeted many computing platforms (such as VAX-VMS, Unix, MS-DOS and Linux) but the main distribution of JESS and its databases today is via software compatible with Windows. While the entirety of the <a  href="http://jess.murdoch.edu.au" target="_blank" rel="noopener">thermodynamic database</a> is freely available online, the full software package grants users with powerful tools for database interrogation and modification (e.g. to insert new species, reactions or constants), modelling facilities and access to other databases including physicochemical properties and solubilities from the literature. Access to the full package is granted under license (a nominal fee applies to academic users).
+
+---
+
+[^1]: <small>May, P.M., Murray, K., 1991. JESS, A Joint Expert Speciation System - II. The Thermodynamic Database. Talanta 38, 1419-1426</small>
