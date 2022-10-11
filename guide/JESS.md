@@ -7,7 +7,7 @@ layout: default
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn" class="active">Guide</a>
     <div class="dropdown-content">
-      <a href="sources.html">Index</a>
+      <a href="index.html">Index</a>
       <a href="noncritical.html">Non-critical</a>
       <a href="critical-equilibrium.html">Critical equilibrium</a>
       <a href="critical-solubility.html">Critical solubility</a>
@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-[[NIST Critically Selected Stability Constants of Metal Complexes](NIST.html)] [[NEA Chemical Thermodynamics Series](NEA.html)]
+[[NIST Critically Selected Stability Constants of Metal Complexes](NIST.html)] [[NEA Thermochemical Database](NEA.html)]
 
 # JESS
 
