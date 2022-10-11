@@ -27,7 +27,7 @@ layout: default
 
 [[JESS](JESS.html)] [[PSI/Nagra](PSI.html)]
 
-# NEA Chemical Thermodynamics Series
+# NEA Thermochemical Database
 
 ## Historical
 
