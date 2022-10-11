@@ -49,7 +49,7 @@ List of all references of interest for the reader.
 | Copper, silver, gold and zinc, cadmium, mercury oxides and hydroxides  | <a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-23/SDS-23.aspx" target="_blank" rel="noopener">Dirkse (1986)</a> |
 | Sulfites, selenites and tellurites      | <a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-26/SDS-26.aspx" target="_blank" rel="noopener">Masson et al. (1986)</a> |
 | Alkali metal orthophosphates   |	<a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-31/SDS-31.aspx" target="_blank" rel="noopener">Eysseltova and Dirkse (1988)</a> |
-| Hydrogen sulfide, deuterium sulfide and hydrogen selenide   |	<a  href="[https://srdata.nist.gov/solubility/IUPAC/SDS-31/SDS-31.aspx](https://srdata.nist.gov/solubility/IUPAC/SDS-32/SDS-32.aspx)" target="_blank" rel="noopener">Fogg and Young (1988)</a> |
+| Hydrogen sulfide, deuterium sulfide and hydrogen selenide   |	<a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-32/SDS-32.aspx" target="_blank" rel="noopener">Fogg and Young (1988)</a> |
 |Copper and silver halates  |	<a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-44/SDS-44.pdf" target="_blank" rel="noopener">Miyamoto et al. (1990)</a> |
 | Alkaline earth hydroxides in water and aqueous solutions	 |  <a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-52/SDS-52.pdf" target="_blank" rel="noopener">Lambert and Clever (1992)</a>  |
 | Copper(I) halides and pseudohalides |	<a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-65/SDS-65.pdf" target="_blank" rel="noopener">Fritz and Koenigsberger (1996)</a> |
