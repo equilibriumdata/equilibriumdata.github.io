@@ -41,6 +41,10 @@ Taula aquí, posada al dia
 
 ## Availability
 
-All volumes in the series can be downloaded from the <a  href="https://www.oecd-nea.org/dbtdb/info/publications" target="_blank" rel="noopener">NEA website</a>. Note that Bruno et al. (2007) is a “state-of-the-art” report on solid solutions and does not contain any thermodynamic data.
+All volumes in the series can be downloaded from the <a  href="https://www.oecd-nea.org/dbtdb/info/publications" target="_blank" rel="noopener">NEA website</a>. Note that Bruno et al. (2007)[^1] is a “state-of-the-art” report on solid solutions and does not contain any thermodynamic data.
 
 An interactive TDB electronic database, e-TDB, is available. Registration with the NEA is required in order to obtain access. The content of the e-TDB includes (a) all recommended thermodynamic data of the 12 Chemical Thermodynamic Series volumes, (b) a PHREEQC formatted database file, ready to download and use, and (c) searchable information on all the bibliographic references that have been used in the TDB published material. 
+
+---
+
+[^1]: <small>Bruno, J., Bosbach, D., Kulik, D., Navrotsky, A., 2007. Chemical Thermodynamics of Solid Solutions of Interest in Nuclear Waste Management. Chemical Thermodynamics Series Volume 10. Available at: http://www.oecd-nea.org/dbtdb/info/publications/ (accessed 9 April 2019)</small>
