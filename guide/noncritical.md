@@ -31,7 +31,7 @@ layout: default
 
 ## Historical
 
-For many years, the International Union of Pure and Applied Chemistry (IUPAC) sponsored a non-critical compilation of metal complex equilibrium constants. The result was the publication of two small and four large volumes of stability constants. The initial volumes were edited by Bjerrum et al. (1957, 1958). The first major volume, edited by L.G. Sillén (for inorganic ligands) and A.E. Martell (for organic ligands), was published in 1964 (Sillén et al. 1964). The second volume, subtitled supplement No. 1, edited by L.G. Sillén and E. Högfeldt (for inorganic ligands) and A.E. Martell and R.M. Smith (for organic ligands), was published in 1971 and covered the literature through 1968 (Sillén et al. 1971). Further work by Perrin (1979) and Högfeldt (1982) produced two additional volumes of stability constants covering equilibria with organic and inorganic ligands that appeared in the literature up to 1974. The larger compilations attempted to include all papers in the field related to metal complex equilibria. In 1990, a computerised database containing the values from the IUPAC volumes was created by L. Pettit. The database – known as SC-Database – was distributed by Pettit’s company Academic Software and was kept up to date with new values from the literature with the help of an extended team. 
+For many years, the International Union of Pure and Applied Chemistry (IUPAC) sponsored a non-critical compilation of metal complex equilibrium constants. The result was the publication of two small and four large volumes of stability constants. The initial volumes were edited by Bjerrum et al. (1957[^1], 1958[^2]). The first major volume, edited by L.G. Sillén (for inorganic ligands) and A.E. Martell (for organic ligands), was published in 1964 (Sillén et al. 1964). The second volume, subtitled supplement No. 1, edited by L.G. Sillén and E. Högfeldt (for inorganic ligands) and A.E. Martell and R.M. Smith (for organic ligands), was published in 1971 and covered the literature through 1968 (Sillén et al. 1971). Further work by Perrin (1979) and Högfeldt (1982) produced two additional volumes of stability constants covering equilibria with organic and inorganic ligands that appeared in the literature up to 1974. The larger compilations attempted to include all papers in the field related to metal complex equilibria. In 1990, a computerised database containing the values from the IUPAC volumes was created by L. Pettit. The database – known as SC-Database – was distributed by Pettit’s company Academic Software and was kept up to date with new values from the literature with the help of an extended team. 
 
 ## Scope
 
@@ -40,3 +40,8 @@ The IUPAC volumes and SC-Database aimed to include all published constants with 
 ## Availability
 
 The IUPAC volumes are still be available in some science libraries and can also be obtained at relatively low cost from online / second-hand bookstores. The SC-Database was still being distributed by Academic Software until 2016-17 but is no longer available. Files resulting from metal queries can be found [here](/sc-database.html).
+
+---
+
+[^1]: Bjerrum, J., Schwarzenbach, G., Sillén, L.G., 1957. Stability Constants for Metal-Ion Complexes. Part I. Special Publication 6. Chemical Society, London., UK.
+[^2]: Bjerrum, J., Schwarzenbach, G., Sillén, L.G., 1958. Stability Constants for Metal-Ion Complexes. Part II. Special Publication 7. Chemical Society, London, UK.
