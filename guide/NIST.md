@@ -32,9 +32,9 @@ layout: default
 
 ## Historical
 
-Robert M. Smith and Arthur E. Martell produced six volumes of critical stability constants covering the literature through 1985 (Martell and Smith, 1974, 1976, 1982; Smith and Martell, 1975, 1977, 1989). Later, the contents of these volumes and more recent data were digitised leading to the NIST Critically Selected Stability Constants of Metal Complexes Database (NIST Standard Reference Database 46).
+Robert M. Smith and Arthur E. Martell produced six volumes of critical stability constants covering the literature through 1985 (Martell and Smith, 1974[^1], 1976[^2], 1982[^3], Smith and Martell, 1975[^4], 1977[^5], 1989[^6]). Later, the contents of these volumes and more recent data were digitised leading to the NIST Critically Selected Stability Constants of Metal Complexes Database (NIST Standard Reference Database 46).
 
-The criteria applied in the selection of the constants are discussed in Smith and Martell (1985). They are: adequate control and description of the experimental method (temperature, ionic strength, nature of supporting electrolyte, purity of the ligand, calibration, adequate definition of the equilibrium quotients), and reliability of the investigator. Values reported by only one investigator are included unless “there is some reason to doubt their validity”. When several values are in close agreement, the mean value is used and values showing considerable deviation from the majority are eliminated. Criteria applied in other cases (e.g., poor agreement and few results available, similar relative values but different absolute magnitude) are also described.
+The criteria applied in the selection of the constants are discussed in Smith and Martell (1985)[^7]. They are: adequate control and description of the experimental method (temperature, ionic strength, nature of supporting electrolyte, purity of the ligand, calibration, adequate definition of the equilibrium quotients), and reliability of the investigator. Values reported by only one investigator are included unless “there is some reason to doubt their validity”. When several values are in close agreement, the mean value is used and values showing considerable deviation from the majority are eliminated. Criteria applied in other cases (e.g., poor agreement and few results available, similar relative values but different absolute magnitude) are also described.
 
 ## Scope
 
@@ -43,3 +43,13 @@ The NIST database contains in total 6’166 ligands and 112’559 lines of data 
 ## Availability
 
 This database has been discontinued but the latest version (Version 8) can be <a  href="https://www.nist.gov/srd/nist46" target="_blank" rel="noopener">downloaded here</a>. It is compatible with most versions of Windows (excluding 64-bit systems).
+
+---
+
+[^1]: <small>Martell, A.E., Smith, R.M., 1974. Critical Stability Constants. Volume 1: Amino Acids. Plenum Press, New York, pp. 469.</small>
+[^2]: <small>Martell, A.E., Smith, R.M., 1976. Critical Stability Constants. Volume 3: Other Organic Ligands. Plenum Press, New York, pp.495. </small>
+[^3]: <small>Martell, A.E., Smith, R.M., 1982. Critical Stability Constants. Volume 5: First Supplement. Plenum Press, New York, pp. 604.</small>
+[^4]: <small>Smith, R.M., Martell, A.E., 1975. Critical Stability Constants. Volume 2: Amines. Plenum Press, New York, pp. 415.</small>
+[^5]: <small>Smith, R.M., Martell, A.E., 1977. Critical Stability Constants. Volume 4: Inorganic Complexes. Plenum Press, New York, pp. 257.</small>
+[^6]: <small>Smith, R.M., Martell, A.E., 1989. Critical Stability Constants. Volume 6: Second Supplement. Plenum Press, New York, pp. 643.</small>
+[^7]: <small>Smith, R.M., Martell, A.E., 1985. The selection of critical stability constants. In: Chemical Equilibrium and Reaction Models. SSSA Special Publication 42. Soil Science Society of America, American Society of Agronomy, US, pp. 7-29.</small>
