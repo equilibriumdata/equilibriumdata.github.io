@@ -50,8 +50,8 @@ List of all references of interest for the reader.
 | Sulfites, selenites and tellurites      | <a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-26/SDS-26.aspx" target="_blank" rel="noopener">Masson et al. (1986)</a> |
 | Alkali metal orthophosphates   |	<a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-31/SDS-31.aspx" target="_blank" rel="noopener">Eysseltova and Dirkse (1988)</a> |
 | Hydrogen sulfide, deuterium sulfide and hydrogen selenide   |	<a  href="[https://srdata.nist.gov/solubility/IUPAC/SDS-31/SDS-31.aspx](https://srdata.nist.gov/solubility/IUPAC/SDS-32/SDS-32.aspx)" target="_blank" rel="noopener">Fogg and Young (1988)</a> |
-|Copper and silver halates  |	[Miyamoto et al. (1990)](https://srdata.nist.gov/solubility/IUPAC/SDS-44/SDS-44.pdf) |
-| Alkaline earth hydroxides in water and aqueous solutions	 |  [Lambert and Clever (1992)](https://srdata.nist.gov/solubility/IUPAC/SDS-52/SDS-52.pdf) |
+|Copper and silver halates  |	<a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-44/SDS-44.pdf" target="_blank" rel="noopener">Miyamoto et al. (1990)</a> |
+| Alkaline earth hydroxides in water and aqueous solutions	 |  <a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-52/SDS-52.pdf" target="_blank" rel="noopener">Lambert and Clever (1992)</a>  |
 | Copper(I) halides and pseudohalides |	[Fritz and Koenigsberger (1996)](https://srdata.nist.gov/solubility/IUPAC/SDS-65/SDS-65.pdf ) |
 | Ammonium phosphates |	[Eysseltova and Dirkse (1998)](https://aip.scitation.org/doi/10.1063/1.556030) |
 | Solubility of inorganic actinide compounds |	[Hála and Miyamoto (2007)](https://doi.org/10.1063/1.2741386) |
