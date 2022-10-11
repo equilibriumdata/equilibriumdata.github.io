@@ -47,9 +47,9 @@ List of all references of interest for the reader.
 | Scandium, yttrium, lanthanum and lanthanide nitrates  | <a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-13/SDS-13.pdf" target="_blank" rel="noopener">Siekierski et al. (1983)</a> |
 | Alkaline earth metal halates  | <a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-14/SDS-14.pdf" target="_blank" rel="noopener">Miyamoto et al. (1983)</a> |
 | Copper, silver, gold and zinc, cadmium, mercury oxides and hydroxides  | <a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-23/SDS-23.aspx" target="_blank" rel="noopener">Dirkse (1986)</a> |
-| Sulfites, selenites and tellurites      | [Masson et al. (1986)](https://srdata.nist.gov/solubility/IUPAC/SDS-26/SDS-26.aspx) |
-| Alkali metal orthophosphates   |	[Eysseltova and Dirkse (1988)](https://srdata.nist.gov/solubility/IUPAC/SDS-31/SDS-31.aspx) |
-| Hydrogen sulfide, deuterium sulfide and hydrogen selenide   |	[Fogg and Young (1988)](https://srdata.nist.gov/solubility/IUPAC/SDS-32/SDS-32.aspx) |
+| Sulfites, selenites and tellurites      | <a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-26/SDS-26.aspx" target="_blank" rel="noopener">Masson et al. (1986)</a> |
+| Alkali metal orthophosphates   |	<a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-31/SDS-31.aspx" target="_blank" rel="noopener">Eysseltova and Dirkse (1988)</a> |
+| Hydrogen sulfide, deuterium sulfide and hydrogen selenide   |	<a  href="[https://srdata.nist.gov/solubility/IUPAC/SDS-31/SDS-31.aspx](https://srdata.nist.gov/solubility/IUPAC/SDS-32/SDS-32.aspx)" target="_blank" rel="noopener">Fogg and Young (1988)</a> |
 |Copper and silver halates  |	[Miyamoto et al. (1990)](https://srdata.nist.gov/solubility/IUPAC/SDS-44/SDS-44.pdf) |
 | Alkaline earth hydroxides in water and aqueous solutions	 |  [Lambert and Clever (1992)](https://srdata.nist.gov/solubility/IUPAC/SDS-52/SDS-52.pdf) |
 | Copper(I) halides and pseudohalides |	[Fritz and Koenigsberger (1996)](https://srdata.nist.gov/solubility/IUPAC/SDS-65/SDS-65.pdf ) |
