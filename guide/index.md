@@ -27,6 +27,10 @@ layout: default
 
 # Guide of sources
 
+Numerous large compilations of equilibrium constant values have been published over the years, each having their own limitations, coverage and availability. This site is intended to offer a continuously updated overview with respect to a range of included metals and ligands, and the present-day availability of publications or computer databases. It is based on the article “[Where to find constants](https://doi.org/10.1016/j.scitotenv.2019.07.161)” by W. Hummel, M. Filella, D. Rowland, SCIENCE OF THE TOTAL ENVIRONMENT, 692, 49–59 (2019). doi:10.1016/j.scitotenv.2019.07.161. N.B.: cal la cita in extenso?
+
+No caldria afegir una línia dient: These are the main resources available presently? O algo així
+
 [Non-critical IUPAC compilation](noncritical.html)
 
 [Critical IUPAC publication of equilibrium data](critical-equilibrium.html)
