@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-[[NEA Thermochemical Database](NEA.html)] [[ThermoChimie](thermochimie.html)]
+[[NEA Thermochemical Database (TDB)](NEA.html)] [[ThermoChimie](thermochimie.html)]
 
 # PSI/Nagra
 
