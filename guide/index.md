@@ -7,7 +7,7 @@ layout: default
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn" class="active">Guide</a>
     <div class="dropdown-content">
-      <a class="active" href="sources.html">Index</a>
+      <a class="active" href="index.html">Index</a>
       <a href="noncritical.html">Non-critical</a>
       <a href="critical-equilibrium.html">Critical equilibrium</a>
       <a href="critical-solubility.html">Critical solubility</a>
@@ -27,24 +27,24 @@ layout: default
 
 # Guide of sources
 
-[Non-critical IUPAC compilation](/noncritical.html)
+[Non-critical IUPAC compilation](noncritical.html)
 
-[Critical IUPAC publication of equilibrium data](/critical-equilibrium.html)
+[Critical IUPAC publication of equilibrium data](critical-equilibrium.html)
 
-[Critical IUPAC publication of solubility data](/critical-solubility.html)
+[Critical IUPAC publication of solubility data](critical-solubility.html)
 
-[NBS Tables](/NBS.html)
+[NBS Tables](NBS.html)
 
-[CODATA](/CODATA.html)
+[CODATA](CODATA.html)
 
-[NIST Critically Selected Stability Constants of Metal Complexes](/NIST.html)
+[NIST Critically Selected Stability Constants of Metal Complexes](NIST.html)
 
-[JESS](/JESS.html)
+[JESS](JESS.html)
 
-[NEA Chemical Thermodynamics Series](/NEA.html)
+[NEA Thermochemical Database (TDB)](NEA.html)
 
-[PSI/Nagra](/PSI.html)
+[PSI/Nagra](PSI.html)
 
-[ThermoChimie](/thermochimie.html)
+[ThermoChimie](thermochimie.html)
 
-[THEREDA](/THEREDA.html)
+[THEREDA](THEREDA.html)
