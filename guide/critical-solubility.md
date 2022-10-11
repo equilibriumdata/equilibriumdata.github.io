@@ -32,9 +32,9 @@ layout: default
 
 ## Historical
 
-The IUPAC's Solubility Data Series (SDS), begun in the mid-1970s, is an exhaustive compilation and critical evaluation of all the world's published results of experimental determinations of solubility. It is not concerned chiefly with the assessment of equilibrium constants. However, solubility products and other equilibria are discussed depending on the chemical system in question so we include it here for completeness.
+The IUPAC's Solubility Data Series (SDS), begun in the mid-1970s, is an exhaustive compilation and critical evaluation of all the world's published results of experimental determinations of solubility. It is not concerned chiefly with the assessment of equilibrium constants. However, solubility products and other equilibria are discussed depending on the chemical system in question.
 
-Since 1979, over 70 SDS volumes have been published, including evaluated data on the solubility of gases in liquids, liquids in liquids, and solids in liquids. Since 1998, and following an agreement with NIST, the SDS compilations have been published four times a year in the Journal of Physical and Chemical Reference Data. Since January 2002, a Subcommittee on Solubility and Equilibrium Data of the IUPAC Analytical Chemistry Division has continued the coordination of the SDS-related projects.
+Since 1979, over 70 SDS volumes have been published, including evaluated data on the solubility of gases in liquids, liquids in liquids, and solids in liquids. Since 1998, and following an agreement with NIST, the SDS compilations have been published four times a year in the Journal of Physical and Chemical Reference Data. Since January 2002, the Subcommittee on Solubility and Equilibrium Data (SSED) of the IUPAC Analytical Chemistry Division has continued the coordination of the SDS-related projects.
 
 ## Scope
 
@@ -73,4 +73,4 @@ List of all references of interest for the reader.
 
 ## Availability
 
-The list of all solubility volumes is available <a  href="https://srdata.nist.gov/solubility/IUPAC/iupac.aspx" target="_blank" rel="noopener">here</a>. Volumes 66-102 are available at the Journal of Physical and Chemical Reference Data and thus at a cost. The original volumes were scanned by NIST into PDF files and digitized. Table of Contents are provided for Volumes 20-40, providing a description of the organization of each of the volumes. These volumes are available in sections. 
+The list of all solubility volumes is available <a  href="https://srdata.nist.gov/solubility/IUPAC/iupac.aspx" target="_blank" rel="noopener">here</a>. The initial volumes (1 to 65, which corresponds to 1979-1996) were scanned by NIST into PDF files and digitized. Volumes 66-102 are available at the Journal of Physical and Chemical Reference Data and thus at a cost. 
