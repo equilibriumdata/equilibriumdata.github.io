@@ -49,4 +49,4 @@ The IUPAC volumes are still be available in some science libraries and can also 
 [^4]: <small>Sillén, L.G., Högfeldt, E., Martell, A.E., Smith, R.M., 1971. Stability Constants Supplement no. 1, Special Publication no. 25. Chemical Society, London, UK.</small>
 [^5]: <small>Perrin, L.D., 1979. Stability Constants of Metal-Ion Complexes. Part B. Organic Ligands. IUPAC Chem. Data Set no. 22. Pergamon Press, Oxford, UK.</small>
 [^6]: <small>Högfeldt, E., 1982. Stability Constants of Metal-Ion Complexes. Part A. Inorganic Ligands. IUPAC Chem. Data Series no. 21. Pergamon Press, Oxford, UK.</small>
-[^7]: <small>Pettit, L., Pettit, G., 2009. A more realistic approach to speciation using the IUPAC Stability Constants Database.</small> Pure Appl. Chem. 81, 1585–1590. [doi:10.1351/PAC-CON-08-08-21]( https://doi.org/10.1351/PAC-CON-08-08-21)</small>
+[^7]: <small>Pettit, L., Pettit, G., 2009. A more realistic approach to speciation using the IUPAC Stability Constants Database. Pure Appl. Chem. 81, 1585–1590. [doi:10.1351/PAC-CON-08-08-21]( https://doi.org/10.1351/PAC-CON-08-08-21)</small>
