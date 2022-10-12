@@ -42,17 +42,17 @@ NEA published volumes
 | System   | Reference |
 | ----------------      | --------- |
 | Uranium |	Grenthe et al. (1992) |
-| Americium |	Silva et al. (1995, reprinted in 2004) |
-| Technetium |	Rard et al. (1999, 2^n^^d^ update in 2020) |
-| Neptunium and plutonium |	Lemire et al. (2001) |
-| Update of uranium, neptunium, plutonium, americium and technetium	| Guillaumont et al. (2003, 2^n^^d^ update in 2020) |
-| Nickel |	Gamsjäger et al. (2005) |
-| Selenium |	Olin et al. (2005) |
-| Zirconium |	Brown et al. (2005) |
-| Compounds and complexes of U, Np, Pu, Am, Tc, Se, Ni and Zr with selected organic ligands |	Hummel et al. (2005) |
-| Solid solutions – state-of-the-art report |	Bruno et al. (2007) |
-| Thorium |	Rand et al. (2008) |
-| Tin |	Gamsjäger et al. (2012) |
+| Americium |	[Silva et al. (1995, reprinted in 2004)](https://www.oecd-nea.org/jcms/pl_13706/chemical-thermodynamics-of-americium-reprint) |
+| Technetium |	[Rard et al. (1999, 2^n^^d^ update in 2020)](https://www.oecd-nea.org/jcms/pl_37388/chemical-thermodynamics-of-technetium) |
+| Neptunium and plutonium |	[Lemire et al. (2001)](https://www.oecd-nea.org/jcms/pl_13530/chemical-thermodynamics-of-neptunium-and-plutonium) |
+| Update of uranium, neptunium, plutonium, americium and technetium	| [Guillaumont et al. (2003, 2^n^^d^ update in 2020)](https://www.oecd-nea.org/jcms/pl_37389/update-on-the-chemical-thermodynamics-of-uranium-neptunium-plutonium-americium-and-technetium) |
+| Nickel |	[Gamsjäger et al. (2005)](https://www.oecd-nea.org/jcms/pl_37415/chemical-thermodynamics-of-nickel) |
+| Selenium |	[Olin et al. (2005)](https://www.oecd-nea.org/jcms/pl_37421/chemical-thermodynamics-of-selenium) |
+| Zirconium |	[Brown et al. (2005)](https://www.oecd-nea.org/jcms/pl_37426/chemical-thermodynamics-of-zirconium) |
+| Compounds and complexes of U, Np, Pu, Am, Tc, Se, Ni and Zr with selected organic ligands |	[Hummel et al. (2005)](https://www.oecd-nea.org/jcms/pl_37427/chemical-thermodynamics-of-compounds-and-complexes-of-u-np-pu-am-tc-se-ni-and-zr-with-selected-organic-ligands) |
+| Solid solutions – state-of-the-art report |	[Bruno et al. (2007)](https://www.oecd-nea.org/jcms/pl_14272/chemical-thermodynamics-of-solid-solutions-of-interest-in-nuclear-waste-management) |
+| Thorium |	[Rand et al. (2008)](https://www.oecd-nea.org/jcms/pl_14270/chemical-thermodynamics-of-thorium) |
+| Tin |	[Gamsjäger et al. (2012)](https://www.oecd-nea.org/jcms/pl_14372/chemical-thermodynamics-of-tin) |
 | Iron – Part 1	| [Lemire et al. (2013)](https://www.oecd-nea.org/jcms/pl_14374/chemical-thermodynamics-of-iron-part-1) |
 | Iron - Part 2 | [Lemire et al. (2019)](https://www.oecd-nea.org/jcms/pl_22611/chemical-thermodynamics-of-iron-part-2) |
 | Second update of uranium, neptunium, plutonium, americium and technetium | [Grenthe et al. (2020)](https://www.oecd-nea.org/jcms/pl_46643/second-update-on-the-chemical-thermodynamics-of-u-np-pu-am-and-tc) |
