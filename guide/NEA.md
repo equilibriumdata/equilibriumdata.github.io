@@ -46,12 +46,12 @@ NEA published volumes
 | Technetium |	<a  href="https://www.oecd-nea.org/jcms/pl_37388/chemical-thermodynamics-of-technetium" target="_blank" rel="noopener">Rard et al. (1999, 2<sup>nd</sup> update in 2020)</a> |
 | Neptunium and plutonium |	<a  href="https://www.oecd-nea.org/jcms/pl_13530/chemical-thermodynamics-of-neptunium-and-plutonium" target="_blank" rel="noopener">Lemire et al. (2001)</a> |
 | Update of uranium, neptunium, plutonium, americium and technetium	| <a  href="https://www.oecd-nea.org/jcms/pl_37389/update-on-the-chemical-thermodynamics-of-uranium-neptunium-plutonium-americium-and-technetium" target="_blank" rel="noopener">Guillaumont et al. (2003, 2<sup>nd</sup> update in 2020)</a> |
-| Nickel |	[Gamsjäger et al. (2005)](https://www.oecd-nea.org/jcms/pl_37415/chemical-thermodynamics-of-nickel) |
-| Selenium |	[Olin et al. (2005)](https://www.oecd-nea.org/jcms/pl_37421/chemical-thermodynamics-of-selenium) |
-| Zirconium |	[Brown et al. (2005)](https://www.oecd-nea.org/jcms/pl_37426/chemical-thermodynamics-of-zirconium) |
-| Compounds and complexes of U, Np, Pu, Am, Tc, Se, Ni and Zr with selected organic ligands |	[Hummel et al. (2005)](https://www.oecd-nea.org/jcms/pl_37427/chemical-thermodynamics-of-compounds-and-complexes-of-u-np-pu-am-tc-se-ni-and-zr-with-selected-organic-ligands) |
-| Solid solutions – state-of-the-art report |	[Bruno et al. (2007)](https://www.oecd-nea.org/jcms/pl_14272/chemical-thermodynamics-of-solid-solutions-of-interest-in-nuclear-waste-management) |
-| Thorium |	[Rand et al. (2008)](https://www.oecd-nea.org/jcms/pl_14270/chemical-thermodynamics-of-thorium) |
+| Nickel |	<a  href="https://www.oecd-nea.org/jcms/pl_37415/chemical-thermodynamics-of-nickel" target="_blank" rel="noopener">Gamsjäger et al. (2005)</a> |
+| Selenium |	<a  href="https://www.oecd-nea.org/jcms/pl_37421/chemical-thermodynamics-of-selenium" target="_blank" rel="noopener">Olin et al. (2005)</a> |
+| Zirconium |	<a  href="https://www.oecd-nea.org/jcms/pl_37426/chemical-thermodynamics-of-zirconium" target="_blank" rel="noopener">Brown et al. (2005)</a> |
+| Compounds and complexes of U, Np, Pu, Am, Tc, Se, Ni and Zr with selected organic ligands |	<a  href="https://www.oecd-nea.org/jcms/pl_37427/chemical-thermodynamics-of-compounds-and-complexes-of-u-np-pu-am-tc-se-ni-and-zr-with-selected-organic-ligands" target="_blank" rel="noopener">Hummel et al. (2005)</a> |
+| Solid solutions – state-of-the-art report |	<a  href="https://www.oecd-nea.org/jcms/pl_14272/chemical-thermodynamics-of-solid-solutions-of-interest-in-nuclear-waste-management" target="_blank" rel="noopener">Bruno et al. (2007)</a> |
+| Thorium |	<a  href="https://www.oecd-nea.org/jcms/pl_14270/chemical-thermodynamics-of-thorium" target="_blank" rel="noopener">Rand et al. (2008)</a> |
 | Tin |	[Gamsjäger et al. (2012)](https://www.oecd-nea.org/jcms/pl_14372/chemical-thermodynamics-of-tin) |
 | Iron – Part 1	| [Lemire et al. (2013)](https://www.oecd-nea.org/jcms/pl_14374/chemical-thermodynamics-of-iron-part-1) |
 | Iron - Part 2 | [Lemire et al. (2019)](https://www.oecd-nea.org/jcms/pl_22611/chemical-thermodynamics-of-iron-part-2) |
@@ -60,6 +60,6 @@ NEA published volumes
 
 ## Availability
 
-All volumes in the series can be downloaded from the <a  href="https://www.oecd-nea.org/dbtdb/info/publications" target="_blank" rel="noopener">NEA website</a>. Note that Bruno et al. (2007) is a “state-of-the-art” report on solid solutions and does not contain any thermodynamic data.
+All volumes in the series can be downloaded from the <a  href="https://www.oecd-nea.org/dbtdb/info/publications" target="_blank" rel="noopener">NEA website</a>. Note that <a  href="https://www.oecd-nea.org/jcms/pl_14272/chemical-thermodynamics-of-solid-solutions-of-interest-in-nuclear-waste-management" target="_blank" rel="noopener">Bruno et al. (2007)</a> is a “state-of-the-art” report on solid solutions and does not contain any thermodynamic data.
 
 An interactive TDB electronic database, e-TDB, is available. Registration with the NEA is required in order to obtain access. The content of the e-TDB includes (a) all recommended thermodynamic data of the 14 Chemical Thermodynamic Series volumes, (b) a PHREEQC formatted database file, ready to download and use, and (c) searchable information on all the bibliographic references that have been used in the TDB published material. 
