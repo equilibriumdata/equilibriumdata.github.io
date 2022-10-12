@@ -35,7 +35,7 @@ layout: default
 
 **Task Group on Key Values for Thermodynamics** – Beginning in 1968, most of the data evaluation in this task group was performed in collaboration between the NBS (now NIST) in Washington and the Institute for High Temperatures in Moscow. Two comprehensive sets of recommended values were published during the first decade (CODATA Bulletin No. 10 in 1973 and CODATA Bulletin No. 28 in 1978). The group continued to work for another decade, culminating in the publication of CODATA Key Values for Thermodynamics (Cox et al. 1989). The final results covered 151 key chemical species and included extensive documentation of the data analysis.
 
-The CODATA Key Values have been widely adopted by the thermodynamics research community as the basis for calculating thermodynamic tables and predicting properties of chemical reactions. They are used as auxiliary data in the Nuclear Energy Agency’s (NEA) Thermochemical Database (TDB) project, and they are included in the PSI/Nagra database (see below).
+The CODATA Key Values have been widely adopted by the thermodynamics research community as the basis for calculating thermodynamic tables and predicting properties of chemical reactions. They are used as auxiliary data in the Nuclear Energy Agency’s (NEA) Thermochemical Database (TDB) project, and they are included in the PSI/Nagra database.
 
 **Task Group on Chemical Thermodynamic Tables** – This Task Group was approved in 1982. The group prepared a set of prototype tables for calcium compounds and published it as a book: CODATA Thermodynamic Tables. Selections for Some Compounds of Calcium and Related Mixtures, (Garvin et al. 1987). They write in the preface: “This volume of chemical thermodynamic data is intended as a first of many to be prepared as a cooperative, ongoing international project by experts who are geographically separated, but in computer-to-computer communications, and share both data and calculational resources.”
 
@@ -45,7 +45,7 @@ Their hope of increasing cooperative activities was in vain, and the “prototyp
 
 The task group did work on at least one further project in 1988 - 1990, some of which was finally published as a journal article (Parker and Khodakovskii 1995) where the authors state: “This paper is concerned with the evaluation and selection of the thermochemical properties of the aqueous ions Fe2+ and Fe3+ and with those related key compounds that are in the ‘key network’. The evaluation of the above mentioned species is part of a study of the thermochemical properties of iron and some of its compounds, undertaken as part of a larger international project of thermodynamic tables under the auspices of the CODATA Task Group on Chemical Thermodynamic Tables.”
 
-The work of Parker and Khodakovskii (1995) has later been used in the NEA TDB review of iron. Part 1 of this NEA review, comprising 1082 pages of documentation, has been published (Lemire et al. 2013), part 2 is still pending.
+The work of Parker and Khodakovskii (1995) has later been used in the NEA TDB review of iron.
 
 **Task Group on Geothermodynamic Data** – This Task Group was started in 1984 with the goal of extending the CODATA work on accurate thermodynamic properties of simple, well-defined chemical compounds to the more complex minerals encountered by geologists. Preliminary reports were issued but the resources were not available to produce a comprehensive database of mineral thermodynamics (Lide and Wood 2012).
 
@@ -57,4 +57,4 @@ Values for the standard molar enthalpy of formation, &#916;<sub>f</sub>H<sub>m</
 
 ## Availability
 
-The book *CODATA Key Values for Thermodynamics* (Cox et al. 1989) is still available. Furthermore, all CODATA key values, and the Gibbs free energy of formation values, &#916;<sub>f</sub>G<sub>m</sub>&deg;, calculated there  from, are included as auxiliary data in all NEA TDB volumes, e.g. Lemire et al. (2013), which are <a  href="https://www.oecd-nea.org/dbtdb/info/publications/" target="_blank" rel="noopener">free for download</a>.
+The book *CODATA Key Values for Thermodynamics* (Cox et al. 1989) is still available. Furthermore, all CODATA key values, and the Gibbs free energy of formation values, &#916;<sub>f</sub>G<sub>m</sub>&deg;, calculated there  from, are included as auxiliary data in all NEA TDB volumes, which are <a  href="https://www.oecd-nea.org/dbtdb/info/publications/" target="_blank" rel="noopener">free for download</a>.
