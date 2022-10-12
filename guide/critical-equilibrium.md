@@ -49,11 +49,11 @@ List of published surveys :
 | Fluoride   | <a  href="https://www.elsevier.com/books/critical-survey-of-stability-constants-and-related-thermodynamic-data-of-fluoride-complexes-in-aqueous-solution/bond/978-0-08-022377-3" target="_blank" rel="noopener">Bond and Hefter (1980)</a>        |
 | Acetylacetone      | <a  href="https://www.degruyter.com/document/doi/10.1351/pac198254122557" target="_blank" rel="noopener">Starý and Lijenzin (1982)</a>       |
 | NTA   | <a  href="https://www.degruyter.com/document/doi/10.1351/pac198254122693/html" target="_blank" rel="noopener">Anderegg (1982)</a>        |
-| Indium      | [Tuck (1983)](https://doi.org/10.1351/pac198355091477)       |
-| Histidine, phenylalanine, tyrosine, L-DOPA and tryptophan   | [Pettit (1984)](http://dx.doi.org/10.1351/pac198456020247)        |
-| Ethylenediamine      | [Paoletti (1984)](https://doi.org/10.1351/pac198456040491)       |
-| Cyano complexes   | [Beck (1987)](https://doi.org/10.1351/pac198759121703)        |
-| Nucleotide complexes      | [Smith et al. (1991)](https://doi.org/10.1351/pac199163071015)       |
+| Indium      | <a  href="https://doi.org/10.1351/pac198355091477" target="_blank" rel="noopener">Tuck (1983)</a>       |
+| Histidine, phenylalanine, tyrosine, L-DOPA and tryptophan   | <a  href="http://dx.doi.org/10.1351/pac198456020247" target="_blank" rel="noopener">Pettit (1984)</a>        |
+| Ethylenediamine      | <a  href="https://doi.org/10.1351/pac198456040491" target="_blank" rel="noopener">Paoletti (1984)</a>       |
+| Cyano complexes   | <a  href="https://doi.org/10.1351/pac198759121703" target="_blank" rel="noopener">Beck (1987)</a>        |
+| Nucleotide complexes      | <a  href="https://doi.org/10.1351/pac199163071015" target="_blank" rel="noopener">Smith et al. (1991)</a>       |
 | Glycines   | [Kiss et al. (1991)](https://doi.org/10.1351/pac199163040597)        |
 | Alanine, Valine, Leucine      | [Sovágó et al. (1993)](https://doi.org/10.1351/pac199365051029)       |
 | Cysteine, Cystine, Methionine, Serine, Threonine, Asparagine, Glutamine   | [Berthon (1995)](http://dx.doi.org/10.1351/pac199567071117)        |
