@@ -42,7 +42,7 @@ The NIST database contains in total 6’166 ligands and 112’559 lines of data 
 
 ## Availability
 
-This database has been discontinued but the latest version (Version 8.0) can be <a  href="https://www.nist.gov/srd/nist46" target="_blank" rel="noopener">downloaded here</a>. It runs in PC with WindowsTM 95, 98, 2000, NT 4.0 Me, XP and Vista. This database is not compatible with 64 Bit systems. SQL files are at: 
+This database has been discontinued but the latest version (Version 8.0) can be <a  href="https://www.nist.gov/srd/nist46" target="_blank" rel="noopener">downloaded here</a>. It runs in PC with WindowsTM 95, 98, 2000, NT 4.0 Me, XP and Vista. This database is not compatible with 64 Bit systems. SQL files can be 
 <a  href="https://data.nist.gov/od/id/mds2-2154" target="_blank" rel="noopener">downloaded here</a>.
 
 ---
