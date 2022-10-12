@@ -43,9 +43,9 @@ NEA published volumes
 | ----------------      | --------- |
 | Uranium |	Grenthe et al. (1992) |
 | Americium |	[Silva et al. (1995, reprinted in 2004)](https://www.oecd-nea.org/jcms/pl_13706/chemical-thermodynamics-of-americium-reprint) |
-| Technetium |	[Rard et al. (1999, 2^n^^d^ update in 2020)](https://www.oecd-nea.org/jcms/pl_37388/chemical-thermodynamics-of-technetium) |
+| Technetium |	[Rard et al. (1999, 2<sup>nd</sup> update in 2020)](https://www.oecd-nea.org/jcms/pl_37388/chemical-thermodynamics-of-technetium) |
 | Neptunium and plutonium |	[Lemire et al. (2001)](https://www.oecd-nea.org/jcms/pl_13530/chemical-thermodynamics-of-neptunium-and-plutonium) |
-| Update of uranium, neptunium, plutonium, americium and technetium	| [Guillaumont et al. (2003, 2^n^^d^ update in 2020)](https://www.oecd-nea.org/jcms/pl_37389/update-on-the-chemical-thermodynamics-of-uranium-neptunium-plutonium-americium-and-technetium) |
+| Update of uranium, neptunium, plutonium, americium and technetium	| [Guillaumont et al. (2003, 2<sup>nd</sup> update in 2020)](https://www.oecd-nea.org/jcms/pl_37389/update-on-the-chemical-thermodynamics-of-uranium-neptunium-plutonium-americium-and-technetium) |
 | Nickel |	[Gamsjäger et al. (2005)](https://www.oecd-nea.org/jcms/pl_37415/chemical-thermodynamics-of-nickel) |
 | Selenium |	[Olin et al. (2005)](https://www.oecd-nea.org/jcms/pl_37421/chemical-thermodynamics-of-selenium) |
 | Zirconium |	[Brown et al. (2005)](https://www.oecd-nea.org/jcms/pl_37426/chemical-thermodynamics-of-zirconium) |
