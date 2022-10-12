@@ -52,10 +52,10 @@ NEA published volumes
 | Compounds and complexes of U, Np, Pu, Am, Tc, Se, Ni and Zr with selected organic ligands |	<a  href="https://www.oecd-nea.org/jcms/pl_37427/chemical-thermodynamics-of-compounds-and-complexes-of-u-np-pu-am-tc-se-ni-and-zr-with-selected-organic-ligands" target="_blank" rel="noopener">Hummel et al. (2005)</a> |
 | Solid solutions – state-of-the-art report |	<a  href="https://www.oecd-nea.org/jcms/pl_14272/chemical-thermodynamics-of-solid-solutions-of-interest-in-nuclear-waste-management" target="_blank" rel="noopener">Bruno et al. (2007)</a> |
 | Thorium |	<a  href="https://www.oecd-nea.org/jcms/pl_14270/chemical-thermodynamics-of-thorium" target="_blank" rel="noopener">Rand et al. (2008)</a> |
-| Tin |	[Gamsjäger et al. (2012)](https://www.oecd-nea.org/jcms/pl_14372/chemical-thermodynamics-of-tin) |
-| Iron – Part 1	| [Lemire et al. (2013)](https://www.oecd-nea.org/jcms/pl_14374/chemical-thermodynamics-of-iron-part-1) |
-| Iron - Part 2 | [Lemire et al. (2019)](https://www.oecd-nea.org/jcms/pl_22611/chemical-thermodynamics-of-iron-part-2) |
-| Second update of uranium, neptunium, plutonium, americium and technetium | [Grenthe et al. (2020)](https://www.oecd-nea.org/jcms/pl_46643/second-update-on-the-chemical-thermodynamics-of-u-np-pu-am-and-tc) |
+| Tin |	<a  href="https://www.oecd-nea.org/jcms/pl_14372/chemical-thermodynamics-of-tin" target="_blank" rel="noopener">Gamsjäger et al. (2012)</a> |
+| Iron – Part 1	| <a  href="https://www.oecd-nea.org/jcms/pl_14374/chemical-thermodynamics-of-iron-part-1" target="_blank" rel="noopener">Lemire et al. (2013)</a> |
+| Iron - Part 2 | <a  href="https://www.oecd-nea.org/jcms/pl_22611/chemical-thermodynamics-of-iron-part-2" target="_blank" rel="noopener">Lemire et al. (2019)</a> |
+| Second update of uranium, neptunium, plutonium, americium and technetium | <a  href="https://www.oecd-nea.org/jcms/pl_46643/second-update-on-the-chemical-thermodynamics-of-u-np-pu-am-and-tc" target="_blank" rel="noopener">Grenthe et al. (2020)</a> |
 
 
 ## Availability
