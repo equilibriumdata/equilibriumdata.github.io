@@ -41,7 +41,7 @@ NEA published volumes
 
 | System   | Reference |
 | ----------------      | --------- |
-| Uranium |	Grenthe et al. (1992) |
+| Uranium |	[Grenthe et al. (1992), reprinted in 2004](https://www.oecd-nea.org/jcms/pl_13704/chemical-thermodynamics-of-uranium-reprint) |
 | Americium |	[Silva et al. (1995, reprinted in 2004)](https://www.oecd-nea.org/jcms/pl_13706/chemical-thermodynamics-of-americium-reprint) |
 | Technetium |	[Rard et al. (1999, 2<sup>nd</sup> update in 2020)](https://www.oecd-nea.org/jcms/pl_37388/chemical-thermodynamics-of-technetium) |
 | Neptunium and plutonium |	[Lemire et al. (2001)](https://www.oecd-nea.org/jcms/pl_13530/chemical-thermodynamics-of-neptunium-and-plutonium) |
