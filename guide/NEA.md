@@ -41,23 +41,21 @@ NEA published volumes
 
 | System   | Reference |
 | ----------------      | --------- |
-| Uranium	Grenthe et al. | (1992) |
+| Uranium |	Grenthe et al. (1992) |
 | Americium |	Silva et al. (1995, reprinted in 2004) |
-| Technetium |	Rard et al. (1999, 2^nd^ update in 2020) |
+| Technetium |	Rard et al. (1999, 2^n^^d^ update in 2020) |
 | Neptunium and plutonium |	Lemire et al. (2001) |
-| Update of uranium, neptunium, plutonium, americium and technetium	| Guillaumont et al. (2003, 2^nd^ update in 2020) |
+| Update of uranium, neptunium, plutonium, americium and technetium	| Guillaumont et al. (2003, 2^n^^d^ update in 2020) |
 | Nickel |	Gamsjäger et al. (2005) |
 | Selenium |	Olin et al. (2005) |
 | Zirconium |	Brown et al. (2005) |
 | Compounds and complexes of U, Np, Pu, Am, Tc, Se, Ni and Zr with selected organic ligands |	Hummel et al. (2005) |
 | Solid solutions – state-of-the-art report |	Bruno et al. (2007) |
-| Thorium |	Rand et al. (2009) |
+| Thorium |	Rand et al. (2008) |
 | Tin |	Gamsjäger et al. (2012) |
-| Iron – Part 1	| Lemire et al. (2013) |
-| Iron - Part 2 | Lemire et al. (2020) |
-| Second update of uranium, neptunium, plutonium, americium and technetium | Grenthe et al. (2020) |
-
-| EDTA      | <a  href="https://www.elsevier.com/books/critical-survey-of-stability-constants-of-edta-complexes/anderegg/978-0-08-022009-3" target="_blank" rel="noopener">Anderegg (1977)</a>       |
+| Iron – Part 1	| [Lemire et al. (2013)](https://www.oecd-nea.org/jcms/pl_14374/chemical-thermodynamics-of-iron-part-1) |
+| Iron - Part 2 | [Lemire et al. (2019)](https://www.oecd-nea.org/jcms/pl_22611/chemical-thermodynamics-of-iron-part-2) |
+| Second update of uranium, neptunium, plutonium, americium and technetium | [Grenthe et al. (2020)](https://www.oecd-nea.org/jcms/pl_46643/second-update-on-the-chemical-thermodynamics-of-u-np-pu-am-and-tc) |
 
 
 ## Availability
