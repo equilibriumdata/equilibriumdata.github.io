@@ -31,7 +31,7 @@ layout: default
 
 ## Historical
 
-The National Bureau of Standards (NBS, now NIST, National Institute of Standards and Technology) published a large set of recommended values, “the NBS Tables of chemical thermodynamic properties” for inorganic substances and for organic substances usually containing only one or two carbon atoms (<a  href="https://srd.nist.gov/JPCRD/jpcrdS2Vol11.pdf" target="_blank" rel="noopener">Wagman et al. (1982)</a>).
+The National Bureau of Standards (NBS, now NIST, National Institute of Standards and Technology) published a large set of recommended values, “the NBS Tables of chemical thermodynamic properties” for inorganic substances and for organic substances usually containing only one or two carbon atoms (<a  href="https://srd.nist.gov/JPCRD/jpcrdS2Vol11.pdf" target="_blank" rel="noopener">Wagman et al. 1982</a>).
 
 The NBS Tables are the result of one of the widest-reaching and longest-running critical assessment tasks ever. <a  href="https://srd.nist.gov/JPCRD/jpcrdS2Vol11.pdf" target="_blank" rel="noopener">Wagman et al. (1982)</a> make the following statements about the work:
 
