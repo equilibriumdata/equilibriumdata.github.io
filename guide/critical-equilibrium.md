@@ -43,10 +43,10 @@ List of published surveys :
 
 | Ligand or system[^a]      | Reference |
 | ----------------      | --------- |
-| EDTA      | [Anderegg (1977)](https://www.elsevier.com/books/critical-survey-of-stability-constants-of-edta-complexes/anderegg/978-0-08-022009-3)       |
-| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | [McBryde (1978)](https://www.elsevier.com/books/a-critical-review-of-equilibrium-data-for-proton-and-metal-complexes-of-1-10-phenanthroline-2-2-bipyridyl-and-related-compounds/mcbryde/978-0-08-022344-5)        |
-| 8-hydroxyquinoline      | [Starý et al. (1979)](https://www.elsevier.com/books/critical-evaluation-of-equilibrium-constants-involving-8-hydroxyquinoline-and-its-metal-chelates/stary/978-0-08-023929-3)       |
-| Fluoride   | [Bond and Hefter (1980)](https://www.elsevier.com/books/critical-survey-of-stability-constants-and-related-thermodynamic-data-of-fluoride-complexes-in-aqueous-solution/bond/978-0-08-022377-3)        |
+| EDTA      | <a  href="https://www.elsevier.com/books/critical-survey-of-stability-constants-of-edta-complexes/anderegg/978-0-08-022009-3" target="_blank" rel="noopener">Anderegg (1977)</a>       |
+| 1,10-Phenantroline, 2,2’-bipyridyl and related compounds   | <a  href="https://www.elsevier.com/books/a-critical-review-of-equilibrium-data-for-proton-and-metal-complexes-of-1-10-phenanthroline-2-2-bipyridyl-and-related-compounds/mcbryde/978-0-08-022344-5" target="_blank" rel="noopener">McBryde (1978)</a>        |
+| 8-hydroxyquinoline      | <a  href="https://www.elsevier.com/books/critical-evaluation-of-equilibrium-constants-involving-8-hydroxyquinoline-and-its-metal-chelates/stary/978-0-08-023929-3" target="_blank" rel="noopener">Starý et al. (1979)</a>       |
+| Fluoride   | <a  href="https://www.elsevier.com/books/critical-survey-of-stability-constants-and-related-thermodynamic-data-of-fluoride-complexes-in-aqueous-solution/bond/978-0-08-022377-3" target="_blank" rel="noopener">Bond and Hefter (1980)</a>        |
 | Acetylacetone      | [Starý and Lijenzin (1982)](https://www.degruyter.com/document/doi/10.1351/pac198254122557)       |
 | NTA   | [Anderegg (1982)](https://www.degruyter.com/document/doi/10.1351/pac198254122693/html)        |
 | Indium      | [Tuck (1983)](https://doi.org/10.1351/pac198355091477)       |
