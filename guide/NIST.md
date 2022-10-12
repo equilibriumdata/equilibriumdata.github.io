@@ -48,7 +48,7 @@ This database has been discontinued but the latest version (Version 8.0) can be 
 ---
 
 [^1]: <small>Martell, A.E., Smith, R.M., 1974. Critical Stability Constants. Volume 1: Amino Acids. Plenum Press, New York, pp. 469.</small>
-[^2]: <small>Martell, A.E., Smith, R.M., 1976. Critical Stability Constants. Volume 3: Other Organic Ligands. Plenum Press, New York, pp.495. </small>
+[^2]: <small>Martell, A.E., Smith, R.M., 1976. Critical Stability Constants. Volume 3: Other Organic Ligands. Plenum Press, New York, pp.495.</small>
 [^3]: <small>Martell, A.E., Smith, R.M., 1982. Critical Stability Constants. Volume 5: First Supplement. Plenum Press, New York, pp. 604.</small>
 [^4]: <small>Smith, R.M., Martell, A.E., 1975. Critical Stability Constants. Volume 2: Amines. Plenum Press, New York, pp. 415.</small>
 [^5]: <small>Smith, R.M., Martell, A.E., 1977. Critical Stability Constants. Volume 4: Inorganic Complexes. Plenum Press, New York, pp. 257.</small>
