@@ -31,7 +31,7 @@ layout: default
 
 ## Historical
 
-The Joint Expert Speciation System (JESS) software package is designed for modelling chemical systems in aqueous solution and has been in development since 1985; its thermodynamic reaction database was described in 1991 <a href="https://doi.org/10.1016/0039-9140(91)80290-G">(May and Murray 1991)</a>. The database systems were designed to overcome problems with existing compilations of equilibrium constants such as by allowing freedom for expressing reactions in any form as they appear in the literature, indexing of substances by name, molecular formula and/or CAS number, inclusion of large numbers of organic and inorganic ligands, inclusion of ternary complexes, and inclusion of estimates of reliability for every constant. These approaches enable the database to be both comprehensive and critical. The database is one of the longest actively maintained computer database for equilibrium constants.
+The Joint Expert Speciation System (JESS) software package is designed for modelling chemical systems in aqueous solution and has been in development since 1985; its thermodynamic reaction database was described in 1991 <a href="https://doi.org/10.1016/0039-9140(91)80290-G" target="_blank" rel="noopener">(May and Murray 1991)</a>. The database systems were designed to overcome problems with existing compilations of equilibrium constants such as by allowing freedom for expressing reactions in any form as they appear in the literature, indexing of substances by name, molecular formula and/or CAS number, inclusion of large numbers of organic and inorganic ligands, inclusion of ternary complexes, and inclusion of estimates of reliability for every constant. These approaches enable the database to be both comprehensive and critical. The database is one of the longest actively maintained computer database for equilibrium constants.
 
 ## Scope
 
@@ -39,7 +39,7 @@ The size and scope of the thermodynamic reaction database have grown steadily si
 
 Data quality is reflected through a weight system with a scale ranging from 0 (wrong values) to 9 (most reliable constants). Weights are assigned by the database compiler and evolve over time as new data become available. Importantly, comments related to the weighting of data can be recorded in the database.
 
-Consistency between thermodynamic parameters for the same reaction and for other equivalent linear combinations of reactions is evaluated by software and thermodynamically consistent equilibrium constants for modelling calculations are computed. An example of this type of assessment pertaining to more than 50’000 chemical species has been published <a href="https://pubs.rsc.org/en/content/articlelanding/2018/nj/c7nj03597g">(May and Rowland 2018)</a>. JESS is able to identify the effects of the many assumptions that are involved in achieving thermodynamic consistency.
+Consistency between thermodynamic parameters for the same reaction and for other equivalent linear combinations of reactions is evaluated by software and thermodynamically consistent equilibrium constants for modelling calculations are computed. An example of this type of assessment pertaining to more than 50’000 chemical species has been published <a href="https://pubs.rsc.org/en/content/articlelanding/2018/nj/c7nj03597g" target="_blank" rel="noopener">(May and Rowland 2018)</a>. JESS is able to identify the effects of the many assumptions that are involved in achieving thermodynamic consistency.
 
 ## Availability
 
