@@ -4,6 +4,23 @@ layout: default
 ---
 <ul>
   <li><a href="/">Home</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Guide</a>
+    <div class="dropdown-content">
+      <a href="index.html">Index</a>
+      <a href="noncritical.html">Non-critical</a>
+      <a href="critical-equilibrium.html">Critical equilibrium</a>
+      <a href="critical-solubility.html">Critical solubility</a>
+      <a href="NBS.html">NBS</a>
+      <a href="CODATA.html">CODATA</a>
+      <a href="NIST.html">NIST</a>
+      <a href="JESS.html">JESS</a>
+      <a href="NEA.html">NEA</a>
+      <a href="PSI.html">PSI/Nagra</a>
+      <a href="thermochimie.html">ThermoChimie</a>
+      <a class="active" href="THEREDA.html">THEREDA</a>
+    </div>
+  </li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
   <li><a class="active" href="/sc-database.html">SC-Database</a></li>
 </ul>
