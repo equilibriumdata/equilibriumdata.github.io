@@ -34,7 +34,7 @@ layout: default
 
 The IUPAC's Solubility Data Series (SDS), begun in the mid-1970s, is an exhaustive compilation and critical evaluation of all the world's published results of experimental determinations of solubility. It is not concerned chiefly with the assessment of equilibrium constants. However, solubility products and other equilibria are discussed depending on the chemical system in question.
 
-Since 1979, over 70 SDS volumes have been published, including evaluated data on the solubility of gases in liquids, liquids in liquids, and solids in liquids. Since 1998, and following an agreement with NIST, the SDS compilations have been published four times a year in the Journal of Physical and Chemical Reference Data. Since January 2002, the Subcommittee on Solubility and Equilibrium Data (SSED) of the IUPAC Analytical Chemistry Division has continued the coordination of the SDS-related projects.
+Since 1979, over 70 SDS volumes have been published, including evaluated data on the solubility of gases in liquids, liquids in liquids, and solids in liquids. Since 1998, and following an agreement with NIST, the SDS compilations have been published four times a year in the Journal of Physical and Chemical Reference Data. Since January 2002, the <a  href="https://iupac.org/body/502/" target="_blank" rel="noopener">Subcommittee on Solubility and Equilibrium Data</a> (SSED) of the IUPAC Analytical Chemistry Division has continued the coordination of the SDS-related projects.
 
 ## Scope
 
