@@ -32,7 +32,7 @@ layout: default
 
 ## Historical
 
-Robert M. Smith and Arthur E. Martell produced six volumes of critical stability constants covering the literature through 1985 (Martell and Smith, 1974[^1], 1976[^2], 1982[^3], Smith and Martell, 1975[^4], 1977[^5], 1989[^6]). Later, the contents of these volumes and more recent data were digitised leading to the NIST Critically Selected Stability Constants of Metal Complexes Database (NIST Standard Reference Database 46).
+Robert M. Smith and Arthur E. Martell produced six volumes of critical stability constants covering the literature through 1985 (Martell and Smith, 1974[^1], 1976[^2], 1982[^3], Smith and Martell, 1975[^4], 1977[^5], 1989[^6]). Later, the contents of these volumes and more recent data were digitised leading to the <a  href="https://www.nist.gov/srd/nist46" target="_blank" rel="noopener">NIST Critically Selected Stability Constants of Metal Complexes Database (NIST Standard Reference Database 46)</a>.
 
 The criteria applied in the selection of the constants are discussed in Smith and Martell (1985)[^7]. They are: adequate control and description of the experimental method (temperature, ionic strength, nature of supporting electrolyte, purity of the ligand, calibration, adequate definition of the equilibrium quotients), and reliability of the investigator. Values reported by only one investigator are included unless “there is some reason to doubt their validity”. When several values are in close agreement, the mean value is used and values showing considerable deviation from the majority are eliminated. Criteria applied in other cases (e.g., poor agreement and few results available, similar relative values but different absolute magnitude) are also described.
 
