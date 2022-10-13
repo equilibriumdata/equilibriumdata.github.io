@@ -21,8 +21,8 @@ layout: default
       <a href="THEREDA.html">THEREDA</a>
     </div>
   </li>
-  <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
   <li><a class="active" href="/sc-database.html">SC-Database</a></li>
+  <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
 </ul>
 
 # SC-Database
