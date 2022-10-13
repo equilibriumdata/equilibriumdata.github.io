@@ -39,7 +39,7 @@ The CODATA Key Values have been widely adopted by the thermodynamics research co
 
 **Task Group on Chemical Thermodynamic Tables** – This Task Group was approved in 1982. The group prepared a set of prototype tables for calcium compounds and published it as a book: CODATA Thermodynamic Tables. Selections for Some Compounds of Calcium and Related Mixtures, (Garvin et al. 1987)[^2]. They write in the preface: “This volume of chemical thermodynamic data is intended as a first of many to be prepared as a cooperative, ongoing international project by experts who are geographically separated, but in computer-to-computer communications, and share both data and calculational resources.”
 
-In their chapter “The Future” Garvin et al. (1987) write: “At present, there exist a set of systematic procedures, a prototype product and a small core group. The core group intends to continue to refine the procedures and to prepare additional tables. The rate at which further development will proceed, however, depends on the growth of cooperative activities.”
+In their chapter “The Future”, Garvin et al. (1987) write: “At present, there exist a set of systematic procedures, a prototype product and a small core group. The core group intends to continue to refine the procedures and to prepare additional tables. The rate at which further development will proceed, however, depends on the growth of cooperative activities.”
 
 Their hope of increasing cooperative activities was in vain, and the “prototype tables” remained the first and last publication of the task group.
 
