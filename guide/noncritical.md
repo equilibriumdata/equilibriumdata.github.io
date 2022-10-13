@@ -43,9 +43,9 @@ The IUPAC volumes are still be available in some science libraries and can also 
 
 ---
 
-[^1]: <small>Bjerrum, J., Schwarzenbach, G., Sillén, L.G., 1957. Stability Constants for Metal-Ion Complexes. Part I. Special Publication 6. Chemical Society, London., UK.</small>
-[^2]: <small>Bjerrum, J., Schwarzenbach, G., Sillén, L.G., 1958. Stability Constants for Metal-Ion Complexes. Part II. Special Publication 7. Chemical Society, London, UK.</small>
+[^1]: <small>Bjerrum, J., Schwarzenbach, G., Sillén, L.G., 1957. Stability Constants for Metal-Ion Complexes. Part I. Special Publication no. 6. Chemical Society, London., UK.</small>
+[^2]: <small>Bjerrum, J., Schwarzenbach, G., Sillén, L.G., 1958. Stability Constants for Metal-Ion Complexes. Part II. Special Publication no. 7. Chemical Society, London, UK.</small>
 [^3]: <small>Sillén, L.G., Martell, 1964. Stability Constants of Metal Complexes. Special Publication no. 17. Chemical Society, London, UK.</small>
 [^4]: <small>Sillén, L.G., Högfeldt, E., Martell, A.E., Smith, R.M., 1971. Stability Constants Supplement no. 1, Special Publication no. 25. Chemical Society, London, UK.</small>
-[^5]: <small>Perrin, L.D., 1979. Stability Constants of Metal-Ion Complexes. Part B. Organic Ligands. IUPAC Chem. Data Set no. 22. Pergamon Press, Oxford, UK.</small>
-[^6]: <small>Högfeldt, E., 1982. Stability Constants of Metal-Ion Complexes. Part A. Inorganic Ligands. IUPAC Chem. Data Series no. 21. Pergamon Press, Oxford, UK.</small>
+[^5]: <small>Perrin, L.D., 1979. Stability Constants of Metal-Ion Complexes: Part B. Organic Ligands. IUPAC Chemical Data Series no. 22. Pergamon Press, Oxford, UK.</small>
+[^6]: <small>Högfeldt, E., 1982. Stability Constants of Metal-Ion Complexes: Part A. Inorganic Ligands. IUPAC Chemical Data Series no. 21. Pergamon Press, Oxford, UK.</small>
