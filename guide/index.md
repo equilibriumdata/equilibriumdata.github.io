@@ -25,7 +25,7 @@ layout: default
   <li><a href="/sc-database.html">SC-Database</a></li>
 </ul>
 
-# Guide of sources
+# Where to find equilibrium constants? - A Guide
 
 Numerous large compilations of equilibrium constant values have been published over the years, each having their own limitations, coverage and availability. This site is intended to offer a continuously updated overview with respect to a range of included metals and ligands, and the present-day availability of publications or computer databases. It is based on the article “<a  href="https://doi.org/10.1016/j.scitotenv.2019.07.161" target="_blank" rel="noopener">Where to find constants</a>” by W. Hummel, M. Filella, D. Rowland (Science of the Total Environment, 692, 49–59 (2019)).
 
