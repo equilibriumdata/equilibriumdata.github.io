@@ -54,7 +54,7 @@ NEA published volumes
 | Thorium |	<a  href="https://www.oecd-nea.org/jcms/pl_14270/chemical-thermodynamics-of-thorium" target="_blank" rel="noopener">Rand et al. (2008)</a> |
 | Tin |	<a  href="https://www.oecd-nea.org/jcms/pl_14372/chemical-thermodynamics-of-tin" target="_blank" rel="noopener">Gamsjäger et al. (2012)</a> |
 | Iron – Part 1	| <a  href="https://www.oecd-nea.org/jcms/pl_14374/chemical-thermodynamics-of-iron-part-1" target="_blank" rel="noopener">Lemire et al. (2013)</a> |
-| Iron - Part 2 | <a  href="https://www.oecd-nea.org/jcms/pl_22611/chemical-thermodynamics-of-iron-part-2" target="_blank" rel="noopener">Lemire et al. (2019)</a> |
+| Iron – Part 2 | <a  href="https://www.oecd-nea.org/jcms/pl_22611/chemical-thermodynamics-of-iron-part-2" target="_blank" rel="noopener">Lemire et al. (2019)</a> |
 | Second update of uranium, neptunium, plutonium, americium and technetium | <a  href="https://www.oecd-nea.org/jcms/pl_46643/second-update-on-the-chemical-thermodynamics-of-u-np-pu-am-and-tc" target="_blank" rel="noopener">Grenthe et al. (2020)</a> |
 
 
