@@ -45,7 +45,7 @@ Their hope of increasing cooperative activities was in vain, and the “prototyp
 
 The task group did work on at least one further project in 1988 - 1990, some of which was finally published as a journal article (<a  href="https://doi.org/10.1063/1.555964" target="_blank" rel="noopener">Parker and Khodakovskii 1995</a>) where the authors state: “This paper is concerned with the evaluation and selection of the thermochemical properties of the aqueous ions Fe2+ and Fe3+ and with those related key compounds that are in the ‘key network’. The evaluation of the above mentioned species is part of a study of the thermochemical properties of iron and some of its compounds, undertaken as part of a larger international project of thermodynamic tables under the auspices of the CODATA Task Group on Chemical Thermodynamic Tables.”
 
-The work of <a  href="https://doi.org/10.1063/1.555964" target="_blank" rel="noopener">Parker and Khodakovskii 1995</a> has later been used in the NEA TDB review of iron.
+The work of <a  href="https://doi.org/10.1063/1.555964" target="_blank" rel="noopener">Parker and Khodakovskii (1995)</a> has later been used in the NEA TDB review of iron.
 
 **Task Group on Geothermodynamic Data** – This Task Group was started in 1984 with the goal of extending the CODATA work on accurate thermodynamic properties of simple, well-defined chemical compounds to the more complex minerals encountered by geologists. Preliminary reports were issued but the resources were not available to produce a comprehensive database of mineral thermodynamics (<a  href="http://www.codata.org/uploads/CODATA@45years.pdf" target="_blank" rel="noopener">Lide and Wood 2012</a>).
 
