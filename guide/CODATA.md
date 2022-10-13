@@ -43,7 +43,7 @@ In their chapter “The Future”, Garvin et al. (1987) write: “At present, th
 
 Their hope of increasing cooperative activities was in vain, and the “prototype tables” remained the first and last publication of the task group.
 
-The task group did work on at least one further project in 1988 - 1990, some of which was finally published as a journal article (<a  href="https://doi.org/10.1063/1.555964" target="_blank" rel="noopener">Parker and Khodakovskii 1995</a>) where the authors state: “This paper is concerned with the evaluation and selection of the thermochemical properties of the aqueous ions Fe^2^^+^ and Fe^3^^+^ and with those related key compounds that are in the ‘key network’. The evaluation of the above mentioned species is part of a study of the thermochemical properties of iron and some of its compounds, undertaken as part of a larger international project of thermodynamic tables under the auspices of the CODATA Task Group on Chemical Thermodynamic Tables.”
+The task group did work on at least one further project in 1988 - 1990, some of which was finally published as a journal article (<a  href="https://doi.org/10.1063/1.555964" target="_blank" rel="noopener">Parker and Khodakovskii 1995</a>) where the authors state: “This paper is concerned with the evaluation and selection of the thermochemical properties of the aqueous ions Fe^2+^ and Fe^3+^ and with those related key compounds that are in the ‘key network’. The evaluation of the above mentioned species is part of a study of the thermochemical properties of iron and some of its compounds, undertaken as part of a larger international project of thermodynamic tables under the auspices of the CODATA Task Group on Chemical Thermodynamic Tables.”
 
 The work of <a  href="https://doi.org/10.1063/1.555964" target="_blank" rel="noopener">Parker and Khodakovskii (1995)</a> has later been used in the NEA TDB review of iron.
 
@@ -61,6 +61,6 @@ The book *CODATA Key Values for Thermodynamics* (Cox et al. 1989) is still avail
 
 ---
 
-[^1]: CODATA Bulletins nos. 1-67 may be purchased from the CODATA Secretariat, 51 Boulevard de Montmorency, 75016 Paris, France.
+[^1]: <small>CODATA Bulletins nos. 1-67 may be purchased from the CODATA Secretariat, 51 Boulevard de Montmorency, 75016 Paris, France.</small>
 [^2]: <small>Cox, J.D.,Wagman, D.D., Medvedev, V.A. (Eds.), 1989. CODATA Key Values for Thermodynamics. CODATA Series on Thermodynamic Properties. Hemisphere, New York, p. 271.</small>
 [^3]: <small>Garvin, D., Parker, V.B., White Jr., H.J. (Eds.), 1987. CODATA Thermodynamic Tables–Selections for Some Compounds of Calcium and Related Mixtures: A Prototype Set of Tables. CODATA Series on Thermodynamic Properties. Hemisphere, New York, p. 356.</small>
