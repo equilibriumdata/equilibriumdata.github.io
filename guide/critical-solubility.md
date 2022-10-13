@@ -73,4 +73,4 @@ List of all references of interest for the reader.
 
 ## Availability
 
-The list of all solubility volumes is available <a  href="https://srdata.nist.gov/solubility/IUPAC/iupac.aspx" target="_blank" rel="noopener">here</a>. The initial volumes (1 to 65, which corresponds to 1979-1996) were scanned by NIST into PDF files and digitized. Volumes 66-102 are available at the Journal of Physical and Chemical Reference Data and thus at a cost. 
+The list of all solubility volumes is available <a  href="https://srdata.nist.gov/solubility/IUPAC/iupac.aspx" target="_blank" rel="noopener">here</a>. The initial volumes (1 to 65, which corresponds to 1979-1996) were scanned by NIST into PDF files and digitized. Volumes 66-105 are available at the Journal of Physical and Chemical Reference Data and thus at a cost. 
