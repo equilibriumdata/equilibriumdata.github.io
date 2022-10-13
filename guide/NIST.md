@@ -60,3 +60,5 @@ This database has been discontinued but the latest version (Version 8.0) can be 
 [^6]: <small>Smith, R.M., Martell, A.E., 1989. Critical Stability Constants. Volume 6: Second Supplement. Plenum Press, New York, pp. 643.</small>
 
 [^7]: <small>Smith, R.M., Martell, A.E., 1985. The selection of critical stability constants. In: Chemical Equilibrium and Reaction Models. SSSA Special Publication 42. Soil Science Society of America, American Society of Agronomy, US, pp. 7-29.</small>
+
+---
