@@ -18,7 +18,7 @@ layout: default
       <a href="guide/NEA.html">NEA</a>
       <a href="guide/PSI.html">PSI/Nagra</a>
       <a href="guide/thermochimie.html">ThermoChimie</a>
-      <a class="active" href="THEREDA.html">THEREDA</a>
+      <a href="THEREDA.html">THEREDA</a>
     </div>
   </li>
   <li><a class="active" href="/cost-nectar.html">Metal hydrolysis</a></li>
