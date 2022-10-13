@@ -38,7 +38,7 @@ Since 1979, over 70 SDS volumes have been published, including evaluated data on
 
 ## Scope
 
-The IUPAC Solubility Data Project (SDP) has as its aim a comprehensive review of published data for solubilities of gases, liquids and solids in liquids or solids. A uniform format is followed for the assessment of all literature data sets. Where data from different sources agree sufficiently, recommended values are proposed. More information can be found at <a  href="https://srdata.nist.gov/solubility/intro.aspx" target="_blank" rel="noopener">here</a>.
+The IUPAC Solubility Data Project (SDP) has as its aim a comprehensive review of published data for solubilities of gases, liquids and solids in liquids or solids. A uniform format is followed for the assessment of all literature data sets. Where data from different sources agree sufficiently, recommended values are proposed. More information can be found at <a  href="https://srdata.nist.gov/solubility/intro.aspx" target="_blank" rel="noopener">here</a> (last update of data content 2012).
 
 List of all references of interest for the reader.
 
