@@ -137,7 +137,7 @@ Kasarnowsky, J., 1924. Tellurige Säure als Base [Telluric acid as base]. Zeitsc
 
 <a  href="//doi.org/10.1524/zkri.1926.63.1.502" target="_blank" rel="noopener">Kirkpatrick, L.M., Pauling, L., 1926. XXVIII. Über die Kristallstruktur der kubischen Tellursäure [On the crystal structure of cubic telluric acid]. Zeitschrift für Kristallographie 63, 502–506 [in German]</a>.
   
-Klett, A., 1900. Zur Kenntniss der reducirenden Eigenschaften der Bakterien. Zeitschrift für Hygiene und Infektionskrankheiten 33, 137.
+<a  href="//doi.org/10.1007/BF02283172" target="_blank" rel="noopener">Klett, A., 1900. Zur Kenntniss der reducirenden Eigenschaften der Bakterien. Zeitschrift für Hygiene und Infektionskrankheiten 33, 137</a>.
 
 Latimer, W.M., 1938. ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions‘ (Prentice-Hall: Englewood Cliffs, NJ)
 
@@ -147,27 +147,27 @@ Latimer, W.M., 1953. ‘The Oxidation States of the Elements and their Potential
 
 Lide, D.R., Frederikse, H.P.R., 1995. ‘CRC Handbook of Chemistry and Physics, 76th Edn., A Ready-Reference Book of Chemical and Physical Data’ (CRC Press: Cleveland, US)
 
-Lingane, J.J., Niedrach, L.W., 1948. Polarography of selenium and tellurium. I. The -2 states. Journal of the American Chemical Society 70, 4115–4120. doi:10.1021/ja01192a041
+<a  href="//doi.org/10.1021/ja01192a041" target="_blank" rel="noopener">Lingane, J.J., Niedrach, L.W., 1948. Polarography of selenium and tellurium. I. The -2 states. Journal of the American Chemical Society 70, 4115–4120</a>.
 
-Lourijsen-Teyssèdre, M., 1955. Condensation phenomena in inorganic chemistry. XI. Constitution of tellurate solutions. Bulletin de la Societé Chimique de France 22, 1196–1202. [in French] (Contribution à l’étude des phénomènes de condensation en chimie minérale. 11. – Constitution des solutions de tellurates)
+Lourijsen-Teyssèdre, M., 1955. Contribution à l’étude des phénomènes de condensation en chimie minérale. 11. – Constitution des solutions de tellurates [Condensation phenomena in inorganic chemistry. XI. Constitution of tellurate solutions]. Bulletin de la Societé Chimique de France 22, 1196–1202 [in French].
 
-Masson, M.R., 1976. Some equilibrium constants of tellurous acid. Journal of Inorganic and Nuclear Chemistry 38, 545–548. doi:10.1016/0022-1902(76)80301-6
+<a  href="//doi.org/10.1007/BF00810280" target="_blank" rel="noopener">Marhold, H., Sagmüller, W., Gamsjäger, H., 1988. The volume change for the dissociation of telluric acid. Monatshefte für Chemie 119, 1369–1373</a>.
 
-Masson, M.R., Lutz, H.D., Engelen, B., 1986. Sulfites, Selenites and Tellurites. IUPAC Solubility Data Series Volume 26. Available at: https://srdata.nist.gov/solubility/IUPAC/iupac.aspx, last accessed 8 March 2019.
+Markus, Y., 2018. Do doubly charged monatomicanions exist in aqueous solution?. Archives of Organic and Inorganic Chemical Sciences 2(2), MS.ID.000134.
 
-Marhold, H., Sagmueller, W., Gamsjaeger, H., 1988) The volume change for the dissociation of telluric acid. Monatshefte für Chemie 119, 1369–1373. doi:10.1007/BF00810280
+<a  href="//doi.org/10.1007/BF02036310" target="_blank" rel="noopener">Maruyama, Y., Yamaashi, Y., 1985. Adsorption and colloidal behaviour of traces of tellurium(IV) in aqueous solutions. Journal of Radioanalytical and Nuclear Chemistry 91, 67–72</a>.
 
-Markus, Y., 2018 Do doubly charged monatomicanions exist in aqueous solution? Archives of Organic and Inorganic Chemical Sciences 2(2) MS.ID.000134.
+<a  href="//doi.org/10.1016/0022-1902(76)80301-6" target="_blank" rel="noopener">Masson, M.R., 1976. Some equilibrium constants of tellurous acid. Journal of Inorganic and Nuclear Chemistry 38, 545–548</a>.
 
-Maruyama, Y., Yamaashi, Y., 1985. Adsorption and colloidal behaviour of traces of tellurium(IV) in aqueous solutions. Journal of Radioanalytical and Nuclear Chemistry 91, 67–72. doi:10.1007/BF02036310 
+<a  href="https://srdata.nist.gov/solubility/IUPAC/SDS-26/SDS-26.aspx" target="_blank" rel="noopener">Masson, M.R., Lutz, H.D., Engelen, B., 1986. Sulfites, Selenites and Tellurites. IUPAC Solubility Data Series Volume 26</a>.
 
-May, P.M., 2000. A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chemical Communications 0, 1265–1266. doi:10.1039/B003157G
+<a  href="//doi.org/10.1039/B003157G" target="_blank" rel="noopener">May, P.M., 2000. A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chemical Communications 0, 1265–1266</a>.
 
-May, P.M., Batka, D., Hefter, G., Königsberger, E., Rowland, D., 2018. Goodbye to S2- in aqueous solution. Chemical Communications 54, 1980–1983. doi:10.1039/C8CC00187A
+<a  href="//doi.org/10.1039/C8CC00187A" target="_blank" rel="noopener">May, P.M., Batka, D., Hefter, G., Königsberger, E., Rowland, D., 2018. Goodbye to S2- in aqueous solution. Chemical Communications 54, 1980–1983</a>.
 
-May, P.M., Rowland, D., 2018, JESS, a Joint Expert Speciation System - VI: Thermodynamically-consistent standard Gibbs energies of reaction for aqueous solutions. New Journal of Chemistry   42, 7617–7629. doi:10.1039/C7NJ03597G
+<a  href="//doi.org/10.1039/C7NJ03597G" target="_blank" rel="noopener">May, P.M., Rowland, D., 2018, JESS, a Joint Expert Speciation System - VI: Thermodynamically-consistent standard Gibbs energies of reaction for aqueous solutions. New Journal of Chemistry   42, 7617–7629</a>.
 
-McPhail, 1995. Thermodynamic properties of aqueous tellurium species between 25 and 350oC. Geochimica et Cosmochimica Acta 59, 851–866. doi:10.1016/0016-7037(94)00353-X
+<a  href="//doi.org/10.1016/0016-7037(94)00353-X" target="_blank" rel="noopener">McPhail, D.C., 1995. Thermodynamic properties of aqueous tellurium species between 25 and 350oC. Geochimica et Cosmochimica Acta 59, 851–866</a>.
 
 Mills, K.C., 1974. ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and Tellurides’. (Butterworths, London).
 
