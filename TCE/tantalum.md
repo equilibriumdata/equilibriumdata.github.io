@@ -54,7 +54,7 @@ layout: default
 
 Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177.
 
-Arana, G., Etxebarria, N., Fernandez, L.A., Madariaga, J.M., 1995. Hydrolysis of Nb(V) and Ta(V) in aqueous KCl at 25oC. Part II: Construction of a thermodynamic model for Ta(V). J. Solution Chem. 24, 611–622.
+Arana, G., Etxebarria, N., Fernandez, L.A., Madariaga, J.M., 1995. Hydrolysis of Nb(V) and Ta(V) in aqueous KCl at 25 &deg;C. Part II: Construction of a thermodynamic model for Ta(V). J. Solution Chem. 24, 611–622.
 
 Aveston, J., Johnson J.S., 1964. Hydrolysis of tantalum(V): Equilibrium ultracentrifugation and Raman spectra of potassium tantalate. Inorg. Chem. 3, 1051–1053.
 
@@ -64,7 +64,7 @@ Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1965. Oxalato-complexes of tanta
 
 Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York)
 
-Balogh, E., Anderson, T.M., Rustad, J.R., Nyman, M., Casey, W.H., 2007. Rates of oxygen-isotope exchange between sites in the &#91;HxTa6O19&#93;(8-x)-(aq) Lindqvist ion and aqueous solutions: Comparisons to &#91;HxNb6O19&#93;(8-x)-(aq). Inorg. Chem. 46, 7032–7039.
+Balogh, E., Anderson, T.M., Rustad, J.R., Nyman, M., Casey, W.H., 2007. Rates of oxygen-isotope exchange between sites in the &#91;H<sub>x</sub>Ta<sub>6</sub>O<sub>19</sub>&#93;<sup>(8-x)</sup>-(aq) Lindqvist ion and aqueous solutions: Comparisons to &#91;H<sub>x</sub>Nb<sub>6</sub>O<sub>19</sub>&#93;<sup>(8-x)</sup>-(aq). Inorg. Chem. 46, 7032–7039.
 
 Baumann, E.W., 1972. Investigation of the tantalum fluoride system using the fluoride-selective electrode. J. Inorg. Nucl. Chem. 34, 687–695.
 
