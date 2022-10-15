@@ -47,9 +47,9 @@ layout: default
 | TeO<sub>2</sub>(OH)<sub>4</sub><sup>2–</sup> + H<sup>+</sup> = TeO(OH)<sub>5</sub><sup>–</sup> |	10.83 |
 | TeO(OH)<sub>5</sub><sup>–</sup> + H<sup>+</sup> = Te(OH)<sub>6</sub> |	7.696 |
 | 2 Te(OH)<sub>6</sub> = Te<sub>2</sub>O(OH)<sub>11</sub><sup>–</sup> + H<sup>+</sup> |	–6.929 |
-| Te(0) + 2e<sup>–</sup> = Te<sup>2–</sup> |	–38.43 |
-| H<sub>2</sub>TeO<sub>3</sub> + 4H<sup>+</sup> + 4e– = Te(0) + 3H<sub>2</sub>O |	41.09 |
-| Te(OH)<sub>6</sub> + 2H<sup>+</sup> + 2e<sup>–</sup> = TeO<sub>2</sub>(s) + 4H<sub>2</sub>O |	34.52 |
+| Te(0) + 2 e<sup>–</sup> = Te<sup>2–</sup> |	–38.43 |
+| H<sub>2</sub>TeO<sub>3</sub> + 4 H<sup>+</sup> + 4 e– = Te(0) + 3 H<sub>2</sub>O |	41.09 |
+| Te(OH)<sub>6</sub> + 2 H<sup>+</sup> + 2 e<sup>–</sup> = TeO<sub>2</sub>(s) + 4 H<sub>2</sub>O |	34.52 |
 
 # References
 
