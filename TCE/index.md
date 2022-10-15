@@ -6,7 +6,7 @@ layout: default
   <li><a href="/">Home</a></li>
   <li class="dropdown1">
     <a href="javascript:void(0)" class="dropbtn">Guide</a>
-    <div class="dropdown1-content">
+    <div class="dropdown-content">
       <a href="/guide/index.html">Index</a>
       <a href="/guide/noncritical.html">Non-critical</a>
       <a href="/guide/critical-equilibrium.html">Critical equilibrium</a>
@@ -25,7 +25,7 @@ layout: default
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
   <li class="dropdown2">
     <a href="javascript:void(0)" class="dropbtn" class="active">TCEs</a>
-    <div class="dropdown2-content">
+    <div class="dropdown-content">
       <a class="active" href="index.html">Index</a>
       <a href="niobium.html">Niobium</a>
       <a href="tantalum.html">Tantalum</a>
