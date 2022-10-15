@@ -63,7 +63,7 @@ Antikainen, P.J., 1957b. The thermodynamics of the ionization of telluric acid i
 
 Antikainen, P.J., Tevanen, K., 1960. The effect of polyelectrolytes on the formation of polyacids. Telluric acid in aqueous sodium perchlorate solutions. Suomen Kemistilehti B33, 59–60.
 
-Awad, S.A., 1962. Poisoning effect of telluride ions on hydrogen evolution and cathodic formation of hydrogen telluride. Journal of Physical Chemistry 66, 890–894. doi:10.1021/j100811a031
+<a  href="//doi.org/10.1021/j100811a031" target="_blank" rel="noopener">Awad, S.A., 1962. Poisoning effect of telluride ions on hydrogen evolution and cathodic formation of hydrogen telluride. Journal of Physical Chemistry 66, 890–894</a>.
 
 Baes, C.F., Mesmer, R.E., 1976. ‘The hydrolysis of cations’ (Wiley: New York)
 
@@ -73,7 +73,7 @@ Barin, I., Platski, G., 1995. ‘Thermochemical Data on Pure Substances. 3rd edi
 
 Biryukov, V.P., Ganelina, E.S., 1971. Acid dissociation constants of orthotelluric acid. Russian Journal of Inorganic Chemistry 16, 320–323.
 
-Biver, M., Filella, M., 2016. Bulk dissolution rates of cadmium and bismuth tellurides as a function of pH, temperature and dissolved oxygen. Environmental Science & Technology 50, 4675−4681. doi:10.1021/acs.est.5b05920
+<a  href="//doi.org/10.1021/acs.est.5b05920" target="_blank" rel="noopener">Biver, M., Filella, M., 2016. Bulk dissolution rates of cadmium and bismuth tellurides as a function of pH, temperature and dissolved oxygen. Environmental Science & Technology 50, 4675−4681</a>.
 
 Biver, M., Quentel, F., Filella, M., 2015. Direct determination of tellurium and its redox speciation at the low nanogram level in natural waters by catalytic cathodic stripping voltammetry. Talanta 144, 1007–1013. doi:10.1016/j.talanta.2015.07.010
 
