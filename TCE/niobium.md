@@ -45,7 +45,7 @@ layout: default
 | Nb<sub>6</sub>O<sub>19</sub><sup>8–</sup> + H<sup>+</sup> = HNb<sub>6</sub>O<sub>19</sub><sup>7–</sup> |	14.95 |
 | HNb<sub>6</sub>O<sub>19</sub><sup>7–</sup> + H<sup>+</sup> = H<sub>2</sub>Nb<sub>6</sub>O<sub>19</sub><sup>6–</sup> |	13.23 |
 | H<sub>2</sub>Nb<sub>6</sub>O<sub>19</sub><sup>6–</sup> + H<sup>+</sup> = H<sub>3</sub>Nb<sub>6</sub>O<sub>19</sub><sup>5–</sup> |	11.73 |
-| HNa<sub>7</sub>Nb<sub>6</sub>O<sub>19</sub>	&middot;.5H<sub>2</sub>O(s) = 7 Na<sup>+</sup> + HNb<sub>6</sub>O<sub>19</sub> |	11.85 |
+| HNa<sub>7</sub>Nb<sub>6</sub>O<sub>19</sub>	&middot;5H<sub>2</sub>O(s) = 7 Na<sup>+</sup> + HNb<sub>6</sub>O<sub>19</sub> |	11.85 |
 
 # References
 
