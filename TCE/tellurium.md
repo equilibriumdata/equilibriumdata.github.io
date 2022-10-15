@@ -53,7 +53,7 @@ layout: default
 
 # References
 
-Afifi, A.A., Kelly, W.C., Essene, E.J., 1988. Phase relations among tellurides, sulfides, and oxides: I. Thermochemical data and calculated equilibria. Economic Geology 83, 377–394. doi:10.2113/gsecongeo.83.2.377
+Afifi, A.A., Kelly, W.C., Essene, E.J., 1988. Phase relations among tellurides, sulfides, and oxides: I. Thermochemical data and calculated equilibria. Economic Geology 83, 377–394. (https://doi.org/10.2113/gsecongeo.83.2.377)
 
 Andersson, E., Lindqvist, O., Yamaguchi, T., 1981. An X-ray diffraction study on the structure of telluric acid Te(OH)6 in aqueous solution Acta Chemica Scandinavica A35, 591–597. doi:10.3891/acta.chem.scand.35a-0591
 
