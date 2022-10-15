@@ -229,7 +229,7 @@ Here the result of data queries for most elements in the periodic in pdf format.
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Fm.pdf" target="_blank" rel="noopener">Fm</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Md.pdf" target="_blank" rel="noopener">Md</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/No.pdf" target="_blank" rel="noopener">No</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Lr.pdf" target="_blank" rel="noopener">Lr</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Lr</td>
     <td></td>
   </tr>
 </table>
