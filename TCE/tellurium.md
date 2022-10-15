@@ -5,7 +5,7 @@ layout: default
 <ul>
   <li><a href="/">Home</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn"">Guide</a>
+    <a href="javascript:void(0)" class="dropbtn">Guide</a>
     <div class="dropdown-content">
       <a href="/guide/index.html">Index</a>
       <a href="/guide/noncritical.html">Non-critical</a>
@@ -34,14 +34,19 @@ layout: default
   </li>
 </ul>
 
-# Technology Critical Elements (TCEs) - Index
+# Tellurium
 
-I critically evaluated equilibrium constants for some technology critical elements (TCEs) at 25 oC and 1 atm (Nb, Ta and Te) with the aim of providing set of constants that help future investigations of the environmental chemistry and (eco)toxicology of these elements requiring a coherent thermodynamic database. Results have been published in peer-reviewed journals, not all as Open Access articles.
-                              
-This site offers the final set of constants for each element as well as the list of references of the corresponding articles with Doi and link when available. In the cases where no Doi exists and the article is not easily available, the pdf is given.
-
-[Niobium](niobium.html)
-
-[Tantalum](tantalum.html)
-
-[Tellurium](tellurium.html)
+| Reaction |	log10K’ |
+| :--- | :--- |
+| Te2– + H+ = HTe– |	11.81 |
+| HTe– + H+ = H2Te |	2.476 |
+| TeO32– + H+ = HTeO3– |	9.928 |
+| HTeO3– + H+ = H2TeO3 |	6.445 |
+| H2TeO3 + H+ = Te(OH)3+ |	2.415 |
+| TeO2(s) + H2O = H2TeO3 |	–4.709 |
+| TeO2(OH)42– + H+ = TeO(OH)5– |	10.83 |
+| TeO(OH)5– + H+ = Te(OH)6 |	7.696 |
+| 2 Te(OH)6 = Te2O(OH)11– + H+ |	–6.929 |
+| Te(0) + 2e– = Te2– |	–38.43 |
+| H2TeO3 + 4H+ + 4e– = Te(0) + 3H2O |	41.09 |
+| Te(OH)6 + 2H+ + 2e– = TeO2(s) + 4H2O |	34.52 |
