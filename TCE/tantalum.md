@@ -36,13 +36,13 @@ layout: default
 
 # Tantalum
 
-| Reaction |	logK |
-| --- | --- |
-| Ta(OH)5(s) = Ta(OH)50 |	–5.295 |
-| Ta2O5(s) + 5 H2O = 2 Ta(OH)50	 | –20.00 |
-| Ta(OH)5 + H+ = Ta(OH)4+ + H2O |	0.7007 |
-| Ta6O198– + H+ = HTa6O197– |	16.35|
-| HTa6O197– + H+ = H2Ta6O196– |	14.00 |
+| Reaction |	<i>log</i><sub>10</sub><i>K<i/> |
+| :--- | :--- |
+| Ta(OH)<sub>5</sub>(s) = Ta(OH)<sub>5</sub><sup>0</sup> |	–5.295 |
+| Ta<sub>2</sub>O<sub>5</sub>(s) + 5 H<sub>2</sub>O = 2 Ta(OH)<sub>5</sub><sup>0</sup>	 | –20.00 |
+| Ta(OH)<sub>5</sub> + H<sup>+</sup> = Ta(OH)<sub>4</sub><sup>+</sup> + H<sub>2</sub>O |	0.7007 |
+| Ta<sub>6</sub>O<sub>19</sub><sup>8–</sup> + H<sup>+</sup> = HTa<sub>6</sub>O<sub>19</sub><sup>7–</sup> |	16.35|
+| HTa<sub>6</sub>O<sub>19</sub><sup>7–</sup> + H<sup>+</sup> = H<sub>2</sub>Ta<sub>6</sub>O<sub>19</sub><sup>6–</sup> |	14.00 |
 | Ta2O5(s) + 6 F– + 4 H+ + H2O = 2 TaF3(OH)3– |	8.886 |
 | Ta2O5(s) + 10 F– + 10 H+ = 2 TaF50 + 5 H2O |	31.35 |
 | TaF5 + F– = TaF6– |	3.003 |
