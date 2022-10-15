@@ -67,7 +67,7 @@ Antikainen, P.J., Tevanen, K., 1960. The effect of polyelectrolytes on the forma
 
 Baes, C.F., Mesmer, R.E., 1976. ‘The hydrolysis of cations’ (Wiley: New York)
 
-Bakunina, I.I., Murashova, V.I., 1970. A spectrophotometric study of the interaction of tellurium(IV) with Br- ions in strongly acid solutions. Zhurnal Analiticheskoi Khimii 25, 142–146. [in Russian]
+Bakunina, I.I., Murashova, V.I., 1970. A spectrophotometric study of the interaction of tellurium(IV) with Br- ions in strongly acid solutions. Zhurnal Analiticheskoi Khimii 25, 142–146 [in Russian].
 
 Barin, I., Platski, G., 1995. ‘Thermochemical Data on Pure Substances. 3rd edition’. (VCH:  New York).
 
@@ -77,13 +77,13 @@ Biryukov, V.P., Ganelina, E.S., 1971. Acid dissociation constants of orthotellur
 
 <a  href="//doi.org/10.1016/j.talanta.2015.07.010" target="_blank" rel="noopener">Biver, M., Quentel, F., Filella, M., 2015. Direct determination of tellurium and its redox speciation at the low nanogram level in natural waters by catalytic cathodic stripping voltammetry. Talanta 144, 1007–1013</a>.
 
-<a  href="//doi.org/10.1051/JCP/1920180028" target="_blank" rel="noopener">Blanc, E., 1920 Determination of the dissociation constants of some mineral acids [Détermination de la constante de dissociation de quelques acides minéraux]. Journal de Chimie Physique 18, 28–45 [in French]</a>. 
+<a  href="//doi.org/10.1051/JCP/1920180028" target="_blank" rel="noopener">Blanc, E., 1920 Détermination de la constante de dissociation de quelques acides minéraux [Determination of the dissociation constants of some mineral acids]. Journal de Chimie Physique 18, 28–45 [in French]</a>. 
 
 Bouroushian, M., 2010. Electrochemistry of the Chalcogens. In ‘Electrochemistry of Metal Chalcogenides’(ed Bouroushian M) pp. 57-75 (Springer Verlag: Heidelberg, Germany)
 
-Brito, F., 1966. Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25 &deg;C [Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 &deg;C]. Anales de Física y Química 62, 197–108 [in Spanish]. 
+Brito, F., 1966. Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 &deg;C [Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25 &deg;C]. Anales de Física y Química 62, 197–108 [in Spanish]. 
 
-Bruner-Krakau, L., 1913. About selenium and tellurium as acids. Zeitschrift für Elektrochemie 19, 861. doi:10.1002/bbpc.19130192107 [in German] (Über Selen- und Tellurwasserstoff als Säuren)
+Bruner-Krakau, L., 1913. Über Selen- und Tellurwasserstoff als Säuren [About selenium and tellurium as acids]. Zeitschrift für Elektrochemie 19, 861 [in German].
 
 <a  href="//doi.org/10.1016/j.aca.2015.11.035" target="_blank" rel="noopener">Chen, Y.W., Alzahrani, A., Deng, T.L., Belzile, N., 2016. Valence properties of tellurium in different chemical systems and its determination in refractory environmental samples using hydride generation-Atomic fluorescence spectroscopy. Analytica Chimica Acta 905, 42–50</a>.
 
@@ -95,13 +95,15 @@ Cooper, W.C., 1971. Analytical chemistry of tellurium. In ‘Tellurium’ (Ed WC
 
 D’yachkova, I.B., Khodakovskiy, I.L., 1968. Thermodynamic equilibria in the systems S-H2O, Se-H2O, and Te-H2 in the 25-300°C range and their geochemical interpretations. Geochemistry International 5, 1108–l 125.
 
-<a  href="//doi.org/10.1051/jcp/1922200167" target="_blank" rel="noopener">de Hlasko, 1922. On the hydrolytic dissociation of hydrogen selenide and hydrogen telluride [Sur la dissociation électrolytique de I’hydrogène sélénié et de l’hydrogène telluré]. Journal de Chimie Physique 20, 167–172 [in French].
+<a  href="//doi.org/10.1051/jcp/1922200167" target="_blank" rel="noopener">de Hlasko, 1922. Sur la dissociation électrolytique de I’hydrogène sélénié et de l’hydrogène telluré [On the hydrolytic dissociation of hydrogen selenide and hydrogen telluride]. Journal de Chimie Physique 20, 167–172 [in French].
 
-Earley, J.E., Fortnum, D.H., Wojcicki, A., Edwards, J.O., 1959. Constitution of aqueous oxyanions: perrhenate, tellurate and silicate ions. Journal of the American Chemical Society 81, 1295–1301. doi:10.1021/ja01515a009
+<a  href="//doi.org/10.1021/ja01515a009" target="_blank" rel="noopener">Earley, J.E., Fortnum, D.H., Wojcicki, A., Edwards, J.O., 1959. Constitution of aqueous oxyanions: perrhenate, tellurate and silicate ions. Journal of the American Chemical Society 81, 1295–1301</a>.
 
-Ellison, H.R., Edwards, J.O., Healy, E.A., 1962. The polyoltellurate complex formation reaction. I. Thermodynamics of telluric acid ionization and of complex formation. Journal of the American Chemical Society 84, 1820– 1824. doi:10.1021/ja00869a010
+<a  href="//doi.org/10.1021/ja00869a010" target="_blank" rel="noopener">Ellison, H.R., Edwards, J.O., Healy, E.A., 1962. The polyoltellurate complex formation reaction. I. Thermodynamics of telluric acid ionization and of complex formation. Journal of the American Chemical Society 84, 1820– 1824</a>.
 
-Filella, M., Reimann, C., Biver, M., Rodushkin, I., Rodushkina, K., 2019. Tellurium in the environment: current knowledge and identification of the gaps. Environmental Chemistry 16, xxxx. doi:10.1071/EN18229
+<a  href="//doi.org/10.1016/J.CHEMGEO.2016.01.015" target="_blank" rel="noopener">Etschmann, B.E., Li, W., Pring, A., Grundler, P.V., Tooth, B., Borg, S., Testemale, D., Brewe, D., Brugger, J., 2016. The role of Te(IV) and Bi(III) chloride complexes in hydrothermal mass transfer: An X-ray absorption spectroscopy study. Chemical Geology 425, 37–51</a>.
+
+<a  href="//doi.org/10.1071/EN18229" target="_blank" rel="noopener">Filella, M., Reimann, C., Biver, M., Rodushkin, I., Rodushkina, K., 2019. Tellurium in the environment: current knowledge and identification of the gaps. Environmental Chemistry 16, 215-228</a>.
 
 Fouasson, F., 1946. On the constitution of telluric acid. Comptes Rendus Hebdomadaires des séances de l’Académie des sciences 222, 958-959. [in French] (Sur la constitution de l’acide tellurique)
 
