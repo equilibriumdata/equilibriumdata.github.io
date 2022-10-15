@@ -4,7 +4,7 @@ layout: default
 ---
 <ul>
   <li><a href="/">Home</a></li>
-  <li class="dropdown1">
+  <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Guide</a>
     <div class="dropdown-content">
       <a href="/guide/index.html">Index</a>
@@ -23,7 +23,7 @@ layout: default
   </li>
   <li><a href="/sc-database.html">SC-Database</a></li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
-  <li class="dropdown2">
+  <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn" class="active">TCEs</a>
     <div class="dropdown-content">
       <a class="active" href="index.html">Index</a>
