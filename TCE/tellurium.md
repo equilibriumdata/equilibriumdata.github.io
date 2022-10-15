@@ -75,9 +75,9 @@ Biryukov, V.P., Ganelina, E.S., 1971. Acid dissociation constants of orthotellur
 
 <a  href="//doi.org/10.1021/acs.est.5b05920" target="_blank" rel="noopener">Biver, M., Filella, M., 2016. Bulk dissolution rates of cadmium and bismuth tellurides as a function of pH, temperature and dissolved oxygen. Environmental Science & Technology 50, 4675−4681</a>.
 
-Biver, M., Quentel, F., Filella, M., 2015. Direct determination of tellurium and its redox speciation at the low nanogram level in natural waters by catalytic cathodic stripping voltammetry. Talanta 144, 1007–1013. doi:10.1016/j.talanta.2015.07.010
+<a  href="//doi.org/10.1016/j.talanta.2015.07.010" target="_blank" rel="noopener">Biver, M., Quentel, F., Filella, M., 2015. Direct determination of tellurium and its redox speciation at the low nanogram level in natural waters by catalytic cathodic stripping voltammetry. Talanta 144, 1007–1013</a>.
 
-Blanc, E., 1920 Determination of the dissociation constants of some mineral acids. Journal de Chimie Physique 18, 28–45. [in French] (Détermination de la constante de dissociation de quelques acides minéraux)
+<a  href="//doi.org/10.1051/JCP/1920180028" target="_blank" rel="noopener">Blanc, E., 1920 Determination of the dissociation constants of some mineral acids [Détermination de la constante de dissociation de quelques acides minéraux]. Journal de Chimie Physique 18, 28–45 [in French]</a>. 
 
 Bouroushian, M., 2010. Electrochemistry of the Chalcogens. In ‘Electrochemistry of Metal Chalcogenides’(ed Bouroushian M) pp. 57-75 (Springer Verlag: Heidelberg, Germany)
 
