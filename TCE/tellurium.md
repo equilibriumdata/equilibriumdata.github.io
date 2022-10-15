@@ -87,31 +87,56 @@ Bruner-Krakau, L., 1913. About selenium and tellurium as acids. Zeitschrift für
 
 Chen, Y.W., Alzahrani, A., Deng, T.L., Belzile, N., 2016. Valence properties of tellurium in different chemical systems and its determination in refractory environmental samples using hydride generation-Atomic fluorescence spectroscopy. Analytica Chimica Acta 905, 42–50. doi:10.1016/j.aca.2015.11.035
 
-Cooper WC (1971). Analytical chemistry of tellurium. In ‘Tellurium’ (Ed WC Cooper) pp. 281–312. (Van Nostrand Company: New York)
-de Hlasko (1922). On the hydrolytic dissociation of hydrogen selenide and hydrogen telluride. Journal de Chimie Physique 20, 167–172. doi:10.1051/jcp/1922200167 [in French] (Sur la dissociation électrolytique de I’hydrogène sélénié et de l’hydrogène telluré). doi https://doi.org/10.1051/jcp/1922200167
-D'Ulivo A (1997). Determination of selenium and tellurium in environmental samples. Analyst 122, 117R–144R. doi:10.1039/A704759B
-D’Ulivo A, Marcucci K, Bramanti E, Lampugnani L, Zamboni R (2000). Studies in hydride generation atomic fluorescence determination of selenium and tellurium. Part 1 — self interference effect in hydrogen telluride generation and the effect of KI. Spectrochimica Acta Part B: Atomic Spectroscopy 55, 1325-1336. doi:10.1016/S0584-8547(00)00237-8
-D’yachkova IB, Khodakovskiy IL (1968). Thermodynamic equilibria in the systems S-H2O, Se-H2O, and Te-H2 in the 25-300°C range and their geochemical interpretations. Geochemistry International 5, 1108–l 125.
-Earley JE, Fortnum DH, Wojcicki A, Edwards JO (1959). Constitution of aqueous oxyanions: perrhenate, tellurate and silicate ions. Journal of the American Chemical Society 81, 1295–1301. doi:10.1021/ja01515a009
-Ellison HR, Edwards JO, Healy EA (1962). The polyoltellurate complex formation reaction. I. Thermodynamics of telluric acid ionization and of complex formation. Journal of the American Chemical Society 84, 1820– 1824. doi:10.1021/ja00869a010
-Filella M, Reimann C, Biver M, Rodushkin I, Rodushkina K (2019). Tellurium in the environment: current knowledge and identification of the gaps. Environmental Chemistry 16, xxxx. doi:10.1071/EN18229
-Fouasson F (1946). On the constitution of telluric acid. Comptes Rendus Hebdomadaires des séances de l’Académie des sciences 222, 958-959. [in French] (Sur la constitution de l’acide tellurique)
-Fouasson F (1948). Contribution to the study of telluric acid. Annales de Chimie 12(3), 594-643 [in French] (Contribution à l’étude de l’acide tellurique)
-Ganelina ES, Borgoyakov VA (1971). Acid dissociation constants of tellurous acid. Russian Journal of Inorganic Chemistry 16, 318–320.
-Ganelina ES, Bubnova LA (1973). The role of tellurium(VI) in the formation of heteropolyacids. Russian Journal of Inorganic Chemistry 18, 1152–1155.
-Greiver TN, Zaitsev YA (1972). Reaction of sodium tellurite and potassium tellurate with sulphide ions in alkaline solutions. Russian Journal of Inorganic Chemistry 17, 795–798.
-Grundler PV, Brugger J, Etschmann BE, Helm L, Liu W, Spry PG, Tian Y-W, Testemale D, Pring A (2013). Speciation of aqueous tellurium(IV) in hydrothermal solutions and vapors, and the role of oxidized tellurium species in Te transport and gold deposition. Geochimica et Cosmochimica Acta 120, 298–325. doi:10.1016/j.gca.2013.06.009
-Gutbier A (1902). Contributions to knowledge of telluric acid. Zeitschrift für anorganische Chemie 29, 23–35. [in German] (Beiträge fur Kenntnis der Tellursäure)
-He Z, Yang Y, Liu J-W, Yu S-H (2017). Emerging tellurium nanostructures: controllable synthesis and their applications. Chemical Society Reviews 46, 2732-2753. doi:10.1039/c7cs00013h
-Inzelt G (2006). Standard, Formal and Other Characteristic Potentials of Selected Electrode Reactions.In’Encyclopedia of Electrochemistry, Vol. 7a’ (ed Bard AJ, Stratmann M, Scholz F, Pickett CJ) pp. 17-75 (Wiley-VCH: Weinheim, Germany)
-Issa IM, Awad SA (1954). The amphoteric properties of tellurium dioxide. Journal of Physical Chemistry 58, 948–951. doi:10.1021/j150521a004
-Kaehler HC, Brito F (1971). Studies on the chemistry of tellurium. I Tellurates (VI) (NaCl 1 M, 25oC). Anales de Física y Química 67, 1185–1191. [in Spanish] (Estudios sobre la química del teluro. I. Teluratos (VI) (NaCl 1 M, 25oC))
-Kaehler HC, Mateo S, Brito F (1975a). Studies on the chemistry of tellurium. V. Tellurates(VI) (KCl 1 M, 35, 40 and 45 C). Anales de Física y Química 71, 689–691. [in Spanish] (Estudios sobre la química del teluro. V. Teluratos(VI) (KCl 1 M, 35, 40 y 45 oC)
-Kaehler HC, Mateo S, Ascanio J, Brito F (1975b). Thermochemistry of reactions in solution II.3. Tellurates (KCl 1 M and 25 C). Anales de Física y Química 71, 763–764. [in Spanish] (Termoquímica de reacciones en disolución. II.3. Teluratos (KCl 1 M y 25 oC)
-Kasarnowsky J (1923) The position of tellurium in the electromotive series. Zeitschrift für anorganische und allgemeine Chemie 128, 17–32. doi:10.1002/zaac.19231280104 [in German] (Die Stellung des Tellurs in der Voltaschen Spannungsreihe)
-Kasarnowsky J (1924). Telluric acid as base. Zeitschrift für Physikalische Chemie 109, 287–301. [in German] (Tellurige Säure als Base)
-Kirkpatrick LM, Pauling L (1926). On the crystal structure of cubic telluric acid. Zeitschrift für Kristallographie 63, 502–506. [in German] (XXVIII. Über die Kristallstruktur der kubischen Tellursäure) doi:10.1524/zkri.1926.63.1.502
-Klett A (1900). Zur Kenntniss der reducirenden Eigenschaften der Bakterien. Zeitschrift für Hygiene und Infektionskrankheiten 33, 137.
+Cooper, W.C., 1971. Analytical chemistry of tellurium. In ‘Tellurium’ (Ed WC Cooper) pp. 281–312. (Van Nostrand Company: New York)
+
+de Hlasko, 1922. On the hydrolytic dissociation of hydrogen selenide and hydrogen telluride. Journal de Chimie Physique 20, 167–172. doi:10.1051/jcp/1922200167 [in French] (Sur la dissociation électrolytique de I’hydrogène sélénié et de l’hydrogène telluré). doi https://doi.org/10.1051/jcp/1922200167
+
+D'Ulivo, A., 1997. Determination of selenium and tellurium in environmental samples. Analyst 122, 117R–144R. doi:10.1039/A704759B
+
+D’Ulivo, A., Marcucci, K., Bramanti, E., Lampugnani, L., Zamboni, R., 2000. Studies in hydride generation atomic fluorescence determination of selenium and tellurium. Part 1 — self interference effect in hydrogen telluride generation and the effect of KI. Spectrochimica Acta Part B: Atomic Spectroscopy 55, 1325-1336. doi:10.1016/S0584-8547(00)00237-8
+
+D’yachkova, I.B., Khodakovskiy, I.L., 1968. Thermodynamic equilibria in the systems S-H2O, Se-H2O, and Te-H2 in the 25-300°C range and their geochemical interpretations. Geochemistry International 5, 1108–l 125.
+
+Earley, J.E., Fortnum, D.H., Wojcicki, A., Edwards, J.O., 1959. Constitution of aqueous oxyanions: perrhenate, tellurate and silicate ions. Journal of the American Chemical Society 81, 1295–1301. doi:10.1021/ja01515a009
+
+Ellison, H.R., Edwards, J.O., Healy, E.A., 1962. The polyoltellurate complex formation reaction. I. Thermodynamics of telluric acid ionization and of complex formation. Journal of the American Chemical Society 84, 1820– 1824. doi:10.1021/ja00869a010
+
+Filella, M., Reimann, C., Biver, M., Rodushkin, I., Rodushkina, K., 2019. Tellurium in the environment: current knowledge and identification of the gaps. Environmental Chemistry 16, xxxx. doi:10.1071/EN18229
+
+Fouasson, F., 1946. On the constitution of telluric acid. Comptes Rendus Hebdomadaires des séances de l’Académie des sciences 222, 958-959. [in French] (Sur la constitution de l’acide tellurique)
+
+Fouasson, F., 1948. Contribution to the study of telluric acid. Annales de Chimie 12(3), 594-643 [in French] (Contribution à l’étude de l’acide tellurique)
+
+Ganelina, E.S., Borgoyakov, V.A., 1971. Acid dissociation constants of tellurous acid. Russian Journal of Inorganic Chemistry 16, 318–320.
+
+Ganelina, E.S., Bubnova, L.A., 1973. The role of tellurium(VI) in the formation of heteropolyacids. Russian Journal of Inorganic Chemistry 18, 1152–1155.
+
+Greiver, T.N., Zaitsev, Y.A., 1972. Reaction of sodium tellurite and potassium tellurate with sulphide ions in alkaline solutions. Russian Journal of Inorganic Chemistry 17, 795–798.
+
+Grundler, P.V., Brugger, J., Etschmann, B.E., Helm, L., Liu, W., Spry, P.G., Tian, Y.-W., Testemale, D., Pring, A., 2013. Speciation of aqueous tellurium(IV) in hydrothermal solutions and vapors, and the role of oxidized tellurium species in Te transport and gold deposition. Geochimica et Cosmochimica Acta 120, 298–325. doi:10.1016/j.gca.2013.06.009
+
+Gutbier, A., 1902. Contributions to knowledge of telluric acid. Zeitschrift für anorganische Chemie 29, 23–35. [in German] (Beiträge fur Kenntnis der Tellursäure)
+
+He, Z., Yang, Y., Liu, J.-.W, Yu, S.-H., 2017. Emerging tellurium nanostructures: controllable synthesis and their applications. Chemical Society Reviews 46, 2732-2753. doi:10.1039/c7cs00013h
+
+Inzelt, G., 2006. Standard, Formal and Other Characteristic Potentials of Selected Electrode Reactions.In’Encyclopedia of Electrochemistry, Vol. 7a’ (ed Bard AJ, Stratmann M, Scholz F, Pickett CJ) pp. 17-75 (Wiley-VCH: Weinheim, Germany)
+
+Issa, I.M., Awad, S.A., 1954. The amphoteric properties of tellurium dioxide. Journal of Physical Chemistry 58, 948–951. doi:10.1021/j150521a004
+
+Kaehler, H.C., Brito, F., 1971. Studies on the chemistry of tellurium. I Tellurates (VI) (NaCl 1 M, 25oC). Anales de Física y Química 67, 1185–1191. [in Spanish] (Estudios sobre la química del teluro. I. Teluratos (VI) (NaCl 1 M, 25oC))
+
+Kaehler, H.C., Mateo, S., Brito, F., 1975a. Studies on the chemistry of tellurium. V. Tellurates(VI) (KCl 1 M, 35, 40 and 45 C). Anales de Física y Química 71, 689–691. [in Spanish] (Estudios sobre la química del teluro. V. Teluratos(VI) (KCl 1 M, 35, 40 y 45 oC)
+
+Kaehler, H.C., Mateo, S., Ascanio, J., Brito, F., 1975b. Thermochemistry of reactions in solution II.3. Tellurates (KCl 1 M and 25 C). Anales de Física y Química 71, 763–764. [in Spanish] (Termoquímica de reacciones en disolución. II.3. Teluratos (KCl 1 M y 25 oC)
+
+Kasarnowsky, J., 1923 The position of tellurium in the electromotive series. Zeitschrift für anorganische und allgemeine Chemie 128, 17–32. doi:10.1002/zaac.19231280104 [in German] (Die Stellung des Tellurs in der Voltaschen Spannungsreihe)
+
+Kasarnowsky, J., 1924. Telluric acid as base. Zeitschrift für Physikalische Chemie 109, 287–301. [in German] (Tellurige Säure als Base)
+
+Kirkpatrick, L.M., Pauling, L., 1926. On the crystal structure of cubic telluric acid. Zeitschrift für Kristallographie 63, 502–506. [in German] (XXVIII. Über die Kristallstruktur der kubischen Tellursäure) doi:10.1524/zkri.1926.63.1.502
+
+Klett, A., 1900. Zur Kenntniss der reducirenden Eigenschaften der Bakterien. Zeitschrift für Hygiene und Infektionskrankheiten 33, 137.
+
 Latimer WM (1938). ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions‘ (Prentice-Hall: Englewood Cliffs, NJ)
 Latimer WM (1953). ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions. Second Edition‘ (Prentice-Hall: Englewood Cliffs, NJ)
 Lee DS, Edmond JM (1985). Tellurium species in seawater. Nature 313, 782–785. doi:10.1038/313782a0
