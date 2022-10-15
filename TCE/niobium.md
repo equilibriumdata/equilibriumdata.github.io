@@ -47,7 +47,7 @@ layout: default
 | H<sub>2</sub>Nb<sub>6</sub>O<sub>19</sub><sup>6–</sup> + H<sup>+</sup> = H<sub>3</sub>Nb<sub>6</sub>O<sub>19</sub><sup>5–</sup> |	11.73 |
 | HNa<sub>7</sub>Nb<sub>6</sub>O<sub>19</sub>	&middot;5H<sub>2</sub>O(s) = 7 Na<sup>+</sup> + HNb<sub>6</sub>O<sub>19</sub> |	11.85 |
 
-# References
+## References
 
 Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177.
 
