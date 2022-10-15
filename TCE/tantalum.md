@@ -5,7 +5,7 @@ layout: default
 <ul>
   <li><a href="/">Home</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn"">Guide</a>
+    <a href="javascript:void(0)" class="dropbtn">Guide</a>
     <div class="dropdown-content">
       <a href="/guide/index.html">Index</a>
       <a href="/guide/noncritical.html">Non-critical</a>
@@ -34,14 +34,18 @@ layout: default
   </li>
 </ul>
 
-# Technology Critical Elements (TCEs) - Index
+# Tantalum
 
-I critically evaluated equilibrium constants for some technology critical elements (TCEs) at 25 oC and 1 atm (Nb, Ta and Te) with the aim of providing set of constants that help future investigations of the environmental chemistry and (eco)toxicology of these elements requiring a coherent thermodynamic database. Results have been published in peer-reviewed journals, not all as Open Access articles.
-                              
-This site offers the final set of constants for each element as well as the list of references of the corresponding articles with Doi and link when available. In the cases where no Doi exists and the article is not easily available, the pdf is given.
-
-[Niobium](niobium.html)
-
-[Tantalum](tantalum.html)
-
-[Tellurium](tellurium.html)
+| Reaction |	logK |
+| --- | --- |
+| Ta(OH)5(s) = Ta(OH)50 |	–5.295 |
+| Ta2O5(s) + 5 H2O = 2 Ta(OH)50	 | –20.00 |
+| Ta(OH)5 + H+ = Ta(OH)4+ + H2O |	0.7007 |
+| Ta6O198– + H+ = HTa6O197– |	16.35|
+| HTa6O197– + H+ = H2Ta6O196– |	14.00 |
+| Ta2O5(s) + 6 F– + 4 H+ + H2O = 2 TaF3(OH)3– |	8.886 |
+| Ta2O5(s) + 10 F– + 10 H+ = 2 TaF50 + 5 H2O |	31.35 |
+| TaF5 + F– = TaF6– |	3.003 |
+| TaF6– + F– = TaF72– |	2.129 |
+| TaF72– + F– = TaF83– |	2.374 |
+| TaF83– + F– = TaF94– |	2.673 |
