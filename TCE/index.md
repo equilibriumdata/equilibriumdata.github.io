@@ -36,7 +36,7 @@ layout: default
 
 # Technology Critical Elements (TCEs) - Index
 
-I critically evaluated equilibrium constants for some technology critical elements (TCEs) at 25 oC and 1 atm (Nb, Ta and Te) with the aim of providing set of constants that help future investigations of the environmental chemistry and (eco)toxicology of these elements requiring a coherent thermodynamic database. Results have been published in peer-reviewed journals, not all as Open Access articles.
+I critically evaluated equilibrium constants for some technology critical elements (TCEs) at 25 &deg;oC and 1 atm (Nb, Ta and Te) with the aim of providing a set of constants that help future investigations of the environmental chemistry and (eco)toxicology of these elements requiring a coherent thermodynamic database. Results have been published in peer-reviewed journals, not all as Open Access articles.
                               
 This site offers the final set of constants for each element as well as the list of references of the corresponding articles with Doi and link when available. In the cases where no Doi exists and the article is not easily available, the pdf is given.
 
