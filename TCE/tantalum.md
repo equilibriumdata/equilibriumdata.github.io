@@ -50,7 +50,7 @@ layout: default
 | TaF<sub>7</sub><sup>2–</sup> + F<sup>–</sup> = TaF<sub>8</sub><sup>3–</sup> |	2.374 |
 | TaF<sub>8</sub><sup>3–</sup> + F<sup>–</sup> = TaF<sub>9</sub><sup>4–</sup> |	2.673 |
 
-# References
+## References
 
 Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177.
 
