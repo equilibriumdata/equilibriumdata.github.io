@@ -81,21 +81,21 @@ Biryukov, V.P., Ganelina, E.S., 1971. Acid dissociation constants of orthotellur
 
 Bouroushian, M., 2010. Electrochemistry of the Chalcogens. In ‘Electrochemistry of Metal Chalcogenides’(ed Bouroushian M) pp. 57-75 (Springer Verlag: Heidelberg, Germany)
 
-Brito, F., 1966. Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25C. Anales de Física y Química 62, 197–108. [in Spanish] (Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 oC)
+Brito, F., 1966. Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25 &deg;C [Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 &deg;C]. Anales de Física y Química 62, 197–108 [in Spanish]. 
 
 Bruner-Krakau, L., 1913. About selenium and tellurium as acids. Zeitschrift für Elektrochemie 19, 861. doi:10.1002/bbpc.19130192107 [in German] (Über Selen- und Tellurwasserstoff als Säuren)
 
-Chen, Y.W., Alzahrani, A., Deng, T.L., Belzile, N., 2016. Valence properties of tellurium in different chemical systems and its determination in refractory environmental samples using hydride generation-Atomic fluorescence spectroscopy. Analytica Chimica Acta 905, 42–50. doi:10.1016/j.aca.2015.11.035
+<a  href="//doi.org/10.1016/j.aca.2015.11.035" target="_blank" rel="noopener">Chen, Y.W., Alzahrani, A., Deng, T.L., Belzile, N., 2016. Valence properties of tellurium in different chemical systems and its determination in refractory environmental samples using hydride generation-Atomic fluorescence spectroscopy. Analytica Chimica Acta 905, 42–50</a>.
 
 Cooper, W.C., 1971. Analytical chemistry of tellurium. In ‘Tellurium’ (Ed WC Cooper) pp. 281–312. (Van Nostrand Company: New York)
 
-de Hlasko, 1922. On the hydrolytic dissociation of hydrogen selenide and hydrogen telluride. Journal de Chimie Physique 20, 167–172. doi:10.1051/jcp/1922200167 [in French] (Sur la dissociation électrolytique de I’hydrogène sélénié et de l’hydrogène telluré). doi https://doi.org/10.1051/jcp/1922200167
+<a  href="//doi.org/10.1039/A704759B" target="_blank" rel="noopener">D'Ulivo, A., 1997. Determination of selenium and tellurium in environmental samples. Analyst 122, 117R–144R</a>.
 
-D'Ulivo, A., 1997. Determination of selenium and tellurium in environmental samples. Analyst 122, 117R–144R. doi:10.1039/A704759B
-
-D’Ulivo, A., Marcucci, K., Bramanti, E., Lampugnani, L., Zamboni, R., 2000. Studies in hydride generation atomic fluorescence determination of selenium and tellurium. Part 1 — self interference effect in hydrogen telluride generation and the effect of KI. Spectrochimica Acta Part B: Atomic Spectroscopy 55, 1325-1336. doi:10.1016/S0584-8547(00)00237-8
+<a  href="//doi.org/10.1016/S0584-8547(00)00237-8" target="_blank" rel="noopener">D’Ulivo, A., Marcucci, K., Bramanti, E., Lampugnani, L., Zamboni, R., 2000. Studies in hydride generation atomic fluorescence determination of selenium and tellurium. Part 1 — self interference effect in hydrogen telluride generation and the effect of KI. Spectrochimica Acta Part B: Atomic Spectroscopy 55, 1325-1336</a>.
 
 D’yachkova, I.B., Khodakovskiy, I.L., 1968. Thermodynamic equilibria in the systems S-H2O, Se-H2O, and Te-H2 in the 25-300°C range and their geochemical interpretations. Geochemistry International 5, 1108–l 125.
+
+<a  href="//doi.org/10.1051/jcp/1922200167" target="_blank" rel="noopener">de Hlasko, 1922. On the hydrolytic dissociation of hydrogen selenide and hydrogen telluride [Sur la dissociation électrolytique de I’hydrogène sélénié et de l’hydrogène telluré]. Journal de Chimie Physique 20, 167–172 [in French].
 
 Earley, J.E., Fortnum, D.H., Wojcicki, A., Edwards, J.O., 1959. Constitution of aqueous oxyanions: perrhenate, tellurate and silicate ions. Journal of the American Chemical Society 81, 1295–1301. doi:10.1021/ja01515a009
 
