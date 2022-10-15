@@ -37,15 +37,15 @@ layout: default
 # Niobium
 
 | Reaction |	logK0 |
-| --- | --- |
-| Nb(OH)5(am.,s) = Nb(OH)50 |	–7.510 |
-| Nb2O5(s) + 5 H2O = 2 Nb(OH)50 |	–18.31 |
-| Nb(OH)50 + H+ = Nb(OH)4+ + H2O |	1.603 |
-| Nb(OH)50 + H2O = Nb(OH)6– + H+ |	–4.951 |
-| Nb6O198– + H+ = HNb6O197– |	14.95 |
-| HNb6O197– + H+ = H2Nb6O196– |	13.23 |
-| H2Nb6O196– + H+ = H3Nb6O195– |	11.73 |
-| HNa7Nb6O19.5H2O(s) = 7 Na+ + HNb6O19 |	11.85 |
+| :--- | :--- |
+| Nb(OH)<sub>5</sub>(am.,s) = Nb(OH)<sub>5</sub><sup>0</sup> |	–7.510 |
+| Nb<sub>2</sub>O<sub>5</sub>(s) + 5 H<sub>2</sub>O = 2 Nb(OH)<sub>5</sub><sup>0</sup> |	–18.31 |
+| Nb(OH)<sub>5</sub><sup>0</sup> + H<sup>+</sup> = Nb(OH)<sub>4</sub><sup>+</sup> + H<sub>2</sub>O |	1.603 |
+| Nb(OH)<sub>5</sub><sup>0</sup> + H<sub>2</sub>O = Nb(OH)<sub>6</sub><sup>–</sup> + H<sup>+</sup> |	–4.951 |
+| Nb<sub>6</sub>O<sub>19</sub><sup>8–</sup> + H<sup>+</sup> = HNb<sub>6</sub>O<sub>19</sub><sup>7–</sup> |	14.95 |
+| HNb<sub>6</sub>O<sub>19</sub><sup>7–</sup> + H<sup>+</sup> = H<sub>2</sub>Nb<sub>6</sub>O<sub>19</sub><sup>6–</sup> |	13.23 |
+| H<sub>2</sub>Nb<sub>6</sub>O<sub>19</sub><sup>6–</sup> + H<sup>+</sup> = H<sub>3</sub>Nb<sub>6</sub>O<sub>19</sub><sup>5–</sup> |	11.73 |
+| HNa<sub>7</sub>Nb<sub>6</sub>O<sub>19</sub>	&middot;.5H<sub>2</sub>O(s) = 7 Na<sup>+</sup> + HNb<sub>6</sub>O<sub>19</sub> |	11.85 |
 
 # References
 
