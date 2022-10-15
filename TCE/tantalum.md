@@ -64,7 +64,7 @@ Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1965. Oxalato-complexes of tanta
 
 Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York)
 
-Balogh, E., Anderson, T.M., Rustad, J.R., Nyman, M., Casey, W.H., 2007. Rates of oxygen-isotope exchange between sites in the [HxTa6O19](8-x)-(aq) Lindqvist ion and aqueous solutions: Comparisons to &lsqb;HxNb6O19&rsqb;(8-x)-(aq). Inorg. Chem. 46, 7032–7039.
+Balogh, E., Anderson, T.M., Rustad, J.R., Nyman, M., Casey, W.H., 2007. Rates of oxygen-isotope exchange between sites in the &#91;HxTa6O19&#93;(8-x)-(aq) Lindqvist ion and aqueous solutions: Comparisons to &#91;HxNb6O19&#93;(8-x)-(aq). Inorg. Chem. 46, 7032–7039.
 
 Baumann, E.W., 1972. Investigation of the tantalum fluoride system using the fluoride-selective electrode. J. Inorg. Nucl. Chem. 34, 687–695.
 
