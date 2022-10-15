@@ -23,9 +23,9 @@ layout: default
   </li>
   <li><a href="/sc-database.html">SC-Database</a></li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
-  <li class="dropdown">
+  <li class="dropdown2">
     <a href="javascript:void(0)" class="dropbtn" class="active">TCEs</a>
-    <div class="dropdown-content">
+    <div class="dropdown2-content">
       <a class="active" href="index.html">Index</a>
       <a href="niobium.html">Niobium</a>
       <a href="tantalum.html">Tantalum</a>
@@ -34,7 +34,7 @@ layout: default
   </li>
 </ul>
 
-# Technology Critical Elements (TCEs) - Index
+# Technology Critical Elements (TCEs) - Index (canvi)
 
 I critically evaluated equilibrium constants for some technology critical elements (TCEs) at 25 oC and 1 atm (Nb, Ta and Te) with the aim of providing set of constants that help future investigations of the environmental chemistry and (eco)toxicology of these elements requiring a coherent thermodynamic database. Results have been published in peer-reviewed journals, not all as Open Access articles.
                               
