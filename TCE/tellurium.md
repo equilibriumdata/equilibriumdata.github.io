@@ -40,13 +40,13 @@ layout: default
 | :--- | :--- |
 | Te<sup>2–</sup> + H<sup>+</sup> = HTe<sup>–</sup> |	11.81 |
 | HTe<sup>–</sup> + H<sup>+</sup> = H<sub>2</sub>Te |	2.476 |
-| TeO32– + H+ = HTeO3– |	9.928 |
-| HTeO3– + H+ = H2TeO3 |	6.445 |
-| H2TeO3 + H+ = Te(OH)3+ |	2.415 |
-| TeO2(s) + H2O = H2TeO3 |	–4.709 |
-| TeO2(OH)42– + H+ = TeO(OH)5– |	10.83 |
-| TeO(OH)5– + H+ = Te(OH)6 |	7.696 |
-| 2 Te(OH)6 = Te2O(OH)11– + H+ |	–6.929 |
-| Te(0) + 2e– = Te2– |	–38.43 |
-| H2TeO3 + 4H+ + 4e– = Te(0) + 3H2O |	41.09 |
-| Te(OH)6 + 2H+ + 2e– = TeO2(s) + 4H2O |	34.52 |
+| TeO<sub>3</sub><sup>2–</sup> + H<sup>+</sup> = HTeO<sub>3</sub><sup>–</sup> |	9.928 |
+| HTeO<sub>3</sub><sup>–</sup> + H<sup>+</sup> = H<sub>2</sub>TeO<sub>3</sub> |	6.445 |
+| H<sub>2</sub>TeO<sub>3</sub> + H<sup>+</sup> = Te(OH)<sub>3</sub><sup>+</sup> |	2.415 |
+| TeO<sub>2</sub>(s) + H<sub>2</sub>O = H<sub>2</sub>TeO<sub>3</sub> |	–4.709 |
+| TeO<sub>2</sub>(OH)<sub>4</sub><sup>2–</sup> + H<sup>+</sup> = TeO(OH)<sub>5</sub><sup>–</sup> |	10.83 |
+| TeO(OH)<sub>5</sub><sup>–</sup> + H<sup>+</sup> = Te(OH)<sub>6</sub> |	7.696 |
+| 2 Te(OH)<sub>6</sub> = Te<sub>2</sub>O(OH)<sub>11</sub><sup>–</sup> + H<sup>+</sup> |	–6.929 |
+| Te(0) + 2e<sup>–</sup> = Te<sup>2–</sup> |	–38.43 |
+| H<sub>2</sub>TeO<sub>3</sub> + 4H<sup>+</sup> + 4e– = Te(0) + 3H<sub>2</sub>O |	41.09 |
+| Te(OH)<sub>6</sub> + 2H<sup>+</sup> + 2e<sup>–</sup> = TeO<sub>2</sub>(s) + 4H<sub>2</sub>O |	34.52 |
