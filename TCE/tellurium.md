@@ -137,43 +137,82 @@ Kirkpatrick, L.M., Pauling, L., 1926. On the crystal structure of cubic telluric
 
 Klett, A., 1900. Zur Kenntniss der reducirenden Eigenschaften der Bakterien. Zeitschrift für Hygiene und Infektionskrankheiten 33, 137.
 
-Latimer WM (1938). ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions‘ (Prentice-Hall: Englewood Cliffs, NJ)
-Latimer WM (1953). ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions. Second Edition‘ (Prentice-Hall: Englewood Cliffs, NJ)
-Lee DS, Edmond JM (1985). Tellurium species in seawater. Nature 313, 782–785. doi:10.1038/313782a0
-Lide DR, Frederikse HPR (1995). ‘CRC Handbook of Chemistry and Physics, 76th Edn., A Ready-Reference Book of Chemical and Physical Data’ (CRC Press: Cleveland, US)
-Lingane JJ, Niedrach LW (1948). Polarography of selenium and tellurium. I. The -2 states. Journal of the American Chemical Society 70, 4115–4120. doi:10.1021/ja01192a041
-Lourijsen-Teyssèdre M (1955). Condensation phenomena in inorganic chemistry. XI. Constitution of tellurate solutions. Bulletin de la Societé Chimique de France 22, 1196–1202. [in French] (Contribution à l’étude des phénomènes de condensation en chimie minérale. 11. – Constitution des solutions de tellurates)
-Masson MR (1976). Some equilibrium constants of tellurous acid. Journal of Inorganic and Nuclear Chemistry 38, 545–548. doi:10.1016/0022-1902(76)80301-6
-Masson MR, Lutz HD, Engelen B (1986). Sulfites, Selenites and Tellurites. IUPAC Solubility Data Series Volume 26. Available at: https://srdata.nist.gov/solubility/IUPAC/iupac.aspx, last accessed 8 March 2019.
-Marhold H, Sagmueller W, Gamsjaeger H (1988.) The volume change for the dissociation of telluric acid. Monatshefte für Chemie 119, 1369–1373. doi:10.1007/BF00810280
-Markus Y (2018) Do doubly charged monatomicanions exist in aqueous solution? Archives of Organic and Inorganic Chemical Sciences 2(2) MS.ID.000134.
-Maruyama Y, Yamaashi Y (1985). Adsorption and colloidal behaviour of traces of tellurium(IV) in aqueous solutions. Journal of Radioanalytical and Nuclear Chemistry 91, 67–72. doi:10.1007/BF02036310 
-May PM (2000). A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chemical Communications 0, 1265–1266. doi:10.1039/B003157G
-May PM, Batka D, Hefter G, Königsberger E, Rowland D (2018). Goodbye to S2- in aqueous solution. Chemical Communications 54, 1980–1983. doi:10.1039/C8CC00187A
-May PM, Rowland D (2018), JESS, a Joint Expert Speciation System - VI: Thermodynamically-consistent standard Gibbs energies of reaction for aqueous solutions. New Journal of Chemistry   42, 7617–7629. doi:10.1039/C7NJ03597G
-McPhail (1995). Thermodynamic properties of aqueous tellurium species between 25 and 350oC. Geochimica et Cosmochimica Acta 59, 851–866. doi:10.1016/0016-7037(94)00353-X
-Mills KC(1974). ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and Tellurides’. (Butterworths, London).
-Milne JB (1991). Hexachlorotellurate(IV) hydrolysis equilibria in hydrochloric acid. measurement by Raman and 125Te NMR spectroscopy and a reconsideration of earlier spectrophotometric results. Canadian Journal of Chemistry 69, 987–992. doi:10.1139/v91-144
-Milne JB, Moffett D (1974). Oxofluoro complex anion equilibria in aqueous hydrofluoric acid. I. Tellurate(IV). Inorganic Chemistry 13, 2750–2754. doi:10.1021/ic50141a040
-Milne J, Mahadevan M (1984). Chlorotellurate(lV) equilibria in aqueous hydrochloric acid. Inorganic Chemistry 23, 268–271. doi:10.1021/ic00171a003
-Murashova VI (1966). A study on the composition and stability of the iodotellurate complex. Zhurnal Analiticheskoi Khimii 21, 345–349 [in Russian].
-Myers RJ (2007). Second dissociation constant of H2Te and the absorption spectra of HTe-, Te2- and Te22- in aqueous solution. Journal of Solution Chemistry 36, 395–403. doi:10.1007/s10953-006-9112-
-Nabivanets BI, Kapantsyan EE, Oganesyan EN (1974). The state of tellurium(IV) in perchloric acid solutions. Russian Journal of Inorganic Chemistry 19, 394–397.
-Nabivanets BI, Oganesyan EN and Kapantsyan EE (1980). Tellurium(IV) sulphato-complexes in solution. Russian Journal of Inorganic Chemistry 25, 313–314.
-Nazarenko VA, Shitareva GG, Poluektova EN (1973). The ionisation constants of tellurous and selenous acids. Russian Journal of Inorganic Chemistry 18, 609–611.
-Nazarenko VA, Shitareva GG, Poluektova EN (1977). Spectrophotometric determination of the formation constants of tellurium(IV) hydroxo-complexes. Russian Journal of Inorganic Chemistry 27, 541–544.
-Oganesyan EN, Kapantsyan EE, Nabivanets BI, Babayan GG (1982). Nitrato-complexes of tellurium(IV) in solution. Russian Journal of Inorganic Chemistry 27, 1124–125.
-Panson AJ (1963). Polarography of the ditelluride ion. Journal of Physical Chemistry 67, 2177–2180. doi:10.1021/j100804a049
-Panson AJ (1964). A study of the telluride ion system. Journal of Physical Chemistry 68, 1721–1724. doi:10.1021/j100789a008
-Ripan R, Marc M (1966). Determination of the instability constants of hexachloro- and hexabromo- tellurides. Revue Roumaine de Chimie 11, 1063–1067. [in French] (Détermination de la constante d’instabilité des acides hexachloro- et hexabromotelluriques)
-Rosenheim A, Jander G (1918). On telluric acid and its alkali salts in their colloidal state. Kolloid-Zeitschrift 22, 23–44. [in German] (Ueber die Tellursäure und ihre Alkalisalze in ihrem Verhaiten als Halbkolloide)
-Schuhmann R (1925). The free energy and heat content of tellurium dioxide and of amorphous and metallic tellurium. The reduction potential of tellurium. Journal of the American Chemical Society 47, 356–363. doi:10.1021/ja01679a011
-Shitareva GG, Nazarenko VA (1967). Bromo-complexes of tellurium(IV). Russian Journal of Inorganic Chemistry 12, 527–530.
-Shitareva GG, Nazarenko VA (1968). Stability constants of the chloro-complexes of tellurium. Russian Journal of Inorganic Chemistry 13, 941–943.
-Siebert H (1959). Ultrared spectra of telluric acid, tellurate and antimoniate. Zeitschrift für anorganische Chemie 301, 161–170. [in German] (Ultrarotspektren von Tellursäuren, Telluraten und Antimonaten). doi:10.1002/zaac.19593010305
-Sillén LG, Martell AE (1971). ‘Stability Constants of Metal-ion Complexes SP25, Supplement No 1 to Special Publication No 25’ (The Chemical Society: London)
-Sillén LG, Martell AE (1964). ‘Stability Constants of Metal-ion Complexes SP17’ (The Chemical Society: London)
-Tucker FL, Walper JF, Appleman MD, Donohue J (1962). Complete reduction of tellurite to pure tellurium metal by microorganisms. Journal of Bacteriology 83, 1313–1314.
-USGS (2018). Selenium and Tellurium. Statistics and Information. Available at: https://minerals.usgs.gov/minerals/pubs/commodity/selenium/ [verified 8 March 2019]
-Yagasaki A, Sasaki Y (1987). Potentiometric study of heteropolyanion formation from telluric acid and molybdate anion in 1M Na(Cl). Bulletin of the Chemical Society of Japan 60, 763–764.
-Zweibel K (2010). The impact of tellurium supply on cadmium telluride photovoltaics. Science 328, 699–701. doi:10.1126/science.1189690
+Latimer, W.M., 1938. ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions‘ (Prentice-Hall: Englewood Cliffs, NJ)
+
+Latimer, W.M., 1953. ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions. Second Edition‘ (Prentice-Hall: Englewood Cliffs, NJ)
+
+Lee, D.S., Edmond, J.M., 1985. Tellurium species in seawater. Nature 313, 782–785. doi:10.1038/313782a0
+
+Lide, D.R., Frederikse, H.P.R., 1995. ‘CRC Handbook of Chemistry and Physics, 76th Edn., A Ready-Reference Book of Chemical and Physical Data’ (CRC Press: Cleveland, US)
+
+Lingane, J.J., Niedrach, L.W., 1948. Polarography of selenium and tellurium. I. The -2 states. Journal of the American Chemical Society 70, 4115–4120. doi:10.1021/ja01192a041
+
+Lourijsen-Teyssèdre, M., 1955. Condensation phenomena in inorganic chemistry. XI. Constitution of tellurate solutions. Bulletin de la Societé Chimique de France 22, 1196–1202. [in French] (Contribution à l’étude des phénomènes de condensation en chimie minérale. 11. – Constitution des solutions de tellurates)
+
+Masson, M.R., 1976. Some equilibrium constants of tellurous acid. Journal of Inorganic and Nuclear Chemistry 38, 545–548. doi:10.1016/0022-1902(76)80301-6
+
+Masson, M.R., Lutz, H.D., Engelen, B., 1986. Sulfites, Selenites and Tellurites. IUPAC Solubility Data Series Volume 26. Available at: https://srdata.nist.gov/solubility/IUPAC/iupac.aspx, last accessed 8 March 2019.
+
+Marhold, H., Sagmueller, W., Gamsjaeger, H., 1988) The volume change for the dissociation of telluric acid. Monatshefte für Chemie 119, 1369–1373. doi:10.1007/BF00810280
+
+Markus, Y., 2018 Do doubly charged monatomicanions exist in aqueous solution? Archives of Organic and Inorganic Chemical Sciences 2(2) MS.ID.000134.
+
+Maruyama, Y., Yamaashi, Y., 1985. Adsorption and colloidal behaviour of traces of tellurium(IV) in aqueous solutions. Journal of Radioanalytical and Nuclear Chemistry 91, 67–72. doi:10.1007/BF02036310 
+
+May, P.M., 2000. A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chemical Communications 0, 1265–1266. doi:10.1039/B003157G
+
+May, P.M., Batka, D., Hefter, G., Königsberger, E., Rowland, D., 2018. Goodbye to S2- in aqueous solution. Chemical Communications 54, 1980–1983. doi:10.1039/C8CC00187A
+
+May, P.M., Rowland, D., 2018, JESS, a Joint Expert Speciation System - VI: Thermodynamically-consistent standard Gibbs energies of reaction for aqueous solutions. New Journal of Chemistry   42, 7617–7629. doi:10.1039/C7NJ03597G
+
+McPhail, 1995. Thermodynamic properties of aqueous tellurium species between 25 and 350oC. Geochimica et Cosmochimica Acta 59, 851–866. doi:10.1016/0016-7037(94)00353-X
+
+Mills, K.C., 1974. ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and Tellurides’. (Butterworths, London).
+
+Milne, J.B., 1991. Hexachlorotellurate(IV) hydrolysis equilibria in hydrochloric acid. measurement by Raman and 125Te NMR spectroscopy and a reconsideration of earlier spectrophotometric results. Canadian Journal of Chemistry 69, 987–992. doi:10.1139/v91-144
+
+Milne, J.B., Moffett, D., 1974. Oxofluoro complex anion equilibria in aqueous hydrofluoric acid. I. Tellurate(IV). Inorganic Chemistry 13, 2750–2754. doi:10.1021/ic50141a040
+
+Milne, J., Mahadevan, M., 1984. Chlorotellurate(lV) equilibria in aqueous hydrochloric acid. Inorganic Chemistry 23, 268–271. doi:10.1021/ic00171a003
+
+Murashova, V.I., 1966. A study on the composition and stability of the iodotellurate complex. Zhurnal Analiticheskoi Khimii 21, 345–349 [in Russian].
+
+Myers, R.J., 2007. Second dissociation constant of H2Te and the absorption spectra of HTe-, Te2- and Te22- in aqueous solution. Journal of Solution Chemistry 36, 395–403. doi:10.1007/s10953-006-9112-
+
+Nabivanets, B.I., Kapantsyan, E.E., Oganesyan, E.N., 1974. The state of tellurium(IV) in perchloric acid solutions. Russian Journal of Inorganic Chemistry 19, 394–397.
+
+Nabivanets, B.I., Oganesyan, E.N., Kapantsyan, E.E., 1980. Tellurium(IV) sulphato-complexes in solution. Russian Journal of Inorganic Chemistry 25, 313–314.
+
+Nazarenko, V.A., Shitareva, G.G., Poluektova, E.N., 1973. The ionisation constants of tellurous and selenous acids. Russian Journal of Inorganic Chemistry 18, 609–611.
+
+Nazarenko, V.A., Shitareva, G.G., Poluektova, E.N., 1977. Spectrophotometric determination of the formation constants of tellurium(IV) hydroxo-complexes. Russian Journal of Inorganic Chemistry 27, 541–544.
+
+Oganesyan, E.N., Kapantsyan, E.E., Nabivanets, B.I., Babayan, G.G., 1982. Nitrato-complexes of tellurium(IV) in solution. Russian Journal of Inorganic Chemistry 27, 1124–125.
+
+Panson, A.J., 1963. Polarography of the ditelluride ion. Journal of Physical Chemistry 67, 2177–2180. doi:10.1021/j100804a049
+
+Panson, A.J., 1964. A study of the telluride ion system. Journal of Physical Chemistry 68, 1721–1724. doi:10.1021/j100789a008
+
+Ripan, R., Marc, M., 1966. Determination of the instability constants of hexachloro- and hexabromo- tellurides. Revue Roumaine de Chimie 11, 1063–1067. [in French] (Détermination de la constante d’instabilité des acides hexachloro- et hexabromotelluriques)
+
+Rosenheim, A., Jander, G., 1918. On telluric acid and its alkali salts in their colloidal state. Kolloid-Zeitschrift 22, 23–44. [in German] (Ueber die Tellursäure und ihre Alkalisalze in ihrem Verhaiten als Halbkolloide)
+
+Schuhmann, R., 1925. The free energy and heat content of tellurium dioxide and of amorphous and metallic tellurium. The reduction potential of tellurium. Journal of the American Chemical Society 47, 356–363. doi:10.1021/ja01679a011
+
+Shitareva, G.G., Nazarenko, V.A., 1967. Bromo-complexes of tellurium(IV). Russian Journal of Inorganic Chemistry 12, 527–530.
+
+Shitareva, G.G., Nazarenko, V.A., 1968. Stability constants of the chloro-complexes of tellurium. Russian Journal of Inorganic Chemistry 13, 941–943.
+
+Siebert, H., 1959. Ultrared spectra of telluric acid, tellurate and antimoniate. Zeitschrift für anorganische Chemie 301, 161–170. [in German] (Ultrarotspektren von Tellursäuren, Telluraten und Antimonaten). doi:10.1002/zaac.19593010305
+
+Sillén, L.G., Martell, A.E., 1971. ‘Stability Constants of Metal-ion Complexes SP25, Supplement No 1 to Special Publication No 25’ (The Chemical Society: London)
+
+Sillén, L.G., Martell, A.E., 1964. ‘Stability Constants of Metal-ion Complexes SP17’ (The Chemical Society: London)
+
+Tucker, F.L., Walper, J.F., Appleman, M.D., Donohue, J., 1962. Complete reduction of tellurite to pure tellurium metal by microorganisms. Journal of Bacteriology 83, 1313–1314.
+
+USGS, 2018. Selenium and Tellurium. Statistics and Information. Available at: https://minerals.usgs.gov/minerals/pubs/commodity/selenium/ [verified 8 March 2019]
+
+Yagasaki, A., Sasaki, Y., 1987. Potentiometric study of heteropolyanion formation from telluric acid and molybdate anion in 1M Na(Cl). Bulletin of the Chemical Society of Japan 60, 763–764.
+
+Zweibel, K., 2010. The impact of tellurium supply on cadmium telluride photovoltaics. Science 328, 699–701. doi:10.1126/science.1189690
