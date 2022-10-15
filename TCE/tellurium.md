@@ -36,10 +36,10 @@ layout: default
 
 # Tellurium
 
-| Reaction |	log10K’ |
+| Reaction |	<i>log</i><sub>10</sub><i>K’</i> |
 | :--- | :--- |
-| Te2– + H+ = HTe– |	11.81 |
-| HTe– + H+ = H2Te |	2.476 |
+| Te<sup>2–</sup> + H<sup>+</sup> = HTe<sup>–</sup> |	11.81 |
+| HTe<sup>–</sup> + H<sup>+</sup> = H<sub>2</sub>Te |	2.476 |
 | TeO32– + H+ = HTeO3– |	9.928 |
 | HTeO3– + H+ = H2TeO3 |	6.445 |
 | H2TeO3 + H+ = Te(OH)3+ |	2.415 |
