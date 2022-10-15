@@ -5,24 +5,33 @@ layout: default
 <ul>
   <li><a href="/">Home</a></li>
   <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn" class="active">Guide</a>
+    <a href="javascript:void(0)" class="dropbtn"">Guide</a>
     <div class="dropdown-content">
-      <a class="active" href="index.html">Index</a>
-      <a href="noncritical.html">Non-critical</a>
-      <a href="critical-equilibrium.html">Critical equilibrium</a>
-      <a href="critical-solubility.html">Critical solubility</a>
-      <a href="NBS.html">NBS</a>
-      <a href="CODATA.html">CODATA</a>
-      <a href="NIST.html">NIST</a>
-      <a href="JESS.html">JESS</a>
-      <a href="NEA.html">NEA</a>
-      <a href="PSI.html">PSI/Nagra</a>
-      <a href="thermochimie.html">ThermoChimie</a>
-      <a href="THEREDA.html">THEREDA</a>
+      <a href="/guide/index.html">Index</a>
+      <a href="/guide/noncritical.html">Non-critical</a>
+      <a href="/guide/critical-equilibrium.html">Critical equilibrium</a>
+      <a href="/guide/critical-solubility.html">Critical solubility</a>
+      <a href="/guide/NBS.html">NBS</a>
+      <a href="/guide/CODATA.html">CODATA</a>
+      <a href="/guide/NIST.html">NIST</a>
+      <a href="/guide/JESS.html">JESS</a>
+      <a href="/guide/NEA.html">NEA</a>
+      <a href="/guide/PSI.html">PSI/Nagra</a>
+      <a href="/guide/thermochimie.html">ThermoChimie</a>
+      <a href="/guide/THEREDA.html">THEREDA</a>
     </div>
   </li>
   <li><a href="/sc-database.html">SC-Database</a></li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn" class="active">TCEs</a>
+    <div class="dropdown-content">
+      <a class="active" href="index.html">Index</a>
+      <a href="niobium.html">Niobium</a>
+      <a href="tantalum.html">Tantalum</a>
+      <a href="tellurium.html">Tellurium</a>
+    </div>
+  </li>
 </ul>
 
 # Where to find equilibrium constants? - A Guide
