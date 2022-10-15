@@ -43,12 +43,12 @@ layout: default
 | Ta(OH)<sub>5</sub> + H<sup>+</sup> = Ta(OH)<sub>4</sub><sup>+</sup> + H<sub>2</sub>O |	0.7007 |
 | Ta<sub>6</sub>O<sub>19</sub><sup>8–</sup> + H<sup>+</sup> = HTa<sub>6</sub>O<sub>19</sub><sup>7–</sup> |	16.35|
 | HTa<sub>6</sub>O<sub>19</sub><sup>7–</sup> + H<sup>+</sup> = H<sub>2</sub>Ta<sub>6</sub>O<sub>19</sub><sup>6–</sup> |	14.00 |
-| Ta2O5(s) + 6 F– + 4 H+ + H2O = 2 TaF3(OH)3– |	8.886 |
-| Ta2O5(s) + 10 F– + 10 H+ = 2 TaF50 + 5 H2O |	31.35 |
-| TaF5 + F– = TaF6– |	3.003 |
-| TaF6– + F– = TaF72– |	2.129 |
-| TaF72– + F– = TaF83– |	2.374 |
-| TaF83– + F– = TaF94– |	2.673 |
+| Ta<sub>2</sub>O<sub>5</sub>(s) + 6 F<sup>–</sup> + 4 H<sup>+</sup> + H<sub>2</sub>O = 2 TaF<sub>3</sub>(OH)<sub>3</sub><sup>–</sup> |	8.886 |
+| Ta<sub>2</sub>O<sub>5</sub>(s) + 10 F<sup>–</sup> + 10 H<sup>+</sup> = 2 TaF<sub>5</sub><sup>0</sup> + 5 H<sub>2</sub>O |	31.35 |
+| TaF<sub>5</sub> + F<sup>–</sup> = TaF<sub>6</sub><sup>–</sup> |	3.003 |
+| TaF<sub>6</sub><sup>–</sup> + F<sup>–</sup> = TaF<sub>7</sub><sup>2–</sup> |	2.129 |
+| TaF<sub>7</sub><sup>2–</sup> + F<sup>–</sup> = TaF<sub>8</sub><sup>3–</sup> |	2.374 |
+| TaF<sub>8</sub><sup>3–</sup> + F<sup>–</sup> = TaF<sub>9</sub><sup>4–</sup> |	2.673 |
 
 # References
 
