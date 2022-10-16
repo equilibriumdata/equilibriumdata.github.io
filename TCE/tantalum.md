@@ -52,7 +52,7 @@ layout: default
 
 ## References
 
-Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177.
+https://doi.org/10.3390/inorganics3020160 Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177.
 
 Arana, G., Etxebarria, N., Fernandez, L.A., Madariaga, J.M., 1995. Hydrolysis of Nb(V) and Ta(V) in aqueous KCl at 25 &deg;C. Part II: Construction of a thermodynamic model for Ta(V). J. Solution Chem. 24, 611–622.
 
