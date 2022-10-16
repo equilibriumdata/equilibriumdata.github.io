@@ -36,7 +36,11 @@ layout: default
 
 # Tellurium
 
-| Reaction |	<i>log</i><sub>10</sub><i>K’</i> |
+Original source: 
+
+Best stability constant values for tellurium species, 25 &deg;C and I 0 mol L<sup>-1</sup>:
+
+| Reaction |	log <i>K</i> |
 | :--- | :--- |
 | Te<sup>2–</sup> + H<sup>+</sup> = HTe<sup>–</sup> |	11.81 |
 | HTe<sup>–</sup> + H<sup>+</sup> = H<sub>2</sub>Te |	2.476 |
