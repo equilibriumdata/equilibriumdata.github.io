@@ -67,11 +67,11 @@ layout: default
 
 Baes, C.F., Mesmer, R.E., 1976. ‘The hydrolysis of cations’ (Wiley: New York)
 
-Bakunina, I.I., Murashova, V.I., 1970. A spectrophotometric study of the interaction of tellurium(IV) with Br- ions in strongly acid solutions. Zhurnal Analiticheskoi Khimii 25, 142–146 [in Russian].
+<a  href="docs/70BaM.pdf" target="_blank" rel="noopener">Bakunina, I.I., Murashova, V.I., 1970. A spectrophotometric study of the interaction of tellurium(IV) with Br- ions in strongly acid solutions. Zhurnal Analiticheskoi Khimii 25, 142–146 [in Russian]</a>.
 
 Barin, I., Platski, G., 1995. ‘Thermochemical Data on Pure Substances. 3<sup>rd</sup> edition’. (VCH:  New York).
 
-Biryukov, V.P., Ganelina, E.S., 1971. Acid dissociation constants of orthotelluric acid. Russian Journal of Inorganic Chemistry 16, 320–323.
+<a  href="docs/71BiG.pdf" target="_blank" rel="noopener">Biryukov, V.P., Ganelina, E.S., 1971. Acid dissociation constants of orthotelluric acid. Russian Journal of Inorganic Chemistry 16, 320–323</a>.
 
 <a  href="//doi.org/10.1021/acs.est.5b05920" target="_blank" rel="noopener">Biver, M., Filella, M., 2016. Bulk dissolution rates of cadmium and bismuth tellurides as a function of pH, temperature and dissolved oxygen. Environmental Science & Technology 50, 4675−4681</a>.
 
@@ -125,11 +125,11 @@ Inzelt, G., 2006. Standard, Formal and Other Characteristic Potentials of Select
 
 <a  href="//doi.org/10.1021/j150521a004" target="_blank" rel="noopener">Issa, I.M., Awad, S.A., 1954. The amphoteric properties of tellurium dioxide. Journal of Physical Chemistry 58, 948–951</a>.
 
-Kaehler, H.C., Brito, F., 1971. Estudios sobre la química del teluro. I. Teluratos (VI) (NaCl 1 M, 25 &deg;C) [Studies on the chemistry of tellurium. I Tellurates (VI) (NaCl 1 M, 25 &deg;C)]. Anales de Física y Química 67, 1185–1191 [in Spanish].
+<a  href="docs/71KaB.pdf" target="_blank" rel="noopener">Kaehler, H.C., Brito, F., 1971. Estudios sobre la química del teluro. I. Teluratos (VI) (NaCl 1 M, 25 &deg;C) [Studies on the chemistry of tellurium. I Tellurates (VI) (NaCl 1 M, 25 &deg;C)]. Anales de Física y Química 67, 1185–1191 [in Spanish]</a>.
 
-Kaehler, H.C., Mateo, S., Brito, F., 1975a. Estudios sobre la química del teluro. V. Teluratos(VI) (KCl 1 M, 35, 40 y 45 &deg;C) [Studies on the chemistry of tellurium. V. Tellurates(VI) (KCl 1 M, 35, 40 and 45 &deg;C)]. Anales de Física y Química 71, 689–691 [in Spanish].
+<a  href="docs/75KMB.pdf" target="_blank" rel="noopener">Kaehler, H.C., Mateo, S., Brito, F., 1975a. Estudios sobre la química del teluro. V. Teluratos(VI) (KCl 1 M, 35, 40 y 45 &deg;C) [Studies on the chemistry of tellurium. V. Tellurates(VI) (KCl 1 M, 35, 40 and 45 &deg;C)]. Anales de Física y Química 71, 689–691 [in Spanish]</a>.
 
-Kaehler, H.C., Mateo, S., Ascanio, J., Brito, F., 1975b. Termoquímica de reacciones en disolución. II.3. Teluratos (KCl 1 M y 25 &deg;C [Thermochemistry of reactions in solution II.3. Tellurates (KCl 1 M and 25 &deg;C]. Anales de Física y Química 71, 763–764 [in Spanish].
+<a  href="docs/75KMA.pdf" target="_blank" rel="noopener">Kaehler, H.C., Mateo, S., Ascanio, J., Brito, F., 1975b. Termoquímica de reacciones en disolución. II.3. Teluratos (KCl 1 M y 25 &deg;C [Thermochemistry of reactions in solution II.3. Tellurates (KCl 1 M and 25 &deg;C]. Anales de Física y Química 71, 763–764 [in Spanish]</a>.
 
 <a  href="//doi.org/10.1002/zaac.19231280104" target="_blank" rel="noopener">Kasarnowsky, J., 1923. Die Stellung des Tellurs in der Voltaschen Spannungsreihe [The position of tellurium in the electromotive series]. Zeitschrift für anorganische und allgemeine Chemie 128, 17–32 [in German]</a>.
 
@@ -181,13 +181,13 @@ Mills, K.C., 1974. ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and 
 
 <a  href="//doi.org/10.1007/s10953-006-9112-3" target="_blank" rel="noopener">Myers, R.J., 2007. Second dissociation constant of H<sub></sub>2Te and the absorption spectra of HTe<sup>-</sup>, Te<sub>2</sub><sup>-</sup> and Te<sub>2</sub><sup>2-</sup> in aqueous solution. Journal of Solution Chemistry 36, 395–403</a>.
 
-Nabivanets, B.I., Kapantsyan, E.E., Oganesyan, E.N., 1974. The state of tellurium(IV) in perchloric acid solutions. Russian Journal of Inorganic Chemistry 19, 394–397.
+<a  href="docs/74NKO.pdf" target="_blank" rel="noopener">Nabivanets, B.I., Kapantsyan, E.E., Oganesyan, E.N., 1974. The state of tellurium(IV) in perchloric acid solutions. Russian Journal of Inorganic Chemistry 19, 394–397</a>.
 
-Nabivanets, B.I., Oganesyan, E.N., Kapantsyan, E.E., 1980. Tellurium(IV) sulphato-complexes in solution. Russian Journal of Inorganic Chemistry 25, 313–314.
+<a  href="docs/80NOK.pdf" target="_blank" rel="noopener">Nabivanets, B.I., Oganesyan, E.N., Kapantsyan, E.E., 1980. Tellurium(IV) sulphato-complexes in solution. Russian Journal of Inorganic Chemistry 25, 313–314</a>.
 
-Nazarenko, V.A., Shitareva, G.G., Poluektova, E.N., 1973. The ionisation constants of tellurous and selenous acids. Russian Journal of Inorganic Chemistry 18, 609–611.
+<a  href="docs/73NSP.pdf" target="_blank" rel="noopener">Nazarenko, V.A., Shitareva, G.G., Poluektova, E.N., 1973. The ionisation constants of tellurous and selenous acids. Russian Journal of Inorganic Chemistry 18, 609–611</a>.
 
-Nazarenko, V.A., Shitareva, G.G., Poluektova, E.N., 1977. Spectrophotometric determination of the formation constants of tellurium(IV) hydroxo-complexes. Russian Journal of Inorganic Chemistry 27, 541–544.
+<a  href="docs/77NSP.pdf" target="_blank" rel="noopener">Nazarenko, V.A., Shitareva, G.G., Poluektova, E.N., 1977. Spectrophotometric determination of the formation constants of tellurium(IV) hydroxo-complexes. Russian Journal of Inorganic Chemistry 27, 541–544</a>.
 
 Oganesyan, E.N., Kapantsyan, E.E., Nabivanets, B.I., Babayan, G.G., 1982. Nitrato-complexes of tellurium(IV) in solution. Russian Journal of Inorganic Chemistry 27, 1124–125.
 
