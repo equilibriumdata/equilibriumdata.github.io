@@ -211,7 +211,7 @@ Sillén, L.G., Martell, A.E., 1971. ‘Stability Constants of Metal-ion Complexe
 
 Sillén, L.G., Martell, A.E., 1964. ‘Stability Constants of Metal-ion Complexes SP17’ (The Chemical Society: London)
 
-<a  href="//doi.org/10.1128/jb.83.6.1313-1314.19" target="_blank" rel="noopener">Tucker, F.L., Walper, J.F., Appleman, M.D., Donohue, J., 1962. Complete reduction of tellurite to pure tellurium metal by microorganisms. Journal of Bacteriology 83, 1313–1314</a>.
+<a  href="//doi.org/10.1128/jb.83.6.1313-1314.1962 " target="_blank" rel="noopener">Tucker, F.L., Walper, J.F., Appleman, M.D., Donohue, J., 1962. Complete reduction of tellurite to pure tellurium metal by microorganisms. Journal of Bacteriology 83, 1313–1314</a>.
 
 <a  href="https://minerals.usgs.gov/minerals/pubs/commodity/selenium/" target="_blank" rel="noopener">USGS, 2018. Selenium and Tellurium. Statistics and Information</a>.
 
