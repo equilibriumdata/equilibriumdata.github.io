@@ -83,9 +83,9 @@ Barin, I., Platski, G., 1995. ‘Thermochemical Data on Pure Substances. 3<sup>r
 
 <a  href="//doi.org/10.1051/JCP/1920180028" target="_blank" rel="noopener">Blanc, E., 1920 Détermination de la constante de dissociation de quelques acides minéraux [Determination of the dissociation constants of some mineral acids]. Journal de Chimie Physique 18, 28–45 [in French]</a>. 
 
-<a  href="//doi.org/10.1007/978-3-642-03967-6_2" target="_blank" rel="noopener">Bouroushian, M., 2010. Electrochemistry of the Chalcogens. In ‘Electrochemistry of Metal Chalcogenides’ (Ed. M. Bouroushian) pp. 57-75 (Springer Verlag: Heidelberg, Germany)</a>
+<a  href="//doi.org/10.1007/978-3-642-03967-6_2" target="_blank" rel="noopener">Bouroushian, M., 2010. Electrochemistry of the Chalcogens. In ‘Electrochemistry of Metal Chalcogenides’ (Ed. M. Bouroushian) pp. 57-75 (Springer Verlag: Heidelberg, Germany)</a>.
 
-Brito, F., 1966. Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 &deg;C [Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25 &deg;C]. Anales de Física y Química 62, 197–108 [in Spanish]. 
+<a  href="docs/66Bri.pdf" target="_blank" rel="noopener">Brito, F., 1966. Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 &deg;C [Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25 &deg;C]. Anales de Física y Química 62, 197–108 [in Spanish]</a>. 
 
 Bruner-Krakau, L., 1913. Über Selen- und Tellurwasserstoff als Säuren [About selenium and tellurium as acids]. Zeitschrift für Elektrochemie 19, 861 [in German].
 
@@ -113,11 +113,11 @@ Cooper, W.C., 1971. Analytical chemistry of tellurium. In ‘Tellurium’ (Ed WC
 
 Fouasson, F., 1948. Contribution à l’étude de l’acide tellurique [Contribution to the study of telluric acid]. Annales de Chimie 12(3), 594-643. [in French].
 
-Ganelina, E.S., Borgoyakov, V.A., 1971. Acid dissociation constants of tellurous acid. Russian Journal of Inorganic Chemistry 16, 318–320.
+<a  href="docs/71GaB.pdf" target="_blank" rel="noopener">Ganelina, E.S., Borgoyakov, V.A., 1971. Acid dissociation constants of tellurous acid. Russian Journal of Inorganic Chemistry 16, 318–320</a>.
 
-Ganelina, E.S., Bubnova, L.A., 1973. The role of tellurium(VI) in the formation of heteropolyacids. Russian Journal of Inorganic Chemistry 18, 1152–1155.
+<a  href="docs/73GaB.pdf" target="_blank" rel="noopener">Ganelina, E.S., Bubnova, L.A., 1973. The role of tellurium(VI) in the formation of heteropolyacids. Russian Journal of Inorganic Chemistry 18, 1152–1155</a>.
 
-Greiver, T.N., Zaitsev, Y.A., 1972. Reaction of sodium tellurite and potassium tellurate with sulphide ions in alkaline solutions. Russian Journal of Inorganic Chemistry 17, 795–798.
+<a  href="docs/72GrZ.pdf" target="_blank" rel="noopener">Greiver, T.N., Zaitsev, Y.A., 1972. Reaction of sodium tellurite and potassium tellurate with sulphide ions in alkaline solutions. Russian Journal of Inorganic Chemistry 17, 795–798</a>.
 
 <a  href="//doi.org/10.1016/j.gca.2013.06.009" target="_blank" rel="noopener">Grundler, P.V., Brugger, J., Etschmann, B.E., Helm, L., Liu, W., Spry, P.G., Tian, Y.-W., Testemale, D., Pring, A., 2013. Speciation of aqueous tellurium(IV) in hydrothermal solutions and vapors, and the role of oxidized tellurium species in Te transport and gold deposition. Geochimica et Cosmochimica Acta 120, 298–325</a>.
 
@@ -153,7 +153,7 @@ Lide, D.R., Frederikse, H.P.R., 1995. ‘CRC Handbook of Chemistry and Physics, 
 
 <a  href="//doi.org/10.1021/ja01192a041" target="_blank" rel="noopener">Lingane, J.J., Niedrach, L.W., 1948. Polarography of selenium and tellurium. I. The -2 states. Journal of the American Chemical Society 70, 4115–4120</a>.
 
-Lourijsen-Teyssèdre, M., 1955. Contribution à l’étude des phénomènes de condensation en chimie minérale. 11. – Constitution des solutions de tellurates [Condensation phenomena in inorganic chemistry. XI. Constitution of tellurate solutions]. Bulletin de la Societé Chimique de France 22, 1196–1202 [in French].
+<a  href="docs/55Lou.pdf" target="_blank" rel="noopener">Lourijsen-Teyssèdre, M., 1955. Contribution à l’étude des phénomènes de condensation en chimie minérale. 11. – Constitution des solutions de tellurates [Condensation phenomena in inorganic chemistry. XI. Constitution of tellurate solutions]. Bulletin de la Societé Chimique de France 22, 1196–1202 [in French]</a>.
 
 <a  href="//doi.org/10.1007/BF00810280" target="_blank" rel="noopener">Marhold, H., Sagmüller, W., Gamsjäger, H., 1988. The volume change for the dissociation of telluric acid. Monatshefte für Chemie 119, 1369–1373</a>.
 
@@ -193,7 +193,7 @@ Mills, K.C., 1974. ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and 
 
 <a  href="docs/77NSP.pdf" target="_blank" rel="noopener">Nazarenko, V.A., Shitareva, G.G., Poluektova, E.N., 1977. Spectrophotometric determination of the formation constants of tellurium(IV) hydroxo-complexes. Russian Journal of Inorganic Chemistry 27, 541–544</a>.
 
-Oganesyan, E.N., Kapantsyan, E.E., Nabivanets, B.I., Babayan, G.G., 1982. Nitrato-complexes of tellurium(IV) in solution. Russian Journal of Inorganic Chemistry 27, 1124–125.
+<a  href="docs/82OKN.pdf" target="_blank" rel="noopener">Oganesyan, E.N., Kapantsyan, E.E., Nabivanets, B.I., Babayan, G.G., 1982. Nitrato-complexes of tellurium(IV) in solution. Russian Journal of Inorganic Chemistry 27, 1124–125</a>.
 
 <a  href="//doi.org/10.1021/j100804a049" target="_blank" rel="noopener">Panson, A.J., 1963. Polarography of the ditelluride ion. Journal of Physical Chemistry 67, 2177–2180</a>.
 
