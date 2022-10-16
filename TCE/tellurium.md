@@ -61,9 +61,9 @@ layout: default
 
 <a  href="docs/57Ant-b.pdf" target="_blank" rel="noopener">Antikainen, P.J., 1957b. The thermodynamics of the ionization of telluric acid in aqueous solutions. Suomen Kemistilehti B30, 201–203</a>.
 
-<a  href="docs/57Ant-b.pdf" target="_blank" rel="noopener">Antikainen, P.J., Tevanen, K., 1960. The effect of polyelectrolytes on the formation of polyacids. Telluric acid in aqueous sodium perchlorate solutions. Suomen Kemistilehti B33, 59–60</a>.
+<a  href="docs/60AnT.pdf" target="_blank" rel="noopener">Antikainen, P.J., Tevanen, K., 1960. The effect of polyelectrolytes on the formation of polyacids. Telluric acid in aqueous sodium perchlorate solutions. Suomen Kemistilehti B33, 59–60</a>.
 
-<a  href="docs/60AnT.pdf" target="_blank" rel="noopener">Awad, S.A., 1962. Poisoning effect of telluride ions on hydrogen evolution and cathodic formation of hydrogen telluride. Journal of Physical Chemistry 66, 890–894</a>.
+<a  href="//doi.org/10.1021/j100811a031" target="_blank" rel="noopener">Awad, S.A., 1962. Poisoning effect of telluride ions on hydrogen evolution and cathodic formation of hydrogen telluride. Journal of Physical Chemistry 66, 890–894</a>.
 
 Baes, C.F., Mesmer, R.E., 1976. ‘The hydrolysis of cations’ (Wiley: New York)
 
@@ -93,7 +93,7 @@ Cooper, W.C., 1971. Analytical chemistry of tellurium. In ‘Tellurium’ (Ed WC
 
 <a  href="//doi.org/10.1016/S0584-8547(00)00237-8" target="_blank" rel="noopener">D’Ulivo, A., Marcucci, K., Bramanti, E., Lampugnani, L., Zamboni, R., 2000. Studies in hydride generation atomic fluorescence determination of selenium and tellurium. Part 1 — self interference effect in hydrogen telluride generation and the effect of KI. Spectrochimica Acta Part B: Atomic Spectroscopy 55, 1325-1336</a>.
 
-D’yachkova, I.B., Khodakovskiy, I.L., 1968. Thermodynamic equilibria in the systems S-H<sub>2</sub>O, Se-H<sub>2</sub>O, and Te-H<sub>2</sub> in the 25-300 &deg;C range and their geochemical interpretations. Geochemistry International 5, 1108–l 125.
+<a  href="docs/68DyK.pdf" target="_blank" rel="noopener">D’yachkova, I.B., Khodakovskiy, I.L., 1968. Thermodynamic equilibria in the systems S-H<sub>2</sub>O, Se-H<sub>2</sub>O, and Te-H<sub>2</sub> in the 25-300 &deg;C range and their geochemical interpretations. Geochemistry International 5, 1108–l 125</a>.
 
 <a  href="//doi.org/10.1051/jcp/1922200167" target="_blank" rel="noopener">de Hlasko, 1922. Sur la dissociation électrolytique de I’hydrogène sélénié et de l’hydrogène telluré [On the hydrolytic dissociation of hydrogen selenide and hydrogen telluride]. Journal de Chimie Physique 20, 167–172 [in French].
 
@@ -177,7 +177,7 @@ Mills, K.C., 1974. ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and 
 
 <a  href="//doi.org/10.1021/ic00171a003" target="_blank" rel="noopener">Milne, J., Mahadevan, M., 1984. Chlorotellurate(lV) equilibria in aqueous hydrochloric acid. Inorganic Chemistry 23, 268–271</a>.
 
-Murashova, V.I., 1966. A study on the composition and stability of the iodotellurate complex. Zhurnal Analiticheskoi Khimii 21, 345–349 [in Russian].
+<a  href="docs/66Mur.pdf" target="_blank" rel="noopener">Murashova, V.I., 1966. A study on the composition and stability of the iodotellurate complex. Zhurnal Analiticheskoi Khimii 21, 345–349 [in Russian]</a>.
 
 <a  href="//doi.org/10.1007/s10953-006-9112-3" target="_blank" rel="noopener">Myers, R.J., 2007. Second dissociation constant of H<sub></sub>2Te and the absorption spectra of HTe<sup>-</sup>, Te<sub>2</sub><sup>-</sup> and Te<sub>2</sub><sup>2-</sup> in aqueous solution. Journal of Solution Chemistry 36, 395–403</a>.
 
@@ -195,15 +195,15 @@ Oganesyan, E.N., Kapantsyan, E.E., Nabivanets, B.I., Babayan, G.G., 1982. Nitrat
 
 <a  href="//doi.org/10.1021/j100789a008" target="_blank" rel="noopener">Panson, A.J., 1964. A study of the telluride ion system. Journal of Physical Chemistry 68, 1721–1724</a>.
 
-Ripan, R., Marc, M., 1966. Détermination de la constante d’instabilité des acides hexachloro- et hexabromotelluriques [Determination of the instability constants of hexachloro- and hexabromo- tellurides]. Revue Roumaine de Chimie 11, 1063–1067 [in French].
+<a  href="docs/66RiM.pdf" target="_blank" rel="noopener">Ripan, R., Marc, M., 1966. Détermination de la constante d’instabilité des acides hexachloro- et hexabromotelluriques [Determination of the instability constants of hexachloro- and hexabromo- tellurides]. Revue Roumaine de Chimie 11, 1063–1067 [in French]</a>.
 
 Rosenheim, A., Jander, G., 1918. Über die Tellursäure und ihre Alkalisalze in ihrem Verhaiten als Halbkolloide [On telluric acid and its alkali salts in their colloidal state]. Kolloid-Zeitschrift 22, 23–44 [in German].
 
 <a  href="//doi.org/10.1021/ja01679a011" target="_blank" rel="noopener">Schuhmann, R., 1925. The free energy and heat content of tellurium dioxide and of amorphous and metallic tellurium. The reduction potential of tellurium. Journal of the American Chemical Society 47, 356–363</a>.
 
-Shitareva, G.G., Nazarenko, V.A., 1967. Bromo-complexes of tellurium(IV). Russian Journal of Inorganic Chemistry 12, 527–530.
+<a  href="docs/67ShN.pdf" target="_blank" rel="noopener">Shitareva, G.G., Nazarenko, V.A., 1967. Bromo-complexes of tellurium(IV). Russian Journal of Inorganic Chemistry 12, 527–530</a>.
 
-Shitareva, G.G., Nazarenko, V.A., 1968. Stability constants of the chloro-complexes of tellurium. Russian Journal of Inorganic Chemistry 13, 941–943.
+<a  href="docs/68Shi.pdf" target="_blank" rel="noopener">Shitareva, G.G., Nazarenko, V.A., 1968. Stability constants of the chloro-complexes of tellurium. Russian Journal of Inorganic Chemistry 13, 941–943</a>.
 
 <a  href="//doi.org/10.1002/zaac.19593010305" target="_blank" rel="noopener">Siebert, H., 1959. Ultrarotspektren von Tellursäuren, Telluraten und Antimonaten [Ultrared spectra of telluric acid, tellurate and antimoniate]. Zeitschrift für anorganische Chemie 301, 161–170 [in German].</a>.
 
