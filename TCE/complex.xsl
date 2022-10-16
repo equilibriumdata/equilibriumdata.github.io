@@ -6,37 +6,38 @@ table, th, td {
   padding: 5px;
   border: 1px solid black;
   border-collapse: collapse;
-  font-family: Courier New;
+  font-family: Calibri;
   font-weight: bold;
   font-size: 13px;
   vertical-align: top;
 }
 h2 {
- font-family: Courier New;
+ font-family: Calibri;
  font-size: 22px;
  font-weight: bold;
  text-align: center;
 }
 h3 {
- font-family: Courier New;
+ font-family: Calibri;
  font-size: 18px;
  font-weight: bold;
  text-align: center;
 }
 h4 {
- font-family: Courier New;
+ font-family: Calibri;
  font-size: 15px;
  font-weight: bold;
  text-align: center;
 }
 p {
- font-family: Courier New;
+ font-family: Calibri;
  font-size: 10px;
    font-weight: bold;
 }
 td {
- font-family: Courier New;
+ font-family: Calibri;
  font-size: 12px;
+ padding: 15px;
 }</style>
 </head>
 <body>
