@@ -74,13 +74,13 @@ Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York
 
 <a  href="//doi.org/10.1186/1467-4866-3-11" target="_blank" rel="noopener">Byrne, R.H., 2002. Inorganic speciation of dissolved elements in seawater: the influence of pH on concentration ratios. Geochem. Trans. 3, 11–16</a>.
 
-Deblonde, G.J.-P., Chagnes, A., Bélair S., Cote, G., 2015a. Solubility of niobium(V) and tantalum(V) under mild alkaline conditions. Hydrometallurgy 156, 99–106.
+<a  href="//doi.org/10.1016/j.hydromet.2015.05.015" target="_blank" rel="noopener">Deblonde, G.J.-P., Chagnes, A., Bélair S., Cote, G., 2015a. Solubility of niobium(V) and tantalum(V) under mild alkaline conditions. Hydrometallurgy 156, 99–106</a>.
 
-Deblonde, G.J.-P., Chagnes, A., Cote, G., Vial, J., Rivals, I., Delaunay, N., 2016. Development of a capillary electrophoresis method for the analysis in alkaline media as polyoxoanions of two strategic metals: Niobium and tantalum. J. Chromat. A 1437, 210-218.
+<a  href="//doi.org/10.1016/j.chroma.2016.01.075" target="_blank" rel="noopener">Deblonde, G.J.-P., Chagnes, A., Cote, G., Vial, J., Rivals, I., Delaunay, N., 2016. Development of a capillary electrophoresis method for the analysis in alkaline media as polyoxoanions of two strategic metals: Niobium and tantalum. J. Chromat. A 1437, 210-218</a>.
 
-Deblonde, G.J.-P., Delaunay, N., Lee, D., Chagnes, A., Cote, G., Gareil, P., 2015b. First investigation of polyoxoniobate and polyoxotantalate aqueous speciation by capillary zone electrophoresis. RSC Adv. 5, 64119–64124.
+<a  href="//doi.org/10.1039/C5RA11521C" target="_blank" rel="noopener">Deblonde, G.J.-P., Delaunay, N., Lee, D., Chagnes, A., Cote, G., Gareil, P., 2015b. First investigation of polyoxoniobate and polyoxotantalate aqueous speciation by capillary zone electrophoresis. RSC Adv. 5, 64119–64124</a>.
 
-Deblonde, G.J.-P., Moncomble, A., Cote, G., Bélair, S., Chagnes, A., 2015c. Experimental and computational exploration of the UV-visible properties of hexaniobate and hexatantalate ions. RSC Adv. 7619–7627.
+<a  href="//doi.org/10.1039/C4RA14866E" target="_blank" rel="noopener">Deblonde, G.J.-P., Moncomble, A., Cote, G., Bélair, S., Chagnes, A., 2015c. Experimental and computational exploration of the UV-visible properties of hexaniobate and hexatantalate ions. RSC Adv. 7619–7627</a>.
 
 Edmister, F.H., Albritton, G.G., 1932. Behavior of oxalate and tartrate solutions of columbium and tantalum oxides. J. Am. Chem. Soc. 54, 438–442.
 
