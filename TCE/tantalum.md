@@ -52,11 +52,11 @@ layout: default
 
 ## References
 
-https://doi.org/10.3390/inorganics3020160 Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177.
+<a  href="//doi.org/10.3390/inorganics3020160" target="_blank" rel="noopener">Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177</a>.
 
-Arana, G., Etxebarria, N., Fernandez, L.A., Madariaga, J.M., 1995. Hydrolysis of Nb(V) and Ta(V) in aqueous KCl at 25 &deg;C. Part II: Construction of a thermodynamic model for Ta(V). J. Solution Chem. 24, 611–622.
+<a  href="//doi.org/10.1007/BF00973211" target="_blank" rel="noopener">Arana, G., Etxebarria, N., Fernandez, L.A., Madariaga, J.M., 1995. Hydrolysis of Nb(V) and Ta(V) in aqueous KCl at 25 &deg;C. Part II: Construction of a thermodynamic model for Ta(V). J. Solution Chem. 24, 611–622</a>.
 
-Aveston, J., Johnson J.S., 1964. Hydrolysis of tantalum(V): Equilibrium ultracentrifugation and Raman spectra of potassium tantalate. Inorg. Chem. 3, 1051–1053.
+<a  href="https://datapdf.com/hydrolysis-of-tantalum-v-equilibrium-ultracentrifugation-and.html" target="_blank" rel="noopener">Aveston, J., Johnson J.S., 1964. Hydrolysis of tantalum(V): Equilibrium ultracentrifugation and Raman spectra of potassium tantalate. Inorg. Chem. 3, 1051–1053</a>.
 
 Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961.
 
@@ -64,9 +64,9 @@ Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1965. Oxalato-complexes of tanta
 
 Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York)
 
-Balogh, E., Anderson, T.M., Rustad, J.R., Nyman, M., Casey, W.H., 2007. Rates of oxygen-isotope exchange between sites in the &#91;H<sub>x</sub>Ta<sub>6</sub>O<sub>19</sub>&#93;<sup>(8-x)</sup>-(aq) Lindqvist ion and aqueous solutions: Comparisons to &#91;H<sub>x</sub>Nb<sub>6</sub>O<sub>19</sub>&#93;<sup>(8-x)</sup>-(aq). Inorg. Chem. 46, 7032–7039.
+<a  href="//doi.org/10.1021/ic700845e" target="_blank" rel="noopener">Balogh, E., Anderson, T.M., Rustad, J.R., Nyman, M., Casey, W.H., 2007. Rates of oxygen-isotope exchange between sites in the &#91;H<sub>x</sub>Ta<sub>6</sub>O<sub>19</sub>&#93;<sup>(8-x)</sup>-(aq) Lindqvist ion and aqueous solutions: Comparisons to &#91;H<sub>x</sub>Nb<sub>6</sub>O<sub>19</sub>&#93;<sup>(8-x)</sup>-(aq). Inorg. Chem. 46, 7032–7039</a>.
 
-Baumann, E.W., 1972. Investigation of the tantalum fluoride system using the fluoride-selective electrode. J. Inorg. Nucl. Chem. 34, 687–695.
+<a  href="//doi.org/10.1016/0022-1902(72)80451-2" target="_blank" rel="noopener">Baumann, E.W., 1972. Investigation of the tantalum fluoride system using the fluoride-selective electrode. J. Inorg. Nucl. Chem. 34, 687–695</a>.  
 
 Blichert-Toft, J., 2001. On the Lu-Hf isotope geochemistry of silicate rocks. Geostand. Newslett. 25, 41–56.
 
