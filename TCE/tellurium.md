@@ -79,7 +79,7 @@ Biryukov, V.P., Ganelina, E.S., 1971. Acid dissociation constants of orthotellur
 
 <a  href="//doi.org/10.1051/JCP/1920180028" target="_blank" rel="noopener">Blanc, E., 1920 Détermination de la constante de dissociation de quelques acides minéraux [Determination of the dissociation constants of some mineral acids]. Journal de Chimie Physique 18, 28–45 [in French]</a>. 
 
-Bouroushian, M., 2010. Electrochemistry of the Chalcogens. In ‘Electrochemistry of Metal Chalcogenides’ (Ed. M. Bouroushian) pp. 57-75 (Springer Verlag: Heidelberg, Germany)
+<a  href="//doi.org/10.1007/978-3-642-03967-6_2" target="_blank" rel="noopener">Bouroushian, M., 2010. Electrochemistry of the Chalcogens. In ‘Electrochemistry of Metal Chalcogenides’ (Ed. M. Bouroushian) pp. 57-75 (Springer Verlag: Heidelberg, Germany)</a>
 
 Brito, F., 1966. Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 &deg;C [Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25 &deg;C]. Anales de Física y Química 62, 197–108 [in Spanish]. 
 
