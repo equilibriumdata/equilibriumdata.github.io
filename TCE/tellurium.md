@@ -203,7 +203,7 @@ Rosenheim, A., Jander, G., 1918. Über die Tellursäure und ihre Alkalisalze in 
 
 <a  href="docs/67ShN.pdf" target="_blank" rel="noopener">Shitareva, G.G., Nazarenko, V.A., 1967. Bromo-complexes of tellurium(IV). Russian Journal of Inorganic Chemistry 12, 527–530</a>.
 
-<a  href="docs/68Shi.pdf" target="_blank" rel="noopener">Shitareva, G.G., Nazarenko, V.A., 1968. Stability constants of the chloro-complexes of tellurium. Russian Journal of Inorganic Chemistry 13, 941–943</a>.
+Shitareva, G.G., Nazarenko, V.A., 1968. Stability constants of the chloro-complexes of tellurium. Russian Journal of Inorganic Chemistry 13, 941–943.
 
 <a  href="//doi.org/10.1002/zaac.19593010305" target="_blank" rel="noopener">Siebert, H., 1959. Ultrarotspektren von Tellursäuren, Telluraten und Antimonaten [Ultrared spectra of telluric acid, tellurate and antimoniate]. Zeitschrift für anorganische Chemie 301, 161–170 [in German].</a>.
 
