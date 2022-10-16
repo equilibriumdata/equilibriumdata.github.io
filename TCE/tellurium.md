@@ -57,13 +57,13 @@ layout: default
 
 <a  href="//doi.org/10.3891/acta.chem.scand.35a-0591" target="_blank" rel="noopener">Andersson, E., Lindqvist, O., Yamaguchi, T., 1981. An X-ray diffraction study on the structure of telluric acid Te(OH)6 in aqueous solution Acta Chemica Scandinavica A35, 591–597</a>.
 
-Antikainen, P.J., 1957a. Notes on the formation of polyacides in concentrated telluric acid solutions. Suomen Kemistilehti B30, 22–23.
+<a  href="docs/57Ant-a.pdf" target="_blank" rel="noopener">Antikainen, P.J., 1957a. Notes on the formation of polyacides in concentrated telluric acid solutions. Suomen Kemistilehti B30, 22–23</a>.
 
-Antikainen, P.J., 1957b. The thermodynamics of the ionization of telluric acid in aqueous solutions. Suomen Kemistilehti B30, 201–203.
+<a  href="docs/57Ant-b.pdf" target="_blank" rel="noopener">Antikainen, P.J., 1957b. The thermodynamics of the ionization of telluric acid in aqueous solutions. Suomen Kemistilehti B30, 201–203</a>.
 
-Antikainen, P.J., Tevanen, K., 1960. The effect of polyelectrolytes on the formation of polyacids. Telluric acid in aqueous sodium perchlorate solutions. Suomen Kemistilehti B33, 59–60.
+<a  href="docs/57Ant-b.pdf" target="_blank" rel="noopener">Antikainen, P.J., Tevanen, K., 1960. The effect of polyelectrolytes on the formation of polyacids. Telluric acid in aqueous sodium perchlorate solutions. Suomen Kemistilehti B33, 59–60</a>.
 
-<a  href="//doi.org/10.1021/j100811a031" target="_blank" rel="noopener">Awad, S.A., 1962. Poisoning effect of telluride ions on hydrogen evolution and cathodic formation of hydrogen telluride. Journal of Physical Chemistry 66, 890–894</a>.
+<a  href="docs/60AnT.pdf" target="_blank" rel="noopener">Awad, S.A., 1962. Poisoning effect of telluride ions on hydrogen evolution and cathodic formation of hydrogen telluride. Journal of Physical Chemistry 66, 890–894</a>.
 
 Baes, C.F., Mesmer, R.E., 1976. ‘The hydrolysis of cations’ (Wiley: New York)
 
@@ -105,7 +105,7 @@ D’yachkova, I.B., Khodakovskiy, I.L., 1968. Thermodynamic equilibria in the sy
 
 <a  href="//doi.org/10.1071/EN18229" target="_blank" rel="noopener">Filella, M., Reimann, C., Biver, M., Rodushkin, I., Rodushkina, K., 2019. Tellurium in the environment: current knowledge and identification of the gaps. Environmental Chemistry 16, 215-228</a>.
 
-Fouasson, F., 1946. Sur la constitution de l’acide tellurique [On the constitution of telluric acid]. Comptes Rendus Hebdomadaires des séances de l’Académie des sciences 222, 958-959 [in French].
+<a  href="docs/46Fou.pdf" target="_blank" rel="noopener">Fouasson, F., 1946. Sur la constitution de l’acide tellurique [On the constitution of telluric acid]. Comptes Rendus Hebdomadaires des séances de l’Académie des sciences 222, 958-959 [in French]</a>.
 
 Fouasson, F., 1948. Contribution à l’étude de l’acide tellurique [Contribution to the study of telluric acid]. Annales de Chimie 12(3), 594-643. [in French].
 
