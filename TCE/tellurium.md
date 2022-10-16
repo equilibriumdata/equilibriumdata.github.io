@@ -61,7 +61,7 @@ layout: default
 
 <a  href="docs/57Ant-b.pdf" target="_blank" rel="noopener">Antikainen, P.J., 1957b. The thermodynamics of the ionization of telluric acid in aqueous solutions. Suomen Kemistilehti B30, 201–203</a>.
 
-<a  href="docs/60AnT.pdf" target="_blank" rel="noopener">Antikainen, P.J., Tevanen, K., 1960. The effect of polyelectrolytes on the formation of polyacids. Telluric acid in aqueous sodium perchlorate solutions. Suomen Kemistilehti B33, 59–60</a>.
+<a  href="docs/60AnT.pdf" target="_blank" rel="noopener">Antikainen, P.J., Tevanen, K., 1960. The effect of electrolytes on the formation of polyacids. Telluric acid in aqueous sodium perchlorate solutions. Suomen Kemistilehti B33, 59–60</a>.
 
 <a  href="//doi.org/10.1021/j100811a031" target="_blank" rel="noopener">Awad, S.A., 1962. Poisoning effect of telluride ions on hydrogen evolution and cathodic formation of hydrogen telluride. Journal of Physical Chemistry 66, 890–894</a>.
 
