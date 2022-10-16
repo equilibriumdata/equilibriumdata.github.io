@@ -179,7 +179,7 @@ Mills, K.C., 1974. ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and 
 
 Murashova, V.I., 1966. A study on the composition and stability of the iodotellurate complex. Zhurnal Analiticheskoi Khimii 21, 345–349 [in Russian].
 
-<a  href="//doi.org/10.1007/s10953-006-9112-" target="_blank" rel="noopener">Myers, R.J., 2007. Second dissociation constant of H2Te and the absorption spectra of HTe-, Te2- and Te22- in aqueous solution. Journal of Solution Chemistry 36, 395–403</a>.
+<a  href="//doi.org/10.1007/s10953-006-9112-3" target="_blank" rel="noopener">Myers, R.J., 2007. Second dissociation constant of H<sub></sub>2Te and the absorption spectra of HTe<sup>-</sup>, Te<sub>2</sub><sup>-</sup> and Te<sub>2</sub><sup>2-</sup> in aqueous solution. Journal of Solution Chemistry 36, 395–403</a>.
 
 Nabivanets, B.I., Kapantsyan, E.E., Oganesyan, E.N., 1974. The state of tellurium(IV) in perchloric acid solutions. Russian Journal of Inorganic Chemistry 19, 394–397.
 
