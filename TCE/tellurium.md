@@ -171,15 +171,15 @@ Markus, Y., 2018. Do doubly charged monatomicanions exist in aqueous solution?. 
 
 Mills, K.C., 1974. ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and Tellurides’. (Butterworths, London).
 
-Milne, J.B., 1991. Hexachlorotellurate(IV) hydrolysis equilibria in hydrochloric acid. measurement by Raman and 125Te NMR spectroscopy and a reconsideration of earlier spectrophotometric results. Canadian Journal of Chemistry 69, 987–992. doi:10.1139/v91-144
+<a  href="//doi.org/10.1139/v91-144" target="_blank" rel="noopener">Milne, J.B., 1991. Hexachlorotellurate(IV) hydrolysis equilibria in hydrochloric acid. measurement by Raman and 125Te NMR spectroscopy and a reconsideration of earlier spectrophotometric results. Canadian Journal of Chemistry 69, 987–992</a>.
 
-Milne, J.B., Moffett, D., 1974. Oxofluoro complex anion equilibria in aqueous hydrofluoric acid. I. Tellurate(IV). Inorganic Chemistry 13, 2750–2754. doi:10.1021/ic50141a040
+<a  href="//doi.org/10.1021/ic50141a040" target="_blank" rel="noopener">Milne, J.B., Moffett, D., 1974. Oxofluoro complex anion equilibria in aqueous hydrofluoric acid. I. Tellurate(IV). Inorganic Chemistry 13, 2750–2754</a>.
 
-Milne, J., Mahadevan, M., 1984. Chlorotellurate(lV) equilibria in aqueous hydrochloric acid. Inorganic Chemistry 23, 268–271. doi:10.1021/ic00171a003
+<a  href="//doi.org/10.1021/ic00171a003" target="_blank" rel="noopener">Milne, J., Mahadevan, M., 1984. Chlorotellurate(lV) equilibria in aqueous hydrochloric acid. Inorganic Chemistry 23, 268–271</a>.
 
 Murashova, V.I., 1966. A study on the composition and stability of the iodotellurate complex. Zhurnal Analiticheskoi Khimii 21, 345–349 [in Russian].
 
-Myers, R.J., 2007. Second dissociation constant of H2Te and the absorption spectra of HTe-, Te2- and Te22- in aqueous solution. Journal of Solution Chemistry 36, 395–403. doi:10.1007/s10953-006-9112-
+<a  href="//doi.org/10.1007/s10953-006-9112-" target="_blank" rel="noopener">Myers, R.J., 2007. Second dissociation constant of H2Te and the absorption spectra of HTe-, Te2- and Te22- in aqueous solution. Journal of Solution Chemistry 36, 395–403</a>.
 
 Nabivanets, B.I., Kapantsyan, E.E., Oganesyan, E.N., 1974. The state of tellurium(IV) in perchloric acid solutions. Russian Journal of Inorganic Chemistry 19, 394–397.
 
