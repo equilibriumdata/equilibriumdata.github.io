@@ -117,7 +117,7 @@ Greiver, T.N., Zaitsev, Y.A., 1972. Reaction of sodium tellurite and potassium t
 
 <a  href="//doi.org/10.1016/j.gca.2013.06.009" target="_blank" rel="noopener">Grundler, P.V., Brugger, J., Etschmann, B.E., Helm, L., Liu, W., Spry, P.G., Tian, Y.-W., Testemale, D., Pring, A., 2013. Speciation of aqueous tellurium(IV) in hydrothermal solutions and vapors, and the role of oxidized tellurium species in Te transport and gold deposition. Geochimica et Cosmochimica Acta 120, 298–325</a>.
 
-Gutbier, A., 1902. Beiträge fur Kenntnis der Tellursäure [Contributions to knowledge of telluric acid]. Zeitschrift für anorganische Chemie 29, 23–35 [in German].
+<a  href="//doi.org/10.1002/zaac.19020290103" target="_blank" rel="noopener">Gutbier, A., 1902. Beiträge fur Kenntnis der Tellursäure [Contributions to knowledge of telluric acid]. Zeitschrift für anorganische Chemie 29, 23–35 [in German]</a>.
 
 <a  href="//doi.org/10.1039/c7cs00013h" target="_blank" rel="noopener">He, Z., Yang, Y., Liu, J.-.W, Yu, S.-H., 2017. Emerging tellurium nanostructures: controllable synthesis and their applications. Chemical Society Reviews 46, 2732-2753</a>.
 
@@ -133,7 +133,7 @@ Inzelt, G., 2006. Standard, Formal and Other Characteristic Potentials of Select
 
 <a  href="//doi.org/10.1002/zaac.19231280104" target="_blank" rel="noopener">Kasarnowsky, J., 1923. Die Stellung des Tellurs in der Voltaschen Spannungsreihe [The position of tellurium in the electromotive series]. Zeitschrift für anorganische und allgemeine Chemie 128, 17–32 [in German]</a>.
 
-Kasarnowsky, J., 1924. Tellurige Säure als Base [Telluric acid as base]. Zeitschrift für Physikalische Chemie 109, 287–301 [in German].
+<a  href="//doi.org/10.1515/zpch-1924-10921" target="_blank" rel="noopener">Kasarnowsky, J., 1924. Tellurige Säure als Base [Telluric acid as base]. Zeitschrift für Physikalische Chemie 109, 287–301 [in German]</a>.
 
 <a  href="//doi.org/10.1524/zkri.1926.63.1.502" target="_blank" rel="noopener">Kirkpatrick, L.M., Pauling, L., 1926. XXVIII. Über die Kristallstruktur der kubischen Tellursäure [On the crystal structure of cubic telluric acid]. Zeitschrift für Kristallographie 63, 502–506 [in German]</a>.
   
@@ -153,7 +153,7 @@ Lourijsen-Teyssèdre, M., 1955. Contribution à l’étude des phénomènes de c
 
 <a  href="//doi.org/10.1007/BF00810280" target="_blank" rel="noopener">Marhold, H., Sagmüller, W., Gamsjäger, H., 1988. The volume change for the dissociation of telluric acid. Monatshefte für Chemie 119, 1369–1373</a>.
 
-Markus, Y., 2018. Do doubly charged monatomicanions exist in aqueous solution?. Archives of Organic and Inorganic Chemical Sciences 2(2), MS.ID.000134.
+<a  href="//doi.org/10.32474/AOICS.2018.02.000134" target="_blank" rel="noopener">Markus, Y., 2018. Do doubly charged monatomicanions exist in aqueous solution?. Archives of Organic and Inorganic Chemical Sciences 2(2), MS.ID.000134</a>.
 
 <a  href="//doi.org/10.1007/BF02036310" target="_blank" rel="noopener">Maruyama, Y., Yamaashi, Y., 1985. Adsorption and colloidal behaviour of traces of tellurium(IV) in aqueous solutions. Journal of Radioanalytical and Nuclear Chemistry 91, 67–72</a>.
 
@@ -197,7 +197,7 @@ Oganesyan, E.N., Kapantsyan, E.E., Nabivanets, B.I., Babayan, G.G., 1982. Nitrat
 
 <a  href="docs/66RiM.pdf" target="_blank" rel="noopener">Ripan, R., Marc, M., 1966. Détermination de la constante d’instabilité des acides hexachloro- et hexabromotelluriques [Determination of the instability constants of hexachloro- and hexabromo- tellurides]. Revue Roumaine de Chimie 11, 1063–1067 [in French]</a>.
 
-Rosenheim, A., Jander, G., 1918. Über die Tellursäure und ihre Alkalisalze in ihrem Verhaiten als Halbkolloide [On telluric acid and its alkali salts in their colloidal state]. Kolloid-Zeitschrift 22, 23–44 [in German].
+<a  href="//doi.org/10.1007/BF01427720" target="_blank" rel="noopener">Rosenheim, A., Jander, G., 1918. Über die Tellursäure und ihre Alkalisalze in ihrem Verhaiten als Halbkolloide [On telluric acid and its alkali salts in their colloidal state]. Kolloid-Zeitschrift 22, 23–44 [in German]</a>.
 
 <a  href="//doi.org/10.1021/ja01679a011" target="_blank" rel="noopener">Schuhmann, R., 1925. The free energy and heat content of tellurium dioxide and of amorphous and metallic tellurium. The reduction potential of tellurium. Journal of the American Chemical Society 47, 356–363</a>.
 
@@ -211,10 +211,10 @@ Sillén, L.G., Martell, A.E., 1971. ‘Stability Constants of Metal-ion Complexe
 
 Sillén, L.G., Martell, A.E., 1964. ‘Stability Constants of Metal-ion Complexes SP17’ (The Chemical Society: London)
 
-Tucker, F.L., Walper, J.F., Appleman, M.D., Donohue, J., 1962. Complete reduction of tellurite to pure tellurium metal by microorganisms. Journal of Bacteriology 83, 1313–1314.
+<a  href="//doi.org/10.1128/jb.83.6.1313-1314.19" target="_blank" rel="noopener">Tucker, F.L., Walper, J.F., Appleman, M.D., Donohue, J., 1962. Complete reduction of tellurite to pure tellurium metal by microorganisms. Journal of Bacteriology 83, 1313–1314</a>.
 
 <a  href="https://minerals.usgs.gov/minerals/pubs/commodity/selenium/" target="_blank" rel="noopener">USGS, 2018. Selenium and Tellurium. Statistics and Information</a>.
 
-Yagasaki, A., Sasaki, Y., 1987. Potentiometric study of heteropolyanion formation from telluric acid and molybdate anion in 1M Na(Cl). Bulletin of the Chemical Society of Japan 60, 763–764.
+<a  href="//doi.org/10.1246/bcsj.60.763" target="_blank" rel="noopener">Yagasaki, A., Sasaki, Y., 1987. Potentiometric study of heteropolyanion formation from telluric acid and molybdate anion in 1M Na(Cl). Bulletin of the Chemical Society of Japan 60, 763–764</a>.
 
 <a  href="//doi.org/10.1126/science.1189690" target="_blank" rel="noopener">Zweibel, K., 2010. The impact of tellurium supply on cadmium telluride photovoltaics. Science 328, 699–701</a>.
