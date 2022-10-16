@@ -68,11 +68,11 @@ Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York
 
 <a  href="//doi.org/10.1016/0022-1902(72)80451-2" target="_blank" rel="noopener">Baumann, E.W., 1972. Investigation of the tantalum fluoride system using the fluoride-selective electrode. J. Inorg. Nucl. Chem. 34, 687–695</a>.  
 
-Blichert-Toft, J., 2001. On the Lu-Hf isotope geochemistry of silicate rocks. Geostand. Newslett. 25, 41–56.
+<a  href="//doi.org/10.1111/j.1751-908X.2001.tb00786.x" target="_blank" rel="noopener">Blichert-Toft, J., 2001. On the Lu-Hf isotope geochemistry of silicate rocks. Geostand. Newslett. 25, 41–56</a>.
 
-Bukhsh, M.N., Flegenheimer, J., Hall, F.M., Maddock, A.G., de Miranda, C.F., 1966. The chemistry of protactinium - VII. The fluoro-complexes. J. Inorg. Nucl. Chem., 28, 421–431.
+<a  href="//doi.org/10.1016/0022-1902(66)80321-4" target="_blank" rel="noopener">Bukhsh, M.N., Flegenheimer, J., Hall, F.M., Maddock, A.G., de Miranda, C.F., 1966. The chemistry of protactinium - VII. The fluoro-complexes. J. Inorg. Nucl. Chem., 28, 421–431</a>.
 
-Byrne, R.H., 2002. Inorganic speciation of dissolved elements in seawater: the influence of pH on concentration ratios. Geochem. Trans. 3, 11–16.
+<a  href="//doi.org/10.1186/1467-4866-3-11" target="_blank" rel="noopener">Byrne, R.H., 2002. Inorganic speciation of dissolved elements in seawater: the influence of pH on concentration ratios. Geochem. Trans. 3, 11–16</a>.
 
 Deblonde, G.J.-P., Chagnes, A., Bélair S., Cote, G., 2015a. Solubility of niobium(V) and tantalum(V) under mild alkaline conditions. Hydrometallurgy 156, 99–106.
 
