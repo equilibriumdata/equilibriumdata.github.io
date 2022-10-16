@@ -9,7 +9,7 @@
 		<one_equilibrium_logK>11.81</one_equilibrium_logK>
 	</one_equilibrium>
 	<one_equilibrium>
-		<one_equilibrium_reaction>HTe^– + H^+ = H&darr;2Te</one_equilibrium_reaction>
+		<one_equilibrium_reaction>HTe^– + H^+ = H&#8595;2Te</one_equilibrium_reaction>
 		<one_equilibrium_logK>2.476</one_equilibrium_logK>
 	</one_equilibrium>
 	<one_equilibrium>
