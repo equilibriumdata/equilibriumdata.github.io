@@ -5,7 +5,7 @@
 <all_equilibria>
 	<title>Equilibrium data for Tellurium complexes</title>
 	<one_equilibrium>
-		<one_equilibrium_reaction>Te&lt;sup&gt;2–&lt;/sup&gt; + H&lt;sup&gt;+&lt;/sup&gt; = HTe&lt;sup&gt;–&lt;/sup&gt;</one_equilibrium_reaction>
+		<one_equilibrium_reaction>Te^2– + H^+ = HTe–</one_equilibrium_reaction>
 		<one_equilibrium_logK>11.81</one_equilibrium_logK>
 	</one_equilibrium>
 	<one_equilibrium>
