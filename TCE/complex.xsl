@@ -6,44 +6,44 @@ table, th, td {
   padding: 5px;
   border: 1px solid black;
   border-collapse: collapse;
-  font-family: Calibri;
+  font-family: Verdana;
   font-weight: bold;
   font-size: 13px;
   vertical-align: top;
 }
 h2 {
- font-family: Calibri;
+ font-family: Verdana;
  font-size: 22px;
  font-weight: bold;
  text-align: center;
 }
 h3 {
- font-family: Calibri;
+ font-family: Verdana;
  font-size: 18px;
  font-weight: bold;
  text-align: center;
 }
 h4 {
- font-family: Calibri;
+ font-family: Verdana;
  font-size: 15px;
  font-weight: bold;
  text-align: center;
 }
 p {
- font-family: Calibri;
+ font-family: Verdana;
  font-size: 10px;
    font-weight: bold;
 }
 td {
- font-family: Calibri;
+ font-family: Verdana;
  font-size: 12px;
- padding: 15px;
+ padding: 20px;
 }</style>
 </head>
 <body>
 <xsl:for-each select="all_equilibria">
 	<h2><xsl:value-of select="title"/></h2>
-	<table>
+	<table align="center">
 		<tr bgcolor="#a6a6a6">
 			<th align="left">Reaction</th>
 			<th align="left"><i>log</i><sub>10</sub><i>K</i></th>
