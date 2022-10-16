@@ -191,21 +191,21 @@ Nazarenko, V.A., Shitareva, G.G., Poluektova, E.N., 1977. Spectrophotometric det
 
 Oganesyan, E.N., Kapantsyan, E.E., Nabivanets, B.I., Babayan, G.G., 1982. Nitrato-complexes of tellurium(IV) in solution. Russian Journal of Inorganic Chemistry 27, 1124–125.
 
-Panson, A.J., 1963. Polarography of the ditelluride ion. Journal of Physical Chemistry 67, 2177–2180. doi:10.1021/j100804a049
+<a  href="//doi.org/10.1021/j100804a049" target="_blank" rel="noopener">Panson, A.J., 1963. Polarography of the ditelluride ion. Journal of Physical Chemistry 67, 2177–2180</a>.
 
-Panson, A.J., 1964. A study of the telluride ion system. Journal of Physical Chemistry 68, 1721–1724. doi:10.1021/j100789a008
+<a  href="//doi.org/10.1021/j100789a008" target="_blank" rel="noopener">Panson, A.J., 1964. A study of the telluride ion system. Journal of Physical Chemistry 68, 1721–1724</a>.
 
-Ripan, R., Marc, M., 1966. Determination of the instability constants of hexachloro- and hexabromo- tellurides. Revue Roumaine de Chimie 11, 1063–1067. [in French] (Détermination de la constante d’instabilité des acides hexachloro- et hexabromotelluriques)
+Ripan, R., Marc, M., 1966. Détermination de la constante d’instabilité des acides hexachloro- et hexabromotelluriques [Determination of the instability constants of hexachloro- and hexabromo- tellurides]. Revue Roumaine de Chimie 11, 1063–1067 [in French].
 
-Rosenheim, A., Jander, G., 1918. On telluric acid and its alkali salts in their colloidal state. Kolloid-Zeitschrift 22, 23–44. [in German] (Ueber die Tellursäure und ihre Alkalisalze in ihrem Verhaiten als Halbkolloide)
+Rosenheim, A., Jander, G., 1918. Über die Tellursäure und ihre Alkalisalze in ihrem Verhaiten als Halbkolloide [On telluric acid and its alkali salts in their colloidal state]. Kolloid-Zeitschrift 22, 23–44 [in German].
 
-Schuhmann, R., 1925. The free energy and heat content of tellurium dioxide and of amorphous and metallic tellurium. The reduction potential of tellurium. Journal of the American Chemical Society 47, 356–363. doi:10.1021/ja01679a011
+<a  href="//doi.org/10.1021/ja01679a011" target="_blank" rel="noopener">Schuhmann, R., 1925. The free energy and heat content of tellurium dioxide and of amorphous and metallic tellurium. The reduction potential of tellurium. Journal of the American Chemical Society 47, 356–363</a>.
 
 Shitareva, G.G., Nazarenko, V.A., 1967. Bromo-complexes of tellurium(IV). Russian Journal of Inorganic Chemistry 12, 527–530.
 
 Shitareva, G.G., Nazarenko, V.A., 1968. Stability constants of the chloro-complexes of tellurium. Russian Journal of Inorganic Chemistry 13, 941–943.
 
-Siebert, H., 1959. Ultrared spectra of telluric acid, tellurate and antimoniate. Zeitschrift für anorganische Chemie 301, 161–170. [in German] (Ultrarotspektren von Tellursäuren, Telluraten und Antimonaten). doi:10.1002/zaac.19593010305
+<a  href="//doi.org/10.1002/zaac.19593010305" target="_blank" rel="noopener">Siebert, H., 1959. Ultrarotspektren von Tellursäuren, Telluraten und Antimonaten [Ultrared spectra of telluric acid, tellurate and antimoniate]. Zeitschrift für anorganische Chemie 301, 161–170 [in German].</a>.
 
 Sillén, L.G., Martell, A.E., 1971. ‘Stability Constants of Metal-ion Complexes SP25, Supplement No 1 to Special Publication No 25’ (The Chemical Society: London)
 
@@ -213,8 +213,8 @@ Sillén, L.G., Martell, A.E., 1964. ‘Stability Constants of Metal-ion Complexe
 
 Tucker, F.L., Walper, J.F., Appleman, M.D., Donohue, J., 1962. Complete reduction of tellurite to pure tellurium metal by microorganisms. Journal of Bacteriology 83, 1313–1314.
 
-USGS, 2018. Selenium and Tellurium. Statistics and Information. Available at: https://minerals.usgs.gov/minerals/pubs/commodity/selenium/ [verified 8 March 2019]
+<a  href="https://minerals.usgs.gov/minerals/pubs/commodity/selenium/" target="_blank" rel="noopener">USGS, 2018. Selenium and Tellurium. Statistics and Information</a>.
 
 Yagasaki, A., Sasaki, Y., 1987. Potentiometric study of heteropolyanion formation from telluric acid and molybdate anion in 1M Na(Cl). Bulletin of the Chemical Society of Japan 60, 763–764.
 
-Zweibel, K., 2010. The impact of tellurium supply on cadmium telluride photovoltaics. Science 328, 699–701. doi:10.1126/science.1189690
+<a  href="//doi.org/10.1126/science.1189690" target="_blank" rel="noopener">Zweibel, K., 2010. The impact of tellurium supply on cadmium telluride photovoltaics. Science 328, 699–701</a>.
