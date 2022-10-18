@@ -36,7 +36,7 @@ layout: default
 
 # Tellurium
 
-Original source: 
+Original source: <a  href="//doi.org/10.1071/EN19017" target="_blank" rel="noopener">Filella, M., May, P.M., 2019. The aqueous chemistry of tellurium: critically-selected equilibrium constants for the low-molecular-weight inorganic species. Environmental Chemistry 16, 289–295.</a>
 
 Best stability constant values for tellurium species, 25 &deg;C and I 0 mol L<sup>-1</sup>:
 
@@ -73,7 +73,7 @@ Baes, C.F., Mesmer, R.E., 1976. ‘The hydrolysis of cations’ (Wiley: New York
 
 <a  href="docs/70BaM.pdf" target="_blank" rel="noopener">Bakunina, I.I., Murashova, V.I., 1970. A spectrophotometric study of the interaction of tellurium(IV) with Br- ions in strongly acid solutions. Zhurnal Analiticheskoi Khimii 25, 142–146 [in Russian]</a>.
 
-Barin, I., Platski, G., 1995. ‘Thermochemical Data on Pure Substances. 3<sup>rd</sup> edition’. (VCH:  New York).
+<a  href="https://www.wiley.com/en-ae/Thermochemical+Data+of+Pure+Substances,+3rd+Edition-p-9783527619825" target="_blank" rel="noopener">Barin, I., Platski, G., 1995. ‘Thermochemical Data on Pure Substances. 3<sup>rd</sup> edition’. (VCH:  New York)</a>.
 
 <a  href="docs/71BiG.pdf" target="_blank" rel="noopener">Biryukov, V.P., Ganelina, E.S., 1971. Acid dissociation constants of orthotelluric acid. Russian Journal of Inorganic Chemistry 16, 320–323</a>.
 
@@ -87,7 +87,7 @@ Barin, I., Platski, G., 1995. ‘Thermochemical Data on Pure Substances. 3<sup>r
 
 <a  href="docs/66Bri.pdf" target="_blank" rel="noopener">Brito, F., 1966. Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 &deg;C [Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25 &deg;C]. Anales de Física y Química 62, 197–108 [in Spanish]</a>. 
 
-Bruner-Krakau, L., 1913. Über Selen- und Tellurwasserstoff als Säuren [About selenium and tellurium as acids]. Zeitschrift für Elektrochemie 19, 861 [in German].
+<a  href="//doi.org/10.1002/bbpc.19130192107" target="_blank" rel="noopener">Bruner-Krakau, L., 1913. Über Selen- und Tellurwasserstoff als Säuren [About selenium and tellurium as acids]. Zeitschrift für Elektrochemie 19, 861 [in German]</a>.
 
 <a  href="//doi.org/10.1016/j.aca.2015.11.035" target="_blank" rel="noopener">Chen, Y.W., Alzahrani, A., Deng, T.L., Belzile, N., 2016. Valence properties of tellurium in different chemical systems and its determination in refractory environmental samples using hydride generation-Atomic fluorescence spectroscopy. Analytica Chimica Acta 905, 42–50</a>.
 
