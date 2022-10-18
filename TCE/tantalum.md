@@ -34,7 +34,7 @@ layout: default
   </li>
 </ul>
 
-Original source: <a  href="//doi.org/10.1071/EN19017" target="_blank" rel="noopener">Filella, M., May, P.M., 2019. The aqueous chemistry of tellurium: critically-selected equilibrium constants for the low-molecular-weight inorganic species. Environmental Chemistry 16, 289–295.</a>
+Original source: <a  href="//doi.org/10.1016/j.apgeochem.2019.104402" target="_blank" rel="noopener">Filella, M., May, P.M., 2019. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. M. Filella and P.M. May Applied Geochemistry 109, 104402.</a>
 
 Best stability constant values for tellurium species, 25 &deg;C and I 0 mol L<sup>-1</sup>:
 
@@ -54,7 +54,7 @@ Best stability constant values for tellurium species, 25 &deg;C and I 0 mol L<su
 | TaF<sub>7</sub><sup>2–</sup> + F<sup>–</sup> = TaF<sub>8</sub><sup>3–</sup> |	2.374 |
 | TaF<sub>8</sub><sup>3–</sup> + F<sup>–</sup> = TaF<sub>9</sub><sup>4–</sup> |	2.673 |
 
-## References
+### References
 
 <a  href="//doi.org/10.3390/inorganics3020160" target="_blank" rel="noopener">Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177</a>.
 
