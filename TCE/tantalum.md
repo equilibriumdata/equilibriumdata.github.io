@@ -86,15 +86,15 @@ Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York
 
 <a  href="//doi.org/10.1039/C4RA14866E" target="_blank" rel="noopener">Deblonde, G.J.-P., Moncomble, A., Cote, G., Bélair, S., Chagnes, A., 2015c. Experimental and computational exploration of the UV-visible properties of hexaniobate and hexatantalate ions. RSC Adv. 7619–7627</a>.
 
-Edmister, F.H., Albritton, G.G., 1932. Behavior of oxalate and tartrate solutions of columbium and tantalum oxides. J. Am. Chem. Soc. 54, 438–442.
+<a  href="//doi.org/10.1021/ja01341a004" target="_blank" rel="noopener">Edmister, F.H., Albritton, G.G., 1932. Behavior of oxalate and tartrate solutions of columbium and tantalum oxides. J. Am. Chem. Soc. 54, 438–442</a>.
 
-Fairbrother, F., Taylor, J.B., 1956. Water-soluble complexes of niobium (columbium) and tantalum. Part I. Complexes with &#593;-hydroxy-acids and (2-hydroxyethyl)-amines. J. Chem. Soc. 4946–4954.
+<a  href="//doi.org/10.1039/JR9560004946" target="_blank" rel="noopener">Fairbrother, F., Taylor, J.B., 1956. Water-soluble complexes of niobium (columbium) and tantalum. Part I. Complexes with &#593;-hydroxy-acids and (2-hydroxyethyl)-amines. J. Chem. Soc. 4946–4954</a>.
 
-Filella, M., 2017. Tantalum in the environment. Earth-Sci. Rev. 173, 122–140.
+<a  href="//doi.org/10.1016/j.earscirev.2017.07.002" target="_blank" rel="noopener">Filella, M., 2017. Tantalum in the environment. Earth-Sci. Rev. 173, 122–140</a>. 
 
-Filella, M., Rodushkin, I., 2018. A concise guide for the determination of less-studied technology-critical elements (Nb, Ta, Ga, In, Ge, Te) by inductively coupled plasma mass spectrometry in environmental samples. Spectrochim. Acta B 141, 80–84.
+<a  href="//doi.org/10.1016/j.sab.2018.01.004" target="_blank" rel="noopener">Filella, M., Rodushkin, I., 2018. A concise guide for the determination of less-studied technology-critical elements (Nb, Ta, Ga, In, Ge, Te) by inductively coupled plasma mass spectrometry in environmental samples. Spectrochim. Acta B 141, 80–84</a>.
 
-Filowitz, M., Ho, R.K.C., Klemperer, W.G., Shum, W., 1979. 17O Nuclear Magnetic Resonance spectroscopy of polyoxometalates. 1. Sensitivity and resolution. Inorg. Chem., 18, 93–103.
+<a  href="//doi.org/10.1021/ic50191a021" target="_blank" rel="noopener">Filowitz, M., Ho, R.K.C., Klemperer, W.G., Shum, W., 1979. 17O Nuclear Magnetic Resonance spectroscopy of polyoxometalates. 1. Sensitivity and resolution. Inorg. Chem., 18, 93–103</a>.
 
 Firdaus, M.L., Norisuye, K., Sato, T., Urushihara, S., Nakagawa, Y., Umetani, S., Sohrin, Y., 2007. Preconcentration of Zr, Hf, Nb, Ta and W in seawater using solid-phase extraction on TSK-8-hydroxyquinoline resin and determination by inductively coupled plasma-mass spectrometry. Anal. Chim. Acta 583, 296–302.
 
