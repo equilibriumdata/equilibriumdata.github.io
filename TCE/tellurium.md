@@ -55,7 +55,7 @@ Best stability constant values for tellurium species, 25 &deg;C and I 0 mol L<su
 | H<sub>2</sub>TeO<sub>3</sub> + 4 H<sup>+</sup> + 4 e– = Te(0) + 3 H<sub>2</sub>O |	41.09 |
 | Te(OH)<sub>6</sub> + 2 H<sup>+</sup> + 2 e<sup>–</sup> = TeO<sub>2</sub>(s) + 4 H<sub>2</sub>O |	34.52 |
 
-## References
+### References
 
 <a  href="//doi.org/10.2113/gsecongeo.83.2.377" target="_blank" rel="noopener">Afifi, A.A., Kelly, W.C., Essene, E.J., 1988. Phase relations among tellurides, sulfides, and oxides: I. Thermochemical data and calculated equilibria. Economic Geology 83, 377–394</a>.
 
