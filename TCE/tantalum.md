@@ -88,7 +88,7 @@ Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York
 
 Edmister, F.H., Albritton, G.G., 1932. Behavior of oxalate and tartrate solutions of columbium and tantalum oxides. J. Am. Chem. Soc. 54, 438–442.
 
-Fairbrother, F., Taylor, J.B., 1956. Water-soluble complexes of niobium (columbium) and tantalum. Part I. Complexes with -hydroxy-acids and (2-hydroxyethyl)-amines. J. Chem. Soc. 4946–4954.
+Fairbrother, F., Taylor, J.B., 1956. Water-soluble complexes of niobium (columbium) and tantalum. Part I. Complexes with &#593;-hydroxy-acids and (2-hydroxyethyl)-amines. J. Chem. Soc. 4946–4954.
 
 Filella, M., 2017. Tantalum in the environment. Earth-Sci. Rev. 173, 122–140.
 
