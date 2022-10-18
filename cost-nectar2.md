@@ -57,8 +57,8 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6">He</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Li.pdf" target="_blank" rel="noopener">Li</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Be.pdf" target="_blank" rel="noopener">Be</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Li.pdf" target="_blank" rel="noopener">Li</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Be.pdf" target="_blank" rel="noopener">Be</a></td>
     <td></td>
     <td></td>
     <td></td>
