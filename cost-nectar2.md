@@ -78,7 +78,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
   </tr>
   <tr border="1">
     <td align="center" border="1" bgcolor="#ffece6">Na</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Mg.pdf" target="_blank" rel="noopener">Mg</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Mg.pdf" target="_blank" rel="noopener">Mg</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -90,75 +90,75 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td></td>
     <td></td>
     <td align="center" border="1" bgcolor="#ffece6">Al</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Si.pdf" target="_blank" rel="noopener">Si</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Si.pdf" target="_blank" rel="noopener">Si</a></td>
     <td align="center" border="1" bgcolor="#ffece6">P</td>
     <td align="center" border="1" bgcolor="#ffece6">S</td>
     <td align="center" border="1" bgcolor="#ffece6">Cl</td>
     <td align="center" border="1" bgcolor="#ffece6">Ar</td>
   </tr>
   <tr border="1">
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/K.pdf" target="_blank" rel="noopener">K</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ca.pdf" target="_blank" rel="noopener">Ca</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Sc.pdf" target="_blank" rel="noopener">Sc</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/VV.pdf" target="_blank" rel="noopener">V</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Cr.pdf" target="_blank" rel="noopener">Cr</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Mn.pdf" target="_blank" rel="noopener">Mn</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/FeII.pdf" target="_blank" rel="noopener">Fe</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Co.pdf" target="_blank" rel="noopener">Co</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/NiII.pdf" target="_blank" rel="noopener">Ni</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Cu.pdf" target="_blank" rel="noopener">Cu</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ga.pdf" target="_blank" rel="noopener">Ga</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ge.pdf" target="_blank" rel="noopener">Ge</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/K.pdf" target="_blank" rel="noopener">K</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ca.pdf" target="_blank" rel="noopener">Ca</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sc.pdf" target="_blank" rel="noopener">Sc</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/VV.pdf" target="_blank" rel="noopener">V</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cr.pdf" target="_blank" rel="noopener">Cr</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Mn.pdf" target="_blank" rel="noopener">Mn</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/FeII.pdf" target="_blank" rel="noopener">Fe</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Co.pdf" target="_blank" rel="noopener">Co</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/NiII.pdf" target="_blank" rel="noopener">Ni</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cu.pdf" target="_blank" rel="noopener">Cu</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ga.pdf" target="_blank" rel="noopener">Ga</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ge.pdf" target="_blank" rel="noopener">Ge</a></td>
     <td align="center" border="1" bgcolor="#ffece6">As</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Se.pdf" target="_blank" rel="noopener">Se</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Se.pdf" target="_blank" rel="noopener">Se</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Br</td>
     <td align="center" border="1" bgcolor="#ffece6">Kr</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Rb.pdf" target="_blank" rel="noopener">Rb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Sr.pdf" target="_blank" rel="noopener">Sr</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Y.pdf" target="_blank" rel="noopener">Y</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Zr.pdf" target="_blank" rel="noopener">Zr</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Nb.pdf" target="_blank" rel="noopener">Nb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/MoVI.pdf" target="_blank" rel="noopener">Mo</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Rb.pdf" target="_blank" rel="noopener">Rb</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sr.pdf" target="_blank" rel="noopener">Sr</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Y.pdf" target="_blank" rel="noopener">Y</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zr.pdf" target="_blank" rel="noopener">Zr</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Nb.pdf" target="_blank" rel="noopener">Nb</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/MoVI.pdf" target="_blank" rel="noopener">Mo</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Tc</td>
     <td align="center" border="1" bgcolor="#ffece6">Ru</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Rh.pdf" target="_blank" rel="noopener">Rh</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pd.pdf" target="_blank" rel="noopener">Pd</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ag.pdf" target="_blank" rel="noopener">Ag</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Cd.pdf" target="_blank" rel="noopener">Cd</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/In.pdf" target="_blank" rel="noopener">In</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Sn.pdf" target="_blank" rel="noopener">Sn</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Sb.pdf" target="_blank" rel="noopener">Sb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Te.pdf" target="_blank" rel="noopener">Te</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Rh.pdf" target="_blank" rel="noopener">Rh</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pd.pdf" target="_blank" rel="noopener">Pd</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ag.pdf" target="_blank" rel="noopener">Ag</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cd.pdf" target="_blank" rel="noopener">Cd</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/In.pdf" target="_blank" rel="noopener">In</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sn.pdf" target="_blank" rel="noopener">Sn</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sb.pdf" target="_blank" rel="noopener">Sb</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Te.pdf" target="_blank" rel="noopener">Te</a></td>
     <td align="center" border="1" bgcolor="#ffece6">I</td>
     <td align="center" border="1" bgcolor="#ffece6">Xe</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Cs.pdf" target="_blank" rel="noopener">Cs</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ba.pdf" target="_blank" rel="noopener">Ba</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cs.pdf" target="_blank" rel="noopener">Cs</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ba.pdf" target="_blank" rel="noopener">Ba</a></td>
     <td align="center" border="1" bgcolor="#ffece6">La</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Hf.pdf" target="_blank" rel="noopener">Hf</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/W.pdf" target="_blank" rel="noopener">W</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Hf.pdf" target="_blank" rel="noopener">Hf</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/W.pdf" target="_blank" rel="noopener">W</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Re</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Os.pdf" target="_blank" rel="noopener">Os</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ir.pdf" target="_blank" rel="noopener">Ir</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pt.pdf" target="_blank" rel="noopener">Pt</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Au.pdf" target="_blank" rel="noopener">Au</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Hg.pdf" target="_blank" rel="noopener">Hg</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Tl.pdf" target="_blank" rel="noopener">Tl</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pb.pdf" target="_blank" rel="noopener">Pb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Bi.pdf" target="_blank" rel="noopener">Bi</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Os.pdf" target="_blank" rel="noopener">Os</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ir.pdf" target="_blank" rel="noopener">Ir</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pt.pdf" target="_blank" rel="noopener">Pt</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Au.pdf" target="_blank" rel="noopener">Au</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Hg.pdf" target="_blank" rel="noopener">Hg</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tl.pdf" target="_blank" rel="noopener">Tl</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pb.pdf" target="_blank" rel="noopener">Pb</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Bi.pdf" target="_blank" rel="noopener">Bi</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Po</td>
     <td align="center" border="1" bgcolor="#ffece6">At</td>
     <td align="center" border="1" bgcolor="#ffece6">Rn</td>
   </tr>
   <tr>
     <td align="center" border="1" bgcolor="#ffece6">Fr</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ra.pdf" target="_blank" rel="noopener">Ra</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ra.pdf" target="_blank" rel="noopener">Ra</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Ac</td>
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
@@ -200,19 +200,19 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ce.pdf" target="_blank" rel="noopener">Ce</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pr.pdf" target="_blank" rel="noopener">Pr</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Nd.pdf" target="_blank" rel="noopener">Nd</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ce.pdf" target="_blank" rel="noopener">Ce</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pr.pdf" target="_blank" rel="noopener">Pr</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Nd.pdf" target="_blank" rel="noopener">Nd</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Pm</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Sm.pdf" target="_blank" rel="noopener">Sm</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Eu.pdf" target="_blank" rel="noopener">Eu</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Gd.pdf" target="_blank" rel="noopener">Gd</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Tb.pdf" target="_blank" rel="noopener">Tb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Dy.pdf" target="_blank" rel="noopener">Dy</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ho.pdf" target="_blank" rel="noopener">Ho</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Er.pdf" target="_blank" rel="noopener">Er</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Tm.pdf" target="_blank" rel="noopener">Tm</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Yb.pdf" target="_blank" rel="noopener">Yb</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sm.pdf" target="_blank" rel="noopener">Sm</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Eu.pdf" target="_blank" rel="noopener">Eu</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Gd.pdf" target="_blank" rel="noopener">Gd</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tb.pdf" target="_blank" rel="noopener">Tb</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Dy.pdf" target="_blank" rel="noopener">Dy</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ho.pdf" target="_blank" rel="noopener">Ho</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Er.pdf" target="_blank" rel="noopener">Er</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tm.pdf" target="_blank" rel="noopener">Tm</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Yb.pdf" target="_blank" rel="noopener">Yb</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Lu</td>
     <td></td>
   </tr>
@@ -222,7 +222,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td></td>
     <td align="center" border="1" bgcolor="#ffece6">Th</td>
     <td align="center" border="1" bgcolor="#ffece6">Pa</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/UIV.pdf" target="_blank" rel="noopener">U</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/UIV.pdf" target="_blank" rel="noopener">U</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Np</td>
     <td align="center" border="1" bgcolor="#ffece6">Pu</td>
     <td align="center" border="1" bgcolor="#ffece6">Am</td>
