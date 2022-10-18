@@ -62,9 +62,9 @@ Best stability constant values for tellurium species, 25 &deg;C and I 0 mol L<su
 
 <a  href="https://datapdf.com/hydrolysis-of-tantalum-v-equilibrium-ultracentrifugation-and.html" target="_blank" rel="noopener">Aveston, J., Johnson J.S., 1964. Hydrolysis of tantalum(V): Equilibrium ultracentrifugation and Raman spectra of potassium tantalate. Inorg. Chem. 3, 1051–1053</a>.
 
-<a  href="doc/63BLN.pdf" target="_blank" rel="noopener">Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961</a>.
+<a  href="docs/63BLN.pdf" target="_blank" rel="noopener">Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961</a>.
 
-Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1965. Oxalato-complexes of tantalum. Russ. J. Inorg. Chem. 10, 467–474.
+<a  href="docs/65BLN.pdf" target="_blank" rel="noopener">Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1965. Oxalato-complexes of tantalum. Russ. J. Inorg. Chem. 10, 467–474</a>.
 
 Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York)
 
@@ -128,9 +128,9 @@ Sahureka, F., Burns, R.C., von Nagy-Felsobuki, E.I., 2003. Electrospray ionisati
 
 Salminen, R., Batista, M.J., Bidovec, M., Demetriades, A., De Vivo, B., De Vos, W., Duris, M., Gilucis, A., Gregorauskiene, V., Halamic, J., Heitzmann, P., Lima, A., Jordan, G., Klaver, G., Klein, P., Lis, J., Locutura, J., Marsina, K., Mazreku, A., O'Connor, P.J., Olsson, S.Å., Ottesen, R.-T., Petersell, V., Plant, J.A., Reeder, S., Salpeteur, I., Sandström, H., Siewers, U., Steenfelt, A., Tarvainen, T., 2005. Geochemical Atlas of Europe. In: Part 1: Background Information, Methodology and Maps. Geological Survey of Finland, Espoo (526 pages (Chief-editor)).
 
-Shabanova, G.N., Skorik, N.A., 1972. Stabilities of tartrate complexes of rare-earth elements and yttrium in water and in aqueous ethanol solutions. Russ. J. Inorg. Chem. 42, 198–201. 
+<a  href="docs/72ShS.pdf" target="_blank" rel="noopener">Shabanova, G.N., Skorik, N.A., 1972. Stabilities of tartrate complexes of rare-earth elements and yttrium in water and in aqueous ethanol solutions. Russ. J. Inorg. Chem. 42, 198–201</a>. 
 
-Stolyarov, K.P., Amantova, I.A., 1966. Photometric study of ascorbic acid complexes. VI. The systems Zr, Hf, V(V), Nb, Ta, Mo, W – ascorbic acid. Vest. Leningr. Univ. 10, 133–138. [in Russian]
+<a  href="docs/66StA.pdf" target="_blank" rel="noopener">Stolyarov, K.P., Amantova, I.A., 1966. Photometric study of ascorbic acid complexes. VI. The systems Zr, Hf, V(V), Nb, Ta, Mo, W – ascorbic acid. Vest. Leningr. Univ. 10, 133–138 [in Russian].</a>
 
 Spinner, B., Kheddar, N., 1969. New tantalum(V) isopolyanions. Compt. Rend. Ser. C. Chim. 269, 1108–1111. [in French] (Nouveaux isopolyanions du tantaleV).
 
@@ -140,10 +140,10 @@ Varga, L.P,. Freund, H., 1962. The formation constants of the tantalum fluoride 
 
 Varga, L.P., Wakley, W.D., Nicolson, L.S., Madden, M.L., Patterson, J., 1965. Solvent extraction studies of tantalum fluoride complexes with N-benzoylphenylhydroxylamine, tri-N-octylphosphine oxide, and methyl isobutyl ketone using computer techniques. Anal. Chem. 37, 1003–1009.
 
-Volkova, G.A., Sochevanov, V.G., 1969. Reaction of tantalum-hydroxide with ethylenediaminetetra-acetic acid. Russ. J. Inorg. Chem. 14, 652–654.
+<a  href="docs/69VoS.pdf" target="_blank" rel="noopener">Volkova, G.A., Sochevanov, V.G., 1969. Reaction of tantalum-hydroxide with ethylenediaminetetra-acetic acid. Russ. J. Inorg. Chem. 14, 652–654</a>.
 
 Weyer, S., Münker, C., Rehkämper, M., Mezger, K., 2002. Determination of ultra-low Nb, Ta, Zr and Hf concentrations and the chondritic Zr/Hf and Nb/Ta ratios by isotope dilution analyses with multiple collector ICP-MS. Chem. Geol. 187, 295–313.
 
 Wood, S.A., 2004. The aqueous geochemistry of zirconium, hafnium, niobium and tantalum. In: Rare-Element Geochemistry and Mineral Deposits. Ed. RL Linnen and IM Samson. (Geological Association of Canada Short Course Notes 17, St. Catharines, Ontario) pp. 217–268.
 
-Zhurenkov, E.M., Pobezhimovskaya, D.N., 1970. Determination of the composition and instability constants of oxalate complexes of niobium and tantalum by the solubility method. Radiochem. (Moscow) 12, 89–94.
+<a  href="docs/70ZhP.pdf" target="_blank" rel="noopener">Zhurenkov, E.M., Pobezhimovskaya, D.N., 1970. Determination of the composition and instability constants of oxalate complexes of niobium and tantalum by the solubility method. Radiochem. (Moscow) 12, 89–94</a>.
