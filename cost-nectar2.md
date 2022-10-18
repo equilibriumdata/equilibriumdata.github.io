@@ -101,19 +101,19 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ca.pdf" target="_blank" rel="noopener">Ca</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Sc.pdf" target="_blank" rel="noopener">Sc</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/V.pdf" target="_blank" rel="noopener">V</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/VV.pdf" target="_blank" rel="noopener">V</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Cr.pdf" target="_blank" rel="noopener">Cr</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Mn.pdf" target="_blank" rel="noopener">Mn</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Fe.pdf" target="_blank" rel="noopener">Fe</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/FeII.pdf" target="_blank" rel="noopener">Fe</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Co.pdf" target="_blank" rel="noopener">Co</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/NiII.pdf" target="_blank" rel="noopener">Ni</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Cu.pdf" target="_blank" rel="noopener">Cu</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ga.pdf" target="_blank" rel="noopener">Ga</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ge.pdf" target="_blank" rel="noopener">Ge</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/As.pdf" target="_blank" rel="noopener">As</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">As</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Se.pdf" target="_blank" rel="noopener">Se</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Br.pdf" target="_blank" rel="noopener">Br</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Br</td>
     <td align="center" border="1" bgcolor="#ffece6">Kr</td>
   </tr>
   <tr>
@@ -122,9 +122,9 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Y.pdf" target="_blank" rel="noopener">Y</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Zr.pdf" target="_blank" rel="noopener">Zr</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Nb.pdf" target="_blank" rel="noopener">Nb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Mo.pdf" target="_blank" rel="noopener">Mo</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Tc.pdf" target="_blank" rel="noopener">Tc</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ru.pdf" target="_blank" rel="noopener">Ru</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/MoVI.pdf" target="_blank" rel="noopener">Mo</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Tc</td>
+    <td align="center" border="1" bgcolor="#ffece6">Ru</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Rh.pdf" target="_blank" rel="noopener">Rh</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pd.pdf" target="_blank" rel="noopener">Pd</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ag.pdf" target="_blank" rel="noopener">Ag</a></td>
@@ -139,11 +139,11 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
   <tr>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Cs.pdf" target="_blank" rel="noopener">Cs</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ba.pdf" target="_blank" rel="noopener">Ba</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/La.pdf" target="_blank" rel="noopener">La</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">La</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Hf.pdf" target="_blank" rel="noopener">Hf</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/W.pdf" target="_blank" rel="noopener">W</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Re.pdf" target="_blank" rel="noopener">Re</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Re</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Os.pdf" target="_blank" rel="noopener">Os</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ir.pdf" target="_blank" rel="noopener">Ir</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pt.pdf" target="_blank" rel="noopener">Pt</a></td>
@@ -152,14 +152,14 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Tl.pdf" target="_blank" rel="noopener">Tl</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pb.pdf" target="_blank" rel="noopener">Pb</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Bi.pdf" target="_blank" rel="noopener">Bi</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Po.pdf" target="_blank" rel="noopener">Po</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Po</td>
     <td align="center" border="1" bgcolor="#ffece6">At</td>
     <td align="center" border="1" bgcolor="#ffece6">Rn</td>
   </tr>
   <tr>
     <td align="center" border="1" bgcolor="#ffece6">Fr</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ra.pdf" target="_blank" rel="noopener">Ra</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ac.pdf" target="_blank" rel="noopener">Ac</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Ac</td>
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
@@ -203,7 +203,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Ce.pdf" target="_blank" rel="noopener">Ce</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pr.pdf" target="_blank" rel="noopener">Pr</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Nd.pdf" target="_blank" rel="noopener">Nd</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pm.pdf" target="_blank" rel="noopener">Pm</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Pm</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Sm.pdf" target="_blank" rel="noopener">Sm</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Eu.pdf" target="_blank" rel="noopener">Eu</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Gd.pdf" target="_blank" rel="noopener">Gd</a></td>
@@ -213,26 +213,26 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Er.pdf" target="_blank" rel="noopener">Er</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Tm.pdf" target="_blank" rel="noopener">Tm</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Yb.pdf" target="_blank" rel="noopener">Yb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Lu.pdf" target="_blank" rel="noopener">Lu</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Lu</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Th.pdf" target="_blank" rel="noopener">Th</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pa.pdf" target="_blank" rel="noopener">Pa</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/U.pdf" target="_blank" rel="noopener">U</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Np.pdf" target="_blank" rel="noopener">Np</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Pu.pdf" target="_blank" rel="noopener">Pu</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Am.pdf" target="_blank" rel="noopener">Am</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Cm.pdf" target="_blank" rel="noopener">Cm</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Bk.pdf" target="_blank" rel="noopener">Bk</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Cf.pdf" target="_blank" rel="noopener">Cf</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Es.pdf" target="_blank" rel="noopener">Es</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Fm.pdf" target="_blank" rel="noopener">Fm</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/Md.pdf" target="_blank" rel="noopener">Md</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/No.pdf" target="_blank" rel="noopener">No</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Th</td>
+    <td align="center" border="1" bgcolor="#ffece6">Pa</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs//IUPAC/UIV.pdf" target="_blank" rel="noopener">U</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Np</td>
+    <td align="center" border="1" bgcolor="#ffece6">Pu</td>
+    <td align="center" border="1" bgcolor="#ffece6">Am</td>
+    <td align="center" border="1" bgcolor="#ffece6">Cm</td>
+    <td align="center" border="1" bgcolor="#ffece6">Bk</td>
+    <td align="center" border="1" bgcolor="#ffece6">Cf</td>
+    <td align="center" border="1" bgcolor="#ffece6">Es</td>
+    <td align="center" border="1" bgcolor="#ffece6">Fm</td>
+    <td align="center" border="1" bgcolor="#ffece6">Md</td>
+    <td align="center" border="1" bgcolor="#ffece6">No</td>
     <td align="center" border="1" bgcolor="#ffece6">Lr</td>
     <td></td>
   </tr>
