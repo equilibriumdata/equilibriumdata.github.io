@@ -62,7 +62,7 @@ Best stability constant values for tellurium species, 25 &deg;C and I 0 mol L<su
 
 <a  href="https://datapdf.com/hydrolysis-of-tantalum-v-equilibrium-ultracentrifugation-and.html" target="_blank" rel="noopener">Aveston, J., Johnson J.S., 1964. Hydrolysis of tantalum(V): Equilibrium ultracentrifugation and Raman spectra of potassium tantalate. Inorg. Chem. 3, 1051–1053</a>.
 
-Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961.
+<a  href="doc/63BLN.pdf" target="_blank" rel="noopener">Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961</a>.
 
 Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1965. Oxalato-complexes of tantalum. Russ. J. Inorg. Chem. 10, 467–474.
 
