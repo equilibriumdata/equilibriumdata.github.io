@@ -87,7 +87,7 @@ Baes, C.F., Mesmer, R.E., 1976. ‘The hydrolysis of cations’ (Wiley: New York
 
 <a  href="docs/66Bri.pdf" target="_blank" rel="noopener">Brito, F., 1966. Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 &deg;C [Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25 &deg;C]. Anales de Física y Química 62, 197–108 [in Spanish]</a>. 
 
-<a  href="//doi.org/10.1002/bbpc.19130192107" target="_blank" rel="noopener">Bruner-Krakau, L., 1913. Über Selen- und Tellurwasserstoff als Säuren [About selenium and tellurium as acids]. Zeitschrift für Elektrochemie 19, 861 [in German]</a>.
+<a  href="https://onlinelibrary.wiley.com/doi/10.1002/bbpc.19130192107" target="_blank" rel="noopener">Bruner-Krakau, L., 1913. Über Selen- und Tellurwasserstoff als Säuren [About selenium and tellurium as acids]. Zeitschrift für Elektrochemie 19, 861 [in German]</a>.
 
 <a  href="//doi.org/10.1016/j.aca.2015.11.035" target="_blank" rel="noopener">Chen, Y.W., Alzahrani, A., Deng, T.L., Belzile, N., 2016. Valence properties of tellurium in different chemical systems and its determination in refractory environmental samples using hydride generation-Atomic fluorescence spectroscopy. Analytica Chimica Acta 905, 42–50</a>.
 
