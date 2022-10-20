@@ -36,11 +36,11 @@ layout: default
 
 Original source: <a  href="//doi.org/10.1016/j.apgeochem.2019.104402" target="_blank" rel="noopener">Filella, M., May, P.M., 2019. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. M. Filella and P.M. May Applied Geochemistry 109, 104402.</a>
 
-Best stability constant values for tellurium species, 25 &deg;C and I 0 mol L<sup>-1</sup>:
+Best stability constant values for tantalum species, 25 &deg;C and I 0 mol L<sup>-1</sup>:
 
 # Tantalum
 
-| Reaction |	<i>log</i><sub>10</sub><i>K<i/> |
+| Reaction |	log <i>K<i/> |
 | :--- | :--- |
 | Ta(OH)<sub>5</sub>(s) = Ta(OH)<sub>5</sub><sup>0</sup> |	–5.295 |
 | Ta<sub>2</sub>O<sub>5</sub>(s) + 5 H<sub>2</sub>O = 2 Ta(OH)<sub>5</sub><sup>0</sup>	 | –20.00 |
