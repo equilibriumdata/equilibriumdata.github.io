@@ -40,7 +40,7 @@ Best stability constant values for niobium species, 25 &deg;C and I 0 mol L<sup>
 
 # Niobium
 
-| Reaction |	logK0 |
+| Reaction |	log <i>K</i> |
 | :--- | :--- |
 | Nb(OH)<sub>5</sub>(am.,s) = Nb(OH)<sub>5</sub><sup>0</sup> |	–7.510 |
 | Nb<sub>2</sub>O<sub>5</sub>(s) + 5 H<sub>2</sub>O = 2 Nb(OH)<sub>5</sub><sup>0</sup> |	–18.31 |
