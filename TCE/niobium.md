@@ -38,7 +38,7 @@ layout: default
 
 Original source: <a  href="//doi.org/10.1016/j.apgeochem.2020.104729" target="_blank" rel="noopener">Filella, M., May, P.M., 2020. The aqueous solution thermodynamics of niobium under conditions of environmental and biological interest. Applied Geochemistry 122, 104729.</a>
 
-Best stability constant values for niobium species, 25 &deg;C and I 0 mol L<sup>-1</sup>:
+Best stability constant values for niobium species, 25 &deg;C and <i>I</i> 0 mol L<sup>-1</sup>:
 
 | Reaction |	log <i>K</i> |
 | :--- | :--- |
