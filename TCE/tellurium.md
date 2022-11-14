@@ -125,7 +125,7 @@ Fouasson, F., 1948. Contribution à l’étude de l’acide tellurique [Contribu
 
 <a  href="//doi.org/10.1039/c7cs00013h" target="_blank" rel="noopener">He, Z., Yang, Y., Liu, J.-.W, Yu, S.-H., 2017. Emerging tellurium nanostructures: controllable synthesis and their applications. Chemical Society Reviews 46, 2732-2753</a>.
 
-Inzelt, G., 2006. Standard, Formal and Other Characteristic Potentials of Selected Electrode Reactions.In’Encyclopedia of Electrochemistry, Vol. 7a’ (Ed. A.J. Bard, M. Stratmann, F. Scholz, C.J. Pickett) pp. 17-75 (Wiley-VCH: Weinheim, Germany)
+<a  href="//doi.org/10.1002/9783527610426.bard07000" target="_blank" rel="noopener">Inzelt, G., 2006. Standard, Formal and Other Characteristic Potentials of Selected Electrode Reactions. In ’Encyclopedia of Electrochemistry, Vol. 7a’ (Ed. A.J. Bard, M. Stratmann, F. Scholz, C.J. Pickett) pp. 17-75 (Wiley-VCH: Weinheim, Germany)</a>.
 
 <a  href="//doi.org/10.1021/j150521a004" target="_blank" rel="noopener">Issa, I.M., Awad, S.A., 1954. The amphoteric properties of tellurium dioxide. Journal of Physical Chemistry 58, 948–951</a>.
 
@@ -143,13 +143,13 @@ Inzelt, G., 2006. Standard, Formal and Other Characteristic Potentials of Select
   
 <a  href="//doi.org/10.1007/BF02283172" target="_blank" rel="noopener">Klett, A., 1900. Zur Kenntniss der reducirenden Eigenschaften der Bakterien. Zeitschrift für Hygiene und Infektionskrankheiten 33, 137</a>.
 
-Latimer, W.M., 1938. ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions‘ (Prentice-Hall: Englewood Cliffs, NJ)
+<a  href="//doi.org/10.1097/00010694-193910000-00009" target="_blank" rel="noopener">Latimer, W.M., 1938. ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions‘ (Prentice-Hall: Englewood Cliffs, NJ)</a>.
 
-Latimer, W.M., 1953. ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions. Second Edition‘ (Prentice-Hall: Englewood Cliffs, NJ)
+Latimer, W.M., 1952. ‘The Oxidation States of the Elements and their Potentials in Aqueous Solutions. Second Edition‘ (Prentice-Hall: Englewood Cliffs, NJ).
 
 <a  href="//doi.org/10.1038/313782a0" target="_blank" rel="noopener">Lee, D.S., Edmond, J.M., 1985. Tellurium species in seawater. Nature 313, 782–785</a>.
 
-Lide, D.R., Frederikse, H.P.R., 1995. ‘CRC Handbook of Chemistry and Physics, 76th Edn., A Ready-Reference Book of Chemical and Physical Data’ (CRC Press: Cleveland, US)
+<a  href="//www.worldcat.org/title/35318951" target="_blank" rel="noopener">Lide, D.R., Frederikse, H.P.R., 1995. ‘CRC Handbook of Chemistry and Physics, 76th Edn., A Ready-Reference Book of Chemical and Physical Data’ (CRC Press: Cleveland, US)</a>.
 
 <a  href="//doi.org/10.1021/ja01192a041" target="_blank" rel="noopener">Lingane, J.J., Niedrach, L.W., 1948. Polarography of selenium and tellurium. I. The -2 states. Journal of the American Chemical Society 70, 4115–4120</a>.
 
@@ -173,7 +173,7 @@ Lide, D.R., Frederikse, H.P.R., 1995. ‘CRC Handbook of Chemistry and Physics, 
 
 <a  href="//doi.org/10.1016/0016-7037(94)00353-X" target="_blank" rel="noopener">McPhail, D.C., 1995. Thermodynamic properties of aqueous tellurium species between 25 and 350oC. Geochimica et Cosmochimica Acta 59, 851–866</a>.
 
-Mills, K.C., 1974. ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and Tellurides’. (Butterworths, London).
+<a  href="//openlibrary.org/books/OL5101865M/Thermodynamic_data_for_inorganic_sulphides_selenides_and_tellurides" target="_blank" rel="noopener">Mills, K.C., 1974. ‘Thermodynamic Data for Inorganic Sulfides, Selenides, and Tellurides’. (Butterworths, London)</a>.
 
 <a  href="//doi.org/10.1139/v91-144" target="_blank" rel="noopener">Milne, J.B., 1991. Hexachlorotellurate(IV) hydrolysis equilibria in hydrochloric acid. measurement by Raman and 125Te NMR spectroscopy and a reconsideration of earlier spectrophotometric results. Canadian Journal of Chemistry 69, 987–992</a>.
 
