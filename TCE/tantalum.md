@@ -34,11 +34,11 @@ layout: default
   </li>
 </ul>
 
+# Tantalum
+
 Original source: <a  href="//doi.org/10.1016/j.apgeochem.2019.104402" target="_blank" rel="noopener">Filella, M., May, P.M., 2019. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. Applied Geochemistry 109, 104402.</a>
 
 Best stability constant values for tantalum species, 25 &deg;C and I 0 mol L<sup>-1</sup>:
-
-# Tantalum
 
 | Reaction |	log <i>K<i/> |
 | :--- | :--- |
