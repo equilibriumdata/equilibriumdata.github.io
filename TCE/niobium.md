@@ -83,13 +83,13 @@ Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
 <a  href="//doi.org/10.1021/ac60270a018" target="_blank" rel="noopener">Erskine, S., Sink, M.L., Varga, L.P., 1969. Solvent extraction separation of tantalum and niobium fluorides with N-benzoyl-N-phenylhydroxylamine. Anal. Chem. 41, 70–73</a>.
 
-<a  href="//doi.org/10.1039/DT9940003055" target="_blank" rel="noopener">Etxebarria, N., Fernández, L.A., Madariaga, J.M., 1994. On the hydrolysis of niobium(V) and tantalum(V) in 3 mol dm<sup>&minus;-3</sup> KCl at &deg;25 C. Part 1. Construction of a thermodynamic model for Nb(V). J. Chem. Soc., Dalton Trans. 3055–3059</a>.
+<a  href="//doi.org/10.1039/DT9940003055" target="_blank" rel="noopener">Etxebarria, N., Fernández, L.A., Madariaga, J.M., 1994. On the hydrolysis of niobium(V) and tantalum(V) in 3 mol dm<sup>&minus;3</sup> KCl at &deg;25 C. Part 1. Construction of a thermodynamic model for Nb(V). J. Chem. Soc., Dalton Trans. 3055–3059</a>.
 
-Fairbrother, F., Taylor, J.B., 1956. Water-soluble complexes of niobium (columbium) and tantalum. Part I. Complexes with -hydroxy-acids and (2-hydroxyethyl)-amines. J. Chem. Soc. 4946–4954.
+<a  href="//doi.org/10.1039/JR9560004946" target="_blank" rel="noopener">Fairbrother, F., Taylor, J.B., 1956. Water-soluble complexes of niobium (columbium) and tantalum. Part I. Complexes with &alpha;-hydroxy-acids and (2-hydroxyethyl)-amines. J. Chem. Soc. 4946–4954</a>.
 
-Filowitz, M., Ho, R.K.C., Klemperer, W.G., Shum, W., 1979. 17O Nuclear Magnetic Resonance spectroscopy of polyoxometalates. 1. Sensitivity and resolution. Inorg. Chem. 18, 93–103.
+<a  href="//doi.org/10.1021/ic50191a021" target="_blank" rel="noopener">Filowitz, M., Ho, R.K.C., Klemperer, W.G., Shum, W., 1979. 17O Nuclear Magnetic Resonance spectroscopy of polyoxometalates. 1. Sensitivity and resolution. Inorg. Chem. 18, 93–103</a>.
 
-Filella, M., Magnenat, D.-J., Bensimon, M., 2004. Direct determination of niobium at the low nanogram level in mineral waters and freshwaters. Anal. Methods 6, 8090–8093.
+<a  href="//doi.org/10.1039/C4AY01860E" target="_blank" rel="noopener">Filella, M., Magnenat, D.-J., Bensimon, M., 2014. Direct determination of niobium at the low nanogram level in mineral waters and freshwaters. Anal. Methods 6, 8090–8093</a>.
 
 Filella, M., May, P.M., 2019. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. Appl. Geochem. 109, 104402.
 
