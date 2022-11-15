@@ -91,7 +91,7 @@ Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
 <a  href="//doi.org/10.1039/C4AY01860E" target="_blank" rel="noopener">Filella, M., Magnenat, D.-J., Bensimon, M., 2014. Direct determination of niobium at the low nanogram level in mineral waters and freshwaters. Anal. Methods 6, 8090–8093</a>.
 
-Filella, M., May, P.M., 2019. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. Appl. Geochem. 109, 104402.
+<a  href="//doi.org/10.1016/j.apgeochem.2019.104402" target="_blank" rel="noopener">" target="_blank" rel="noopener">Filella, M., May, P.M., 2019. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. Appl. Geochem. 109, 104402</a>.
 
 Firdaus, M.L., Minami, T., Norisuye, K., Sohrin, Y., 2011. Strong elemental fractionation of Zr–Hf and Nb–Ta across the Pacific Ocean. Nat. Geosci. 4:227–230. http://dx.doi.org/10.1038/ngeo1114
 
