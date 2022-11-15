@@ -53,15 +53,15 @@ Best stability constant values for niobium species, 25 &deg;C and <i>I</i> 0 mol
 
 ## References
 
-Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177.
+<a  href="//doi.org/10.3390/inorganics3020160" target="_blank" rel="noopener">Abramov, P.A., Sokolov, M.N., Vicent, C., 2015. Polyoxoniobates and polyoxotantalayes as ligands – Revisited. Inorganics 3, 160–177</a>.
 
-Agulyansky, A., 2004. Chemistry of Tantalum and Niobium Fluoride Compounds. Elsevier, Amsterdam.
+<a  href="https://www.elsevier.com/books/chemistry-of-tantalum-and-niobium-fluoride-compounds/agulyansky/978-0-444-51604-6" target="_blank" rel="noopener">Agulyansky, A., 2004. Chemistry of Tantalum and Niobium Fluoride Compounds. Elsevier, Amsterdam</a>.
 
-Aleksandrov, I.V., 1967. Niobium in the carbonate solutions and some considerations on the migration of rare elements under hydrothermal conditions. Geochem. Int. 4, 558–566.
+<a  href="http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=GEODEBRGM6804024119" target="_blank" rel="noopener">Aleksandrov, I.V., 1967. Niobium in the carbonate solutions and some considerations on the migration of rare elements under hydrothermal conditions. Geochem. Int. 4, 558–566</a>.
 
-Ali, R.F., Gates, B.D., 2018. Synthesis of lithium niobate nanocrystals with size focusing through an Ostwald ripening process. Chem. Mater. 30, 2028–2035.
+<a  href="//doi.org/10.1021/acs.chemmater.7b05282" target="_blank" rel="noopener">Ali, R.F., Gates, B.D., 2018. Synthesis of lithium niobate nanocrystals with size focusing through an Ostwald ripening process. Chem. Mater. 30, 2028–2035</a>.
 
-Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961.
+<a  href="docs/63BLN.pdf" target="_blank" rel="noopener">Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961</a>.
 
 Babko, A.K., Nabivanets, B.L., Lukachina, V.V., 1967. Interaction of hydrated niobium pentoxide with hydrofluoric acid. Russ. J. Inorg. Chem. 12, 1568–1572.
 
@@ -69,9 +69,9 @@ Babko A.K., Volkova, A.I., 1962. Complex-formation in niobium(V)-salicylate-orga
 
 Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
-Balke, C.W., Smith, E.F., 1908. Observations on columbium. J. Amer. Chem. Soc. 30, 1637–1668.
+<a  href="//doi.org/10.1021/ja01953a001" target="_blank" rel="noopener">Balke, C.W., Smith, E.F., 1908. Observations on columbium. J. Amer. Chem. Soc. 30, 1637–1668</a>.
 
-Bedford, M. H., 1905. Columbates. J. Amer. Chem. Soc. 27, 1216–1221.
+<a  href="//doi.org/10.1021/ja01988a002" target="_blank" rel="noopener">Bedford, M. H., 1905. Columbates. J. Amer. Chem. Soc. 27, 1216–1221</a>.
 
 Byrne, R.H., 2002. Inorganic speciation of dissolved elements in seawater: the influence of pH on concentration ratios. Geochem. Trans. 3, 11–16.
 
