@@ -96,19 +96,19 @@ Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York
 
 <a  href="//doi.org/10.1021/ic50191a021" target="_blank" rel="noopener">Filowitz, M., Ho, R.K.C., Klemperer, W.G., Shum, W., 1979. 17O Nuclear Magnetic Resonance spectroscopy of polyoxometalates. 1. Sensitivity and resolution. Inorg. Chem., 18, 93–103</a>.
 
-Firdaus, M.L., Norisuye, K., Sato, T., Urushihara, S., Nakagawa, Y., Umetani, S., Sohrin, Y., 2007. Preconcentration of Zr, Hf, Nb, Ta and W in seawater using solid-phase extraction on TSK-8-hydroxyquinoline resin and determination by inductively coupled plasma-mass spectrometry. Anal. Chim. Acta 583, 296–302.
+<a  href="//doi.org/10.1016/j.aca.2006.10.033" target="_blank" rel="noopener">Firdaus, M.L., Norisuye, K., Sato, T., Urushihara, S., Nakagawa, Y., Umetani, S., Sohrin, Y., 2007. Preconcentration of Zr, Hf, Nb, Ta and W in seawater using solid-phase extraction on TSK-8-hydroxyquinoline resin and determination by inductively coupled plasma-mass spectrometry. Anal. Chim. Acta 583, 296–302</a>.
 
-Fullmer, L.B., Molina, P.I., Antonio, M.R., Nyman, M., 2014. Contrasting ion-association behaviour of Ta and Nb polyoxometalates. Dalton Trans. 43, 15295–15299.
+<a  href="//doi.org/10.1039/C4DT02394C" target="_blank" rel="noopener">Fullmer, L.B., Molina, P.I., Antonio, M.R., Nyman, M., 2014. Contrasting ion-association behaviour of Ta and Nb polyoxometalates. Dalton Trans. 43, 15295–15299</a>.
 
-Gunn, G., Ed. 2014. Critical Metals Handbook. American Geophysical Union and Wiley. Nottingham, UK.
+<a  href="https://www.wiley.com/en-ie/Critical+Metals+Handbook-p-9780470671719" target="_blank" rel="noopener">Gunn, G., Ed. 2014. Critical Metals Handbook. American Geophysical Union and Wiley. Nottingham, UK</a>.
 
-Jander, G., Ertel, D., 1956. Über tantalsäure und die wasserlöslichen alkalitantalate. J. Inorg. Nucl. Chem. 3, 139–152.
+<a  href="//doi.org/10.1016/0022-1902(56)80075-4" target="_blank" rel="noopener">Jander, G., Ertel, D., 1956. Über tantalsäure und die wasserlöslichen alkalitantalate. J. Inorg. Nucl. Chem. 3, 139–152</a>.
 
-Marignac, M.C., 1866. Recherches sur les combinaisons du niobium. Ann. Chim. Phys. 4, 5–75.
+<a  href="https://gallica.bnf.fr/ark:/12148/bpt6k90442v/texteBrut" target="_blank" rel="noopener">Marignac, M.C., 1866. Recherches sur les combinaisons du niobium. Ann. Chim. Phys. 4, 5–75</a>.
 
-May, P.M., 2000. A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chem. Com. 0, 1265–1266.
+<a  href="//doi.org/10.1039/B003157G" target="_blank" rel="noopener">May, P.M., 2000. A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chem. Com., 1265–1266</a>.
 
-May, P.M., Rowland, D., 2018. JESS, a Joint Expert Speciation System - VI: Thermodynamically-consistent standard Gibbs energies of reaction for aqueous solutions. New J. Chem.  42, 7617–7629.
+<a  href="//doi.org/10.1039/C7NJ03597G" target="_blank" rel="noopener">May, P.M., Rowland, D., 2018. JESS, a Joint Expert Speciation System - VI: Thermodynamically-consistent standard Gibbs energies of reaction for aqueous solutions. New J. Chem.  42, 7617–7629</a>.
 
 Moshier, R.W., 1964. Analytical Chemistry of Niobium and Tantalum. The Macmillan Company, New York.
 
