@@ -134,16 +134,16 @@ Perrin, D.D., 1979. "IUPAC Chemical Data Series No. 22, Stability Constants  of 
 
 <a  href="https://gallica.bnf.fr/ark:/12148/bpt6k480277d/f1126.item" target="_blank" rel="noopener">Spinner, B., Kheddar, N., 1969. Nouveaux isopolyanions du tantale V [New tantalum(V) isopolyanions]. Compt. Rend. Ser. C. Chim. 269, 1108–1111 [in French]</a>.
 
-Timofeev, A., Migdisov, A.A., Williams-Jones, A.E., 2017. An experimental study of the solubility and speciation of tantalum in fluoride-bearing aqueous solutions at elevated temperature. Geochim. Cosmochim. Acta 197, 294–304.
+<a  href="//doi.org/10.1016/j.gca.2016.10.027" target="_blank" rel="noopener">Timofeev, A., Migdisov, A.A., Williams-Jones, A.E., 2017. An experimental study of the solubility and speciation of tantalum in fluoride-bearing aqueous solutions at elevated temperature. Geochim. Cosmochim. Acta 197, 294–304</a>.
 
-Varga, L.P,. Freund, H., 1962. The formation constants of the tantalum fluoride system. I. Potentiometric ans anion exchange studies – Evidence for species of co:ordiantion number nine. J. Phys. Chem. 66, 21–28.
+<a  href="//doi.org/10.1021/j100807a005" target="_blank" rel="noopener">Varga, L.P,. Freund, H., 1962. The formation constants of the tantalum fluoride system. I. Potentiometric ans anion exchange studies – Evidence for species of coördiantion number nine. J. Phys. Chem. 66, 21–28</a>.
 
-Varga, L.P., Wakley, W.D., Nicolson, L.S., Madden, M.L., Patterson, J., 1965. Solvent extraction studies of tantalum fluoride complexes with N-benzoylphenylhydroxylamine, tri-N-octylphosphine oxide, and methyl isobutyl ketone using computer techniques. Anal. Chem. 37, 1003–1009.
+<a  href="//doi.org/10.1021/ac60227a014" target="_blank" rel="noopener">Varga, L.P., Wakley, W.D., Nicolson, L.S., Madden, M.L., Patterson, J., 1965. Solvent extraction studies of tantalum fluoride complexes with N-benzoylphenylhydroxylamine, tri-N-octylphosphine oxide, and methyl isobutyl ketone using computer techniques. Anal. Chem. 37, 1003–1009</a>.
 
 <a  href="docs/69VoS.pdf" target="_blank" rel="noopener">Volkova, G.A., Sochevanov, V.G., 1969. Reaction of tantalum-hydroxide with ethylenediaminetetra-acetic acid. Russ. J. Inorg. Chem. 14, 652–654</a>.
 
-Weyer, S., Münker, C., Rehkämper, M., Mezger, K., 2002. Determination of ultra-low Nb, Ta, Zr and Hf concentrations and the chondritic Zr/Hf and Nb/Ta ratios by isotope dilution analyses with multiple collector ICP-MS. Chem. Geol. 187, 295–313.
+<a  href="//doi.org/10.1016/S0009-2541(02)00129-8" target="_blank" rel="noopener">Weyer, S., Münker, C., Rehkämper, M., Mezger, K., 2002. Determination of ultra-low Nb, Ta, Zr and Hf concentrations and the chondritic Zr/Hf and Nb/Ta ratios by isotope dilution analyses with multiple collector ICP-MS. Chem. Geol. 187, 295–313</a>.
 
-Wood, S.A., 2004. The aqueous geochemistry of zirconium, hafnium, niobium and tantalum. In: Rare-Element Geochemistry and Mineral Deposits. Ed. RL Linnen and IM Samson. (Geological Association of Canada Short Course Notes 17, St. Catharines, Ontario) pp. 217–268.
+<a  href="https://gac.ca/product/rare-element-geochemistry-and-mineral-deposits/" target="_blank" rel="noopener">Wood, S.A., 2004. The aqueous geochemistry of zirconium, hafnium, niobium and tantalum. In: Rare-Element Geochemistry and Mineral Deposits. Ed. RL Linnen and IM Samson. (Geological Association of Canada Short Course Notes 17, St. Catharines, Ontario) pp. 217–268</a>.
 
 <a  href="docs/70ZhP.pdf" target="_blank" rel="noopener">Zhurenkov, E.M., Pobezhimovskaya, D.N., 1970. Determination of the composition and instability constants of oxalate complexes of niobium and tantalum by the solubility method. Radiochem. (Moscow) 12, 89–94</a>.
