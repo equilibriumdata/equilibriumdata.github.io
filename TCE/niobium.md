@@ -87,19 +87,19 @@ Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
 <a  href="//doi.org/10.1039/JR9560004946" target="_blank" rel="noopener">Fairbrother, F., Taylor, J.B., 1956. Water-soluble complexes of niobium (columbium) and tantalum. Part I. Complexes with &alpha;-hydroxy-acids and (2-hydroxyethyl)-amines. J. Chem. Soc. 4946–4954</a>.
 
-<a  href="//doi.org/10.1021/ic50191a021" target="_blank" rel="noopener">Filowitz, M., Ho, R.K.C., Klemperer, W.G., Shum, W., 1979. 17O Nuclear Magnetic Resonance spectroscopy of polyoxometalates. 1. Sensitivity and resolution. Inorg. Chem. 18, 93–103</a>.
+<a  href="//doi.org/10.1021/ic50191a021" target="_blank" rel="noopener">Filowitz, M., Ho, R.K.C., Klemperer, W.G., Shum, W., 1979. <sup>17</sup>O Nuclear Magnetic Resonance spectroscopy of polyoxometalates. 1. Sensitivity and resolution. Inorg. Chem. 18, 93–103</a>.
 
 <a  href="//doi.org/10.1039/C4AY01860E" target="_blank" rel="noopener">Filella, M., Magnenat, D.-J., Bensimon, M., 2014. Direct determination of niobium at the low nanogram level in mineral waters and freshwaters. Anal. Methods 6, 8090–8093</a>.
 
-<a  href="//doi.org/10.1016/j.apgeochem.2019.104402" target="_blank" rel="noopener">" target="_blank" rel="noopener">Filella, M., May, P.M., 2019. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. Appl. Geochem. 109, 104402</a>.
+<a  href="//doi.org/10.1016/j.apgeochem.2019.104402" target="_blank" rel="noopener">Filella, M., May, P.M., 2019. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. Appl. Geochem. 109, 104402</a>.
 
-Firdaus, M.L., Minami, T., Norisuye, K., Sohrin, Y., 2011. Strong elemental fractionation of Zr–Hf and Nb–Ta across the Pacific Ocean. Nat. Geosci. 4:227–230. http://dx.doi.org/10.1038/ngeo1114
+<a  href="//doi.org/10.1038/ngeo1114" target="_blank" rel="noopener">Firdaus, M.L., Minami, T., Norisuye, K., Sohrin, Y., 2011. Strong elemental fractionation of Zr–Hf and Nb–Ta across the Pacific Ocean. Nat. Geosci. 4, 227–230</a>.
 
-Fullmer, L.B., Molina, P.I., Antonio, M.R., Nyman, M., 2014. Contrasting ion-association behaviour of Ta and Nb polyoxometalates. Dalton Trans. 43, 15295–15299.
+<a  href="//doi.org/10.1039/C4DT02394C" target="_blank" rel="noopener">Fullmer, L.B., Molina, P.I., Antonio, M.R., Nyman, M., 2014. Contrasting ion-association behaviour of Ta and Nb polyoxometalates. Dalton Trans. 43, 15295–15299</a>.
 
-Goiffon, A., Granger, R., Bockel, C., Spinner, B. 1973. Study of the equilibria in alkaline solutions of Nb V. Revue de Chimie Minérale 10, 487–502. [in French] (Etude des équilibres dans les solutions alcalines du niobium V).
+<a  href="https://inis.iaea.org/search/search.aspx?orig_q=RN:5112018" target="_blank" rel="noopener">Goiffon, A., Granger, R., Bockel, C., Spinner, B. 1973. Etude des équilibres dans les solutions alcalines du niobium V [Study of the equilibria in alkaline solutions of Nb V]. Revue de Chimie Minérale 10, 487–502 [in French]</a>.
 
-Griffith, W.P., Wickins, T.D., 1967. Raman studies on species in aqueous solutions. Part II. Oxy-species of metals of Groups VIA, VA, and IVA. J. Chem. Soc. A 675–679.
+<a  href="//doi.org/10.1039/J19670000675" target="_blank" rel="noopener">Griffith, W.P., Wickins, T.D., 1967. Raman studies on species in aqueous solutions. Part II. Oxy-species of metals of Groups VIA, VA, and IVA. J. Chem. Soc. A 675–679</a>.
 
 Guillaumont, R., Franck, J.C., Muxart, R., 1970. Contribution to the study of the hydrolysis of niobium. Radiochem. Radioanal. Lett. 4, 73–79. [in French] (Contribution à l'étude de l'hydrolyse du niobium)
 
