@@ -105,9 +105,9 @@ Guillaumont, R., Franck, J.C., Muxart, R., 1970. Contribution à l'étude de l'h
 
 <a  href="https://www.wiley.com/en-ie/Critical+Metals+Handbook-p-9780470671719" target="_blank" rel="noopener">Gunn, G., Ed. 2014. Critical Metals Handbook. American Geophysical Union and Wiley. Nottingham, UK</a>.
 
-Haïssinsky, M., Yang, J.-T., 1950. On the stability of some organic complexes of the elements of the fourth and fifth groups of the periodic system: oxalates, citrates and tartrates of Nb, Ta and Pa. Anal. Chim. Acta 4, 328–332. [in French] (Sur la stabilité de quelques complexes organiques des éléments des quatrième et cinquième groupes du système périodique: oxalates, citrates et tartrates de Nb, Ta et Pa)
-
-Hammer, R.R., 1979. A Determination of the Stability Constants of a Number of Metal Fluoride Complexes and Their Rates of Formation. USDOE Report, Idaho Chemical Processing Plant, EXXON Nuclear Idaho Company, ENICO 1004 (as cited by Wood, 2004).
+<a  href="//doi.org/10.1016/0003-2670(50)80052-1" target="_blank" rel="noopener">Haïssinsky, M., Yang, J.-T., 1950. Sur la stabilité de quelques complexes organiques des éléments des quatrième et cinquième groupes du système périodique: Oxalates, Citrates et Tartrates de Nb, Ta et Pa [On the stability of some organic complexes of the elements of the fourth and fifth groups of the periodic system: oxalates, citrates and tartrates of Nb, Ta and Pa]. Anal. Chim. Acta 4, 328–332 [in French]</a>.
+ 
+<a  href="https://www.osti.gov/biblio/5947576" target="_blank" rel="noopener">Hammer, R.R., 1979. A Determination of the Stability Constants of a Number of Metal Fluoride Complexes and Their Rates of Formation. USDOE Report, Idaho Chemical Processing Plant, EXXON Nuclear Idaho Company, ENICO 1004 (as cited by Wood, 2004)</a>.
 
 Huffman, E.H., Iddings, G.M., Lilly, R.C., 1951. Anion exchange of zirconium, hafnium, niobium and tantalum in hydrochloric acid solutions. J. Am. Chem. Soc. 73, 4474–4475.
 
