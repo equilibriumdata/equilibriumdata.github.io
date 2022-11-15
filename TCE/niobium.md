@@ -73,17 +73,17 @@ Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
 <a  href="//doi.org/10.1021/ja01988a002" target="_blank" rel="noopener">Bedford, M. H., 1905. Columbates. J. Amer. Chem. Soc. 27, 1216–1221</a>.
 
-Byrne, R.H., 2002. Inorganic speciation of dissolved elements in seawater: the influence of pH on concentration ratios. Geochem. Trans. 3, 11–16.
+<a  href="//doi.org/10.1186/1467-4866-3-11" target="_blank" rel="noopener">Byrne, R.H., 2002. Inorganic speciation of dissolved elements in seawater: the influence of pH on concentration ratios. Geochem. Trans. 3, 11–16</a>.
 
-Davies, J.E.D., Long, D.A., 1968. The vibrational spectra of titanium tetrachloride–hydrochloric acid and titanium tetrachloride–tri-n-butyl phosphate systems and the hexachloro-anions of zirconium(IV), hafnium(IV), niobium(V), and tantalum(V). J. Chem. Soc. A 2560–2564.
+<a  href="//doi.org/10.1039/J19680002560" target="_blank" rel="noopener">Davies, J.E.D., Long, D.A., 1968. The vibrational spectra of titanium tetrachloride–hydrochloric acid and titanium tetrachloride–tri-n-butyl phosphate systems and the hexachloro-anions of zirconium(IV), hafnium(IV), niobium(V), and tantalum(V). J. Chem. Soc. A 2560–2564</a>.
 
-Deblonde, G.J.-P., Chagnes, A., Bélair S., Cote, G., 2015a. Solubility of niobium(V) and tantalum(V) under mild alkaline conditions. Hydrometallurgy 156, 99–106.
+<a  href="//doi.org/10.1016/j.hydromet.2015.05.015" target="_blank" rel="noopener">Deblonde, G.J.-P., Chagnes, A., Bélair S., Cote, G., 2015. Solubility of niobium(V) and tantalum(V) under mild alkaline conditions. Hydrometallurgy 156, 99–106</a>.
 
-Deblonde, G.J.-P., Moncomble, A., Cote, G., Bélair, S., Chagnes, A., 2015b. Experimental and computational exploration of the UV-visible properties of hexaniobate and hexatantalate ions. RSC Adv. 7619–7627.
+<a  href="//doi.org/10.1039/C4RA14866E" target="_blank" rel="noopener">Deblonde, G.J.-P., Moncomble, A., Cote, G., Bélair, S., Chagnes, A., 2015. Experimental and computational exploration of the UV-visible properties of hexaniobate and hexatantalate ions. RSC Adv. 7619–7627</a>.
 
-Erskine, S., Sink, M.L., Varga, L.P., 1969. Solvent extraction separation of tantalum and niobium fluorides with N-benzoyl-N-phenylhydroxylamine. Anal. Chem. 41, 70–73.
+<a  href="//doi.org/10.1021/ac60270a018" target="_blank" rel="noopener">Erskine, S., Sink, M.L., Varga, L.P., 1969. Solvent extraction separation of tantalum and niobium fluorides with N-benzoyl-N-phenylhydroxylamine. Anal. Chem. 41, 70–73</a>.
 
-Etxebarria, N., Fernández, L.A., Madariaga, J.M., 1994. On the hydrolysis of niobium(V) and tantalum(V) in 3 mol dm-3 KCl at 25 C. Part 1. Construction of a thermodynamic model for Nb(V). J. Chem. Soc., Dalton Trans. 3055–3059.
+<a  href="//doi.org/10.1039/DT9940003055" target="_blank" rel="noopener">Etxebarria, N., Fernández, L.A., Madariaga, J.M., 1994. On the hydrolysis of niobium(V) and tantalum(V) in 3 mol dm<sup>&minus;-3</sup> KCl at &deg;25 C. Part 1. Construction of a thermodynamic model for Nb(V). J. Chem. Soc., Dalton Trans. 3055–3059</a>.
 
 Fairbrother, F., Taylor, J.B., 1956. Water-soluble complexes of niobium (columbium) and tantalum. Part I. Complexes with -hydroxy-acids and (2-hydroxyethyl)-amines. J. Chem. Soc. 4946–4954.
 
