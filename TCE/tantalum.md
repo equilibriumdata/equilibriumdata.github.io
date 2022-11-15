@@ -110,19 +110,19 @@ Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York
 
 <a  href="//doi.org/10.1039/C7NJ03597G" target="_blank" rel="noopener">May, P.M., Rowland, D., 2018. JESS, a Joint Expert Speciation System - VI: Thermodynamically-consistent standard Gibbs energies of reaction for aqueous solutions. New J. Chem.  42, 7617–7629</a>.
 
-Moshier, R.W., 1964. Analytical Chemistry of Niobium and Tantalum. The Macmillan Company, New York.
+<a  href="https://www.elsevier.com/books/analytical-chemistry-of-niobium-and-tantalum/moshier/978-0-08-010418-8" target="_blank" rel="noopener">Moshier, R.W., 1964. Analytical Chemistry of Niobium and Tantalum. The Macmillan Company, New York</a>.
 
-Münker, C., 1998. Nb/Ta fractionation in a Cambrian arc/back arc system, New Zealand: source constraints and application of refined ICPMS techniques. Chem. Geol. 144, 23–45.
+<a  href="//doi.org/10.1016/S0009-2541(97)00105-8" target="_blank" rel="noopener">Münker, C., 1998. Nb/Ta fractionation in a Cambrian arc/back arc system, New Zealand: source constraints and application of refined ICPMS techniques. Chem. Geol. 144, 23–45</a>.
 
-Nelson, W.H. Tobias, R.S., 1963. Structure of the polyanions of the transition metals in aqueous solution: The hexatantalate. Inorg. Chem. 2, 985–992.
+<a  href="//doi.org/10.1021/ic50009a026" target="_blank" rel="noopener">Nelson, W.H. Tobias, R.S., 1963. Structure of the polyanions of the transition metals in aqueous solution: The hexatantalate. Inorg. Chem. 2, 985–992</a>.
 
-Nelson, W.H. Tobias, R.S., 1964. Polyanions of the transition metals. II. Ultracentrifugation of alkaline tantalum(V) solutions; Comparison with light scattering. Inorg. Chem. 3, 653–658.
+<a  href="//doi.org/10.1021/ic50015a010" target="_blank" rel="noopener">Nelson, W.H. Tobias, R.S., 1964. Polyanions of the transition metals. II. Ultracentrifugation of alkaline tantalum(V) solutions; Comparison with light scattering. Inorg. Chem. 3, 653–658</a>.
 
 Perrin, D.D., 1979. "IUPAC Chemical Data Series No. 22, Stability Constants  of Metal-Ion Complexes, First Edition Part B, Organic Ligands" Pergamon, Oxford.
 
-Powell, A.R., Schoeller, W.R., 1925. Investigations into the analytical chemistry of tantalum, niobium, and their mineral associates. IV. A new method for the separation of tantalum from niobium. V. The detection and determination of tantalum in niobium compounds. Analyst 50, 485–498.
+<a  href="//doi.org/10.1039/AN9255000485" target="_blank" rel="noopener">Powell, A.R., Schoeller, W.R., 1925. Investigations into the analytical chemistry of tantalum, niobium, and their mineral associates. IV. A new method for the separation of tantalum from niobium. V. The detection and determination of tantalum in niobium compounds. Analyst 50, 485–498</a>.
 
-Rowland, D., May P.M., 2019. Progress in aqueous solution modelling: Better data and better interfaces. J. Sol. Chem., doi: 10.1007/s10953-019-00871-5.
+<a  href="//doi.org/10.1007/s10953-019-00871-5" target="_blank" rel="noopener">Rowland, D., May P.M., 2019. Progress in aqueous solution modelling: Better data and better interfaces. J. Sol. Chem. 48, 1066–1078</a>.
 
 Sahureka, F., Burns, R.C., von Nagy-Felsobuki, E.I., 2003. Electrospray ionisation mass spectroscopic characterisation of isopolyoxo-niobates and –tantalates. Inorg. Chim. Acta 351, 69–78.
 
