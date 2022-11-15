@@ -101,9 +101,9 @@ Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
 <a  href="//doi.org/10.1039/J19670000675" target="_blank" rel="noopener">Griffith, W.P., Wickins, T.D., 1967. Raman studies on species in aqueous solutions. Part II. Oxy-species of metals of Groups VIA, VA, and IVA. J. Chem. Soc. A 675–679</a>.
 
-Guillaumont, R., Franck, J.C., Muxart, R., 1970. Contribution to the study of the hydrolysis of niobium. Radiochem. Radioanal. Lett. 4, 73–79. [in French] (Contribution à l'étude de l'hydrolyse du niobium)
+Guillaumont, R., Franck, J.C., Muxart, R., 1970. Contribution à l'étude de l'hydrolyse du niobium [Contribution to the study of the hydrolysis of niobium]. Radiochem. Radioanal. Lett. 4, 73–79 [in French].
 
-Gunn, G., Ed. 2014. Critical Metals Handbook. American Geophysical Union and Wiley. Nottingham, UK.
+<a  href="https://www.wiley.com/en-ie/Critical+Metals+Handbook-p-9780470671719" target="_blank" rel="noopener">Gunn, G., Ed. 2014. Critical Metals Handbook. American Geophysical Union and Wiley. Nottingham, UK</a>.
 
 Haïssinsky, M., Yang, J.-T., 1950. On the stability of some organic complexes of the elements of the fourth and fifth groups of the periodic system: oxalates, citrates and tartrates of Nb, Ta and Pa. Anal. Chim. Acta 4, 328–332. [in French] (Sur la stabilité de quelques complexes organiques des éléments des quatrième et cinquième groupes du système périodique: oxalates, citrates et tartrates de Nb, Ta et Pa)
 
