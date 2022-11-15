@@ -124,15 +124,15 @@ Perrin, D.D., 1979. "IUPAC Chemical Data Series No. 22, Stability Constants  of 
 
 <a  href="//doi.org/10.1007/s10953-019-00871-5" target="_blank" rel="noopener">Rowland, D., May P.M., 2019. Progress in aqueous solution modelling: Better data and better interfaces. J. Sol. Chem. 48, 1066–1078</a>.
 
-Sahureka, F., Burns, R.C., von Nagy-Felsobuki, E.I., 2003. Electrospray ionisation mass spectroscopic characterisation of isopolyoxo-niobates and –tantalates. Inorg. Chim. Acta 351, 69–78.
+<a  href="//doi.org/10.1016/S0020-1693(03)00058-6" target="_blank" rel="noopener">Sahureka, F., Burns, R.C., von Nagy-Felsobuki, E.I., 2003. Electrospray ionisation mass spectroscopic characterisation of isopolyoxo-niobates and –tantalates. Inorg. Chim. Acta 351, 69–78</a>.
 
-Salminen, R., Batista, M.J., Bidovec, M., Demetriades, A., De Vivo, B., De Vos, W., Duris, M., Gilucis, A., Gregorauskiene, V., Halamic, J., Heitzmann, P., Lima, A., Jordan, G., Klaver, G., Klein, P., Lis, J., Locutura, J., Marsina, K., Mazreku, A., O'Connor, P.J., Olsson, S.Å., Ottesen, R.-T., Petersell, V., Plant, J.A., Reeder, S., Salpeteur, I., Sandström, H., Siewers, U., Steenfelt, A., Tarvainen, T., 2005. Geochemical Atlas of Europe. In: Part 1: Background Information, Methodology and Maps. Geological Survey of Finland, Espoo (526 pages (Chief-editor)).
+<a  href="http://weppi.gtk.fi/publ/foregsatlas/index.php" target="_blank" rel="noopener">Salminen, R. (Chief-editor), Batista, M.J., Bidovec, M., Demetriades, A., De Vivo, B., De Vos, W., Duris, M., Gilucis, A., Gregorauskiene, V., Halamic, J., Heitzmann, P., Lima, A., Jordan, G., Klaver, G., Klein, P., Lis, J., Locutura, J., Marsina, K., Mazreku, A., O'Connor, P.J., Olsson, S.Å., Ottesen, R.-T., Petersell, V., Plant, J.A., Reeder, S., Salpeteur, I., Sandström, H., Siewers, U., Steenfelt, A., Tarvainen, T., 2005. Geochemical Atlas of Europe. In: Part 1: Background Information, Methodology and Maps. Geological Survey of Finland, Espoo (526 pages)</a>.
 
 <a  href="docs/72ShS.pdf" target="_blank" rel="noopener">Shabanova, G.N., Skorik, N.A., 1972. Stabilities of tartrate complexes of rare-earth elements and yttrium in water and in aqueous ethanol solutions. Russ. J. Inorg. Chem. 42, 198–201</a>. 
 
 <a  href="docs/66StA.pdf" target="_blank" rel="noopener">Stolyarov, K.P., Amantova, I.A., 1966. Photometric study of ascorbic acid complexes. VI. The systems Zr, Hf, V(V), Nb, Ta, Mo, W – ascorbic acid. Vest. Leningr. Univ. 10, 133–138 [in Russian].</a>
 
-Spinner, B., Kheddar, N., 1969. New tantalum(V) isopolyanions. Compt. Rend. Ser. C. Chim. 269, 1108–1111. [in French] (Nouveaux isopolyanions du tantaleV).
+<a  href="https://gallica.bnf.fr/ark:/12148/bpt6k480277d/f1126.item" target="_blank" rel="noopener">Spinner, B., Kheddar, N., 1969. Nouveaux isopolyanions du tantale V [New tantalum(V) isopolyanions]. Compt. Rend. Ser. C. Chim. 269, 1108–1111 [in French]</a>.
 
 Timofeev, A., Migdisov, A.A., Williams-Jones, A.E., 2017. An experimental study of the solubility and speciation of tantalum in fluoride-bearing aqueous solutions at elevated temperature. Geochim. Cosmochim. Acta 197, 294–304.
 
