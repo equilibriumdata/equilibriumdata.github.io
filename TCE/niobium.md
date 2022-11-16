@@ -145,19 +145,19 @@ Nevzorov, A.N., Songina, O.A., 1967. The state of niobium in oxalic acid solutio
 
 <a  href="//doi.org/10.1039/C1DT10435G" target="_blank" rel="noopener">Nyman, M. 2011. Polyoxoniobate chemistry in the 21st century. Dalton Trans. 40, 8049</a>.
 
-<a  href="//doi.org/10.1007/s10876-006-0049-x" target="_blank" rel="noopener">Nyman, M., Alam, T.M., Bonhomme, F., Rodriguez, M.A., Frazer, C.S., Welk, M.E., 2006. Solid-state structures and solution behavior of alkali salts of the [Nb<sub>6</sub>O<sub>19</sub>]<sup>8&minus:</sup> Lindqvist ion. J. Clust. Sci. 17, 197–219.</a>
+<a  href="//doi.org/10.1007/s10876-006-0049-x" target="_blank" rel="noopener">Nyman, M., Alam, T.M., Bonhomme, F., Rodriguez, M.A., Frazer, C.S., Welk, M.E., 2006. Solid-state structures and solution behavior of alkali salts of the [Nb<sub>6</sub>O<sub>19</sub>]<sup>8&minus;</sup> Lindqvist ion. J. Clust. Sci. 17, 197–219</a>.
 
-Paquet, N., Indiketi, N., Dalencourt, C., Larivière, D., Roberge, S., Gruyer, N., Triffault-Bouchet, G., Fortin, C., 2019. Toxicity of tailing leachates from a niobium mine toward three aquatic organisms. Ecotox. Environ. Safe. 176, 355–363.
+<a  href="//doi.org/10.1016/j.ecoenv.2019.03.065" target="_blank" rel="noopener">Paquet, N., Indiketi, N., Dalencourt, C., Larivière, D., Roberge, S., Gruyer, N., Triffault-Bouchet, G., Fortin, C., 2019. Toxicity of tailing leachates from a niobium mine toward three aquatic organisms. Ecotox. Environ. Safe. 176, 355–363</a>.
 
-Peiffert, C., Nguyen-Trung, C., Palmer, D.A., Laval, J.P., Giffaut, E., 2010. Solubility of B-Nb2O5 and the hydrolysis of niobium(V) in aqueous solution as a function of temperature and ionic strength. J. Solution Chem. 39, 197–218.
+<a  href="//doi.org/10.1007/s10953-010-9495-z" target="_blank" rel="noopener">Peiffert, C., Nguyen-Trung, C., Palmer, D.A., Laval, J.P., Giffaut, E., 2010. Solubility of B-Nb<sub>2</sub>O<sub>5</sub> and the hydrolysis of niobium(V) in aqueous solution as a function of temperature and ionic strength. J. Solution Chem. 39, 197–218</a>.
 
 Perrin, D.D., 1979. "IUPAC Chemical Data Series No. 22, Stability Constants of Metal-Ion Complexes, First Edition Part B, Organic Ligands" Pergamon, Oxford.
 
-Pershina, V., 1998. Solution chemistry of element 105 Part II: Hydrolysis and complex formation of Nb, Ta, Ha and Pa in HCl solutions. Radiochim. Acta 80, 75–84.
+<a  href="//doi.org/10.1524/ract.1998.80.2.75" target="_blank" rel="noopener">Pershina, V., 1998. Solution chemistry of element 105 Part II: Hydrolysis and complex formation of Nb, Ta, Ha and Pa in HCl solutions. Radiochim. Acta 80, 75–84</a>.
 
 Pevsner, T.V., Sheka, I.A., 1968. Reaction of niobium and tantalum with sulphate ions in solution. Russ. J. Inorg. Chem. 13, 1381–1384.
 
-Pinto, M.B., Soares, A.L. Jr., Orellana, A.M., Duarte, H.A., De Abreu, H.A., 2017. Structural, electronic, and thermodynamic properties of the T and B phases of niobia: First-principle calculations. Phys. Chem. A 121, 2399−2409.
+<a  href="//doi.org/10.1021/acs.jpca.6b11383" target="_blank" rel="noopener">Pinto, M.B., Soares, A.L. Jr., Orellana, A.M., Duarte, H.A., De Abreu, H.A., 2017. Structural, electronic, and thermodynamic properties of the T and B phases of niobia: First-principle calculations. Phys. Chem. A 121, 2399−2409</a>.
 
 Poehle, S., Koschinsky, A., 2017. Depth distribution of Zr and Nb in seawater: The potential role of colloids or organic complexation to explain non-scavenging-type behavior. Mar. Chem. 188, 18–32.
 
