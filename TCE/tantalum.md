@@ -130,9 +130,9 @@ Perrin, D.D., 1979. "IUPAC Chemical Data Series No. 22, Stability Constants  of 
 
 <a  href="docs/72ShS.pdf" target="_blank" rel="noopener">Shabanova, G.N., Skorik, N.A., 1972. Stabilities of tartrate complexes of rare-earth elements and yttrium in water and in aqueous ethanol solutions. Russ. J. Inorg. Chem. 42, 198–201</a>. 
 
-<a  href="docs/66StA.pdf" target="_blank" rel="noopener">Stolyarov, K.P., Amantova, I.A., 1966. Photometric study of ascorbic acid complexes. VI. The systems Zr, Hf, V(V), Nb, Ta, Mo, W – ascorbic acid. Vest. Leningr. Univ. 10, 133–138 [in Russian].</a>
-
 <a  href="https://gallica.bnf.fr/ark:/12148/bpt6k480277d/f1126.item" target="_blank" rel="noopener">Spinner, B., Kheddar, N., 1969. Nouveaux isopolyanions du tantale V [New tantalum(V) isopolyanions]. Compt. Rend. Ser. C. Chim. 269, 1108–1111 [in French]</a>.
+
+<a  href="docs/66StA.pdf" target="_blank" rel="noopener">Stolyarov, K.P., Amantova, I.A., 1966. Photometric study of ascorbic acid complexes. VI. The systems Zr, Hf, V(V), Nb, Ta, Mo, W – ascorbic acid. Vest. Leningr. Univ. 10, 133–138 [in Russian].</a>
 
 <a  href="//doi.org/10.1016/j.gca.2016.10.027" target="_blank" rel="noopener">Timofeev, A., Migdisov, A.A., Williams-Jones, A.E., 2017. An experimental study of the solubility and speciation of tantalum in fluoride-bearing aqueous solutions at elevated temperature. Geochim. Cosmochim. Acta 197, 294–304</a>.
 
