@@ -159,42 +159,42 @@ Pevsner, T.V., Sheka, I.A., 1968. Reaction of niobium and tantalum with sulphate
 
 <a  href="//doi.org/10.1021/acs.jpca.6b11383" target="_blank" rel="noopener">Pinto, M.B., Soares, A.L. Jr., Orellana, A.M., Duarte, H.A., De Abreu, H.A., 2017. Structural, electronic, and thermodynamic properties of the T and B phases of niobia: First-principle calculations. Phys. Chem. A 121, 2399−2409</a>.
 
-Poehle, S., Koschinsky, A., 2017. Depth distribution of Zr and Nb in seawater: The potential role of colloids or organic complexation to explain non-scavenging-type behavior. Mar. Chem. 188, 18–32.
+<a  href="//doi.org/10.1016/j.marchem.2016.12.001" target="_blank" rel="noopener">Poehle, S., Koschinsky, A., 2017. Depth distribution of Zr and Nb in seawater: The potential role of colloids or organic complexation to explain non-scavenging-type behavior. Mar. Chem. 188, 18–32</a>.
 
-Radchenko, V., Busse, S., Roesch, F., 2014. Desferrioxamine as an appropriate chelator for 90Nb: Comparison of its complexation properties for M-Df-Octreotide (M = Nb, Fe, Ga, Zr). Nucl. Med. Biol. 41, 721–727. 
+<a  href="//doi.org/10.1016/j.nucmedbio.2014.06.006" target="_blank" rel="noopener">Radchenko, V., Busse, S., Roesch, F., 2014. Desferrioxamine as an appropriate chelator for <sup>90</sup>Nb: Comparison of its complexation properties for M-Df-Octreotide (M = Nb, Fe, Ga, Zr). Nucl. Med. Biol. 41, 721–727</a>. 
 
 Rozantsev, G.M., Dotsenko, O.I., Taradina, G.V., 2000. Mathematical modeling and analysis of equilibria in solutions of Nb(V). Russ. J. Coord. Chem.. 26, 247–253.
 
-Sahureka, F., Burns, R.C., von Nagy-Felsobuki, E.I., 2003. Electrospray ionisation mass spectroscopic characterisation of isopolyoxo-niobates and –tantalates. Inorg. Chim. Acta 351, 69–78.
+<a  href="//doi.org/10.1016/S0020-1693(03)00058-6" target="_blank" rel="noopener">Sahureka, F., Burns, R.C., von Nagy-Felsobuki, E.I., 2003. Electrospray ionisation mass spectroscopic characterisation of isopolyoxo-niobates and –tantalates. Inorg. Chim. Acta 351, 69–78</a>.
 
-Salminen, R., Batista, M.J., Bidovec, M., Demetriades, A., De Vivo, B., De Vos, W., Duris, M., Gilucis, A., Gregorauskiene, V., Halamic, J., Heitzmann, P., Lima, A., Jordan, G., Klaver, G., Klein, P., Lis, J., Locutura, J., Marsina, K., Mazreku, A., O'Connor, P.J., Olsson, S.Å., Ottesen, R.-T., Petersell, V., Plant, J.A., Reeder, S., Salpeteur, I., Sandström, H., Siewers, U., Steenfelt, A., Tarvainen, T., 2005. Geochemical Atlas of Europe. In: Part 1: Background Information, Methodology and Maps. Geological Survey of Finland, Espoo (526 pages (Chief-editor)).
+<a  href="http://weppi.gtk.fi/publ/foregsatlas/index.php" target="_blank" rel="noopener">Salminen, R. (Chief-editor), Batista, M.J., Bidovec, M., Demetriades, A., De Vivo, B., De Vos, W., Duris, M., Gilucis, A., Gregorauskiene, V., Halamic, J., Heitzmann, P., Lima, A., Jordan, G., Klaver, G., Klein, P., Lis, J., Locutura, J., Marsina, K., Mazreku, A., O'Connor, P.J., Olsson, S.Å., Ottesen, R.-T., Petersell, V., Plant, J.A., Reeder, S., Salpeteur, I., Sandström, H., Siewers, U., Steenfelt, A., Tarvainen, T., 2005. Geochemical Atlas of Europe. In: Part 1: Background Information, Methodology and Maps. Geological Survey of Finland, Espoo (526 pages)</a>.
 
-Schäfer, H., Gruehn, R., Schulte, F., 1966. The modifications of niobium pentoxide. Angew. Chem., Int. Ed. Engl. 5, 40−52.
+<a  href="//doi.org/10.1002/anie.196600401" target="_blank" rel="noopener">Schäfer, H., Gruehn, R., Schulte, F., 1966. The modifications of niobium pentoxide. Angew. Chem., Int. Ed. Engl. 5, 40−52</a>.
 
-Schulz, K.J., Piatak, N.M., Papp, J.F., 2017. Niobium and tantalum, chap. M of Schulz, K.J., DeYoung, J.H., Jr., Seal, R.R., II, and Bradley, D.C., eds., Critical mineral resources of the United States—Economic and environmental geology and prospects for future supply: U.S. Geological Survey Professional Paper 1802, p. M1– M34, https://doi.org/10.3133/pp1802M
+<a  href="//doi.org/10.3133/pp1802M" target="_blank" rel="noopener">Schulz, K.J., Piatak, N.M., Papp, J.F., 2017. Niobium and tantalum, chap. M of Schulz, K.J., DeYoung, J.H., Jr., Seal, R.R., II, and Bradley, D.C., eds., Critical mineral resources of the United States—Economic and environmental geology and prospects for future supply: U.S. Geological Survey Professional Paper 1802, p. M1– M34</a>.
 
-Shabanova, G.N., Skorik, N.A., 1972. Stabilities of tartrate complexes of rare-earth elements and yttrium in water and in aqueous ethanol solutions. Russ. J. Inorg. Chem. 42, 198–201. 
+<a  href="docs/72ShS.pdf" target="_blank" rel="noopener">Shabanova, G.N., Skorik, N.A., 1972. Stabilities of tartrate complexes of rare-earth elements and yttrium in water and in aqueous ethanol solutions. Russ. J. Inorg. Chem. 42, 198–201</a>. 
 
 Sochevanov, V.G., Volkova, G.A., 1969. Use of polarography in the determination of the instability constants of complexonates of readily hydrolysable elements. Russ. J. Inorg. Chem. 61–64.
 
-Spinner, B., 1968. Quantitative study of the hydrolysis of the potassium niobates. Rev. Chim. Miner., 5, 839–868. [in French] (Étude quantitative de l’hydrolyse des niobates de potassium).
+Spinner, B., 1968. Étude quantitative de l’hydrolyse des niobates de potassium [Quantitative study of the hydrolysis of the potassium niobates]. Rev. Chim. Miner., 5, 839–868 [in French].
 
 Sillén, L.G., Martell, A.E., 1971. ‘Stability constants of metal-ion complexes SP25. Supplement No. 1 to Special Publication No. 25.’ (The Chemical Society: London.
 
-Stolyarov, K.P., Amantova, I.A., 1966. Photometric study of ascorbic acid complexes. VI. The systems Zr, Hf, V(V), Nb, Ta, Mo, W – ascorbic acid. Vest. Leningr. Univ. 10, 133–138. [in Russian]
+<a  href="docs/66StA.pdf" target="_blank" rel="noopener">Stolyarov, K.P., Amantova, I.A., 1966. Photometric study of ascorbic acid complexes. VI. The systems Zr, Hf, V(V), Nb, Ta, Mo, W – ascorbic acid. Vest. Leningr. Univ. 10, 133–138 [in Russian]</a>.
 
-Timofeev, A., Migdisov, A.A., Williams-Jones, A.E., 2015. An experimental study of the solubility and speciation of niobium in fluoride-bearing aqueous solutions at elevated temperature. Geochim. Cosmochim. Acta 158, 103–111.
+<a  href="//doi.org/10.1016/j.gca.2015.02.015" target="_blank" rel="noopener">Timofeev, A., Migdisov, A.A., Williams-Jones, A.E., 2015. An experimental study of the solubility and speciation of niobium in fluoride-bearing aqueous solutions at elevated temperature. Geochim. Cosmochim. Acta 158, 103–111</a>.
 
 Tsikaeva, D.V., Agulyanskii, A.I., Balabanov, Yu.I., Kuznetsov, V.Ya., Kalinnikov, V.T. 1989. Complexation of niobium(V) in hydrofluoric acid solutions in the presence of fluorides of alkali metals and ammonium. Russ. J. Inorg. Chem. 34, 1740–1744.
 
 Volkova, G.A., Sochevanov, V.G., 1967. Complex formation by niobium hydroxide with EDTA. Russ. J. Inorg. Chem., 12, 222–225.
 
-Volkova, G.A., Sochevanov, V.G., 1969. Reaction of tantalum-hydroxide with ethylenediaminetetra-acetic acid. Russ. J. Inorg. Chem., 14, 652–654
+<a  href="docs/69VoS.pdf" target="_blank" rel="noopener">Volkova, G.A., Sochevanov, V.G., 1969. Reaction of tantalum-hydroxide with ethylenediaminetetra-acetic acid. Russ. J. Inorg. Chem. 14, 652–654</a>.
 
-Wood, S.A., 2004. The aqueous geochemistry of zirconium, hafnium, niobium and tantalum. In: Rare-Element Geochemistry and Mineral Deposits. Ed. RL Linnen and IM Samson. (Geological Association of Canada Short Course Notes 17, St. Catharines, Ontario) pp. 217–268.
+<a  href="https://gac.ca/product/rare-element-geochemistry-and-mineral-deposits/" target="_blank" rel="noopener">Wood, S.A., 2004. The aqueous geochemistry of zirconium, hafnium, niobium and tantalum. In: Rare-Element Geochemistry and Mineral Deposits. Ed. RL Linnen and IM Samson. (Geological Association of Canada Short Course Notes 17, St. Catharines, Ontario) pp. 217–268</a>.
 
 Yajima, T., 1994. Solubility measurements of uranium and niobium, Report of Yayoi Kenkyukai, UTNL-R 0331, University of Tokyo, pp. 127–144 [in Japanese] (as cited by Kitamura et al. 2010).
 
 Yajima, T., Tobita, S., Ueta, S., 1992. Solubility measurements of niobium in the system Nb-O-H under CO2-free condition, presented at 1992 Fall Meeting of Atomic Energy Society of Japan, F33, p. 341 [in Japanese] (as cited by Kitamura et al. 2010).
 
-Zhurenkov, E.M., Pobezhimovskaya, D.N., 1970. Determination of the composition and instability constants of oxalate complexes of niobium and tantalum by the solubility method. Radiochem. (Moscow) 12, 89–94.
+<a  href="docs/70ZhP.pdf" target="_blank" rel="noopener">Zhurenkov, E.M., Pobezhimovskaya, D.N., 1970. Determination of the composition and instability constants of oxalate complexes of niobium and tantalum by the solubility method. Radiochem. (Moscow) 12, 89–94</a>.
