@@ -193,8 +193,8 @@ Volkova, G.A., Sochevanov, V.G., 1967. Complex formation by niobium hydroxide wi
 
 <a  href="https://gac.ca/product/rare-element-geochemistry-and-mineral-deposits/" target="_blank" rel="noopener">Wood, S.A., 2004. The aqueous geochemistry of zirconium, hafnium, niobium and tantalum. In: Rare-Element Geochemistry and Mineral Deposits. Ed. RL Linnen and IM Samson. (Geological Association of Canada Short Course Notes 17, St. Catharines, Ontario) pp. 217–268</a>.
 
-Yajima, T., 1994. Solubility measurements of uranium and niobium, Report of Yayoi Kenkyukai, UTNL-R 0331, University of Tokyo, pp. 127–144 [in Japanese] (as cited by Kitamura et al. 2010).
+Yajima, T., 1994. Solubility measurements of uranium and niobium, Report of Yayoi Kenkyukai, UTNL-R 0331, University of Tokyo, pp. 127–144 [in Japanese] (as cited by <a  href="https://jopss.jaea.go.jp/search/servlet/search?5023033&language=1" target="_blank" rel="noopener">Kitamura et al. 2010</a>).
 
-Yajima, T., Tobita, S., Ueta, S., 1992. Solubility measurements of niobium in the system Nb-O-H under CO2-free condition, presented at 1992 Fall Meeting of Atomic Energy Society of Japan, F33, p. 341 [in Japanese] (as cited by Kitamura et al. 2010).
+Yajima, T., Tobita, S., Ueta, S., 1992. Solubility measurements of niobium in the system Nb-O-H under CO<sub>2</sub>-free condition, presented at 1992 Fall Meeting of Atomic Energy Society of Japan, F33, p. 341 [in Japanese] (as cited by <a  href="https://jopss.jaea.go.jp/search/servlet/search?5023033&language=1" target="_blank" rel="noopener">Kitamura et al. 2010</a>).
 
 <a  href="docs/70ZhP.pdf" target="_blank" rel="noopener">Zhurenkov, E.M., Pobezhimovskaya, D.N., 1970. Determination of the composition and instability constants of oxalate complexes of niobium and tantalum by the solubility method. Radiochem. (Moscow) 12, 89–94</a>.
