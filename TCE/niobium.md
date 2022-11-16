@@ -137,15 +137,15 @@ Nevzorov, A.N., Songina, O.A., 1967. The state of niobium in oxalic acid solutio
 
 <a  href="//doi.org/10.1021/ic50009a026" target="_blank" rel="noopener">Nelson, W.H. Tobias, R.S., 1963. Structure of the polyanions of the transition metals in aqueous solution: The hexatantalate. Inorg. Chem. 2, 985–992</a>.
 
-Neumann, G., 1964. On the hydrolysis of niobates in 3 M K(Cl) medium. Acta Chem. Scand. 18, 278–280.
+<a  href="//doi.org/10.3891/acta.chem.scand.18-0278" target="_blank" rel="noopener">Neumann, G., 1964. On the hydrolysis of niobates in 3 M K(Cl) medium. Acta Chem. Scand. 18, 278–280</a>.
 
-Neumann, G., 1970. A potentiometric study of the system Nb(V)-OH--F- in 3 M K(Cl) medium. Arkiv für Kemi 32, 229–247.
+Neumann, G., 1970. A potentiometric study of the system Nb(V)-OH--F- in 3 M K(Cl) medium. Arkiv för kemi 32, 229–247.
 
 Nevzorov, A.N., Songina, O.A., 1967. The state of niobium in oxalic acid solutions. Russ. J. Inorg. Chem. 12, 1259–1262.
 
-Nyman, M. 2011. Polyoxoniobate chemistry in the 21st century. Dalton Trans. 40, 8049-
+<a  href="//doi.org/10.1039/C1DT10435G" target="_blank" rel="noopener">Nyman, M. 2011. Polyoxoniobate chemistry in the 21st century. Dalton Trans. 40, 8049</a>.
 
-Nyman, M., Alam, T.M., Bonhomme, F., Rodriguez, M.A., Frazer, C.S., Welk, M.E., 2006. Solid-state structures and solution behavior of alkali salts of the [Nb6O19]8− Lindqvist ion. J. Clust. Sci. 17, 197–219.
+<a  href="//doi.org/10.1007/s10876-006-0049-x" target="_blank" rel="noopener">Nyman, M., Alam, T.M., Bonhomme, F., Rodriguez, M.A., Frazer, C.S., Welk, M.E., 2006. Solid-state structures and solution behavior of alkali salts of the [Nb<sub>6</sub>O<sub>19</sub>]<sup>8&minus:</sup> Lindqvist ion. J. Clust. Sci. 17, 197–219.</a>
 
 Paquet, N., Indiketi, N., Dalencourt, C., Larivière, D., Roberge, S., Gruyer, N., Triffault-Bouchet, G., Fortin, C., 2019. Toxicity of tailing leachates from a niobium mine toward three aquatic organisms. Ecotox. Environ. Safe. 176, 355–363.
 
