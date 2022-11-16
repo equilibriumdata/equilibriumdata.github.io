@@ -109,33 +109,33 @@ Guillaumont, R., Franck, J.C., Muxart, R., 1970. Contribution à l'étude de l'h
  
 <a  href="https://www.osti.gov/biblio/5947576" target="_blank" rel="noopener">Hammer, R.R., 1979. A Determination of the Stability Constants of a Number of Metal Fluoride Complexes and Their Rates of Formation. USDOE Report, Idaho Chemical Processing Plant, EXXON Nuclear Idaho Company, ENICO 1004 (as cited by Wood, 2004)</a>.
 
-Huffman, E.H., Iddings, G.M., Lilly, R.C., 1951. Anion exchange of zirconium, hafnium, niobium and tantalum in hydrochloric acid solutions. J. Am. Chem. Soc. 73, 4474–4475.
+<a  href="//doi.org/10.1021/ja01153a522" target="_blank" rel="noopener">Huffman, E.H., Iddings, G.M., Lilly, R.C., 1951. Anion exchange of zirconium, hafnium, niobium and tantalum in hydrochloric acid solutions. J. Am. Chem. Soc. 73, 4474–4475</a>.
 
 Ivanenko, V.I., Kadyrova, G.I., Kravtsov, V.I., 1996. Niobium (V) polynuclear complexes in sulfuric acid solutions. Russian J. Appl. Chem. 69, 13–16.
 
-Kanzelmeyer, J.H., Ryan, J., Freund, H., 1956. The nature of niobium(V) in hydrochloric acid solution. J. Am. Chem. Soc. 78, 3020–3023.
+<a  href="//doi.org/10.1021/ja01594a023" target="_blank" rel="noopener">Kanzelmeyer, J.H., Ryan, J., Freund, H., 1956. The nature of niobium(V) in hydrochloric acid solution. J. Am. Chem. Soc. 78, 3020–3023</a>.
 
-Keller, O.L. Jr., 1963. Identification of complex ions of niobium(V) in hydrofluoric acid solutions by Raman and infrared spectroscopy. Inorg. Chem. 2, 783–787.
+<a  href="//doi.org/10.1021/ic50008a029" target="_blank" rel="noopener">Keller, O.L. Jr., 1963. Identification of complex ions of niobium(V) in hydrofluoric acid solutions by Raman and infrared spectroscopy. Inorg. Chem. 2, 783–787</a>.
 
-Kitamura, A., Fujiwara, K., Doi, R., Yoshida,Y., Mihara, M., Terashima, M., Yui, M., 2010. JAEA Thermodynamic Database for Performance Assessment of Geological Disposal of High-Level Radioactive and TRU-Wastes. Report JAEA-Data/Code 2009-024, Japan Atomic Energy Agency, 84 pp.
+<a  href="https://jopss.jaea.go.jp/search/servlet/search?5023033&language=1" target="_blank" rel="noopener">Kitamura, A., Fujiwara, K., Doi, R., Yoshida,Y., Mihara, M., Terashima, M., Yui, M., 2010. JAEA Thermodynamic Database for Performance Assessment of Geological Disposal of High-Level Radioactive and TRU-Wastes. Report JAEA-Data/Code 2009-024, Japan Atomic Energy Agency, 84 pp</a>.
 
-Konečný, C., 1967. Studies on complex formation by solvent extraction method. II. Niobium(V) complexes in aqueous solution. Z. Phys. Chem. 235, 39–48.
+<a  href="//doi.org/10.1515/zpch-1967-23507" target="_blank" rel="noopener">Konečný, C., 1967. Studies on complex formation by solvent extraction method. II. Niobium(V) complexes in aqueous solution. Z. Phys. Chem. 235, 39–48</a>.
 
-Land J.E., Osborne, C.V. 1972. The formation constants of the niobium fluoride system. J. Less-Common Met. 29, 147–153.
+<a  href="//doi.org/10.1016/0022-5088(72)90185-3" target="_blank" rel="noopener">Land J.E., Osborne, C.V. 1972. The formation constants of the niobium fluoride system. J. Less-Common Met. 29, 147–153</a>.
 
-Lothenbach, B., Ochs, M., Wanner, H., Yui, M., 1999. Thermodynamic Data for the Speciation and Solubility of Pd, Pb, Sn, Sb, Nb and Bi in Aqueous Solution. Japan Nuclear Cycle Development Institute (JNC), TN8400 99-011.
+<a  href="https://inis.iaea.org/search/search.aspx?orig_q=RN:31009694" target="_blank" rel="noopener">Lothenbach, B., Ochs, M., Wanner, H., Yui, M., 1999. Thermodynamic Data for the Speciation and Solubility of Pd, Pb, Sn, Sb, Nb and Bi in Aqueous Solution. Japan Nuclear Cycle Development Institute (JNC), TN8400 99-011</a>.
 
-Marignac, M.C., 1866. Research on combinations of niobium. Ann. Chim. Phys. 4, 5–75. [in French] (Recherches sur les combinaisons du niobium)
+<a  href="https://gallica.bnf.fr/ark:/12148/bpt6k90442v/texteBrut" target="_blank" rel="noopener">Marignac, M.C., 1866. Recherches sur les combinaisons du niobium. Ann. Chim. Phys. 4, 5–75</a>.
 
-May, P.M., 2000. A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chem. Com. 1265–1266.
+<a  href="//doi.org/10.1039/B003157G" target="_blank" rel="noopener">May, P.M., 2000. A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chem. Com., 1265–1266</a>.
 
-May, P.M., Rowland, D., 2018. JESS, a Joint Expert Speciation System - VI: Thermodynamically-consistent standard Gibbs energies of reaction for aqueous solutions. New J. Chem. 42, 7617–7629.
+<a  href="//doi.org/10.1039/C7NJ03597G" target="_blank" rel="noopener">May, P.M., Rowland, D., 2018. JESS, a Joint Expert Speciation System - VI: Thermodynamically-consistent standard Gibbs energies of reaction for aqueous solutions. New J. Chem.  42, 7617–7629</a>.
 
-Moshier, R.W., 1964. Analytical Chemistry of Niobium and Tantalum. The Macmillan Company, New York. 
+<a  href="https://www.elsevier.com/books/analytical-chemistry-of-niobium-and-tantalum/moshier/978-0-08-010418-8" target="_blank" rel="noopener">Moshier, R.W., 1964. Analytical Chemistry of Niobium and Tantalum. The Macmillan Company, New York</a>.
 
 Nevzorov, A.N., Songina, O.A., 1967. The state of niobium in oxalic acid solutions. Russ. J. Inorg. Chem. 12, 1259–1262.
 
-Nelson, W.H., Tobias, R.S., 1963. Structure of the polyanions of the transition metals in aqueous solution: The hexatantalate. Inorg. Chem. 2, 985–992.
+<a  href="//doi.org/10.1021/ic50009a026" target="_blank" rel="noopener">Nelson, W.H. Tobias, R.S., 1963. Structure of the polyanions of the transition metals in aqueous solution: The hexatantalate. Inorg. Chem. 2, 985–992</a>.
 
 Neumann, G., 1964. On the hydrolysis of niobates in 3 M K(Cl) medium. Acta Chem. Scand. 18, 278–280.
 
