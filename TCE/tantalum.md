@@ -60,7 +60,7 @@ Best stability constant values for tantalum species, 25 &deg;C and <i>I</i> 0 mo
 
 <a  href="//doi.org/10.1007/BF00973211" target="_blank" rel="noopener">Arana, G., Etxebarria, N., Fernandez, L.A., Madariaga, J.M., 1995. Hydrolysis of Nb(V) and Ta(V) in aqueous KCl at 25 &deg;C. Part II: Construction of a thermodynamic model for Ta(V). J. Solution Chem. 24, 611–622</a>.
 
-<a  href="https://datapdf.com/hydrolysis-of-tantalum-v-equilibrium-ultracentrifugation-and.html" target="_blank" rel="noopener">Aveston, J., Johnson J.S., 1964. Hydrolysis of tantalum(V): Equilibrium ultracentrifugation and Raman spectra of potassium tantalate. Inorg. Chem. 3, 1051–1053</a>.
+<a  href="//doi.org/10.1021/ic50017a037" target="_blank" rel="noopener">Aveston, J., Johnson J.S., 1964. Hydrolysis of tantalum(V): Equilibrium ultracentrifugation and Raman spectra of potassium tantalate. Inorg. Chem. 3, 1051–1053</a>.
 
 <a  href="docs/63BLN.pdf" target="_blank" rel="noopener">Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961</a>.
 
@@ -104,7 +104,7 @@ Baes, C.F., Mesmer, R.E., 1976. ‘The Hydrolysis of Cations’ (Wiley: New York
 
 <a  href="//doi.org/10.1016/0022-1902(56)80075-4" target="_blank" rel="noopener">Jander, G., Ertel, D., 1956. Über tantalsäure und die wasserlöslichen alkalitantalate. J. Inorg. Nucl. Chem. 3, 139–152</a>.
 
-<a  href="https://gallica.bnf.fr/ark:/12148/bpt6k90442v/texteBrut" target="_blank" rel="noopener">Marignac, M.C., 1866. Recherches sur les combinaisons du niobium. Ann. Chim. Phys. 4, 5–75</a>.
+Marignac, M.C., 1866. Recherches sur les combinaisons du niobium. Ann. Chim. Phys. 4, 5–75.
 
 <a  href="//doi.org/10.1039/B003157G" target="_blank" rel="noopener">May, P.M., 2000. A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chem. Com., 1265–1266</a>.
 
@@ -136,7 +136,7 @@ Perrin, D.D., 1979. "IUPAC Chemical Data Series No. 22, Stability Constants  of 
 
 <a  href="//doi.org/10.1016/j.gca.2016.10.027" target="_blank" rel="noopener">Timofeev, A., Migdisov, A.A., Williams-Jones, A.E., 2017. An experimental study of the solubility and speciation of tantalum in fluoride-bearing aqueous solutions at elevated temperature. Geochim. Cosmochim. Acta 197, 294–304</a>.
 
-<a  href="//doi.org/10.1021/j100807a005" target="_blank" rel="noopener">Varga, L.P,. Freund, H., 1962. The formation constants of the tantalum fluoride system. I. Potentiometric ans anion exchange studies – Evidence for species of coördiantion number nine. J. Phys. Chem. 66, 21–28</a>.
+<a  href="//doi.org/10.1021/j100807a005" target="_blank" rel="noopener">Varga, L.P,. Freund, H., 1962. The formation constants of the tantalum fluoride system. I. Potentiometric ans anion exchange studies – Evidence for species of coördination number nine. J. Phys. Chem. 66, 21–28</a>.
 
 <a  href="//doi.org/10.1021/ac60227a014" target="_blank" rel="noopener">Varga, L.P., Wakley, W.D., Nicolson, L.S., Madden, M.L., Patterson, J., 1965. Solvent extraction studies of tantalum fluoride complexes with N-benzoylphenylhydroxylamine, tri-N-octylphosphine oxide, and methyl isobutyl ketone using computer techniques. Anal. Chem. 37, 1003–1009</a>.
 
