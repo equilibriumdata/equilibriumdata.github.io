@@ -133,8 +133,6 @@ Ivanenko, V.I., Kadyrova, G.I., Kravtsov, V.I., 1996. Niobium (V) polynuclear co
 
 <a  href="https://www.elsevier.com/books/analytical-chemistry-of-niobium-and-tantalum/moshier/978-0-08-010418-8" target="_blank" rel="noopener">Moshier, R.W., 1964. Analytical Chemistry of Niobium and Tantalum. The Macmillan Company, New York</a>.
 
-Nevzorov, A.N., Songina, O.A., 1967. The state of niobium in oxalic acid solutions. Russ. J. Inorg. Chem. 12, 1259–1262.
-
 <a  href="//doi.org/10.1021/ic50009a026" target="_blank" rel="noopener">Nelson, W.H. Tobias, R.S., 1963. Structure of the polyanions of the transition metals in aqueous solution: The hexatantalate. Inorg. Chem. 2, 985–992</a>.
 
 <a  href="//doi.org/10.3891/acta.chem.scand.18-0278" target="_blank" rel="noopener">Neumann, G., 1964. On the hydrolysis of niobates in 3 M K(Cl) medium. Acta Chem. Scand. 18, 278–280</a>.
