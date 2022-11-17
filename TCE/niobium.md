@@ -137,7 +137,7 @@ Marignac, M.C., 1866. Recherches sur les combinaisons du niobium. Ann. Chim. Phy
 
 <a  href="//doi.org/10.3891/acta.chem.scand.18-0278" target="_blank" rel="noopener">Neumann, G., 1964. On the hydrolysis of niobates in 3 M K(Cl) medium. Acta Chem. Scand. 18, 278–280</a>.
 
-Neumann, G., 1970. A potentiometric study of the system Nb(V)-OH--F- in 3 M K(Cl) medium. Arkiv för kemi 32, 229–247.
+<a  href="docs/70SNeu.pdf" target="_blank" rel="noopener">Neumann, G., 1970. A potentiometric study of the system Nb(V)-OH--F- in 3 M K(Cl) medium. Arkiv för kemi 32, 229–247</a>.
 
 Nevzorov, A.N., Songina, O.A., 1967. The state of niobium in oxalic acid solutions. Russ. J. Inorg. Chem. 12, 1259–1262.
 
