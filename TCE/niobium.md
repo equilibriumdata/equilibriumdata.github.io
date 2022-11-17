@@ -57,7 +57,7 @@ Best stability constant values for niobium species, 25 &deg;C and <i>I</i> 0 mol
 
 <a  href="https://www.elsevier.com/books/chemistry-of-tantalum-and-niobium-fluoride-compounds/agulyansky/978-0-444-51604-6" target="_blank" rel="noopener">Agulyansky, A., 2004. Chemistry of Tantalum and Niobium Fluoride Compounds. Elsevier, Amsterdam</a>.
 
-<a  href="http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=GEODEBRGM6804024119" target="_blank" rel="noopener">Aleksandrov, I.V., 1967. Niobium in the carbonate solutions and some considerations on the migration of rare elements under hydrothermal conditions. Geochem. Int. 4, 558–566</a>.
+Aleksandrov, I.V., 1967. Niobium in the carbonate solutions and some considerations on the migration of rare elements under hydrothermal conditions. Geochem. Int. 4, 558–566.
 
 <a  href="//doi.org/10.1021/acs.chemmater.7b05282" target="_blank" rel="noopener">Ali, R.F., Gates, B.D., 2018. Synthesis of lithium niobate nanocrystals with size focusing through an Ostwald ripening process. Chem. Mater. 30, 2028–2035</a>.
 
@@ -97,7 +97,7 @@ Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
 <a  href="//doi.org/10.1039/C4DT02394C" target="_blank" rel="noopener">Fullmer, L.B., Molina, P.I., Antonio, M.R., Nyman, M., 2014. Contrasting ion-association behaviour of Ta and Nb polyoxometalates. Dalton Trans. 43, 15295–15299</a>.
 
-<a  href="https://inis.iaea.org/search/search.aspx?orig_q=RN:5112018" target="_blank" rel="noopener">Goiffon, A., Granger, R., Bockel, C., Spinner, B. 1973. Etude des équilibres dans les solutions alcalines du niobium V [Study of the equilibria in alkaline solutions of Nb V]. Revue de Chimie Minérale 10, 487–502 [in French]</a>.
+Goiffon, A., Granger, R., Bockel, C., Spinner, B. 1973. Etude des équilibres dans les solutions alcalines du niobium V [Study of the equilibria in alkaline solutions of Nb V]. Revue de Chimie Minérale 10, 487–502 [in French].
 
 <a  href="//doi.org/10.1039/J19670000675" target="_blank" rel="noopener">Griffith, W.P., Wickins, T.D., 1967. Raman studies on species in aqueous solutions. Part II. Oxy-species of metals of Groups VIA, VA, and IVA. J. Chem. Soc. A 675–679</a>.
 
@@ -125,7 +125,7 @@ Ivanenko, V.I., Kadyrova, G.I., Kravtsov, V.I., 1996. Niobium (V) polynuclear co
 
 <a  href="https://inis.iaea.org/search/search.aspx?orig_q=RN:31009694" target="_blank" rel="noopener">Lothenbach, B., Ochs, M., Wanner, H., Yui, M., 1999. Thermodynamic Data for the Speciation and Solubility of Pd, Pb, Sn, Sb, Nb and Bi in Aqueous Solution. Japan Nuclear Cycle Development Institute (JNC), TN8400 99-011</a>.
 
-<a  href="https://gallica.bnf.fr/ark:/12148/bpt6k90442v/texteBrut" target="_blank" rel="noopener">Marignac, M.C., 1866. Recherches sur les combinaisons du niobium. Ann. Chim. Phys. 4, 5–75</a>.
+Marignac, M.C., 1866. Recherches sur les combinaisons du niobium. Ann. Chim. Phys. 4, 5–75.
 
 <a  href="//doi.org/10.1039/B003157G" target="_blank" rel="noopener">May, P.M., 2000. A simple, general and robust function for equilibria in aqueous electrolyte solutions to high ionic strength and temperature. Chem. Com., 1265–1266</a>.
 
@@ -141,7 +141,7 @@ Neumann, G., 1970. A potentiometric study of the system Nb(V)-OH--F- in 3 M K(Cl
 
 Nevzorov, A.N., Songina, O.A., 1967. The state of niobium in oxalic acid solutions. Russ. J. Inorg. Chem. 12, 1259–1262.
 
-<a  href="//doi.org/10.1039/C1DT10435G" target="_blank" rel="noopener">Nyman, M. 2011. Polyoxoniobate chemistry in the 21st century. Dalton Trans. 40, 8049</a>.
+<a  href="//doi.org/10.1039/C1DT10435G" target="_blank" rel="noopener">Nyman, M. 2011. Polyoxoniobate chemistry in the 21st century. Dalton Trans. 40, 8049-8058</a>.
 
 <a  href="//doi.org/10.1007/s10876-006-0049-x" target="_blank" rel="noopener">Nyman, M., Alam, T.M., Bonhomme, F., Rodriguez, M.A., Frazer, C.S., Welk, M.E., 2006. Solid-state structures and solution behavior of alkali salts of the [Nb<sub>6</sub>O<sub>19</sub>]<sup>8&minus;</sup> Lindqvist ion. J. Clust. Sci. 17, 197–219</a>.
 
