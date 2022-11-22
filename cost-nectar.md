@@ -23,6 +23,15 @@ layout: default
   </li>
   <li><a href="/sc-database.html">SC-Database</a></li>
   <li><a class="active" href="/cost-nectar.html">Metal hydrolysis</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">TCEs</a>
+    <div class="dropdown-content">
+      <a href="index.html">Index</a>
+      <a href="niobium.html">Niobium</a>
+      <a href="tantalum.html">Tantalum</a>
+      <a href="tellurium.html">Tellurium</a>
+    </div>
+  </li>
 </ul>
 
 # Metal hydrolysis and associated equilibrium constants
