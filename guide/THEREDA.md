@@ -23,6 +23,15 @@ layout: default
   </li>
   <li><a href="/sc-database.html">SC-Database</a></li>
   <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">TCEs</a>
+    <div class="dropdown-content">
+      <a href="/TCE/index.html">Index</a>
+      <a href="/TCE/niobium.html">Niobium</a>
+      <a href="/TCE/tantalum.html">Tantalum</a>
+      <a href="/TCE/tellurium.html">Tellurium</a>
+    </div>
+  </li>
 </ul>
 
 [[ThermoChimie](thermochimie.html)]
