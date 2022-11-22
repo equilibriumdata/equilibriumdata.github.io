@@ -161,7 +161,7 @@ Pevsner, T.V., Sheka, I.A., 1968. Reaction of niobium and tantalum with sulphate
 
 <a  href="//doi.org/10.1016/j.nucmedbio.2014.06.006" target="_blank" rel="noopener">Radchenko, V., Busse, S., Roesch, F., 2014. Desferrioxamine as an appropriate chelator for <sup>90</sup>Nb: Comparison of its complexation properties for M-Df-Octreotide (M = Nb, Fe, Ga, Zr). Nucl. Med. Biol. 41, 721–727</a>. 
 
-Rozantsev, G.M., Dotsenko, O.I., Taradina, G.V., 2000. Mathematical modeling and analysis of equilibria in solutions of Nb(V). Russ. J. Coord. Chem.. 26, 247–253.
+<a  href="docs/00RDT.pdf" target="_blank" rel="noopener">Rozantsev, G.M., Dotsenko, O.I., Taradina, G.V., 2000. Mathematical modeling and analysis of equilibria in solutions of Nb(V). Russ. J. Coord. Chem.. 26, 247–253</a>.
 
 <a  href="//doi.org/10.1016/S0020-1693(03)00058-6" target="_blank" rel="noopener">Sahureka, F., Burns, R.C., von Nagy-Felsobuki, E.I., 2003. Electrospray ionisation mass spectroscopic characterisation of isopolyoxo-niobates and –tantalates. Inorg. Chim. Acta 351, 69–78</a>.
 
