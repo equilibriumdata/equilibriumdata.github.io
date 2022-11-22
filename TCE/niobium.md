@@ -63,9 +63,9 @@ Aleksandrov, I.V., 1967. Niobium in the carbonate solutions and some considerati
 
 <a  href="docs/63BLN.pdf" target="_blank" rel="noopener">Babko, A.K., Lukachina, V.V., Nabivanets, B.L., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961</a>.
 
-Babko, A.K., Nabivanets, B.L., Lukachina, V.V., 1967. Interaction of hydrated niobium pentoxide with hydrofluoric acid. Russ. J. Inorg. Chem. 12, 1568–1572.
+<a  href="docs/67BNL.pdf" target="_blank" rel="noopener">Babko, A.K., Nabivanets, B.L., Lukachina, V.V., 1967. Interaction of hydrated niobium pentoxide with hydrofluoric acid. Russ. J. Inorg. Chem. 12, 1568–1572</a>.
 
-Babko A.K., Volkova, A.I., 1962. Complex-formation in niobium(V)-salicylate-organic base systems. Russ. J. Inorg. Chem. 7, 1216–1220.
+<a  href="docs/62BaV.pdf" target="_blank" rel="noopener">Babko A.K., Volkova, A.I., 1962. Complex-formation in niobium(V)-salicylate-organic base systems. Russ. J. Inorg. Chem. 7, 1216–1220</a>.
 
 Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
@@ -97,7 +97,7 @@ Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
 <a  href="//doi.org/10.1039/C4DT02394C" target="_blank" rel="noopener">Fullmer, L.B., Molina, P.I., Antonio, M.R., Nyman, M., 2014. Contrasting ion-association behaviour of Ta and Nb polyoxometalates. Dalton Trans. 43, 15295–15299</a>.
 
-Goiffon, A., Granger, R., Bockel, C., Spinner, B. 1973. Etude des équilibres dans les solutions alcalines du niobium V [Study of the equilibria in alkaline solutions of Nb V]. Revue de Chimie Minérale 10, 487–502 [in French].
+<a  href="docs/73GGB.pdf" target="_blank" rel="noopener">Goiffon, A., Granger, R., Bockel, C., Spinner, B. 1973. Etude des équilibres dans les solutions alcalines du niobium V [Study of the equilibria in alkaline solutions of Nb V]. Revue de Chimie Minérale 10, 487–502 [in French]</a>.
 
 <a  href="//doi.org/10.1039/J19670000675" target="_blank" rel="noopener">Griffith, W.P., Wickins, T.D., 1967. Raman studies on species in aqueous solutions. Part II. Oxy-species of metals of Groups VIA, VA, and IVA. J. Chem. Soc. A 675–679</a>.
 
@@ -139,7 +139,7 @@ Marignac, M.C., 1866. Recherches sur les combinaisons du niobium. Ann. Chim. Phy
 
 <a  href="docs/70Neu.pdf" target="_blank" rel="noopener">Neumann, G., 1970. A potentiometric study of the system Nb(V)-OH--F- in 3 M K(Cl) medium. Arkiv för kemi 32, 229–247</a>.
 
-Nevzorov, A.N., Songina, O.A., 1967. The state of niobium in oxalic acid solutions. Russ. J. Inorg. Chem. 12, 1259–1262.
+<a  href="docs/67NeS.pdf" target="_blank" rel="noopener">Nevzorov, A.N., Songina, O.A., 1967. The state of niobium in oxalic acid solutions. Russ. J. Inorg. Chem. 12, 1259–1262</a>.
 
 <a  href="//doi.org/10.1039/C1DT10435G" target="_blank" rel="noopener">Nyman, M. 2011. Polyoxoniobate chemistry in the 21st century. Dalton Trans. 40, 8049-8058</a>.
 
@@ -173,9 +173,9 @@ Rozantsev, G.M., Dotsenko, O.I., Taradina, G.V., 2000. Mathematical modeling and
 
 <a  href="docs/72ShS.pdf" target="_blank" rel="noopener">Shabanova, G.N., Skorik, N.A., 1972. Stabilities of tartrate complexes of rare-earth elements and yttrium in water and in aqueous ethanol solutions. Russ. J. Inorg. Chem. 42, 198–201</a>. 
 
-Sochevanov, V.G., Volkova, G.A., 1969. Use of polarography in the determination of the instability constants of complexonates of readily hydrolysable elements. Russ. J. Inorg. Chem. 61–64.
+<a  href="docs/69SoV.pdf" target="_blank" rel="noopener">Sochevanov, V.G., Volkova, G.A., 1969. Use of polarography in the determination of the instability constants of complexonates of readily hydrolysable elements. Russ. J. Inorg. Chem. 61–64</a>.
 
-Spinner, B., 1968. Étude quantitative de l’hydrolyse des niobates de potassium [Quantitative study of the hydrolysis of the potassium niobates]. Rev. Chim. Miner., 5, 839–868 [in French].
+<a  href="docs/68Spi.pdf" target="_blank" rel="noopener">Spinner, B., 1968. Étude quantitative de l’hydrolyse des niobates de potassium [Quantitative study of the hydrolysis of the potassium niobates]. Rev. Chim. Miner., 5, 839–868 [in French]</a>.
 
 Sillén, L.G., Martell, A.E., 1971. ‘Stability constants of metal-ion complexes SP25. Supplement No. 1 to Special Publication No. 25.’ (The Chemical Society: London.
 
@@ -185,7 +185,7 @@ Sillén, L.G., Martell, A.E., 1971. ‘Stability constants of metal-ion complexe
 
 Tsikaeva, D.V., Agulyanskii, A.I., Balabanov, Yu.I., Kuznetsov, V.Ya., Kalinnikov, V.T. 1989. Complexation of niobium(V) in hydrofluoric acid solutions in the presence of fluorides of alkali metals and ammonium. Russ. J. Inorg. Chem. 34, 1740–1744.
 
-Volkova, G.A., Sochevanov, V.G., 1967. Complex formation by niobium hydroxide with EDTA. Russ. J. Inorg. Chem., 12, 222–225.
+<a  href="docs/67VoS.pdf" target="_blank" rel="noopener">Volkova, G.A., Sochevanov, V.G., 1967. Complex formation by niobium hydroxide with EDTA. Russ. J. Inorg. Chem., 12, 222–225</a>.
 
 <a  href="docs/69VoS.pdf" target="_blank" rel="noopener">Volkova, G.A., Sochevanov, V.G., 1969. Reaction of tantalum-hydroxide with ethylenediaminetetra-acetic acid. Russ. J. Inorg. Chem. 14, 652–654</a>.
 
