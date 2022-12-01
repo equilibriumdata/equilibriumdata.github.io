@@ -110,7 +110,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ca.pdf" target="_blank" rel="noopener">Ca</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sc.pdf" target="_blank" rel="noopener">Sc</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/VV.pdf" target="_blank" rel="noopener">V</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/V.pdf" target="_blank" rel="noopener">V</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cr.pdf" target="_blank" rel="noopener">Cr</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Mn.pdf" target="_blank" rel="noopener">Mn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/FeII.pdf" target="_blank" rel="noopener">Fe</a></td>
@@ -231,7 +231,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td></td>
     <td align="center" border="1" bgcolor="#ffece6">Th</td>
     <td align="center" border="1" bgcolor="#ffece6">Pa</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/UIV.pdf" target="_blank" rel="noopener">U</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/U.pdf" target="_blank" rel="noopener">U</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Np</td>
     <td align="center" border="1" bgcolor="#ffece6">Pu</td>
     <td align="center" border="1" bgcolor="#ffece6">Am</td>
