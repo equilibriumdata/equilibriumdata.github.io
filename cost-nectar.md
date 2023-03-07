@@ -78,7 +78,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6">B</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/B.pdf" target="_blank" rel="noopener">B</a></td>
     <td align="center" border="1" bgcolor="#ffece6">C</td>
     <td align="center" border="1" bgcolor="#ffece6">N</td>
     <td align="center" border="1" bgcolor="#ffece6">O</td>
