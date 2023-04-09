@@ -128,23 +128,41 @@ Evdokimov, D.Ya., Kogan, E.A., 1963. A study of germanium dioxide solubility in 
 <a  href="//doi.org/10.1016/j.apgeochem.2020.104729" target="_blank" rel="noopener">Filella, M., May, P.M., 2020. The aqueous solution thermodynamics of niobium under conditions of environmental and biological interest. Appl. Geochem. 122, 104729.</a>
 
 Fleischer, M., Mandarino, J.A., 1995. Glossary of Mineral Species. Seventh edition. Mineralogical Record, Tucson, Arizona, 280 pp.
-Froelich, P.N., Blanc, V., Mortlock, R.A., Chillrud, S.N., 1992. River fluxes of dissolved silica to the ocean were higher during glacials: Ge/Si in diatoms, rivers and oceans. Paleoceanography 7, 739–767. doi:10.1029/92PA02090
-Garvin, D., Parker, V.B., Wagman, D.D., 1981. Chemical Thermodynamic Data Banks. NBSIR 81-2341. U.S. Department of Commerce, National Bureau of Standards, Washington, DC.
-Gayer, K.H., Zajicek, O.T., 1964. The solubility of germanium(IV) oxide in aqueous NaOH solutions at 25oC. J. Inorg. Nucl. Chem. 26, 951–954. doi:10.1016/0022-1902(64)80256-6
+
+<a  href="//doi.org/10.1029/92PA02090" target="_blank" rel="noopener">Froelich, P.N., Blanc, V., Mortlock, R.A., Chillrud, S.N., 1992. River fluxes of dissolved silica to the ocean were higher during glacials: Ge/Si in diatoms, rivers and oceans. Paleoceanography 7, 739–767.</a>
+
+<a  href="https://www.govinfo.gov/content/pkg/GOVPUB-C13-dd225dda45cba047f074ab73f0a33c1a/pdf/GOVPUB-C13-dd225dda45cba047f074ab73f0a33c1a.pdf" target="_blank" rel="noopener">Garvin, D., Parker, V.B., Wagman, D.D., 1981. Chemical Thermodynamic Data Banks. NBSIR 81-2341. U.S. Department of Commerce, National Bureau of Standards, Washington, DC.</a>
+
+<a  href="//doi.org/10.1016/0022-1902(64)80256-6" target="_blank" rel="noopener">Gayer, K.H., Zajicek, O.T., 1964. The solubility of germanium(IV) oxide in aqueous NaOH solutions at 25oC. J. Inorg. Nucl. Chem. 26, 951–954.</a>
+
 Grenthe, I., Fuger, J., Konings, R.J.M., Lemire, R.J., Muller, A.B., Nguyen-Trung, C., Wanner, H., 1992. Chemical Thermodynamics of Uranium. Wanner, H., Forest, I., Nuclear Energy Agency, Organisation for Economic Co-operation and Development, Eds., vol. 1, North Holland Elsevier Science Publishers B. V., Amsterdam, The Netherlands, 715 pp.
-Gulezian, C.E., Müller, J.H., 1932. The conductivity and degree of hydrolysis of sodium bigermanate and the primary dissociation constant of germanic acid. J. Am. Chem. Soc. 54, 3151– 3158. doi:10.1021/ja01347a017
-Haas, J., Konopik, N., Mark, F., Neckel, A., 1964a. Zur polymerisation der Germaniumsäure, 1. Mitt. Bestimmung der mittleren Ladungszahlen und mittleren Polymerisationsgerade auf Grund potentiometrischer Titrationen. Monatsh. Chem. 95, 1141–1165. doi:10.1007/BF00904708
-Haas, J., Konopik, N., Mark, F., Neckel, A., 1964b. Zur polymerisation der Germaniumsäure, 2. Ermittlung der Komplexzusammensetzungen und Berechnung der Stabilitätskonstanten auf Grund graphischer Ausgleichsverfahren. Monatsh. Chem. 95, 1166–1172. doi:10.1007/BF00904709
+
+<a  href="//doi.org/10.1021/ja01347a017" target="_blank" rel="noopener">Gulezian, C.E., Müller, J.H., 1932. The conductivity and degree of hydrolysis of sodium bigermanate and the primary dissociation constant of germanic acid. J. Am. Chem. Soc. 54, 3151– 3158.</a>
+
+<a  href="//doi.org/10.1007/BF00904708" target="_blank" rel="noopener">Haas, J., Konopik, N., Mark, F., Neckel, A., 1964a. Zur polymerisation der Germaniumsäure, 1. Mitt. Bestimmung der mittleren Ladungszahlen und mittleren Polymerisationsgerade auf Grund potentiometrischer Titrationen. Monatsh. Chem. 95, 1141–1165.</a>
+
+<a  href="//doi.org/10.1007/BF00904709" target="_blank" rel="noopener">Haas, J., Konopik, N., Mark, F., Neckel, A., 1964b. Zur polymerisation der Germaniumsäure, 2. Ermittlung der Komplexzusammensetzungen und Berechnung der Stabilitätskonstanten auf Grund graphischer Ausgleichsverfahren. Monatsh. Chem. 95, 1166–1172.</a>
+
 Haas, J., Konopik, N., Mark, F., Neckel, A., 1964c. Zur polymerisation der Germaniumsäure, 3. Ermittlung der Komplexzusammensetzungen und der Stabilitätskonstanten mehrkerniger Komplexe auf Grund rechnerischer Ausgleichsverfahren. Monatsh. Chem. 95, 1173–1187.
+
 Häkkinen, P., Purokoski, S., Lajunen, K., 1986. A potentiometric study on the formation of germanic acid and germanate ion with sugar acids and disaccharides in aqueous solution. Finn. Chem. Lett. 13, 93–97.
-Hantzsch, A., 1902. Über die Natur alkalischer Lösungen von Metallhydraten. Z. anorg. Chem. 30, 289–324. doi:10.1002/zaac.19020300126
-Hildebrand, H.H., 1947. Forces between tetrahalide molecules. J. Chem. Phys. 15, 727. doi:10.1063/1.1746306.
-Höll, R., Kling, M., Schroll, E., 2007. Metallogenesis of germanium—A review. Ore Geol. Rev. 30, 145–180. doi:10.1016/j.oregeorev.2005.07.034
-Ingri, N., 1963. Equilibrium studies of polyanions. 12. Polygermanates in Na(Cl) medium. Acta Chem. Scand. 17, 597–616. doi:10.3891/acta.chem.scand.17-0597
-Ingri, N., Schorsch, G., 1963. On the determination of the formation constants of GeO2(OH)23- Using a hydrogen-electrode. Measurements in 3 M Na(Cl)-medium. Acta Chem. Scand. 17, 590–596. doi:10.3891/acta.chem.scand.17-0590
+
+<a  href="//doi.org/10.1002/zaac.19020300126" target="_blank" rel="noopener">Hantzsch, A., 1902. Über die Natur alkalischer Lösungen von Metallhydraten. Z. anorg. Chem. 30, 289–324.</a>
+
+<a  href="//doi.org/10.1063/1.1746306" target="_blank" rel="noopener">Hildebrand, H.H., 1947. Forces between tetrahalide molecules. J. Chem. Phys. 15, 727.</a>
+
+<a  href="//doi.org/10.1016/j.oregeorev.2005.07.034" target="_blank" rel="noopener">Höll, R., Kling, M., Schroll, E., 2007. Metallogenesis of germanium—A review. Ore Geol. Rev. 30, 145–180.</a>
+
+<a  href="//doi.org/10.3891/acta.chem.scand.17-0597" target="_blank" rel="noopener">Ingri, N., 1963. Equilibrium studies of polyanions. 12. Polygermanates in Na(Cl) medium. Acta Chem. Scand. 17, 597–616.</a>
+
+<a  href="//doi.org/10.3891/acta.chem.scand.17-0590" target="_blank" rel="noopener">Ingri, N., Schorsch, G., 1963. On the determination of the formation constants of GeO2(OH)23- Using a hydrogen-electrode. Measurements in 3 M Na(Cl)-medium. Acta Chem. Scand. 17, 590–596.</a>
+
 Inzelt, G., 2006. Standard, formal and other characteristic potentials of selected electrode reactions. In: Encyclopedia of Electrochemistry, Vol. 7a, 17–75.
-Jolly, W.L., Latimer, W.M., 1952a. The solubility of hydrous germanous oxide and the potential of the germanous oxide-germanic oxide couple. J. Am. Chem. Soc. 74, 5751–5752. doi:10.1021/ja01142a053
-Jolly, W.L., Latimer, W.M., 1952b. The equilibrium Ge(s) + GeO2(s) = 2GeO(g). The heat of formation of germanic oxide. J. Am. Chem. Soc. 74, 5757–5758. doi: 10.1021/ja01142a056
+
+<a  href="//doi.org/10.1021/ja01142a053" target="_blank" rel="noopener">Jolly, W.L., Latimer, W.M., 1952a. The solubility of hydrous germanous oxide and the potential of the germanous oxide-germanic oxide couple. J. Am. Chem. Soc. 74, 5751–5752.</a>
+
+<a  href="//doi.org/10.1021/ja01142a056" target="_blank" rel="noopener">Jolly, W.L., Latimer, W.M., 1952b. The equilibrium Ge(s) + GeO2(s) = 2GeO(g). The heat of formation of germanic oxide. J. Am. Chem. Soc. 74, 5757–5758.</a>
+
 Kanekiyo, Y., Aizawa, S.-i., Koshino, N., Funahashi, S., 2000. Complexation equilibria of oxy-acid-2-amino-2-deoxy-d-gluconic-acid metal(II) ion ternary systems in aqueous solutions as studied by potentiometry. Binding characteristics of borate and germanate. Inorg. Chim. Acta 298, 154–164. doi:10.1016/S0020-1693(99)00435-1
 Kosova, T.B., Dem’yanets, L.N., 1988. Behaviour of germanium dioxide in water and aqueous solutions at temperatures of 25–300 oC. Russ. J. Inorg. Chem. 33, 1522–1527.
 Kosova, T.B., Dem’yanets, L.N., Uvarova, T.G., 1987. Investigation of the solubility of germanium dioxide in water at 25–300 oC. Russ. J. Inorg. Chem. 32, 430–432.
@@ -192,26 +210,6 @@ Winkler, C., 1886. Mittheilungen über das Germanium. J. prakt. Chem. 34, 177–
 Wolery, T.J., Jové Colón, C.F., 2017. Chemical thermodynamic data. 1. The concept of links to the chemical elements and the historical development of key thermodynamic data. Geochim. Cosmochim. Acta 213, 635–676. doi:10.1016/j.gca.2016.09.028
 Wood, S.A., Samson, I.M., 2006. The aqueous geochemistry of gallium, germanium, indium and scandium. Ore Geology Reviews 28, 57–102. doi:10.1016/j.oregeorev.2003.06.002Zoubov 1974
 de Zoubov, N., Deltombe, E., Vanleugenhaghe, C., Pourbaix, M., 1974. Germanium. In: Atlas of Electrochemical Equilibria in Aqueous Solutions. Pourbaix, M. (ed.) National Association of Corrosion Engineers, Houston, Texas, USA and CEBELCOR, Brussels, chapter IV, section 17.3, pp. 464-474.
-
-<a  href="docs/46Fou.pdf" target="_blank" rel="noopener">Fouasson, F., 1946. Sur la constitution de l’acide tellurique [On the constitution of telluric acid]. Comptes Rendus Hebdomadaires des séances de l’Académie des sciences 222, 958-959 [in French]</a>.
-
-Fouasson, F., 1948. Contribution à l’étude de l’acide tellurique [Contribution to the study of telluric acid]. Annales de Chimie 12(3), 594-643. [in French].
-
-<a  href="docs/71GaB.pdf" target="_blank" rel="noopener">Ganelina, E.S., Borgoyakov, V.A., 1971. Acid dissociation constants of tellurous acid. Russian Journal of Inorganic Chemistry 16, 318–320</a>.
-
-<a  href="docs/73GaB.pdf" target="_blank" rel="noopener">Ganelina, E.S., Bubnova, L.A., 1973. The role of tellurium(VI) in the formation of heteropolyacids. Russian Journal of Inorganic Chemistry 18, 1152–1155</a>.
-
-<a  href="docs/72GrZ.pdf" target="_blank" rel="noopener">Greiver, T.N., Zaitsev, Y.A., 1972. Reaction of sodium tellurite and potassium tellurate with sulphide ions in alkaline solutions. Russian Journal of Inorganic Chemistry 17, 795–798</a>.
-
-<a  href="//doi.org/10.1016/j.gca.2013.06.009" target="_blank" rel="noopener">Grundler, P.V., Brugger, J., Etschmann, B.E., Helm, L., Liu, W., Spry, P.G., Tian, Y.-W., Testemale, D., Pring, A., 2013. Speciation of aqueous tellurium(IV) in hydrothermal solutions and vapors, and the role of oxidized tellurium species in Te transport and gold deposition. Geochimica et Cosmochimica Acta 120, 298–325</a>.
-
-<a  href="//doi.org/10.1002/zaac.19020290103" target="_blank" rel="noopener">Gutbier, A., 1902. Beiträge fur Kenntnis der Tellursäure [Contributions to knowledge of telluric acid]. Zeitschrift für anorganische Chemie 29, 23–35 [in German]</a>.
-
-<a  href="//doi.org/10.1039/c7cs00013h" target="_blank" rel="noopener">He, Z., Yang, Y., Liu, J.-.W, Yu, S.-H., 2017. Emerging tellurium nanostructures: controllable synthesis and their applications. Chemical Society Reviews 46, 2732-2753</a>.
-
-<a  href="//doi.org/10.1002/9783527610426.bard07000" target="_blank" rel="noopener">Inzelt, G., 2006. Standard, Formal and Other Characteristic Potentials of Selected Electrode Reactions. In ’Encyclopedia of Electrochemistry, Vol. 7a’ (Ed. A.J. Bard, M. Stratmann, F. Scholz, C.J. Pickett) pp. 17-75 (Wiley-VCH: Weinheim, Germany)</a>.
-
-<a  href="//doi.org/10.1021/j150521a004" target="_blank" rel="noopener">Issa, I.M., Awad, S.A., 1954. The amphoteric properties of tellurium dioxide. Journal of Physical Chemistry 58, 948–951</a>.
 
 <a  href="docs/71KaB.pdf" target="_blank" rel="noopener">Kaehler, H.C., Brito, F., 1971. Estudios sobre la química del teluro. I. Teluratos (VI) (NaCl 1 M, 25 &deg;C) [Studies on the chemistry of tellurium. I Tellurates (VI) (NaCl 1 M, 25 &deg;C)]. Anales de Física y Química 67, 1185–1191 [in Spanish]</a>.
 
