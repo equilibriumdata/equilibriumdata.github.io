@@ -43,18 +43,17 @@ Best stability constant values for germanium species, 25 &deg;C and <i>I</i> 0 m
 
 | Reaction |	log <i>K</i> |
 | :--- | :--- |
-| Te<sup>2–</sup> + H<sup>+</sup> = HTe<sup>–</sup> |	11.81 |
-| HTe<sup>–</sup> + H<sup>+</sup> = H<sub>2</sub>Te |	2.476 |
-| TeO<sub>3</sub><sup>2–</sup> + H<sup>+</sup> = HTeO<sub>3</sub><sup>–</sup> |	9.928 |
-| HTeO<sub>3</sub><sup>–</sup> + H<sup>+</sup> = H<sub>2</sub>TeO<sub>3</sub> |	6.445 |
-| H<sub>2</sub>TeO<sub>3</sub> + H<sup>+</sup> = Te(OH)<sub>3</sub><sup>+</sup> |	2.415 |
-| TeO<sub>2</sub>(s) + H<sub>2</sub>O = H<sub>2</sub>TeO<sub>3</sub> |	–4.709 |
-| TeO<sub>2</sub>(OH)<sub>4</sub><sup>2–</sup> + H<sup>+</sup> = TeO(OH)<sub>5</sub><sup>–</sup> |	10.83 |
-| TeO(OH)<sub>5</sub><sup>–</sup> + H<sup>+</sup> = Te(OH)<sub>6</sub> |	7.696 |
-| 2 Te(OH)<sub>6</sub> = Te<sub>2</sub>O(OH)<sub>11</sub><sup>–</sup> + H<sup>+</sup> |	–6.929 |
-| Te(0) + 2 e<sup>–</sup> = Te<sup>2–</sup> |	–38.43 |
-| H<sub>2</sub>TeO<sub>3</sub> + 4 H<sup>+</sup> + 4 e– = Te(0) + 3 H<sub>2</sub>O |	41.09 |
-| Te(OH)<sub>6</sub> + 2 H<sup>+</sup> + 2 e<sup>–</sup> = TeO<sub>2</sub>(s) + 4 H<sub>2</sub>O |	34.52 |
+| Ge(OH)<sub>4</sub> + 2 e<sup>-</sup> = Ge<sup>2+</sup> + 4H<sub>2</sub>O |	-7.206 |
+| GeO<sub>2</sub>(OH)<sub>2</sub><sup>2–</sup> + H<sup>+</sup> = GeO(OH)<sub>3</sub><sup>–</sup> |	12.76 |
+| GeO(OH)<sub>3</sub><sup>–</sup> + H<sup>+</sup> = Ge(OH)<sub>4</sub> |	9.099 |
+| 8 Ge(OH)<sub>4</sub> + 35 OH<sup>-</sup> = Ge<sub>8</sub>(OH)<sub>35</sub><sup>3-</sup> |	28.33 |
+| Ge(OH)<sub>2</sub>(hexag,s) + 2 H<sub>2</sub>O = Ge(OH)<sub>4</sub> |	–1.373 |
+| Ge(OH)<sub>2</sub>(tetra,s) + 2 H<sub>2</sub>O = Ge(OH)<sub>4</sub> |	–4.999 |
+| Ge(OH)<sub>4</sub> + 4 H<sup>+</sup> + 6 F<sup>-</sup> = GeF<sub>6</sub><sup>2-</sup> + 4 H<sub>2</sub>O |	27.98 |
+| Ge(OH)<sub>4</sub> + 5 H<sup>+</sup> + 6 F<sup>-</sup> = GeHF<sub>6</sub><sup>-</sup> + 4 H<sub>2</sub>O |	28.80 |
+| Ge(OH)<sub>4</sub> + 4 H<sup>+</sup> + 4 F<sup>-</sup> = GeF<sub>4</sub> + 4 H<sub>2</sub>O |	20.14 |
+| Ge(OH)<sub>4</sub> + 3 H<sup>+</sup> + 4 F<sup>-</sup> = GeF<sub>4</sub>(OH)<sup>-</sup> + 3 H<sub>2</sub>O |	19.08 |
+| Ge(OH)<sub>4</sub> + 3 H<sup>+</sup> + 2 F<sup>-</sup> = GeF<sub>2</sub>(OH)<sup>-</sup> + 3 H<sub>2</sub>O |	9.345 |
 
 ### References
 
