@@ -94,22 +94,39 @@ Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 Brown, P.L., Ekberg, C., 2016. Hydrolysis of Metal Ions. Wiley.
 
 Carpéni, G., 1948. Equilibres électrolytiques entre ions, molécules simples et molécules condensées.—II. Le point «isohydrique». Conséquences et applications. Bull. Soc. Chim. Fr. 15, 629–637.
-Cempirek, J., Groat, L.A., 2013. Note on the formula of brunogeierite and the first bond-valence parameters for Ge2 +. J. Geosci. 58, 71–74. doi:10.3190/jgeosci.130
+
+<a  href="//doi.org/10.3190/jgeosci.130" target="_blank" rel="noopener">Cempirek, J., Groat, L.A., 2013. Note on the formula of brunogeierite and the first bond-valence parameters for Ge2 +. J. Geosci. 58, 71–74.</a>
+
 Charlot, G., Collumeau, A., Marchon, M.J.C., 1971. Selected Constants. Oxidation-Reduction Potentials of Inorganic Substances in Aqueous Solution. Butterworths, London.
-Ciavatta, L., Iuliano, M., Porto, R., Vasca, E., 1990. Fluorogermanate(IV) equilibria in acid media. Polyhedron, 9, 1263–1270. doi:10.1016/S0277-5387(00)86762-5
-Coufal, O., Sezemský, P., Živný, O., 2005. Database system of thermodynamic properties of individual substances at high temperatures. J. Phys. D: Appl. Phys. 38, 1265–1274. doi:10.1088/0022-3727/38/8/026
+
+<a  href="//doi.org/10.1016/S0277-5387(00)86762-5" target="_blank" rel="noopener">Ciavatta, L., Iuliano, M., Porto, R., Vasca, E., 1990. Fluorogermanate(IV) equilibria in acid media. Polyhedron, 9, 1263–1270.</a>
+
+<a  href="//doi.org/10.1088/0022-3727/38/8/026" target="_blank" rel="noopener">Coufal, O., Sezemský, P., Živný, O., 2005. Database system of thermodynamic properties of individual substances at high temperatures. J. Phys. D: Appl. Phys. 38, 1265–1274.</a>
+
 Cox, J.D., Wagman, D.D., Medvedev, V.A., 1989. CODATA. Key Values for Thermodynamics. CODATA Series on Thermodynamic Properties, 0-89116-758-7, Hemisphere Publishing Corp., New York, 271 pp.
+
 De la Cuadra, A., 1990. On polygermanate ion (review and critical study). Anales de Quimica 86, 221–229.
+
 Dennis, L. M., 1928. Germanium. Z. anorg. allg. Chem. 174, 93–141.
-Ellwood, M.J., Maher, W.A., 2003. Germanium cycling in the waters across a frontal zone: the Chatham Rise, New Zealand. Mar. Chem. 80, 145–159. doi:10.1016/S0304-4203(02)00115-9
+
+<a  href="//doi.org/10.1016/S0304-4203(02)00115-9" target="_blank" rel="noopener">Ellwood, M.J., Maher, W.A., 2003. Germanium cycling in the waters across a frontal zone: the Chatham Rise, New Zealand. Mar. Chem. 80, 145–159.</a>
+
 Evdokimov, D.Ya., Kogan, E.A., 1963. A study of germanium dioxide solubility in water at different temperatures. Ukrainskii Khimicheskii Zhurnal 29, 1020–1022 (in Russian); values as given in Pokrovski and Schott, 1998.
-Everest, D.A., 1953. The chemistry of bivalent germanium compounds. Part IV. Formation of germanous salts by reduction by hypophosphorous acid. J. Chem. Soc. 4117–4120. doi:10.1039/JR9530004117
-Everest, D.A., Harrison, J.C., 1957. Studies in the chemistry of quadrivalent germanium. Part IV. The chemical nature of solutions of quadrivalent germanium in hydrochloric or hydrobromic acid. J. Chem. Soc. 1820–1823. doi:10.1039/JR9570001820
-Everest, D.A., Terrey, H.,1950. Germanous oxide and sulphide. J. Chem. Soc. 2282–2285. doi:10.1039/JR9500002282
-Filella, M., Matoušek, T., 2022. Germanium in Lake Geneva (Switzerland/France) along the spring productivity period. Appl. Geochem. 143, 105352. doi:10.1016/j.apgeochem.2022.105352
-Filella, M., May, P.M., 2019a. The aqueous chemistry of tellurium: critically-selected equilibrium constants for the low-molecular-weight inorganic species. Environ. Chem. 16, 289–295. doi:10.1071/EN19017
-Filella, M., May, P.M., 2019b. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. Appl. Geochem. 109, 104402. doi:10.1016/j.apgeochem.2019.104402
-Filella, M., May, P.M., 2020. The aqueous solution thermodynamics of niobium under conditions of environmental and biological interest. Appl. Geochem. 122, 104729. doi:10.1016/j.apgeochem.2020.104729
+
+<a  href="//doi.org/10.1039/JR9530004117" target="_blank" rel="noopener">Everest, D.A., 1953. The chemistry of bivalent germanium compounds. Part IV. Formation of germanous salts by reduction by hypophosphorous acid. J. Chem. Soc. 4117–4120.</a>
+
+<a  href="//doi.org/10.1039/JR9570001820" target="_blank" rel="noopener">Everest, D.A., Harrison, J.C., 1957. Studies in the chemistry of quadrivalent germanium. Part IV. The chemical nature of solutions of quadrivalent germanium in hydrochloric or hydrobromic acid. J. Chem. Soc. 1820–1823.</a>
+
+<a  href="//doi.org/10.1039/JR9500002282" target="_blank" rel="noopener">Everest, D.A., Terrey, H.,1950. Germanous oxide and sulphide. J. Chem. Soc. 2282–2285.</a>
+
+<a  href="//doi.org/10.1016/j.apgeochem.2022.105352" target="_blank" rel="noopener">Filella, M., Matoušek, T., 2022. Germanium in Lake Geneva (Switzerland/France) along the spring productivity period. Appl. Geochem. 143, 105352.</a>
+
+<a  href="//doi.org/10.1071/EN19017" target="_blank" rel="noopener">Filella, M., May, P.M., 2019a. The aqueous chemistry of tellurium: critically-selected equilibrium constants for the low-molecular-weight inorganic species. Environ. Chem. 16, 289–295.</a>
+
+<a  href="//doi.org/10.1016/j.apgeochem.2019.104402" target="_blank" rel="noopener">Filella, M., May, P.M., 2019b. The aqueous solution thermodynamics of tantalum under conditions of environmental and biological interest. Appl. Geochem. 109, 104402.</a>
+
+<a  href="//doi.org/10.1016/j.apgeochem.2020.104729" target="_blank" rel="noopener">Filella, M., May, P.M., 2020. The aqueous solution thermodynamics of niobium under conditions of environmental and biological interest. Appl. Geochem. 122, 104729.</a>
+
 Fleischer, M., Mandarino, J.A., 1995. Glossary of Mineral Species. Seventh edition. Mineralogical Record, Tucson, Arizona, 280 pp.
 Froelich, P.N., Blanc, V., Mortlock, R.A., Chillrud, S.N., 1992. River fluxes of dissolved silica to the ocean were higher during glacials: Ge/Si in diatoms, rivers and oceans. Paleoceanography 7, 739–767. doi:10.1029/92PA02090
 Garvin, D., Parker, V.B., Wagman, D.D., 1981. Chemical Thermodynamic Data Banks. NBSIR 81-2341. U.S. Department of Commerce, National Bureau of Standards, Washington, DC.
@@ -175,28 +192,6 @@ Winkler, C., 1886. Mittheilungen über das Germanium. J. prakt. Chem. 34, 177–
 Wolery, T.J., Jové Colón, C.F., 2017. Chemical thermodynamic data. 1. The concept of links to the chemical elements and the historical development of key thermodynamic data. Geochim. Cosmochim. Acta 213, 635–676. doi:10.1016/j.gca.2016.09.028
 Wood, S.A., Samson, I.M., 2006. The aqueous geochemistry of gallium, germanium, indium and scandium. Ore Geology Reviews 28, 57–102. doi:10.1016/j.oregeorev.2003.06.002Zoubov 1974
 de Zoubov, N., Deltombe, E., Vanleugenhaghe, C., Pourbaix, M., 1974. Germanium. In: Atlas of Electrochemical Equilibria in Aqueous Solutions. Pourbaix, M. (ed.) National Association of Corrosion Engineers, Houston, Texas, USA and CEBELCOR, Brussels, chapter IV, section 17.3, pp. 464-474.
-
-<a  href="https://onlinelibrary.wiley.com/doi/10.1002/bbpc.19130192107" target="_blank" rel="noopener">Bruner-Krakau, L., 1913. Über Selen- und Tellurwasserstoff als Säuren [About selenium and tellurium as acids]. Zeitschrift für Elektrochemie 19, 861 [in German]</a>.
-
-<a  href="//doi.org/10.1016/j.aca.2015.11.035" target="_blank" rel="noopener">Chen, Y.W., Alzahrani, A., Deng, T.L., Belzile, N., 2016. Valence properties of tellurium in different chemical systems and its determination in refractory environmental samples using hydride generation-Atomic fluorescence spectroscopy. Analytica Chimica Acta 905, 42–50</a>.
-
-Cooper, W.C., 1971. Analytical chemistry of tellurium. In ‘Tellurium’ (Ed WC Cooper) pp. 281–312. (Van Nostrand Company: New York)
-
-<a  href="//doi.org/10.1039/A704759B" target="_blank" rel="noopener">D'Ulivo, A., 1997. Determination of selenium and tellurium in environmental samples. Analyst 122, 117R–144R</a>.
-
-<a  href="//doi.org/10.1016/S0584-8547(00)00237-8" target="_blank" rel="noopener">D’Ulivo, A., Marcucci, K., Bramanti, E., Lampugnani, L., Zamboni, R., 2000. Studies in hydride generation atomic fluorescence determination of selenium and tellurium. Part 1 — self interference effect in hydrogen telluride generation and the effect of KI. Spectrochimica Acta Part B: Atomic Spectroscopy 55, 1325-1336</a>.
-
-<a  href="docs/68DyK.pdf" target="_blank" rel="noopener">D’yachkova, I.B., Khodakovskiy, I.L., 1968. Thermodynamic equilibria in the systems S-H<sub>2</sub>O, Se-H<sub>2</sub>O, and Te-H<sub>2</sub> in the 25-300 &deg;C range and their geochemical interpretations. Geochemistry International 5, 1108–l 125</a>.
-
-<a  href="//doi.org/10.1051/jcp/1922200167" target="_blank" rel="noopener">de Hlasko, 1922. Sur la dissociation électrolytique de I’hydrogène sélénié et de l’hydrogène telluré [On the hydrolytic dissociation of hydrogen selenide and hydrogen telluride]. Journal de Chimie Physique 20, 167–172 [in French].
-
-<a  href="//doi.org/10.1021/ja01515a009" target="_blank" rel="noopener">Earley, J.E., Fortnum, D.H., Wojcicki, A., Edwards, J.O., 1959. Constitution of aqueous oxyanions: perrhenate, tellurate and silicate ions. Journal of the American Chemical Society 81, 1295–1301</a>.
-
-<a  href="//doi.org/10.1021/ja00869a010" target="_blank" rel="noopener">Ellison, H.R., Edwards, J.O., Healy, E.A., 1962. The polyoltellurate complex formation reaction. I. Thermodynamics of telluric acid ionization and of complex formation. Journal of the American Chemical Society 84, 1820– 1824</a>.
-
-<a  href="//doi.org/10.1016/J.CHEMGEO.2016.01.015" target="_blank" rel="noopener">Etschmann, B.E., Li, W., Pring, A., Grundler, P.V., Tooth, B., Borg, S., Testemale, D., Brewe, D., Brugger, J., 2016. The role of Te(IV) and Bi(III) chloride complexes in hydrothermal mass transfer: An X-ray absorption spectroscopy study. Chemical Geology 425, 37–51</a>.
-
-<a  href="//doi.org/10.1071/EN18229" target="_blank" rel="noopener">Filella, M., Reimann, C., Biver, M., Rodushkin, I., Rodushkina, K., 2019. Tellurium in the environment: current knowledge and identification of the gaps. Environmental Chemistry 16, 215-228</a>.
 
 <a  href="docs/46Fou.pdf" target="_blank" rel="noopener">Fouasson, F., 1946. Sur la constitution de l’acide tellurique [On the constitution of telluric acid]. Comptes Rendus Hebdomadaires des séances de l’Académie des sciences 222, 958-959 [in French]</a>.
 
