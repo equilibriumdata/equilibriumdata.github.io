@@ -46,7 +46,7 @@ Best stability constant values for germanium species, 25 &deg;C and <i>I</i> 0 m
 | Ge(OH)<sub>4</sub> + 2 e<sup>-</sup> = Ge<sup>2+</sup> + 4H<sub>2</sub>O |	-7.206 |
 | GeO<sub>2</sub>(OH)<sub>2</sub><sup>2–</sup> + H<sup>+</sup> = GeO(OH)<sub>3</sub><sup>–</sup> |	12.76 |
 | GeO(OH)<sub>3</sub><sup>–</sup> + H<sup>+</sup> = Ge(OH)<sub>4</sub> |	9.099 |
-| 8 Ge(OH)<sub>4</sub> + 35 OH<sup>-</sup> = Ge<sub>8</sub>(OH)<sub>35</sub><sup>3-</sup> |	28.33 |
+| 8 Ge(OH)<sub>4</sub> + 3 OH<sup>-</sup> = Ge<sub>8</sub>(OH)<sub>35</sub><sup>3-</sup> |	28.33 |
 | GeO<sub>2</sub>(hexag,s) + 2 H<sub>2</sub>O = Ge(OH)<sub>4</sub> |	–1.373 |
 | GeO<sub>2</sub>(tetra,s) + 2 H<sub>2</sub>O = Ge(OH)<sub>4</sub> |	–4.999 |
 | Ge(OH)<sub>4</sub> + 4 H<sup>+</sup> + 6 F<sup>-</sup> = GeF<sub>6</sub><sup>2-</sup> + 4 H<sub>2</sub>O |	27.98 |
@@ -111,7 +111,7 @@ Dennis, L. M., 1928. Germanium. Z. anorg. allg. Chem. 174, 93–141.
 
 <a  href="//doi.org/10.1016/S0304-4203(02)00115-9" target="_blank" rel="noopener">Ellwood, M.J., Maher, W.A., 2003. Germanium cycling in the waters across a frontal zone: the Chatham Rise, New Zealand. Mar. Chem. 80, 145–159.</a>
 
-Evdokimov, D.Ya., Kogan, E.A., 1963. A study of germanium dioxide solubility in water at different temperatures. Ukrainskii Khimicheskii Zhurnal 29, 1020–1022 (in Russian); values as given in Pokrovski and Schott, 1998.
+Evdokimov, D.Ya., Kogan, E.A., 1963. A study of germanium dioxide solubility in water at different temperatures. Ukrainskii Khimicheskii Zhurnal 29, 1020–1022; values as given in Pokrovski and Schott, 1998 [in Russian].
 
 <a  href="//doi.org/10.1039/JR9530004117" target="_blank" rel="noopener">Everest, D.A., 1953. The chemistry of bivalent germanium compounds. Part IV. Formation of germanous salts by reduction by hypophosphorous acid. J. Chem. Soc. 4117–4120.</a>
 
