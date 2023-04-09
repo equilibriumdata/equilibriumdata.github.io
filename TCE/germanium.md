@@ -39,7 +39,7 @@ layout: default
 
 Original source: <a  href="https://doi.org/10.1016/j.apgeochem.2023.105631" target="_blank" rel="noopener">Filella, M., May, P.M., 2023. The aqueous solution chemistry of germanium under conditions of environmental and biological interest: Inorganic ligands. Applied Geochemistry XX, XXX–XXX.</a>
 
-Best stability constant values for tellurium species, 25 &deg;C and <i>I</i> 0 mol L<sup>-1</sup>:
+Best stability constant values for germanium species, 25 &deg;C and <i>I</i> 0 mol L<sup>-1</sup>:
 
 | Reaction |	log <i>K</i> |
 | :--- | :--- |
