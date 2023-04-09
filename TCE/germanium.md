@@ -80,12 +80,19 @@ Atkins, P., de Paula, J., 2006. Atkin's Physical Chemistry, 8th Edn., Oxford Uni
 <a  href="docs/63BLN.pdf" target="_blank" rel="noopener">Babko, A.K., Lukachina, V.V., Nabivanets, B.I., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961.</a>
 
 Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
-Barin, I., Platzki, G., 1995. Thermochemical Data of Pure Substances, 3rd Edn. VCH, Weinheim, Germany. doi:10.1002/9783527619825
-Benoit, R.L., Clerc, P., 1961. Chlorogermanium(IV) species in acid media. J. Phys. Chem. 65, 676–680. doi: 10.1021/j100822a019
-Benoit, R.L., Place, J., 1963. Fluoride complexes of germanium(IV) in aqueous solutions. Can. J. Chem. 41, 1170–1180. doi: 10.1139/v63-165
-Bernstein, L.R., Waychunas, G.A., 1987. Germanium crystal chemistry in hematite and goethite from the Apex Mine, Utah, and some new data on germanium in aqueous solution and in stottite. Geochim. Cosmochim. Acta 51, 623–630. doi: 10.1016/0016-7037(87)90074-3
-Biver, M., Filella, M., 2018. Germanium and solid sample digestion with aqua regia: the nescience of chemistry basics and its sequels. Monatsh. Chem. 149, 461–465. doi:10.1007/s00706-017-2131-5
+
+<a  href="//doi.org/10.1002/9783527619825" target="_blank" rel="noopener">Barin, I., Platzki, G., 1995. Thermochemical Data of Pure Substances, 3rd Edn. VCH, Weinheim, Germany.</a>
+
+<a  href="//doi.org/10.1021/j100822a019" target="_blank" rel="noopener">Benoit, R.L., Clerc, P., 1961. Chlorogermanium(IV) species in acid media. J. Phys. Chem. 65, 676–680.</a>
+
+<a  href="//doi.org/10.1139/v63-165" target="_blank" rel="noopener">Benoit, R.L., Place, J., 1963. Fluoride complexes of germanium(IV) in aqueous solutions. Can. J. Chem. 41, 1170–1180.</a>
+
+<a  href="//doi.org/10.1016/0016-7037(87)90074-3" target="_blank" rel="noopener">Bernstein, L.R., Waychunas, G.A., 1987. Germanium crystal chemistry in hematite and goethite from the Apex Mine, Utah, and some new data on germanium in aqueous solution and in stottite. Geochim. Cosmochim. Acta 51, 623–630.</a>
+
+<a  href="//doi.org/10.1007/s00706-017-2131-5" target="_blank" rel="noopener">Biver, M., Filella, M., 2018. Germanium and solid sample digestion with aqua regia: the nescience of chemistry basics and its sequels. Monatsh. Chem. 149, 461–465.</a>
+
 Brown, P.L., Ekberg, C., 2016. Hydrolysis of Metal Ions. Wiley.
+
 Carpéni, G., 1948. Equilibres électrolytiques entre ions, molécules simples et molécules condensées.—II. Le point «isohydrique». Conséquences et applications. Bull. Soc. Chim. Fr. 15, 629–637.
 Cempirek, J., Groat, L.A., 2013. Note on the formula of brunogeierite and the first bond-valence parameters for Ge2 +. J. Geosci. 58, 71–74. doi:10.3190/jgeosci.130
 Charlot, G., Collumeau, A., Marchon, M.J.C., 1971. Selected Constants. Oxidation-Reduction Potentials of Inorganic Substances in Aqueous Solution. Butterworths, London.
@@ -168,22 +175,6 @@ Winkler, C., 1886. Mittheilungen über das Germanium. J. prakt. Chem. 34, 177–
 Wolery, T.J., Jové Colón, C.F., 2017. Chemical thermodynamic data. 1. The concept of links to the chemical elements and the historical development of key thermodynamic data. Geochim. Cosmochim. Acta 213, 635–676. doi:10.1016/j.gca.2016.09.028
 Wood, S.A., Samson, I.M., 2006. The aqueous geochemistry of gallium, germanium, indium and scandium. Ore Geology Reviews 28, 57–102. doi:10.1016/j.oregeorev.2003.06.002Zoubov 1974
 de Zoubov, N., Deltombe, E., Vanleugenhaghe, C., Pourbaix, M., 1974. Germanium. In: Atlas of Electrochemical Equilibria in Aqueous Solutions. Pourbaix, M. (ed.) National Association of Corrosion Engineers, Houston, Texas, USA and CEBELCOR, Brussels, chapter IV, section 17.3, pp. 464-474.
-
-<a  href="docs/70BaM.pdf" target="_blank" rel="noopener">Bakunina, I.I., Murashova, V.I., 1970. A spectrophotometric study of the interaction of tellurium(IV) with Br- ions in strongly acid solutions. Zhurnal Analiticheskoi Khimii 25, 142–146 [in Russian]</a>.
-
-<a  href="https://www.wiley.com/en-ae/Thermochemical+Data+of+Pure+Substances,+3rd+Edition-p-9783527619825" target="_blank" rel="noopener">Barin, I., Platski, G., 1995. ‘Thermochemical Data on Pure Substances. 3<sup>rd</sup> edition’. (VCH:  New York)</a>.
-
-<a  href="docs/71BiG.pdf" target="_blank" rel="noopener">Biryukov, V.P., Ganelina, E.S., 1971. Acid dissociation constants of orthotelluric acid. Russian Journal of Inorganic Chemistry 16, 320–323</a>.
-
-<a  href="//doi.org/10.1021/acs.est.5b05920" target="_blank" rel="noopener">Biver, M., Filella, M., 2016. Bulk dissolution rates of cadmium and bismuth tellurides as a function of pH, temperature and dissolved oxygen. Environmental Science & Technology 50, 4675−4681</a>.
-
-<a  href="//doi.org/10.1016/j.talanta.2015.07.010" target="_blank" rel="noopener">Biver, M., Quentel, F., Filella, M., 2015. Direct determination of tellurium and its redox speciation at the low nanogram level in natural waters by catalytic cathodic stripping voltammetry. Talanta 144, 1007–1013</a>.
-
-<a  href="//doi.org/10.1051/JCP/1920180028" target="_blank" rel="noopener">Blanc, E., 1920 Détermination de la constante de dissociation de quelques acides minéraux [Determination of the dissociation constants of some mineral acids]. Journal de Chimie Physique 18, 28–45 [in French]</a>. 
-
-<a  href="//doi.org/10.1007/978-3-642-03967-6_2" target="_blank" rel="noopener">Bouroushian, M., 2010. Electrochemistry of the Chalcogens. In ‘Electrochemistry of Metal Chalcogenides’ (Ed. M. Bouroushian) pp. 57-75 (Springer Verlag: Heidelberg, Germany)</a>.
-
-<a  href="docs/66Bri.pdf" target="_blank" rel="noopener">Brito, F., 1966. Estudios sobre equilibrios de polianiones XIII. Polimerización de los teluratos en NaCl 1 M y 25 &deg;C [Equilibrium studies of polyanions. XIII. Polymerization of tellurates in NaCl 1 M and at 25 &deg;C]. Anales de Física y Química 62, 197–108 [in Spanish]</a>. 
 
 <a  href="https://onlinelibrary.wiley.com/doi/10.1002/bbpc.19130192107" target="_blank" rel="noopener">Bruner-Krakau, L., 1913. Über Selen- und Tellurwasserstoff als Säuren [About selenium and tellurium as acids]. Zeitschrift für Elektrochemie 19, 861 [in German]</a>.
 
