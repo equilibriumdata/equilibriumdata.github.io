@@ -47,8 +47,8 @@ Best stability constant values for germanium species, 25 &deg;C and <i>I</i> 0 m
 | GeO<sub>2</sub>(OH)<sub>2</sub><sup>2–</sup> + H<sup>+</sup> = GeO(OH)<sub>3</sub><sup>–</sup> |	12.76 |
 | GeO(OH)<sub>3</sub><sup>–</sup> + H<sup>+</sup> = Ge(OH)<sub>4</sub> |	9.099 |
 | 8 Ge(OH)<sub>4</sub> + 35 OH<sup>-</sup> = Ge<sub>8</sub>(OH)<sub>35</sub><sup>3-</sup> |	28.33 |
-| Ge(OH)<sub>2</sub>(hexag,s) + 2 H<sub>2</sub>O = Ge(OH)<sub>4</sub> |	–1.373 |
-| Ge(OH)<sub>2</sub>(tetra,s) + 2 H<sub>2</sub>O = Ge(OH)<sub>4</sub> |	–4.999 |
+| GeO<sub>2</sub>(hexag,s) + 2 H<sub>2</sub>O = Ge(OH)<sub>4</sub> |	–1.373 |
+| GeO<sub>2</sub>(tetra,s) + 2 H<sub>2</sub>O = Ge(OH)<sub>4</sub> |	–4.999 |
 | Ge(OH)<sub>4</sub> + 4 H<sup>+</sup> + 6 F<sup>-</sup> = GeF<sub>6</sub><sup>2-</sup> + 4 H<sub>2</sub>O |	27.98 |
 | Ge(OH)<sub>4</sub> + 5 H<sup>+</sup> + 6 F<sup>-</sup> = GeHF<sub>6</sub><sup>-</sup> + 4 H<sub>2</sub>O |	28.80 |
 | Ge(OH)<sub>4</sub> + 4 H<sup>+</sup> + 4 F<sup>-</sup> = GeF<sub>4</sub> + 4 H<sub>2</sub>O |	20.14 |
@@ -57,17 +57,28 @@ Best stability constant values for germanium species, 25 &deg;C and <i>I</i> 0 m
 
 ### References
 
-Abramowitz, S., Wagman, D.D., Parker, V.B., Garwin, D., 1984. Critical evaluation of thermodynamic data – A research activity. Thermochem. Its Appl. Chem. Biochem Syst. 119, 803-614.
-Ahrland, S., Chatt, J., Davies, N.R., 1958. The relative affinities of ligand atoms for acceptor molecules and ions. Q. Rev. Chem. Soc. 12, 265–276. doi:10.1039/QR9581200265
+<a  href="//doi.org/10.1007/978-94-009-6312-2_39" target="_blank" rel="noopener">Abramowitz, S., Wagman, D.D., Parker, V.B., Garwin, D., 1984. Critical evaluation of thermodynamic data – A research activity. Thermochem. Its Appl. Chem. Biochem Syst. 119, 803-614.</a>
+
+<a  href="//doi.org/10.1039/QR9581200265" target="_blank" rel="noopener">Ahrland, S., Chatt, J., Davies, N.R., 1958. The relative affinities of ligand atoms for acceptor molecules and ions. Q. Rev. Chem. Soc. 12, 265–276.</a>
+
 Alekseeva, I.I., Nemzer, I.I., 1971. State of germanium(IV) in acid solutions. Russ. J. Inorg. Chem. 16, 987–989.
+
 Andrianov, A.M., Nazarenko, V.A., 1966. Hydroxo-complexes of germanium(IV). Russ. J. Inorg. Chem. 11, 816–819.
-Angerstein, A., Davidson, W., 1961. The absorption of hydrochloric acid solutions of germanium(IV) chloride in the near ultraviolet. Z. anorg. allg. Chem. 310, 26–31.
-Anthony, J.W., Bideaux, R.A., Bladh, K.W., Nichols, M.C. Eds., 2004–2022. Handbook of Mineralogy, Mineralogical Society of America, Chantilly, VA, USA. http://www.handbookofmineralogy.org/.
+
+<a  href="//doi.org/10.1002/zaac.19613100104" target="_blank" rel="noopener">Angerstein, A., Davidson, W., 1961. The absorption of hydrochloric acid solutions of germanium(IV) chloride in the near ultraviolet. Z. anorg. allg. Chem. 310, 26–31.</a>
+
+<a  href="http://www.handbookofmineralogy.org/" target="_blank" rel="noopener">Anthony, J.W., Bideaux, R.A., Bladh, K.W., Nichols, M.C. Eds., 2004–2022. Handbook of Mineralogy, Mineralogical Society of America, Chantilly, VA, USA.</a>
+
 Antikainen, P.J., 1957. Ionisation and thermodynamic properties of germanic acid in aqueous solutions. Suomen Kem. 30B, 123–128.
+
 Antikainen, P.J., 1960. Studies on concentrated solutions prepared by ion exchange I. Equilibria involving mono- and polynuclear oxyacids of germanium. Suomen Kem. 33B, 38–40.
+
 Antonovich, V.P., Nevskaya, E.M., Suvorova, E.N., 1977. Spectrophotometric determination of the hydrolysis constants of monomeric antimony(III) ions. Russ. J. Inorg. Chem. 22, 696–699.
+
 Atkins, P., de Paula, J., 2006. Atkin's Physical Chemistry, 8th Edn., Oxford Univ. Press, Oxford, U.K.
-Babko, A.K., Lukachina, V.V., Nabivanets, B.I., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961.
+
+<a  href="docs/63BLN.pdf" target="_blank" rel="noopener">Babko, A.K., Lukachina, V.V., Nabivanets, B.I., 1963. Solubility and acid-base properties of tantalum and niobium hydroxides. Russ. J. Inorg. Chem. 8, 957–961.</a>
+
 Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 Barin, I., Platzki, G., 1995. Thermochemical Data of Pure Substances, 3rd Edn. VCH, Weinheim, Germany. doi:10.1002/9783527619825
 Benoit, R.L., Clerc, P., 1961. Chlorogermanium(IV) species in acid media. J. Phys. Chem. 65, 676–680. doi: 10.1021/j100822a019
@@ -157,20 +168,6 @@ Winkler, C., 1886. Mittheilungen über das Germanium. J. prakt. Chem. 34, 177–
 Wolery, T.J., Jové Colón, C.F., 2017. Chemical thermodynamic data. 1. The concept of links to the chemical elements and the historical development of key thermodynamic data. Geochim. Cosmochim. Acta 213, 635–676. doi:10.1016/j.gca.2016.09.028
 Wood, S.A., Samson, I.M., 2006. The aqueous geochemistry of gallium, germanium, indium and scandium. Ore Geology Reviews 28, 57–102. doi:10.1016/j.oregeorev.2003.06.002Zoubov 1974
 de Zoubov, N., Deltombe, E., Vanleugenhaghe, C., Pourbaix, M., 1974. Germanium. In: Atlas of Electrochemical Equilibria in Aqueous Solutions. Pourbaix, M. (ed.) National Association of Corrosion Engineers, Houston, Texas, USA and CEBELCOR, Brussels, chapter IV, section 17.3, pp. 464-474.
-
-<a  href="//doi.org/10.2113/gsecongeo.83.2.377" target="_blank" rel="noopener">Afifi, A.A., Kelly, W.C., Essene, E.J., 1988. Phase relations among tellurides, sulfides, and oxides: I. Thermochemical data and calculated equilibria. Economic Geology 83, 377–394</a>.
-
-<a  href="//doi.org/10.3891/acta.chem.scand.35a-0591" target="_blank" rel="noopener">Andersson, E., Lindqvist, O., Yamaguchi, T., 1981. An X-ray diffraction study on the structure of telluric acid Te(OH)6 in aqueous solution Acta Chemica Scandinavica A35, 591–597</a>.
-
-<a  href="docs/57Ant-a.pdf" target="_blank" rel="noopener">Antikainen, P.J., 1957a. Notes on the formation of polyacides in concentrated telluric acid solutions. Suomen Kemistilehti B30, 22–23</a>.
-
-<a  href="docs/57Ant-b.pdf" target="_blank" rel="noopener">Antikainen, P.J., 1957b. The thermodynamics of the ionization of telluric acid in aqueous solutions. Suomen Kemistilehti B30, 201–203</a>.
-
-<a  href="docs/60AnT.pdf" target="_blank" rel="noopener">Antikainen, P.J., Tevanen, K., 1960. The effect of electrolytes on the formation of polyacids. Telluric acid in aqueous sodium perchlorate solutions. Suomen Kemistilehti B33, 59–60</a>.
-
-<a  href="//doi.org/10.1021/j100811a031" target="_blank" rel="noopener">Awad, S.A., 1962. Poisoning effect of telluride ions on hydrogen evolution and cathodic formation of hydrogen telluride. Journal of Physical Chemistry 66, 890–894</a>.
-
-Baes, C.F., Mesmer, R.E., 1976. ‘The hydrolysis of cations’ (Wiley: New York)
 
 <a  href="docs/70BaM.pdf" target="_blank" rel="noopener">Bakunina, I.I., Murashova, V.I., 1970. A spectrophotometric study of the interaction of tellurium(IV) with Br- ions in strongly acid solutions. Zhurnal Analiticheskoi Khimii 25, 142–146 [in Russian]</a>.
 
