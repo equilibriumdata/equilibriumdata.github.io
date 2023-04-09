@@ -41,6 +41,8 @@ I critically evaluated equilibrium constants for some technology critical elemen
                               
 This site offers the final set of constants for each element as well as the list of references of the corresponding articles with link when available. In the cases where no link exists and the article is not easily available, the pdf is given.
 
+[Germanium](germanium.html)
+
 [Niobium](niobium.html)
 
 [Tantalum](tantalum.html)
