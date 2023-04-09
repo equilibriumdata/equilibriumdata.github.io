@@ -35,9 +35,9 @@ layout: default
   </li>
 </ul>
 
-# Tellurium
+# Germanium
 
-Original source: <a  href="//doi.org/10.1071/EN19017" target="_blank" rel="noopener">Filella, M., May, P.M., 2019. The aqueous chemistry of tellurium: critically-selected equilibrium constants for the low-molecular-weight inorganic species. Environmental Chemistry 16, 289–295.</a>
+Original source: <a  href="https://doi.org/10.1016/j.apgeochem.2023.105631" target="_blank" rel="noopener">Filella, M., May, P.M., 2023. The aqueous solution chemistry of germanium under conditions of environmental and biological interest: Inorganic ligands. Applied Geochemistry XX, XXX–XXX.</a>
 
 Best stability constant values for tellurium species, 25 &deg;C and <i>I</i> 0 mol L<sup>-1</sup>:
 
