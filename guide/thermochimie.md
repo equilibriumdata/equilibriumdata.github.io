@@ -27,7 +27,7 @@ layout: default
     <a href="javascript:void(0)" class="dropbtn">TCEs</a>
     <div class="dropdown-content">
       <a href="/TCE/index.html">Index</a>
-      <a href="germanium.html">Germanium</a>
+      <a href="/TCE/germanium.html">Germanium</a>
       <a href="/TCE/niobium.html">Niobium</a>
       <a href="/TCE/tantalum.html">Tantalum</a>
       <a href="/TCE/tellurium.html">Tellurium</a>
