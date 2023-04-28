@@ -143,7 +143,7 @@ Fleischer, M., Mandarino, J.A., 1995. Glossary of Mineral Species. Seventh editi
 
 <a  href="//doi.org/10.1007/BF00904709" target="_blank" rel="noopener">Haas, J., Konopik, N., Mark, F., Neckel, A., 1964b. Zur polymerisation der Germaniumsäure, 2. Ermittlung der Komplexzusammensetzungen und Berechnung der Stabilitätskonstanten auf Grund graphischer Ausgleichsverfahren. Monatsh. Chem. 95, 1166–1172.</a>
 
-Haas, J., Konopik, N., Mark, F., Neckel, A., 1964c. Zur polymerisation der Germaniumsäure, 3. Ermittlung der Komplexzusammensetzungen und der Stabilitätskonstanten mehrkerniger Komplexe auf Grund rechnerischer Ausgleichsverfahren. Monatsh. Chem. 95, 1173–1187.
+ Haas, J., Konopik, N., Mark, F., Neckel, A., 1964c. Zur polymerisation der Germaniumsäure, 3. Ermittlung der Komplexzusammensetzungen und der Stabilitätskonstanten mehrkerniger Komplexe auf Grund rechnerischer Ausgleichsverfahren. Monatsh. Chem. 95, 1173–1187.
 
 Häkkinen, P., Purokoski, S., Lajunen, K., 1986. A potentiometric study on the formation of germanic acid and germanate ion with sugar acids and disaccharides in aqueous solution. Finn. Chem. Lett. 13, 93–97.
 
