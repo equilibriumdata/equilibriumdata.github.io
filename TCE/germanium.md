@@ -37,7 +37,7 @@ layout: default
 
 # Germanium
 
-Original source: <a  href="https://doi.org/10.1016/j.apgeochem.2023.105631" target="_blank" rel="noopener">Filella, M., May, P.M., 2023. The aqueous solution chemistry of germanium under conditions of environmental and biological interest: Inorganic ligands. Applied Geochemistry XX, XXX–XXX.</a>
+Original source: <a  href="https://doi.org/10.1016/j.apgeochem.2023.105631" target="_blank" rel="noopener">Filella, M., May, P.M., 2023. The aqueous solution chemistry of germanium under conditions of environmental and biological interest: Inorganic ligands. Applied Geochemistry, proofs available.</a>
 
 Best stability constant values for germanium species, 25 &deg;C and <i>I</i> 0 mol L<sup>-1</sup>:
 
@@ -135,7 +135,7 @@ Fleischer, M., Mandarino, J.A., 1995. Glossary of Mineral Species. Seventh editi
 
 <a  href="//doi.org/10.1016/0022-1902(64)80256-6" target="_blank" rel="noopener">Gayer, K.H., Zajicek, O.T., 1964. The solubility of germanium(IV) oxide in aqueous NaOH solutions at 25oC. J. Inorg. Nucl. Chem. 26, 951–954.</a>
 
-Grenthe, I., Fuger, J., Konings, R.J.M., Lemire, R.J., Muller, A.B., Nguyen-Trung, C., Wanner, H., 1992. Chemical Thermodynamics of Uranium. Wanner, H., Forest, I., Nuclear Energy Agency, Organisation for Economic Co-operation and Development, Eds., vol. 1, North Holland Elsevier Science Publishers B. V., Amsterdam, The Netherlands, 715 pp.
+<a  href="https://www.oecd-nea.org/upload/docs/application/pdf/2019-12/uranium.pdf" target="_blank" rel="noopener">Grenthe, I., Fuger, J., Konings, R.J.M., Lemire, R.J., Muller, A.B., Nguyen-Trung, C., Wanner, H., 1992. Chemical Thermodynamics of Uranium. Wanner, H., Forest, I., Nuclear Energy Agency, Organisation for Economic Co-operation and Development, Eds., vol. 1, North Holland Elsevier Science Publishers B. V., Amsterdam, The Netherlands, 715 pp.</a>
 
 <a  href="//doi.org/10.1021/ja01347a017" target="_blank" rel="noopener">Gulezian, C.E., Müller, J.H., 1932. The conductivity and degree of hydrolysis of sodium bigermanate and the primary dissociation constant of germanic acid. J. Am. Chem. Soc. 54, 3151– 3158.</a>
 
@@ -169,7 +169,7 @@ Kosova, T.B., Dem’yanets, L.N., 1988. Behaviour of germanium dioxide in water 
 
 Kosova, T.B., Dem’yanets, L.N., Uvarova, T.G., 1987. Investigation of the solubility of germanium dioxide in water at 25–300 oC. Russ. J. Inorg. Chem. 32, 430–432.
 
-Krüger, G., Thilo, E., 1958. Über das hydrolytische Verhalten und die Molekulargewichte von Germanat-und Stannationen in schmelzendem Glaubersalz. Z. Physik. Chem. (Leipzig) 209, 190–205.
+<a  href="//doi.org/10.1515/zpch-1958-20917" target="_blank" rel="noopener">Krüger, G., Thilo, E., 1958. Über das hydrolytische Verhalten und die Molekulargewichte von Germanat-und Stannationen in schmelzendem Glaubersalz. Z. Physik. Chem. (Leipzig) 209, 190–205.
 
 <a  href="//doi.org/10.1016/S0016-7037(01)00869-9" target="_blank" rel="noopener">Kurtz, A.C., Derry, L.A., Chadwick, O.A., 2002. Germanium-silicon fractionation in the weathering environment. Geochim. Cosmochim. Acta 66, 1525–1537.</a>
 
