@@ -143,7 +143,7 @@ Fleischer, M., Mandarino, J.A., 1995. Glossary of Mineral Species. Seventh editi
 
 <a  href="//doi.org/10.1007/BF00904709" target="_blank" rel="noopener">Haas, J., Konopik, N., Mark, F., Neckel, A., 1964b. Zur polymerisation der Germaniumsäure, 2. Ermittlung der Komplexzusammensetzungen und Berechnung der Stabilitätskonstanten auf Grund graphischer Ausgleichsverfahren. Monatsh. Chem. 95, 1166–1172.</a>
 
- Haas, J., Konopik, N., Mark, F., Neckel, A., 1964c. Zur polymerisation der Germaniumsäure, 3. Ermittlung der Komplexzusammensetzungen und der Stabilitätskonstanten mehrkerniger Komplexe auf Grund rechnerischer Ausgleichsverfahren. Monatsh. Chem. 95, 1173–1187.
+<a  href="//doi.org/10.1007/BF00904710" target="_blank" rel="noopener">Haas, J., Konopik, N., Mark, F., Neckel, A., 1964c. Zur polymerisation der Germaniumsäure, 3. Ermittlung der Komplexzusammensetzungen und der Stabilitätskonstanten mehrkerniger Komplexe auf Grund rechnerischer Ausgleichsverfahren. Monatsh. Chem. 95, 1173–1187.</a>
 
 Häkkinen, P., Purokoski, S., Lajunen, K., 1986. A potentiometric study on the formation of germanic acid and germanate ion with sugar acids and disaccharides in aqueous solution. Finn. Chem. Lett. 13, 93–97.
 
@@ -199,7 +199,7 @@ Melcher, F., Buchholz, P. 2014. Germanium. In: Gunn G. (ed) Critical Metals Hand
 
 <a  href="//doi.org/10.1135/cccc19793256" target="_blank" rel="noopener">Mikešová, M., Bartušek, M., 1979. Complexes of germanic acid with mannitol, sorbitol, maltol and with chromotropic and kojic acids. Collect. Czech. Chem. Commun. 44, 3256–3263.</a>
 
-Müller, J.H., 1926. Further studies on the allotrophy of germanium oxide. Proc. Am. Philos. Soc. 65, 183–195.
+<a  href="https://www.jstor.org/stable/984488" target="_blank" rel="noopener">Müller, J.H., 1926. Further studies on the allotrophy of germanium oxide. Proc. Am. Philos. Soc. 65, 183–195.
 
 <a  href="//doi.org/10.1038/351220a0" target="_blank" rel="noopener">Mortlock, R.A., Charles, C.D., Froelich, P.N., Zibello, M., Saltzman, J., Burckle, L.D., Hays, J.D., 1991. Evidence for lower productivity in the Antarctic Ocean during the last glaciation. Nature 351, 220–223.</a>
 
@@ -235,7 +235,7 @@ Ryss, I.G., Kulish, N.F., 1964a. Equilibrium of the first hydrolysis stage of th
 
 Ryss, I.G., Kulish, N.F., 1964b. Hydrolysis of potassium hexafluorogermanate in aqueous solution. Russ. J. Inorg. Chem. 9, 752–754.
 
-Ryss, I.G., Kulish, N.F., 1965. Overall equilibrium constant for hydrolysis of the hexafluorogermanate ion GeF6 2 at 258. Russ. J. Inorg. Chem. 10, 996–1000.
+<a  href="docs/65RyK.pdf" target="_blank" rel="noopener">Ryss, I.G., Kulish, N.F., 1965. Overall equilibrium constant for hydrolysis of the hexafluorogermanate ion GeF6 2 at 258. Russ. J. Inorg. Chem. 10, 996–1000.</a>
 
 <a  href="//doi.org/10.1002/zaac.19312030119" target="_blank" rel="noopener">Schwarz, R., Huf, E., 1931. Beitrage zur Chemie des Germanium. VIII. Mitteilung: Über das Germaniumdioxyd VIII. Z. anorg. allg. Chem. 203, 188–218.</a>
 
