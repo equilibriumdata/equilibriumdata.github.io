@@ -233,7 +233,7 @@ Robie, R.A., Waldbaum, D.R., 1968. Thermodynamic properties of minerals and rela
 
 Ryss, I.G., Kulish, N.F., 1964a. Equilibrium of the first hydrolysis stage of the hexafluorogermanate ion. Russ. J. Inorg. Chem. 9, 603–607.
 
-Ryss, I.G., Kulish, N.F., 1964b. Hydrolysis of potassium hexafluorogermanate in aqueous solution. Russ. J. Inorg. Chem. 9, 752–754.
+<a  href="docs/64RyK2.pdf" target="_blank" rel="noopener">Ryss, I.G., Kulish, N.F., 1964b. Hydrolysis of potassium hexafluorogermanate in aqueous solution. Russ. J. Inorg. Chem. 9, 752–754.</a>
 
 <a  href="docs/65RyK.pdf" target="_blank" rel="noopener">Ryss, I.G., Kulish, N.F., 1965. Overall equilibrium constant for hydrolysis of the hexafluorogermanate ion GeF<sub>6</sub><sup>2-</sup> at 25&grad;. Russ. J. Inorg. Chem. 10, 996–1000.</a>
 
