@@ -93,7 +93,7 @@ Baes, C.F., Mesmer, R.E., 1976. The Hydrolysis of Cations. Wiley, New York.
 
 Brown, P.L., Ekberg, C., 2016. Hydrolysis of Metal Ions. Wiley.
 
-Carpéni, G., 1948. Equilibres électrolytiques entre ions, molécules simples et molécules condensées.—II. Le point «isohydrique». Conséquences et applications. Bull. Soc. Chim. Fr. 15, 629–637.
+<a  href="docs/48Car.pdf" target="_blank" rel="noopener">Carpéni, G., 1948. Equilibres électrolytiques entre ions, molécules simples et molécules condensées.—II. Le point «isohydrique». Conséquences et applications. Bull. Soc. Chim. Fr. 15, 629–637.</a>
 
 <a  href="//doi.org/10.3190/jgeosci.130" target="_blank" rel="noopener">Cempirek, J., Groat, L.A., 2013. Note on the formula of brunogeierite and the first bond-valence parameters for Ge2 +. J. Geosci. 58, 71–74.</a>
 
@@ -105,7 +105,7 @@ Charlot, G., Collumeau, A., Marchon, M.J.C., 1971. Selected Constants. Oxidation
 
 Cox, J.D., Wagman, D.D., Medvedev, V.A., 1989. CODATA. Key Values for Thermodynamics. CODATA Series on Thermodynamic Properties, 0-89116-758-7, Hemisphere Publishing Corp., New York, 271 pp.
 
-De la Cuadra, A., 1990. On polygermanate ion (review and critical study). Anales de Quimica 86, 221–229.
+<a  href="docs/90Cua.pdf" target="_blank" rel="noopener">De la Cuadra, A., 1990. On polygermanate ion (review and critical study). Anales de Quimica 86, 221–229.</a>
 
 <a  href="//doi.org/10.1002/zaac.19281740114" target="_blank" rel="noopener">Dennis, L. M., 1928. Germanium. Z. anorg. allg. Chem. 174, 97–141.</a>
 
@@ -145,7 +145,7 @@ Fleischer, M., Mandarino, J.A., 1995. Glossary of Mineral Species. Seventh editi
 
 <a  href="//doi.org/10.1007/BF00904710" target="_blank" rel="noopener">Haas, J., Konopik, N., Mark, F., Neckel, A., 1964c. Zur polymerisation der Germaniumsäure, 3. Ermittlung der Komplexzusammensetzungen und der Stabilitätskonstanten mehrkerniger Komplexe auf Grund rechnerischer Ausgleichsverfahren. Monatsh. Chem. 95, 1173–1187.</a>
 
-Häkkinen, P., Purokoski, S., Lajunen, K., 1986. A potentiometric study on the formation of germanic acid and germanate ion with sugar acids and disaccharides in aqueous solution. Finn. Chem. Lett. 13, 93–97.
+<a  href="docs/86HPL.pdf" target="_blank" rel="noopener">Häkkinen, P., Purokoski, S., Lajunen, K., 1986. A potentiometric study on the formation of germanic acid and germanate ion with sugar acids and disaccharides in aqueous solution. Finn. Chem. Lett. 13, 93–97.</a>
 
 <a  href="//doi.org/10.1002/zaac.19020300126" target="_blank" rel="noopener">Hantzsch, A., 1902. Über die Natur alkalischer Lösungen von Metallhydraten. Z. anorg. Chem. 30, 289–324.</a>
 
