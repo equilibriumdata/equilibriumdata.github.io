@@ -61,17 +61,17 @@ Best stability constant values for germanium species, 25 &deg;C and <i>I</i> 0 m
 
 <a  href="//doi.org/10.1039/QR9581200265" target="_blank" rel="noopener">Ahrland, S., Chatt, J., Davies, N.R., 1958. The relative affinities of ligand atoms for acceptor molecules and ions. Q. Rev. Chem. Soc. 12, 265–276.</a>
 
-Alekseeva, I.I., Nemzer, I.I., 1971. State of germanium(IV) in acid solutions. Russ. J. Inorg. Chem. 16, 987–989.
+<a  href="docs/71AlN.pdf" target="_blank" rel="noopener">Alekseeva, I.I., Nemzer, I.I., 1971. State of germanium(IV) in acid solutions. Russ. J. Inorg. Chem. 16, 987–989.</a>
 
-Andrianov, A.M., Nazarenko, V.A., 1966. Hydroxo-complexes of germanium(IV). Russ. J. Inorg. Chem. 11, 816–819.
+<a  href="docs/66AnN.pdf" target="_blank" rel="noopener">Andrianov, A.M., Nazarenko, V.A., 1966. Hydroxo-complexes of germanium(IV). Russ. J. Inorg. Chem. 11, 816–819.</a>
 
 <a  href="//doi.org/10.1002/zaac.19613100104" target="_blank" rel="noopener">Angerstein, A., Davidson, W., 1961. The absorption of hydrochloric acid solutions of germanium(IV) chloride in the near ultraviolet. Z. anorg. allg. Chem. 310, 26–31.</a>
 
 <a  href="http://www.handbookofmineralogy.org/" target="_blank" rel="noopener">Anthony, J.W., Bideaux, R.A., Bladh, K.W., Nichols, M.C. Eds., 2004–2022. Handbook of Mineralogy, Mineralogical Society of America, Chantilly, VA, USA.</a>
 
-Antikainen, P.J., 1957. Ionisation and thermodynamic properties of germanic acid in aqueous solutions. Suomen Kem. 30B, 123–128.
+<a  href="docs/57Ant.pdf" target="_blank" rel="noopener">Antikainen, P.J., 1957. Ionisation and thermodynamic properties of germanic acid in aqueous solutions. Suomen Kem. 30B, 123–128.</a>
 
-Antikainen, P.J., 1960. Studies on concentrated solutions prepared by ion exchange I. Equilibria involving mono- and polynuclear oxyacids of germanium. Suomen Kem. 33B, 38–40.
+<a  href="docs/60Ant.pdf" target="_blank" rel="noopener">Antikainen, P.J., 1960. Studies on concentrated solutions prepared by ion exchange I. Equilibria involving mono- and polynuclear oxyacids of germanium. Suomen Kem. 33B, 38–40.</a>
 
 Antonovich, V.P., Nevskaya, E.M., Suvorova, E.N., 1977. Spectrophotometric determination of the hydrolysis constants of monomeric antimony(III) ions. Russ. J. Inorg. Chem. 22, 696–699.
 
@@ -107,7 +107,7 @@ Cox, J.D., Wagman, D.D., Medvedev, V.A., 1989. CODATA. Key Values for Thermodyna
 
 De la Cuadra, A., 1990. On polygermanate ion (review and critical study). Anales de Quimica 86, 221–229.
 
-Dennis, L. M., 1928. Germanium. Z. anorg. allg. Chem. 174, 93–141.
+<a  href="//doi.org/10.1002/zaac.19281740114" target="_blank" rel="noopener">Dennis, L. M., 1928. Germanium. Z. anorg. allg. Chem. 174, 97–141.</a>
 
 <a  href="//doi.org/10.1016/S0304-4203(02)00115-9" target="_blank" rel="noopener">Ellwood, M.J., Maher, W.A., 2003. Germanium cycling in the waters across a frontal zone: the Chatham Rise, New Zealand. Mar. Chem. 80, 145–159.</a>
 
@@ -235,7 +235,7 @@ Ryss, I.G., Kulish, N.F., 1964a. Equilibrium of the first hydrolysis stage of th
 
 Ryss, I.G., Kulish, N.F., 1964b. Hydrolysis of potassium hexafluorogermanate in aqueous solution. Russ. J. Inorg. Chem. 9, 752–754.
 
-<a  href="docs/65RyK.pdf" target="_blank" rel="noopener">Ryss, I.G., Kulish, N.F., 1965. Overall equilibrium constant for hydrolysis of the hexafluorogermanate ion GeF6 2 at 258. Russ. J. Inorg. Chem. 10, 996–1000.</a>
+<a  href="docs/65RyK.pdf" target="_blank" rel="noopener">Ryss, I.G., Kulish, N.F., 1965. Overall equilibrium constant for hydrolysis of the hexafluorogermanate ion GeF<sub>6</sub><sup>2-</sup> at 25&grad;. Russ. J. Inorg. Chem. 10, 996–1000.</a>
 
 <a  href="//doi.org/10.1002/zaac.19312030119" target="_blank" rel="noopener">Schwarz, R., Huf, E., 1931. Beitrage zur Chemie des Germanium. VIII. Mitteilung: Über das Germaniumdioxyd VIII. Z. anorg. allg. Chem. 203, 188–218.</a>
 
