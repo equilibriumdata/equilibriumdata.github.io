@@ -165,9 +165,9 @@ Inzelt, G., 2006. Standard, formal and other characteristic potentials of select
 
 <a  href="//doi.org/10.1016/S0020-1693(99)00435-1" target="_blank" rel="noopener">Kanekiyo, Y., Aizawa, S.-i., Koshino, N., Funahashi, S., 2000. Complexation equilibria of oxy-acid-2-amino-2-deoxy-d-gluconic-acid metal(II) ion ternary systems in aqueous solutions as studied by potentiometry. Binding characteristics of borate and germanate. Inorg. Chim. Acta 298, 154–164.</a>
 
-Kosova, T.B., Dem’yanets, L.N., 1988. Behaviour of germanium dioxide in water and aqueous solutions at temperatures of 25–300 oC. Russ. J. Inorg. Chem. 33, 1522–1527.
+<a  href="docs/88KoD.pdf" target="_blank" rel="noopener">Kosova, T.B., Dem’yanets, L.N., 1988. Behaviour of germanium dioxide in water and aqueous solutions at temperatures of 25–300 oC. Russ. J. Inorg. Chem. 33, 1522–1527.</a>
 
-Kosova, T.B., Dem’yanets, L.N., Uvarova, T.G., 1987. Investigation of the solubility of germanium dioxide in water at 25–300 oC. Russ. J. Inorg. Chem. 32, 430–432.
+<a  href="docs/87KDU.pdf" target="_blank" rel="noopener">Kosova, T.B., Dem’yanets, L.N., Uvarova, T.G., 1987. Investigation of the solubility of germanium dioxide in water at 25–300 oC. Russ. J. Inorg. Chem. 32, 430–432.</a>
 
 <a  href="//doi.org/10.1515/zpch-1958-20917" target="_blank" rel="noopener">Krüger, G., Thilo, E., 1958. Über das hydrolytische Verhalten und die Molekulargewichte von Germanat-und Stannationen in schmelzendem Glaubersalz. Z. Physik. Chem. (Leipzig) 209, 190–205.
 
@@ -183,7 +183,7 @@ Latimer, W.M., 1952. Oxidation Potentials. Second edition. Prentice-Hall, Inc., 
 
 Lide, D.R., Frederikse, H.P.R. 1995. CRC Handbook of Chemistry and Physics, 76th edition. CRC Press, Cleveland, US.
 
-Lourijsen-Teyssèdre, M., 1955. Contributions à l’étude des phénomènes de condensation en chimie minérale. 10. Constitution des solutions de germanates et d’arsénites. Bull. Soc. Chim. Fr. 22, 1118–1125.
+<a  href="docs/55Lou.pdf" target="_blank" rel="noopener">Lourijsen-Teyssèdre, M., 1955. Contributions à l’étude des phénomènes de condensation en chimie minérale. 10. Constitution des solutions de germanates et d’arsénites. Bull. Soc. Chim. Fr. 22, 1118–1125.</a>
 
 <a  href="//doi.org/10.1021/j150579a007" target="_blank" rel="noopener">Lovreček, B., Bockris, J.O.M., 1959. The potential of the semiconductor-solution interface in the absence of net current flow: germanium. J. Phys. Chem. 63, 1368–1373.</a>
 
@@ -205,15 +205,15 @@ Melcher, F., Buchholz, P. 2014. Germanium. In: Gunn G. (ed) Critical Metals Hand
 
 <a  href="//doi.org/10.1038/344749a0" target="_blank" rel="noopener">Murnane, R.J., Stallard, R.F., 1990. Germanium and silicon in rivers of the Orinoco drainage basin. Nature 344, 749–752.</a>
 
-Nazarenko, V.A., Flyantikova, G.V., 1968. Cationic hydroxo-complexes of germanium(IV) in solutions with ionic strength 0–1. Russ. J. Inorg. Chem. 13, 966–969.
+<a  href="docs/68NaF.pdf" target="_blank" rel="noopener">Nazarenko, V.A., Flyantikova, G.V., 1968. Cationic hydroxo-complexes of germanium(IV) in solutions with ionic strength 0–1. Russ. J. Inorg. Chem. 13, 966–969.</a>
 
 Nazarenko, V.A., Flyantikova, G.V., Lebedeva, N.V., 1962. On the ionic composition of germanium in weakly acidic solutions. Ukrainskii Khimicheskii Zhurnal 28, 66– 67 [in Russian].
 
-Nazarenko, V.A., Varlamova, N.M., 1979. Stability constants of germanium fluoride complexes. Uzbekskii Khimicheskoi Zhurnal 45, 596–600 in Russian].
+<a  href="docs/79NaV.pdf" target="_blank" rel="noopener">Nazarenko, V.A., Varlamova, N.M., 1979. Stability constants of germanium fluoride complexes. Uzbekskii Khimicheskoi Zhurnal 45, 596–600 in Russian].</a>
 
-Parpiev, N.A., 1972. Complexes of some group IV, V, and VI elements. Uzbekskii Khimicheskoi Zhurnal 6, 17–23 [in Russian].
+<a  href="docs/72Par.pdf" target="_blank" rel="noopener">Parpiev, N.A., 1972. Complexes of some group IV, V, and VI elements. Uzbekskii Khimicheskoi Zhurnal 6, 17–23 [in Russian].</a>
 
-Parpiev, N.A., Maslennikov, I.A., 1968. Investigation of fluoride complexes of silicon and germanium by the ion exchange method. Uzbekskii Khimicheskoi Zhurnal 2, 6–9 [in Russian].
+<a  href="docs/68PaM.pdf" target="_blank" rel="noopener">Parpiev, N.A., Maslennikov, I.A., 1968. Investigation of fluoride complexes of silicon and germanium by the ion exchange method. Uzbekskii Khimicheskoi Zhurnal 2, 6–9 [in Russian].</a>
 
 <a  href="//doi.org/10.1016/S0009-2541(99)00102-3" target="_blank" rel="noopener">Pokrovski, G.S., Martin, F., Hazemann, J.-L., Schott, J., 2000. An X-ray absorption fine structure spectroscopy study of germanium-organic ligand complexes in aqueous solution. Chem. Geol. 163, 151–165.</a>
 
