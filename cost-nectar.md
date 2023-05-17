@@ -87,7 +87,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6">Ne</td>
   </tr>
   <tr border="1">
-    <td align="center" border="1" bgcolor="#ffece6">Na</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Na.pdf" target="_blank" rel="noopener">Na</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Mg.pdf" target="_blank" rel="noopener">Mg</a></td>
     <td></td>
     <td></td>
