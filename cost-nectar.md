@@ -116,7 +116,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Mn.pdf" target="_blank" rel="noopener">Mn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/FeII.pdf" target="_blank" rel="noopener">Fe</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Co.pdf" target="_blank" rel="noopener">Co</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/NiII.pdf" target="_blank" rel="noopener">Ni</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cu.pdf" target="_blank" rel="noopener">Cu</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ga.pdf" target="_blank" rel="noopener">Ga</a></td>
@@ -132,9 +132,9 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Y.pdf" target="_blank" rel="noopener">Y</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zr.pdf" target="_blank" rel="noopener">Zr</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Nb.pdf" target="_blank" rel="noopener">Nb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/MoVI.pdf" target="_blank" rel="noopener">Mo</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Mo.pdf" target="_blank" rel="noopener">Mo</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Tc</td>
-    <td align="center" border="1" bgcolor="#ffece6">Ru</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ru.pdf" target="_blank" rel="noopener">Ru</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Rh.pdf" target="_blank" rel="noopener">Rh</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pd.pdf" target="_blank" rel="noopener">Pd</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ag.pdf" target="_blank" rel="noopener">Ag</a></td>
@@ -149,7 +149,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
   <tr>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cs.pdf" target="_blank" rel="noopener">Cs</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ba.pdf" target="_blank" rel="noopener">Ba</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">La</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/La.pdf" target="_blank" rel="noopener">La</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Hf.pdf" target="_blank" rel="noopener">Hf</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/W.pdf" target="_blank" rel="noopener">W</a></td>
