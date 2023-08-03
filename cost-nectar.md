@@ -230,15 +230,15 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6">Th</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Th.pdf" target="_blank" rel="noopener">Th</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Pa</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/U.pdf" target="_blank" rel="noopener">U</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Np</td>
-    <td align="center" border="1" bgcolor="#ffece6">Pu</td>
-    <td align="center" border="1" bgcolor="#ffece6">Am</td>
-    <td align="center" border="1" bgcolor="#ffece6">Cm</td>
-    <td align="center" border="1" bgcolor="#ffece6">Bk</td>
-    <td align="center" border="1" bgcolor="#ffece6">Cf</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Np.pdf" target="_blank" rel="noopener">Np</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pu.pdf" target="_blank" rel="noopener">Pu</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Am.pdf" target="_blank" rel="noopener">Am</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/CmIII.pdf" target="_blank" rel="noopener">Cm</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/BkIII.pdf" target="_blank" rel="noopener">Bk</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/CfIII.pdf" target="_blank" rel="noopener">Cf</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Es</td>
     <td align="center" border="1" bgcolor="#ffece6">Fm</td>
     <td align="center" border="1" bgcolor="#ffece6">Md</td>
