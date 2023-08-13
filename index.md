@@ -14,7 +14,7 @@
       <a href="guide/NEA.html">NEA</a>
       <a href="guide/PSI.html">PSI/Nagra</a>
       <a href="guide/thermochimie.html">ThermoChimie</a>
-      <a href="THEREDA.html">THEREDA</a>
+      <a href="guide/THEREDA.html">THEREDA</a>
     </div>
   </li>
   <li><a href="/sc-database.html">SC-Database</a></li>
