@@ -121,7 +121,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ga.pdf" target="_blank" rel="noopener">Ga</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ge.pdf" target="_blank" rel="noopener">Ge</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">As</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/As.pdf" target="_blank" rel="noopener">As</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Se.pdf" target="_blank" rel="noopener">Se</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Br</td>
     <td align="center" border="1" bgcolor="#ffece6">Kr</td>
