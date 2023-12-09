@@ -25,7 +25,7 @@ layout: default
   <li><a class="active" href="/cost-nectar.html">Metal hydrolysis</a></li>
 </ul>
 
-# Metal hydrolysis and associated equilibrium constants
+# Metal hydrolysis anda associated equilibrium constants
 
 The Working Group “NECTAR for highly hydrolysable (HHC) cations” (WG1) of the COST Action 18202, Network for Equilibria and Chemical Thermodynamics Advanced Research, is compiling published critical values of metal hydrolysis constants.
 
