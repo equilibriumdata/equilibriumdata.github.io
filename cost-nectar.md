@@ -99,7 +99,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6">Al</td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Al.pdf" target="_blank" rel="noopener">Al</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Si.pdf" target="_blank" rel="noopener">Si</a></td>
     <td align="center" border="1" bgcolor="#ffece6">P</td>
     <td align="center" border="1" bgcolor="#ffece6">S</td>
