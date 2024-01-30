@@ -67,7 +67,7 @@ List of published surveys :
 | Glycines   | <a  href="https://doi.org/10.1351/pac199163040597" target="_blank" rel="noopener">Kiss et al. (1991)</a>        |
 | Alanine, Valine, Leucine      | <a  href="https://doi.org/10.1351/pac199365051029" target="_blank" rel="noopener">Sovágó et al. (1993)</a>       |
 | Cysteine, Cystine, Methionine, Serine, Threonine, Asparagine, Glutamine   | <a  href="http://dx.doi.org/10.1351/pac199567071117" target="_blank" rel="noopener">Berthon (1995)</a>        |
-| Agrinine, Lysine, Ornithine      | <a  href="http://dx.doi.org/10.1351/pac199668020469" target="_blank" rel="noopener">Yamauchi and Odani (1996)</a>       |
+| Arginine, Lysine, Ornithine      | <a  href="http://dx.doi.org/10.1351/pac199668020469" target="_blank" rel="noopener">Yamauchi and Odani (1996)</a>       |
 | Salicylic acid and other aromatic hydroxycarboxylic acids   | <a  href="http://dx.doi.org/10.1351/pac199769020329" target="_blank" rel="noopener">Lajunen et al. (1997)</a>        |
 | Phosphonic acids      | <a  href="http://dx.doi.org/10.1351/pac200173101641" target="_blank" rel="noopener">Ρopov et al. (2001)</a>       |
 | Crown ethers   | <a  href="http://dx.doi.org/10.1351/pac200375010071" target="_blank" rel="noopener">Arnaud-Neu et al. (2003)</a>        |
