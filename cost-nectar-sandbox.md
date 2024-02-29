@@ -113,7 +113,28 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/V.pdf" target="_blank" rel="noopener">V</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cr.pdf" target="_blank" rel="noopener">Cr</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Mn.pdf" target="_blank" rel="noopener">Mn</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">    
+      <div class="cell" style="cursor: pointer" onclick="mn()" id="mna">
+      <div class="element">
+        <div class="symbol">Mn</div>
+      </div>
+    <div id="mnb" class="ox_states">
+        Available oxidation states:<br> <a href="../docs/wg1_pt/MnII.pdf" target="blank">Mn(II)</a> &amp; <a href="../docs/wg1_pt/MnIII.pdf" target="blank">Mn(III)</a>
+        </div>
+        
+        <script>
+          function mn() {                           
+            document.getElementById("mnb").classList.toggle("show");}
+            window.onclick = function(event) {
+              if (!event.target.matches('#mna')) {
+                var dropdowns = document.getElementsByClassName("mn");
+                var i;
+                for (i = 0; i < dropdowns.length; i++) {
+                  var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')){
+                    openDropdown.classList.remove('show');}}}}
+        </script>  
+    </div>  </td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Fe.pdf" target="_blank" rel="noopener">Fe</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Co.pdf" target="_blank" rel="noopener">Co</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
