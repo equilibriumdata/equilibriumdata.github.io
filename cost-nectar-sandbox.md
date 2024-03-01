@@ -114,7 +114,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/V.pdf" target="_blank" rel="noopener">V</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cr.pdf" target="_blank" rel="noopener">Cr</a></td>
     <td align="center" border="1" bgcolor="#ffece6">    
-      <div class="cell" style="cursor: pointer" onclick="mn()" id="mna">
+      <div class="cell" onclick="mn()" id="mna">
       <div class="element">
         <div class="symbol">Mn</div>
       </div>
