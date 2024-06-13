@@ -273,7 +273,7 @@ Equilibrium diagrams
   </tr>
   <tr>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Li.pdf" target="_blank" rel="noopener">Li</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Be.pdf" target="_blank" rel="noopener">Be</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Be</td>
     <td></td>
     <td></td>
     <td></td>
@@ -313,7 +313,7 @@ Equilibrium diagrams
   </tr>
   <tr border="1">
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/K.pdf" target="_blank" rel="noopener">K</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ca.pdf" target="_blank" rel="noopener">Ca</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Ca</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sc.pdf" target="_blank" rel="noopener">Sc</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/V.pdf" target="_blank" rel="noopener">V</a></td>
@@ -352,8 +352,8 @@ Equilibrium diagrams
     <td align="center" border="1" bgcolor="#ffece6">Xe</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cs.pdf" target="_blank" rel="noopener">Cs</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ba.pdf" target="_blank" rel="noopener">Ba</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Cs</td>
+    <td align="center" border="1" bgcolor="#ffece6">Ba</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/La.pdf" target="_blank" rel="noopener">La</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Hf.pdf" target="_blank" rel="noopener">Hf</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
