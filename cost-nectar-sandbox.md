@@ -304,7 +304,7 @@ Equilibrium diagrammes
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Al.pdf" target="_blank" rel="noopener">Al</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Aluminium(III).plt" target="_blank" rel="noopener">Al(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Si.pdf" target="_blank" rel="noopener">Si</a></td>
     <td align="center" border="1" bgcolor="#ffece6">P</td>
     <td align="center" border="1" bgcolor="#ffece6">S</td>
@@ -440,7 +440,7 @@ Equilibrium diagrammes
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/U.pdf" target="_blank" rel="noopener">U</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Np.pdf" target="_blank" rel="noopener">Np</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pu.pdf" target="_blank" rel="noopener">Pu</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Am.pdf" target="_blank" rel="noopener">Am</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Americium(III).plt" target="_blank" rel="noopener">Am(III)</a><br/><a  style="color: black" href="docs/Spana/Americium(V).plt" target="_blank" rel="noopener">Am(V)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/CmIII.pdf" target="_blank" rel="noopener">Cm</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/BkIII.pdf" target="_blank" rel="noopener">Bk</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/CfIII.pdf" target="_blank" rel="noopener">Cf</a></td>
