@@ -248,7 +248,7 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
   </tr>
 </table>
 
-Equilibrium diagrammes
+Equilibrium diagrams
 
 <table style="font-size:11px; color:green" >
   <tr>
@@ -326,7 +326,7 @@ Equilibrium diagrammes
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ga.pdf" target="_blank" rel="noopener">Ga</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ge.pdf" target="_blank" rel="noopener">Ge</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/As.pdf" target="_blank" rel="noopener">As</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Arsenic(III).plt" target="_blank" rel="noopener">As(III)</a><br/><a  style="color: black" href="docs/Spana/Arsenic(V).plt" target="_blank" rel="noopener">As(V)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Se.pdf" target="_blank" rel="noopener">Se</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Br</td>
     <td align="center" border="1" bgcolor="#ffece6">Kr</td>
@@ -346,7 +346,7 @@ Equilibrium diagrammes
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cd.pdf" target="_blank" rel="noopener">Cd</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/In.pdf" target="_blank" rel="noopener">In</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sn.pdf" target="_blank" rel="noopener">Sn</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sb.pdf" target="_blank" rel="noopener">Sb</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Antimony(III).plt" target="_blank" rel="noopener">Sb(III)</a><br/><a  style="color: black" href="docs/Spana/Antimony(V).plt" target="_blank" rel="noopener">Sb(V)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Te.pdf" target="_blank" rel="noopener">Te</a></td>
     <td align="center" border="1" bgcolor="#ffece6">I</td>
     <td align="center" border="1" bgcolor="#ffece6">Xe</td>
