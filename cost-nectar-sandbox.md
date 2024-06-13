@@ -318,7 +318,7 @@ Equilibrium diagrams
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/V.pdf" target="_blank" rel="noopener">V</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Chromium(III).plt" target="_blank" rel="noopener">Cr(III)</a><br/><a  style="color: black" href="docs/Spana/Chromium(VI).plt" target="_blank" rel="noopener">Cr(VI)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a href="../docs/wg1_pt/MnII.pdf" target="blank">Mn(II)</a><br/><a href="../docs/wg1_pt/MnIII.pdf" target="blank">Mn(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="../docs/Spana/Manganese(II).plt" target="blank">Mn(II)</a><br/><a href="../docs/Spana/Manganese(III).plt" target="blank">Mn(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Fe.pdf" target="_blank" rel="noopener">Fe</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Cobalt(II).plt" target="_blank" rel="noopener">Co(II)</a><br/><a  style="color: black" href="docs/Spana/Cobalt(III).plt" target="_blank" rel="noopener">Co(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
