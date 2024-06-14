@@ -248,7 +248,13 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
   </tr>
 </table>
 
-Equilibrium diagrams
+## Equilibrium diagrams
+
+Equilibrium diagrams can be easily derived from the values given for different compounds. You can use your prefer system to plot them. Nevertheless, a simple mechanism is offered here.
+
+A simple, but effective, software to plot these diagrams is <a  href="https://www.kth.se/che/medusa/downloads-1.386254" target="_blank" rel="noopener">Spana</a>, developed by Ignasi Puigdomènech at KTH, Stockholm.
+
+To obtain the diagrams, it suffices to run Spana with the *.plt files that can be found in the table below. Probably, some columns would be truncated. If so, use the slider at the bottom of the table to show the missing coumns.
 
 <table style="font-size:11px; color:green" >
   <tr>
@@ -322,10 +328,10 @@ Equilibrium diagrams
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Fe.pdf" target="_blank" rel="noopener">Fe</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Cobalt(II).plt" target="_blank" rel="noopener">Co(II)</a><br/><a  style="color: black" href="docs/Spana/Cobalt(III).plt" target="_blank" rel="noopener">Co(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Cu.pdf" target="_blank" rel="noopener">Cu</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Copper(I).plt" target="_blank" rel="noopener">Cu(I)</a><br/><a  style="color: black" href="docs/Spana/Copper(II).plt" target="_blank" rel="noopener">Cu(II)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ga.pdf" target="_blank" rel="noopener">Ga</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ge.pdf" target="_blank" rel="noopener">Ge</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Gallium.plt" target="_blank" rel="noopener">Ga</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Germanium.plt" target="_blank" rel="noopener">Ge</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Arsenic(III).plt" target="_blank" rel="noopener">As(III)</a><br/><a  style="color: black" href="docs/Spana/Arsenic(V).plt" target="_blank" rel="noopener">As(V)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Se.pdf" target="_blank" rel="noopener">Se</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Br</td>
@@ -420,12 +426,12 @@ Equilibrium diagrams
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Nd.pdf" target="_blank" rel="noopener">Nd</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Pm</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sm.pdf" target="_blank" rel="noopener">Sm</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Eu.pdf" target="_blank" rel="noopener">Eu</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Gd.pdf" target="_blank" rel="noopener">Gd</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Europium.plt" target="_blank" rel="noopener">Eu</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Gadolinium.plt" target="_blank" rel="noopener">Gd</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tb.pdf" target="_blank" rel="noopener">Tb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Dy.pdf" target="_blank" rel="noopener">Dy</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Dysprosium.plt" target="_blank" rel="noopener">Dy</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ho.pdf" target="_blank" rel="noopener">Ho</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Er.pdf" target="_blank" rel="noopener">Er</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Erbium.plt" target="_blank" rel="noopener">Er</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tm.pdf" target="_blank" rel="noopener">Tm</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Yb.pdf" target="_blank" rel="noopener">Yb</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Lu</td>
@@ -441,7 +447,7 @@ Equilibrium diagrams
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Np.pdf" target="_blank" rel="noopener">Np</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pu.pdf" target="_blank" rel="noopener">Pu</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Americium(III).plt" target="_blank" rel="noopener">Am(III)</a><br/><a  style="color: black" href="docs/Spana/Americium(V).plt" target="_blank" rel="noopener">Am(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/CmIII.pdf" target="_blank" rel="noopener">Cm</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Curium(III).plt" target="_blank" rel="noopener">Cm(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Berkelium(III).plt" target="_blank" rel="noopener">Bk(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Californium(III).plt" target="_blank" rel="noopener">Cf(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Es</td>
