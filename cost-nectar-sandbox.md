@@ -350,7 +350,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pd.pdf" target="_blank" rel="noopener">Pd</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ag.pdf" target="_blank" rel="noopener">Ag</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Cadmium.plt" target="_blank" rel="noopener">Cd</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/In.pdf" target="_blank" rel="noopener">In</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Indium.plt" target="_blank" rel="noopener">In</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sn.pdf" target="_blank" rel="noopener">Sn</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Antimony(III).plt" target="_blank" rel="noopener">Sb(III)</a><br/><a  style="color: black" href="docs/Spana/Antimony(V).plt" target="_blank" rel="noopener">Sb(V)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Te.pdf" target="_blank" rel="noopener">Te</a></td>
@@ -368,7 +368,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Os.pdf" target="_blank" rel="noopener">Os</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ir.pdf" target="_blank" rel="noopener">Ir</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pt.pdf" target="_blank" rel="noopener">Pt</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Au.pdf" target="_blank" rel="noopener">Au</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Gold(III).plt" target="_blank" rel="noopener">Au(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Hg.pdf" target="_blank" rel="noopener">Hg</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tl.pdf" target="_blank" rel="noopener">Tl</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pb.pdf" target="_blank" rel="noopener">Pb</a></td>
@@ -430,7 +430,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Gadolinium.plt" target="_blank" rel="noopener">Gd</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tb.pdf" target="_blank" rel="noopener">Tb</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Dysprosium.plt" target="_blank" rel="noopener">Dy</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ho.pdf" target="_blank" rel="noopener">Ho</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Holmium.plt" target="_blank" rel="noopener">Ho</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Erbium.plt" target="_blank" rel="noopener">Er</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tm.pdf" target="_blank" rel="noopener">Tm</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Yb.pdf" target="_blank" rel="noopener">Yb</a></td>
