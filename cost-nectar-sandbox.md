@@ -278,7 +278,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffece6">He</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Li.pdf" target="_blank" rel="noopener">Li</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Li</td>
     <td align="center" border="1" bgcolor="#ffece6">Be</td>
     <td></td>
     <td></td>
@@ -299,7 +299,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
   </tr>
   <tr border="1">
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Na.pdf" target="_blank" rel="noopener">Na</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Mg.pdf" target="_blank" rel="noopener">Mg</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Mg</td>
     <td></td>
     <td></td>
     <td></td>
@@ -361,7 +361,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffece6">Cs</td>
     <td align="center" border="1" bgcolor="#ffece6">Ba</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Lanthanum.plt" target="_blank" rel="noopener">La</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Hf.pdf" target="_blank" rel="noopener">Hf</a></td>
+    <td align="center" border="1" bgcolor="#ffece6">Hf</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/W.pdf" target="_blank" rel="noopener">W</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Re</td>
