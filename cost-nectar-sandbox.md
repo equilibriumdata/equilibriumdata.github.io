@@ -254,7 +254,7 @@ Equilibrium diagrams can be easily derived from the values given for different c
 
 A simple, but effective, software to plot these diagrams is <a  href="https://www.kth.se/che/medusa/downloads-1.386254" target="_blank" rel="noopener">Spana</a>, developed by Ignasi Puigdomènech at KTH, Stockholm.
 
-To obtain the diagrams, it suffices to run Spana with the *.plt files that can be found in the table below. Probably, some columns would be truncated. If so, use the slider at the bottom of the table to show the missing coumns.
+To obtain the diagrams, it suffices to run Spana with the *.plt files that can be found in the table below. Probably, some columns would be truncated. If so, use the slider at the bottom of the table to show the missing columns.
 
 <table style="font-size:11px; color:green" >
   <tr>
@@ -324,7 +324,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/V.pdf" target="_blank" rel="noopener">V</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Chromium(III).plt" target="_blank" rel="noopener">Cr(III)</a><br/><a  style="color: black" href="docs/Spana/Chromium(VI).plt" target="_blank" rel="noopener">Cr(VI)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a href="../docs/Spana/Manganese(II).plt" target="blank">Mn(II)</a><br/><a href="../docs/Spana/Manganese(III).plt" target="blank">Mn(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a href="docs/Spana/Manganese(II).plt" target="blank">Mn(II)</a><br/><a href="docs/Spana/Manganese(III).plt" target="blank">Mn(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Iron(II).plt" target="_blank" rel="noopener">Fe(II)</a><br/><a  style="color: black" href="docs/Spana/Iron(III).plt" target="_blank" rel="noopener">Fe(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Cobalt(II).plt" target="_blank" rel="noopener">Co(II)</a><br/><a  style="color: black" href="docs/Spana/Cobalt(III).plt" target="_blank" rel="noopener">Co(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
