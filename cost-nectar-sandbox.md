@@ -325,7 +325,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/V.pdf" target="_blank" rel="noopener">V</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Chromium(III).plt" target="_blank" rel="noopener">Cr(III)</a><br/><a  style="color: black" href="docs/Spana/Chromium(VI).plt" target="_blank" rel="noopener">Cr(VI)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a href="../docs/Spana/Manganese(II).plt" target="blank">Mn(II)</a><br/><a href="../docs/Spana/Manganese(III).plt" target="blank">Mn(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Fe.pdf" target="_blank" rel="noopener">Fe</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Iron(II).plt" target="_blank" rel="noopener">Fe(II)</a><br/><a  style="color: black" href="docs/Spana/Iron(III).plt" target="_blank" rel="noopener">Fe(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Cobalt(II).plt" target="_blank" rel="noopener">Co(II)</a><br/><a  style="color: black" href="docs/Spana/Cobalt(III).plt" target="_blank" rel="noopener">Co(III)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Copper(I).plt" target="_blank" rel="noopener">Cu(I)</a><br/><a  style="color: black" href="docs/Spana/Copper(II).plt" target="_blank" rel="noopener">Cu(II)</a></td>
@@ -343,7 +343,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Y.pdf" target="_blank" rel="noopener">Y</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zr.pdf" target="_blank" rel="noopener">Zr</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Nb.pdf" target="_blank" rel="noopener">Nb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Mo.pdf" target="_blank" rel="noopener">Mo</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Molybdenum.plt" target="_blank" rel="noopener">Mo</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Tc</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ru.pdf" target="_blank" rel="noopener">Ru</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Rh.pdf" target="_blank" rel="noopener">Rh</a></td>
@@ -360,18 +360,18 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
   <tr>
     <td align="center" border="1" bgcolor="#ffece6">Cs</td>
     <td align="center" border="1" bgcolor="#ffece6">Ba</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/La.pdf" target="_blank" rel="noopener">La</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Lanthanum.plt" target="_blank" rel="noopener">La</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Hf.pdf" target="_blank" rel="noopener">Hf</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/W.pdf" target="_blank" rel="noopener">W</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Re</td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Os.pdf" target="_blank" rel="noopener">Os</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ir.pdf" target="_blank" rel="noopener">Ir</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Iridium.plt" target="_blank" rel="noopener">Ir</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pt.pdf" target="_blank" rel="noopener">Pt</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Gold(III).plt" target="_blank" rel="noopener">Au(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Hg.pdf" target="_blank" rel="noopener">Hg</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Mercury(I).plt" target="_blank" rel="noopener">Hg(I)</a><br/><a  style="color: black" href="docs/Spana/Mercury(II).plt" target="_blank" rel="noopener">Hg(II)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tl.pdf" target="_blank" rel="noopener">Tl</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pb.pdf" target="_blank" rel="noopener">Pb</a></td>
+    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Lead(II).plt" target="_blank" rel="noopener">Pb(II)</a><br/><a  style="color: black" href="docs/Spana/Lead(IV).plt" target="_blank" rel="noopener">Pb(IV)</a></td>
     <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Bismuth.plt" target="_blank" rel="noopener">Bi</a></td>
     <td align="center" border="1" bgcolor="#ffece6">Po</td>
     <td align="center" border="1" bgcolor="#ffece6">At</td>
