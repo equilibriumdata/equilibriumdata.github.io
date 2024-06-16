@@ -258,7 +258,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
 
 <table style="font-size:11px; color:green" >
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6">H</td>
+    <td align="center" border="1" bgcolor="#ffff99">H</td>
     <td></td>
     <td></td>
     <td></td>
@@ -275,11 +275,11 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6">He</td>
+    <td align="center" border="1" bgcolor="#ffff99">He</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6">Li</td>
-    <td align="center" border="1" bgcolor="#ffece6">Be</td>
+    <td align="center" border="1" bgcolor="#ffff99">Li</td>
+    <td align="center" border="1" bgcolor="#ffff99">Be</td>
     <td></td>
     <td></td>
     <td></td>
@@ -290,16 +290,16 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Boron.plt" target="_blank" rel="noopener">B</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">C</td>
-    <td align="center" border="1" bgcolor="#ffece6">N</td>
-    <td align="center" border="1" bgcolor="#ffece6">O</td>
-    <td align="center" border="1" bgcolor="#ffece6">F</td>
-    <td align="center" border="1" bgcolor="#ffece6">Ne</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Boron.plt" target="_blank" rel="noopener">B</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">C</td>
+    <td align="center" border="1" bgcolor="#ffff99">N</td>
+    <td align="center" border="1" bgcolor="#ffff99">O</td>
+    <td align="center" border="1" bgcolor="#ffff99">F</td>
+    <td align="center" border="1" bgcolor="#ffff99">Ne</td>
   </tr>
   <tr border="1">
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Na.pdf" target="_blank" rel="noopener">Na</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Mg</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Na.pdf" target="_blank" rel="noopener">Na</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Mg</td>
     <td></td>
     <td></td>
     <td></td>
@@ -310,77 +310,77 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Aluminium(III).plt" target="_blank" rel="noopener">Al(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Si.pdf" target="_blank" rel="noopener">Si</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">P</td>
-    <td align="center" border="1" bgcolor="#ffece6">S</td>
-    <td align="center" border="1" bgcolor="#ffece6">Cl</td>
-    <td align="center" border="1" bgcolor="#ffece6">Ar</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Aluminium(III).plt" target="_blank" rel="noopener">Al(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Si.pdf" target="_blank" rel="noopener">Si</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">P</td>
+    <td align="center" border="1" bgcolor="#ffff99">S</td>
+    <td align="center" border="1" bgcolor="#ffff99">Cl</td>
+    <td align="center" border="1" bgcolor="#ffff99">Ar</td>
   </tr>
   <tr border="1">
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/K.pdf" target="_blank" rel="noopener">K</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Ca</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sc.pdf" target="_blank" rel="noopener">Sc</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/V.pdf" target="_blank" rel="noopener">V</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Chromium(III).plt" target="_blank" rel="noopener">Cr(III)</a><br/><a  style="color: black" href="docs/Spana/Chromium(VI).plt" target="_blank" rel="noopener">Cr(VI)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a style="color: black" href="docs/Spana/Manganese(II).plt" target="blank">Mn(II)</a><br/><a style="color: black" href="docs/Spana/Manganese(III).plt" target="blank">Mn(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Iron(II).plt" target="_blank" rel="noopener">Fe(II)</a><br/><a  style="color: black" href="docs/Spana/Iron(III).plt" target="_blank" rel="noopener">Fe(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Cobalt(II).plt" target="_blank" rel="noopener">Co(II)</a><br/><a  style="color: black" href="docs/Spana/Cobalt(III).plt" target="_blank" rel="noopener">Co(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Copper(I).plt" target="_blank" rel="noopener">Cu(I)</a><br/><a  style="color: black" href="docs/Spana/Copper(II).plt" target="_blank" rel="noopener">Cu(II)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Gallium.plt" target="_blank" rel="noopener">Ga</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Germanium.plt" target="_blank" rel="noopener">Ge</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Arsenic(III).plt" target="_blank" rel="noopener">As(III)</a><br/><a  style="color: black" href="docs/Spana/Arsenic(V).plt" target="_blank" rel="noopener">As(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Se.pdf" target="_blank" rel="noopener">Se</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Br</td>
-    <td align="center" border="1" bgcolor="#ffece6">Kr</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/K.pdf" target="_blank" rel="noopener">K</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Ca</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Sc.pdf" target="_blank" rel="noopener">Sc</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Ti.pdf" target="_blank" rel="noopener">Ti</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/V.pdf" target="_blank" rel="noopener">V</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Chromium(III).plt" target="_blank" rel="noopener">Cr(III)</a><br/><a  style="color: black" href="docs/Spana/Chromium(VI).plt" target="_blank" rel="noopener">Cr(VI)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a style="color: black" href="docs/Spana/Manganese(II).plt" target="blank">Mn(II)</a><br/><a style="color: black" href="docs/Spana/Manganese(III).plt" target="blank">Mn(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Iron(II).plt" target="_blank" rel="noopener">Fe(II)</a><br/><a  style="color: black" href="docs/Spana/Iron(III).plt" target="_blank" rel="noopener">Fe(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Cobalt(II).plt" target="_blank" rel="noopener">Co(II)</a><br/><a  style="color: black" href="docs/Spana/Cobalt(III).plt" target="_blank" rel="noopener">Co(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Ni.pdf" target="_blank" rel="noopener">Ni</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Copper(I).plt" target="_blank" rel="noopener">Cu(I)</a><br/><a  style="color: black" href="docs/Spana/Copper(II).plt" target="_blank" rel="noopener">Cu(II)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Zn.pdf" target="_blank" rel="noopener">Zn</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Gallium.plt" target="_blank" rel="noopener">Ga</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Germanium.plt" target="_blank" rel="noopener">Ge</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Arsenic(III).plt" target="_blank" rel="noopener">As(III)</a><br/><a  style="color: black" href="docs/Spana/Arsenic(V).plt" target="_blank" rel="noopener">As(V)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Se.pdf" target="_blank" rel="noopener">Se</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Br</td>
+    <td align="center" border="1" bgcolor="#ffff99">Kr</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Rb.pdf" target="_blank" rel="noopener">Rb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sr.pdf" target="_blank" rel="noopener">Sr</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Y.pdf" target="_blank" rel="noopener">Y</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Zr.pdf" target="_blank" rel="noopener">Zr</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Nb.pdf" target="_blank" rel="noopener">Nb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Molybdenum.plt" target="_blank" rel="noopener">Mo</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Tc</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ru.pdf" target="_blank" rel="noopener">Ru</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Rh.pdf" target="_blank" rel="noopener">Rh</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pd.pdf" target="_blank" rel="noopener">Pd</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ag.pdf" target="_blank" rel="noopener">Ag</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Cadmium.plt" target="_blank" rel="noopener">Cd</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Indium.plt" target="_blank" rel="noopener">In</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sn.pdf" target="_blank" rel="noopener">Sn</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Antimony(III).plt" target="_blank" rel="noopener">Sb(III)</a><br/><a  style="color: black" href="docs/Spana/Antimony(V).plt" target="_blank" rel="noopener">Sb(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Te.pdf" target="_blank" rel="noopener">Te</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">I</td>
-    <td align="center" border="1" bgcolor="#ffece6">Xe</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Rb.pdf" target="_blank" rel="noopener">Rb</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Sr.pdf" target="_blank" rel="noopener">Sr</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Y.pdf" target="_blank" rel="noopener">Y</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Zr.pdf" target="_blank" rel="noopener">Zr</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Nb.pdf" target="_blank" rel="noopener">Nb</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Molybdenum.plt" target="_blank" rel="noopener">Mo</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Tc</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Ru.pdf" target="_blank" rel="noopener">Ru</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Rh.pdf" target="_blank" rel="noopener">Rh</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Pd.pdf" target="_blank" rel="noopener">Pd</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Ag.pdf" target="_blank" rel="noopener">Ag</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Cadmium.plt" target="_blank" rel="noopener">Cd</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Indium.plt" target="_blank" rel="noopener">In</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Sn.pdf" target="_blank" rel="noopener">Sn</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Antimony(III).plt" target="_blank" rel="noopener">Sb(III)</a><br/><a  style="color: black" href="docs/Spana/Antimony(V).plt" target="_blank" rel="noopener">Sb(V)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Te.pdf" target="_blank" rel="noopener">Te</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">I</td>
+    <td align="center" border="1" bgcolor="#ffff99">Xe</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6">Cs</td>
-    <td align="center" border="1" bgcolor="#ffece6">Ba</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Lanthanum.plt" target="_blank" rel="noopener">La</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Hf</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/W.pdf" target="_blank" rel="noopener">W</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Re</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Os.pdf" target="_blank" rel="noopener">Os</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Iridium.plt" target="_blank" rel="noopener">Ir</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pt.pdf" target="_blank" rel="noopener">Pt</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Gold(III).plt" target="_blank" rel="noopener">Au(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Mercury(I).plt" target="_blank" rel="noopener">Hg(I)</a><br/><a  style="color: black" href="docs/Spana/Mercury(II).plt" target="_blank" rel="noopener">Hg(II)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tl.pdf" target="_blank" rel="noopener">Tl</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Lead(II).plt" target="_blank" rel="noopener">Pb(II)</a><br/><a  style="color: black" href="docs/Spana/Lead(IV).plt" target="_blank" rel="noopener">Pb(IV)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Bismuth.plt" target="_blank" rel="noopener">Bi</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Po</td>
-    <td align="center" border="1" bgcolor="#ffece6">At</td>
-    <td align="center" border="1" bgcolor="#ffece6">Rn</td>
+    <td align="center" border="1" bgcolor="#ffff99">Cs</td>
+    <td align="center" border="1" bgcolor="#ffff99">Ba</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Lanthanum.plt" target="_blank" rel="noopener">La</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Hf</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/W.pdf" target="_blank" rel="noopener">W</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Re</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Os.pdf" target="_blank" rel="noopener">Os</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Iridium.plt" target="_blank" rel="noopener">Ir</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Pt.pdf" target="_blank" rel="noopener">Pt</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Gold(III).plt" target="_blank" rel="noopener">Au(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Mercury(I).plt" target="_blank" rel="noopener">Hg(I)</a><br/><a  style="color: black" href="docs/Spana/Mercury(II).plt" target="_blank" rel="noopener">Hg(II)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Tl.pdf" target="_blank" rel="noopener">Tl</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Lead(II).plt" target="_blank" rel="noopener">Pb(II)</a><br/><a  style="color: black" href="docs/Spana/Lead(IV).plt" target="_blank" rel="noopener">Pb(IV)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Bismuth.plt" target="_blank" rel="noopener">Bi</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Po</td>
+    <td align="center" border="1" bgcolor="#ffff99">At</td>
+    <td align="center" border="1" bgcolor="#ffff99">Rn</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffece6">Fr</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Ra.pdf" target="_blank" rel="noopener">Ra</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Ac</td>
+    <td align="center" border="1" bgcolor="#ffff99">Fr</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Ra.pdf" target="_blank" rel="noopener">Ra</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Ac</td>
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
@@ -396,65 +396,65 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Cerium.plt" target="_blank" rel="noopener">Ce</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pr.pdf" target="_blank" rel="noopener">Pr</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Nd.pdf" target="_blank" rel="noopener">Nd</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Pm</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Sm.pdf" target="_blank" rel="noopener">Sm</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Europium.plt" target="_blank" rel="noopener">Eu</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Gadolinium.plt" target="_blank" rel="noopener">Gd</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tb.pdf" target="_blank" rel="noopener">Tb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Dysprosium.plt" target="_blank" rel="noopener">Dy</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Holmium.plt" target="_blank" rel="noopener">Ho</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Erbium.plt" target="_blank" rel="noopener">Er</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Tm.pdf" target="_blank" rel="noopener">Tm</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Yb.pdf" target="_blank" rel="noopener">Yb</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Lu</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Th.pdf" target="_blank" rel="noopener">Th</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Pa</td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/U.pdf" target="_blank" rel="noopener">U</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Np.pdf" target="_blank" rel="noopener">Np</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/COST/Pu.pdf" target="_blank" rel="noopener">Pu</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Americium(III).plt" target="_blank" rel="noopener">Am(III)</a><br/><a  style="color: black" href="docs/Spana/Americium(V).plt" target="_blank" rel="noopener">Am(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Curium(III).plt" target="_blank" rel="noopener">Cm(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Berkelium(III).plt" target="_blank" rel="noopener">Bk(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6"><a  style="color: black" href="docs/Spana/Californium(III).plt" target="_blank" rel="noopener">Cf(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffece6">Es</td>
-    <td align="center" border="1" bgcolor="#ffece6">Fm</td>
-    <td align="center" border="1" bgcolor="#ffece6">Md</td>
-    <td align="center" border="1" bgcolor="#ffece6">No</td>
-    <td align="center" border="1" bgcolor="#ffece6">Lr</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Cerium.plt" target="_blank" rel="noopener">Ce</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Pr.pdf" target="_blank" rel="noopener">Pr</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Nd.pdf" target="_blank" rel="noopener">Nd</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Pm</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Sm.pdf" target="_blank" rel="noopener">Sm</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Europium.plt" target="_blank" rel="noopener">Eu</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Gadolinium.plt" target="_blank" rel="noopener">Gd</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Tb.pdf" target="_blank" rel="noopener">Tb</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Dysprosium.plt" target="_blank" rel="noopener">Dy</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Holmium.plt" target="_blank" rel="noopener">Ho</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Erbium.plt" target="_blank" rel="noopener">Er</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Tm.pdf" target="_blank" rel="noopener">Tm</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Yb.pdf" target="_blank" rel="noopener">Yb</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Lu</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Th.pdf" target="_blank" rel="noopener">Th</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Pa</td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/U.pdf" target="_blank" rel="noopener">U</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Np.pdf" target="_blank" rel="noopener">Np</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/COST/Pu.pdf" target="_blank" rel="noopener">Pu</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Americium(III).plt" target="_blank" rel="noopener">Am(III)</a><br/><a  style="color: black" href="docs/Spana/Americium(V).plt" target="_blank" rel="noopener">Am(V)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Curium(III).plt" target="_blank" rel="noopener">Cm(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Berkelium(III).plt" target="_blank" rel="noopener">Bk(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99"><a  style="color: black" href="docs/Spana/Californium(III).plt" target="_blank" rel="noopener">Cf(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffff99">Es</td>
+    <td align="center" border="1" bgcolor="#ffff99">Fm</td>
+    <td align="center" border="1" bgcolor="#ffff99">Md</td>
+    <td align="center" border="1" bgcolor="#ffff99">No</td>
+    <td align="center" border="1" bgcolor="#ffff99">Lr</td>
     <td></td>
   </tr>
 </table>
