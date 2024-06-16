@@ -311,7 +311,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td></td>
     <td></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Aluminium(III).plt" target="_blank" rel="noopener">Al(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Si.pdf" target="_blank" rel="noopener">Si</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Silicon.plt" target="_blank" rel="noopener">Si</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">P</td>
     <td align="center" border="1" bgcolor="#ffe6ff">S</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Cl</td>
@@ -333,7 +333,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Gallium.plt" target="_blank" rel="noopener">Ga</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Germanium.plt" target="_blank" rel="noopener">Ge</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Arsenic(III).plt" target="_blank" rel="noopener">As(III)</a><br/><a  style="color: black" href="docs/Spana/Arsenic(V).plt" target="_blank" rel="noopener">As(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Se.pdf" target="_blank" rel="noopener">Se</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Selenium(-II).plt" target="_blank" rel="noopener">Se(-II)</a><br/><a  style="color: black" href="docs/Spana/Selenium(IV).plt" target="_blank" rel="noopener">Se(IV)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Br</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Kr</td>
   </tr>
@@ -346,9 +346,9 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Molybdenum.plt" target="_blank" rel="noopener">Mo</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Tc</td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Ru.pdf" target="_blank" rel="noopener">Ru</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Rh.pdf" target="_blank" rel="noopener">Rh</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Rhodium.plt" target="_blank" rel="noopener">Rh</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Palladium.plt" target="_blank" rel="noopener">Pd</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Ag.pdf" target="_blank" rel="noopener">Ag</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Silver.plt" target="_blank" rel="noopener">Ag</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Cadmium.plt" target="_blank" rel="noopener">Cd</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Indium.plt" target="_blank" rel="noopener">In</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Sn.pdf" target="_blank" rel="noopener">Sn</a></td>
@@ -362,7 +362,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffe6ff">Ba</td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Lanthanum.plt" target="_blank" rel="noopener">La</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Hf</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Ta.pdf" target="_blank" rel="noopener">Ta</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tantalum Ta(OH)5.plt" target="_blank" rel="noopener">Ta(OH)<sub>5</sub></a><br/><a  style="color: black" href="docs/Spana/Tantalum Ta6O19.plt" target="_blank" rel="noopener">Ta<sub>6</sub>O<sub>19</sub></a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/W.pdf" target="_blank" rel="noopener">W</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Re</td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Osmium(VI).plt" target="_blank" rel="noopener">Os(VI)</a></td>
@@ -422,10 +422,10 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td></td>
     <td></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Cerium.plt" target="_blank" rel="noopener">Ce</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Pr.pdf" target="_blank" rel="noopener">Pr</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Praseodymium.plt" target="_blank" rel="noopener">Pr</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Neodymium.plt" target="_blank" rel="noopener">Nd</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Pm</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Sm.pdf" target="_blank" rel="noopener">Sm</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Samarium.plt" target="_blank" rel="noopener">Sm</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Europium.plt" target="_blank" rel="noopener">Eu</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Gadolinium.plt" target="_blank" rel="noopener">Gd</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/COST/Tb.pdf" target="_blank" rel="noopener">Tb</a></td>
