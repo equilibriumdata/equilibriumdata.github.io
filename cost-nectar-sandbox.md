@@ -339,8 +339,8 @@ To obtain the diagrams, it suffices to run Spana with the *.dat files that can b
   </tr>
   <tr>
     <td align="center" border="1" bgcolor="#ffe6ff">Rb</td>
-    <td align="center" border="1" bgcolor="#ffe6ff">Sr</td>
-    <td align="center" border="1" bgcolor="#ffe6ff">Y</td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Strontium.dat" target="_blank" rel="noopener">Sr</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Yttrium.dat" target="_blank" rel="noopener">Y</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Zr</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Nb</td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Molybdenum.dat" target="_blank" rel="noopener">Mo</a></td>
@@ -359,7 +359,7 @@ To obtain the diagrams, it suffices to run Spana with the *.dat files that can b
   </tr>
   <tr>
     <td align="center" border="1" bgcolor="#ffe6ff">Cs</td>
-    <td align="center" border="1" bgcolor="#ffe6ff">Ba</td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Barium.dat" target="_blank" rel="noopener">Ba</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Lanthanum.dat" target="_blank" rel="noopener">La</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Hf</td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tantalum Ta(OH)5.dat" target="_blank" rel="noopener">Ta(OH)<sub>5</sub></a><br/><a  style="color: black" href="docs/Spana/Tantalum Ta6O19.dat" target="_blank" rel="noopener">Ta<sub>6</sub>O<sub>19</sub></a></td>
@@ -379,7 +379,7 @@ To obtain the diagrams, it suffices to run Spana with the *.dat files that can b
   </tr>
   <tr>
     <td align="center" border="1" bgcolor="#ffe6ff">Fr</td>
-    <td align="center" border="1" bgcolor="#ffe6ff">Ra</td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Radium.dat" target="_blank" rel="noopener">Ra</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Ac</td>
     <td align="center" border="1"></td>
     <td align="center" border="1"></td>
