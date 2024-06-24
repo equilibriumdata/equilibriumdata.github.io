@@ -250,11 +250,17 @@ Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Gal
 
 ## Equilibrium diagrams
 
-Equilibrium diagrams can be easily derived from the values given for different compounds. You can use your prefer system to plot them. Nevertheless, a simple mechanism is offered here.
+Equilibrium diagrams can be easily derived from the values given for different compounds. You can use your preferred software to plot them. If you do not have any of your choice, an easy-to-use program is offered here to you, namely <a  href="https://www.kth.se/che/medusa/downloads-1.386254" target="_blank" rel="noopener">Spana</a>, developed by Ignasi Puigdomènech at KTH, Stockholm.
 
-A simple, but effective, software to plot these diagrams is <a  href="https://www.kth.se/che/medusa/downloads-1.386254" target="_blank" rel="noopener">Spana</a>, developed by Ignasi Puigdomènech at KTH, Stockholm.
+Download and install the Java version that corresponds to your Operating System. Be sure that you have Java installed in your computer.
 
-To obtain the diagrams, it suffices to run Spana with the *.dat files that can be found in the table below. Probably, some columns would be truncated. If so, use the slider at the bottom of the table to show the missing columns.
+First, in the table below, click on the element for which you want to plost all species. Probably, some columns would be truncated. If so, use the slider at the bottom of the table to show the missing columns.
+
+Then, run Spana. Once in the Spana interface, select File > Data file > Open (make a diagram). Select a *.dat file that you have previously downloaded from this site and press Open. A new interface appears already pre-filled. It might be good to check that, on the right panel, the box Write a file with table of results is ticked. This will produce, when generating the plot, a *.csv file that will allow you to plot the points calculated with your preferred plotting software, for instance Excel. Also on the right-hand panel, you will see a slider under the title Number of calculation steps. The higher the number, the smoother the curve obtained will be.
+
+By default, on the left/hand panel, Diagram type is set to Fraction and the pH range goes from 0 to 14. Do not change the type, but you can select a smaller rage of pH values. More importantly, clicking on Total conc. [compound name] = you can change the concentration. If you do so, press OK. Else, you no figure can be plotted. The title of the figure can also be changed.
+
+When you are reday, press the top/left button showing a plot and the diagram will be generated.
 
 <table style="font-size:11px; color:green" >
   <tr>
@@ -342,7 +348,7 @@ To obtain the diagrams, it suffices to run Spana with the *.dat files that can b
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Strontium.dat" target="_blank" rel="noopener">Sr</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Yttrium.dat" target="_blank" rel="noopener">Y</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Zr</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Niobium Nb(OH)5.dat" target="_blank" rel="noopener">Nb(OH)5</a><br/><a  style="color: black" href="docs/Spana/Niobium Nb6O19.dat" target="_blank" rel="noopener">Nb6O19</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Niobium Nb(OH)<sub>5</sub>.dat" target="_blank" rel="noopener">Nb(OH)<sub>5</sub>sub></a><br/><a  style="color: black" href="docs/Spana/Niobium Nb<sub>6</sub>O<sub>19</sub>.dat" target="_blank" rel="noopener">Nb<sub>6</sub>sub>O<sub>19</sub>sub></a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Molybdenum.dat" target="_blank" rel="noopener">Mo</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Tc</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Ru</td>
