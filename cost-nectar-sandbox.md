@@ -28,7 +28,7 @@ layout: default
     <div class="dropdown-content">
       <a href="TCE/index.html">Index</a>
       <a href="TCE/germanium.html">Germanium</a>
-      <a href="TCE/niobium.html">Niobium</a>
+      <a href="TCE/m.html">Niobium</a>
       <a href="TCE/tantalum.html">Tantalum</a>
       <a href="TCE/tellurium.html">Tellurium</a>
     </div>
@@ -342,7 +342,7 @@ To obtain the diagrams, it suffices to run Spana with the *.dat files that can b
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Strontium.dat" target="_blank" rel="noopener">Sr</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Yttrium.dat" target="_blank" rel="noopener">Y</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Zr</td>
-    <td align="center" border="1" bgcolor="#ffe6ff">Nb</td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Niobium Nb(OH)5.dat" target="_blank" rel="noopener">Nb(OH)5</a><br/><a  style="color: black" href="docs/Spana/Niobium Nb6O19.dat" target="_blank" rel="noopener">Nb6O19</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Molybdenum.dat" target="_blank" rel="noopener">Mo</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Tc</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Ru</td>
