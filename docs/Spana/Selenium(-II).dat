@@ -1,0 +1,10 @@
+ 2, 3, 0, 0,   /SPANA (MEDUSA), t= 25, p= 1
+H+
+H2Se
+H2Se (g)            , -1.1       0  1
+HSe -               , -3.85     -1  1
+Se 2-               , -18.76    -2  1
+H2Se, H+,
+LAV,  0 -14
+T,  0.001
+Selenium(-II)

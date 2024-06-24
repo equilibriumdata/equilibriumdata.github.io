@@ -1,0 +1,10 @@
+ 2, 3, 0, 0,   /SPANA (MEDUSA), t= 25, p= 1
+H+
+WO4 2-
+HWO4 -              ,  3.6       1  1
+H2WO4               ,  5.8       2  1
+HW6O21 5-           ,  63.83     7  6
+WO4 2-, H+,
+LAV,  0 -14
+T,  0.001
+Tungsten

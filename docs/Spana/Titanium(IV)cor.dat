@@ -1,0 +1,12 @@
+ 2, 3, 2, 0,   /SPANA (MEDUSA), t= 25, p= 1
+H+
+TiO 2+
+TiO(OH) +           , -2.48     -1  1
+TiO(OH)2            , -5.49     -2  1
+TiO(OH)3 -          , -17.4     -3  1
+secTiO2 (s)         ,  3.53     -2  1
+firsTiO2 (s)        ,  3.58     -2  1
+TiO 2+, H+,
+LAV,  0 -14
+T,  1.0E-6
+Titanium(IV)cor

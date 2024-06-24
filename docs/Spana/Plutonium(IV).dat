@@ -1,0 +1,12 @@
+ 2, 4, 1, 0,   /SPANA (MEDUSA), t= 25, p= 1
+H+
+Pu 4+
+Pu(OH) 3+           ,  0.6      -1  1
+Pu(OH)2 2+          ,  0.6      -2  1
+Pu(OH)3 +           , -2.3      -3  1
+Pu(OH)4             , -8.5      -4  1
+amhyd-PuO2 (s)      ,  2.3      -4  1
+Pu 4+, H+,
+LAV,  0 -14
+T,  1.0E-6
+Plutonium(IV)

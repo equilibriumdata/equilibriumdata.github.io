@@ -1,0 +1,11 @@
+ 2, 3, 1, 0,   /SPANA (MEDUSA), t= 25, p= 1
+H+
+TeO3 2-
+HTeO3 -             ,  9.928     1  1
+H2TeO3              ,  16.373    2  1
+Te(OH)3+            ,  18.788    3  1
+TeO2 (s)            ,  21.082    2  1
+TeO3 2-, H+,
+LAV,  0 -14
+T,  0.001
+Tellurium(IV)
