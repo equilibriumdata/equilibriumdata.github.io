@@ -1,0 +1,10 @@
+ 2, 3, 0, 0,   /SPANA (MEDUSA), t= 25, p= 1
+H+
+AsO4 3-
+HAsO4 2-            ,  11.58     1  1
+H2AsO4 -            ,  18.56     2  1
+H3AsO4              ,  20.81     3  1
+AsO4 3-, H+,
+LAV,  0 -14
+T,  0.001
+Arsenic(V)
