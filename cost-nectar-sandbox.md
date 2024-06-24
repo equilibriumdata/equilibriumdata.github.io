@@ -254,7 +254,7 @@ Equilibrium diagrams can be easily derived from the values given for different c
 
 A simple, but effective, software to plot these diagrams is <a  href="https://www.kth.se/che/medusa/downloads-1.386254" target="_blank" rel="noopener">Spana</a>, developed by Ignasi Puigdomènech at KTH, Stockholm.
 
-To obtain the diagrams, it suffices to run Spana with the *.plt files that can be found in the table below. Probably, some columns would be truncated. If so, use the slider at the bottom of the table to show the missing columns.
+To obtain the diagrams, it suffices to run Spana with the *.dat files that can be found in the table below. Probably, some columns would be truncated. If so, use the slider at the bottom of the table to show the missing columns.
 
 <table style="font-size:11px; color:green" >
   <tr>
@@ -290,7 +290,7 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Boron.plt" target="_blank" rel="noopener">B</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Boron.dat" target="_blank" rel="noopener">B</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">C</td>
     <td align="center" border="1" bgcolor="#ffe6ff">N</td>
     <td align="center" border="1" bgcolor="#ffe6ff">O</td>
@@ -310,8 +310,8 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Aluminium(III).plt" target="_blank" rel="noopener">Al(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Silicon.plt" target="_blank" rel="noopener">Si</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Aluminium(III).dat" target="_blank" rel="noopener">Al(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Silicon.dat" target="_blank" rel="noopener">Si</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">P</td>
     <td align="center" border="1" bgcolor="#ffe6ff">S</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Cl</td>
@@ -321,19 +321,19 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffe6ff">K</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Ca</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Sc</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Titanium(IV)cor.plt" target="_blank" rel="noopener">Ti(IV)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Vanadium(IV).plt" target="_blank" rel="noopener">V(IV)</a><br/><a  style="color: black" href="docs/Spana/Vanadium(V).plt" target="_blank" rel="noopener">V(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Chromium(III).plt" target="_blank" rel="noopener">Cr(III)</a><br/><a  style="color: black" href="docs/Spana/Chromium(VI).plt" target="_blank" rel="noopener">Cr(VI)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a style="color: black" href="docs/Spana/Manganese(II).plt" target="blank">Mn(II)</a><br/><a style="color: black" href="docs/Spana/Manganese(III).plt" target="blank">Mn(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Iron(II).plt" target="_blank" rel="noopener">Fe(II)</a><br/><a  style="color: black" href="docs/Spana/Iron(III).plt" target="_blank" rel="noopener">Fe(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Cobalt(II).plt" target="_blank" rel="noopener">Co(II)</a><br/><a  style="color: black" href="docs/Spana/Cobalt(III).plt" target="_blank" rel="noopener">Co(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Nickel.plt" target="_blank" rel="noopener">Ni</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Copper(I).plt" target="_blank" rel="noopener">Cu(I)</a><br/><a  style="color: black" href="docs/Spana/Copper(II).plt" target="_blank" rel="noopener">Cu(II)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Zinc.plt" target="_blank" rel="noopener">Zn</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Gallium.plt" target="_blank" rel="noopener">Ga</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Germanium.plt" target="_blank" rel="noopener">Ge</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Arsenic(III).plt" target="_blank" rel="noopener">As(III)</a><br/><a  style="color: black" href="docs/Spana/Arsenic(V).plt" target="_blank" rel="noopener">As(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Selenium(-II).plt" target="_blank" rel="noopener">Se(-II)</a><br/><a  style="color: black" href="docs/Spana/Selenium(IV).plt" target="_blank" rel="noopener">Se(IV)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Titanium(IV)cor.dat" target="_blank" rel="noopener">Ti(IV)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Vanadium(IV).dat" target="_blank" rel="noopener">V(IV)</a><br/><a  style="color: black" href="docs/Spana/Vanadium(V).dat" target="_blank" rel="noopener">V(V)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Chromium(III).dat" target="_blank" rel="noopener">Cr(III)</a><br/><a  style="color: black" href="docs/Spana/Chromium(VI).dat" target="_blank" rel="noopener">Cr(VI)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a style="color: black" href="docs/Spana/Manganese(II).dat" target="blank">Mn(II)</a><br/><a style="color: black" href="docs/Spana/Manganese(III).dat" target="blank">Mn(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Iron(II).dat" target="_blank" rel="noopener">Fe(II)</a><br/><a  style="color: black" href="docs/Spana/Iron(III).dat" target="_blank" rel="noopener">Fe(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Cobalt(II).dat" target="_blank" rel="noopener">Co(II)</a><br/><a  style="color: black" href="docs/Spana/Cobalt(III).dat" target="_blank" rel="noopener">Co(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Nickel.dat" target="_blank" rel="noopener">Ni</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Copper(I).dat" target="_blank" rel="noopener">Cu(I)</a><br/><a  style="color: black" href="docs/Spana/Copper(II).dat" target="_blank" rel="noopener">Cu(II)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Zinc.dat" target="_blank" rel="noopener">Zn</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Gallium.dat" target="_blank" rel="noopener">Ga</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Germanium.dat" target="_blank" rel="noopener">Ge</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Arsenic(III).dat" target="_blank" rel="noopener">As(III)</a><br/><a  style="color: black" href="docs/Spana/Arsenic(V).dat" target="_blank" rel="noopener">As(V)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Selenium(-II).dat" target="_blank" rel="noopener">Se(-II)</a><br/><a  style="color: black" href="docs/Spana/Selenium(IV).dat" target="_blank" rel="noopener">Se(IV)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Br</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Kr</td>
   </tr>
@@ -343,36 +343,36 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td align="center" border="1" bgcolor="#ffe6ff">Y</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Zr</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Nb</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Molybdenum.plt" target="_blank" rel="noopener">Mo</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Molybdenum.dat" target="_blank" rel="noopener">Mo</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Tc</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Ru</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Rhodium.plt" target="_blank" rel="noopener">Rh</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Palladium.plt" target="_blank" rel="noopener">Pd</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Silver.plt" target="_blank" rel="noopener">Ag</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Cadmium.plt" target="_blank" rel="noopener">Cd</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Indium.plt" target="_blank" rel="noopener">In</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tin(II).plt" target="_blank" rel="noopener">Sn(II)</a><br/><a  style="color: black" href="docs/Spana/Tin(IV).plt" target="_blank" rel="noopener">Sn(IV)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Antimony(III).plt" target="_blank" rel="noopener">Sb(III)</a><br/><a  style="color: black" href="docs/Spana/Antimony(V).plt" target="_blank" rel="noopener">Sb(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tellurium(-II).plt" target="_blank" rel="noopener">Te(-II)</a><br/><a  style="color: black" href="docs/Spana/Tellurium(IV).plt" target="_blank" rel="noopener">Te(IV)</a><br/><a  style="color: black" href="docs/Spana/Tellurium(VI).plt" target="_blank" rel="noopener">Te(VI)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Rhodium.dat" target="_blank" rel="noopener">Rh</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Palladium.dat" target="_blank" rel="noopener">Pd</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Silver.dat" target="_blank" rel="noopener">Ag</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Cadmium.dat" target="_blank" rel="noopener">Cd</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Indium.dat" target="_blank" rel="noopener">In</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tin(II).dat" target="_blank" rel="noopener">Sn(II)</a><br/><a  style="color: black" href="docs/Spana/Tin(IV).dat" target="_blank" rel="noopener">Sn(IV)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Antimony(III).dat" target="_blank" rel="noopener">Sb(III)</a><br/><a  style="color: black" href="docs/Spana/Antimony(V).dat" target="_blank" rel="noopener">Sb(V)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tellurium(-II).dat" target="_blank" rel="noopener">Te(-II)</a><br/><a  style="color: black" href="docs/Spana/Tellurium(IV).dat" target="_blank" rel="noopener">Te(IV)</a><br/><a  style="color: black" href="docs/Spana/Tellurium(VI).dat" target="_blank" rel="noopener">Te(VI)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">I</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Xe</td>
   </tr>
   <tr>
     <td align="center" border="1" bgcolor="#ffe6ff">Cs</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Ba</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Lanthanum.plt" target="_blank" rel="noopener">La</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Lanthanum.dat" target="_blank" rel="noopener">La</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Hf</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tantalum Ta(OH)5.plt" target="_blank" rel="noopener">Ta(OH)<sub>5</sub></a><br/><a  style="color: black" href="docs/Spana/Tantalum Ta6O19.plt" target="_blank" rel="noopener">Ta<sub>6</sub>O<sub>19</sub></a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tungsten.plt" target="_blank" rel="noopener">W</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tantalum Ta(OH)5.dat" target="_blank" rel="noopener">Ta(OH)<sub>5</sub></a><br/><a  style="color: black" href="docs/Spana/Tantalum Ta6O19.dat" target="_blank" rel="noopener">Ta<sub>6</sub>O<sub>19</sub></a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tungsten.dat" target="_blank" rel="noopener">W</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Re</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Osmium(VI).plt" target="_blank" rel="noopener">Os(VI)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Iridium.plt" target="_blank" rel="noopener">Ir</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Platinum.plt" target="_blank" rel="noopener">Pt</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Gold(III).plt" target="_blank" rel="noopener">Au(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Mercury(I).plt" target="_blank" rel="noopener">Hg(I)</a><br/><a  style="color: black" href="docs/Spana/Mercury(II).plt" target="_blank" rel="noopener">Hg(II)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Thallium(I).plt" target="_blank" rel="noopener">Tl(I)</a><br/><a  style="color: black" href="docs/Spana/Thallium(III).plt" target="_blank" rel="noopener">Tl(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Lead(II).plt" target="_blank" rel="noopener">Pb(II)</a><br/><a  style="color: black" href="docs/Spana/Lead(IV).plt" target="_blank" rel="noopener">Pb(IV)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Bismuth.plt" target="_blank" rel="noopener">Bi</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Osmium(VI).dat" target="_blank" rel="noopener">Os(VI)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Iridium.dat" target="_blank" rel="noopener">Ir</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Platinum.dat" target="_blank" rel="noopener">Pt</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Gold(III).dat" target="_blank" rel="noopener">Au(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Mercury(I).dat" target="_blank" rel="noopener">Hg(I)</a><br/><a  style="color: black" href="docs/Spana/Mercury(II).dat" target="_blank" rel="noopener">Hg(II)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Thallium(I).dat" target="_blank" rel="noopener">Tl(I)</a><br/><a  style="color: black" href="docs/Spana/Thallium(III).dat" target="_blank" rel="noopener">Tl(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Lead(II).dat" target="_blank" rel="noopener">Pb(II)</a><br/><a  style="color: black" href="docs/Spana/Lead(IV).dat" target="_blank" rel="noopener">Pb(IV)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Bismuth.dat" target="_blank" rel="noopener">Bi</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Po</td>
     <td align="center" border="1" bgcolor="#ffe6ff">At</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Rn</td>
@@ -421,19 +421,19 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Cerium.plt" target="_blank" rel="noopener">Ce</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Praseodymium.plt" target="_blank" rel="noopener">Pr</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Neodymium.plt" target="_blank" rel="noopener">Nd</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Cerium.dat" target="_blank" rel="noopener">Ce</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Praseodymium.dat" target="_blank" rel="noopener">Pr</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Neodymium.dat" target="_blank" rel="noopener">Nd</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Pm</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Samarium.plt" target="_blank" rel="noopener">Sm</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Europium.plt" target="_blank" rel="noopener">Eu</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Gadolinium.plt" target="_blank" rel="noopener">Gd</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Terbium.plt" target="_blank" rel="noopener">Tb</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Dysprosium.plt" target="_blank" rel="noopener">Dy</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Holmium.plt" target="_blank" rel="noopener">Ho</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Erbium.plt" target="_blank" rel="noopener">Er</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Thulium.plt" target="_blank" rel="noopener">Tm</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Ytterbium.plt" target="_blank" rel="noopener">Yb</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Samarium.dat" target="_blank" rel="noopener">Sm</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Europium.dat" target="_blank" rel="noopener">Eu</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Gadolinium.dat" target="_blank" rel="noopener">Gd</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Terbium.dat" target="_blank" rel="noopener">Tb</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Dysprosium.dat" target="_blank" rel="noopener">Dy</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Holmium.dat" target="_blank" rel="noopener">Ho</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Erbium.dat" target="_blank" rel="noopener">Er</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Thulium.dat" target="_blank" rel="noopener">Tm</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Ytterbium.dat" target="_blank" rel="noopener">Yb</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Lu</td>
     <td></td>
   </tr>
@@ -441,15 +441,15 @@ To obtain the diagrams, it suffices to run Spana with the *.plt files that can b
     <td></td>
     <td></td>
     <td></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Thorium.plt" target="_blank" rel="noopener">Th</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Thorium.dat" target="_blank" rel="noopener">Th</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Pa</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Uranium(IV).plt" target="_blank" rel="noopener">U(IV)</a><br/><a  style="color: black" href="docs/Spana/Uranium(VI).plt" target="_blank" rel="noopener">U(VI)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Neptunium(III).plt" target="_blank" rel="noopener">Np(III)</a><br/><a  style="color: black" href="docs/Spana/Neptunium(IV).plt" target="_blank" rel="noopener">Np(IV)</a><br/><a  style="color: black" href="docs/Spana/Neptunium(V).plt" target="_blank" rel="noopener">Np(V)</a><br/><a  style="color: black" href="docs/Spana/Neptunium(VI).plt" target="_blank" rel="noopener">Np(VI)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Plutonium(III).plt" target="_blank" rel="noopener">Pu(III)</a><br/><a  style="color: black" href="docs/Spana/Plutonium(IV).plt" target="_blank" rel="noopener">Pu(IV)</a><br/><a  style="color: black" href="docs/Spana/Plutonium(V).plt" target="_blank" rel="noopener">Pu(V)</a><br/><a  style="color: black" href="docs/Spana/Plutonium(VI).plt" target="_blank" rel="noopener">Pu(VI)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Americium(III).plt" target="_blank" rel="noopener">Am(III)</a><br/><a  style="color: black" href="docs/Spana/Americium(V).plt" target="_blank" rel="noopener">Am(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Curium(III).plt" target="_blank" rel="noopener">Cm(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Berkelium(III).plt" target="_blank" rel="noopener">Bk(III)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Californium(III).plt" target="_blank" rel="noopener">Cf(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Uranium(IV).dat" target="_blank" rel="noopener">U(IV)</a><br/><a  style="color: black" href="docs/Spana/Uranium(VI).dat" target="_blank" rel="noopener">U(VI)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Neptunium(III).dat" target="_blank" rel="noopener">Np(III)</a><br/><a  style="color: black" href="docs/Spana/Neptunium(IV).dat" target="_blank" rel="noopener">Np(IV)</a><br/><a  style="color: black" href="docs/Spana/Neptunium(V).dat" target="_blank" rel="noopener">Np(V)</a><br/><a  style="color: black" href="docs/Spana/Neptunium(VI).dat" target="_blank" rel="noopener">Np(VI)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Plutonium(III).dat" target="_blank" rel="noopener">Pu(III)</a><br/><a  style="color: black" href="docs/Spana/Plutonium(IV).dat" target="_blank" rel="noopener">Pu(IV)</a><br/><a  style="color: black" href="docs/Spana/Plutonium(V).dat" target="_blank" rel="noopener">Pu(V)</a><br/><a  style="color: black" href="docs/Spana/Plutonium(VI).dat" target="_blank" rel="noopener">Pu(VI)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Americium(III).dat" target="_blank" rel="noopener">Am(III)</a><br/><a  style="color: black" href="docs/Spana/Americium(V).dat" target="_blank" rel="noopener">Am(V)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Curium(III).dat" target="_blank" rel="noopener">Cm(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Berkelium(III).dat" target="_blank" rel="noopener">Bk(III)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Californium(III).dat" target="_blank" rel="noopener">Cf(III)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Es</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Fm</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Md</td>
