@@ -299,7 +299,7 @@ To obtain the diagrams, it suffices to run Spana with the *.dat files that can b
   </tr>
   <tr border="1">
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Sodium.dat" target="_blank" rel="noopener">Na</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Magnesium.dat" target="_blank" rel="noopener">Mg</a>Mg</td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Magnesium.dat" target="_blank" rel="noopener">Mg</a></td>
     <td></td>
     <td></td>
     <td></td>
