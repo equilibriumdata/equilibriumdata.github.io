@@ -1,0 +1,11 @@
+ 2, 2, 2, 0,   /SPANA (MEDUSA), t= 25, p= 1
+H+
+NpO2 +
+NpO2(OH)            , -11.3     -1  1
+NpO2(OH)2 -         , -23.6     -2  1
+amfresh-NpO2(OH) (s), -5.3      -1  1
+amagedNpO2(OH) (s)  , -4.7      -1  1
+NpO2 +, H+,
+LAV,  0 -14
+T,  1.0E-6
+Neptunium(V)

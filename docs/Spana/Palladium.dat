@@ -1,0 +1,10 @@
+ 2, 2, 1, 0,   /SPANA (MEDUSA), t= 25, p= 1
+H+
+Pd 2+
+Pd(OH) +            , -1.16     -1  1
+Pd(OH)2             , -3.07     -2  1
+Pd(OH)2 (s)         ,  3.4      -2  1
+Pd 2+, H+,
+LAV,  0 -14
+T,  1.0E-6
+Palladium

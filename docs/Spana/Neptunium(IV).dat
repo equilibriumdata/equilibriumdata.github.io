@@ -1,0 +1,11 @@
+ 2, 3, 1, 0,   /SPANA (MEDUSA), t= 25, p= 1
+H+
+Np 4+
+Np(OH) 3+           ,  0.5      -1  1
+Np(OH)2 2+          ,  0.3      -2  1
+Np(OH)4             , -8        -4  1
+amhyd-NpO2 (s)      ,  0.7      -4  1
+Np 4+, H+,
+LAV,  0 -14
+T,  1.0E-6
+Neptunium(IV)
