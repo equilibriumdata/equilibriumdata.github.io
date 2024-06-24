@@ -278,8 +278,8 @@ To obtain the diagrams, it suffices to run Spana with the *.dat files that can b
     <td align="center" border="1" bgcolor="#ffe6ff">He</td>
   </tr>
   <tr>
-    <td align="center" border="1" bgcolor="#ffe6ff">Li</td>
-    <td align="center" border="1" bgcolor="#ffe6ff">Be</td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Lithium.dat" target="_blank" rel="noopener">Li</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Berillium.dat" target="_blank" rel="noopener">Be</a></td>
     <td></td>
     <td></td>
     <td></td>
@@ -298,8 +298,8 @@ To obtain the diagrams, it suffices to run Spana with the *.dat files that can b
     <td align="center" border="1" bgcolor="#ffe6ff">Ne</td>
   </tr>
   <tr border="1">
-    <td align="center" border="1" bgcolor="#ffe6ff">Na</td>
-    <td align="center" border="1" bgcolor="#ffe6ff">Mg</td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Sodium.dat" target="_blank" rel="noopener">Na</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Magnesium.dat" target="_blank" rel="noopener">Mg</a>Mg</td>
     <td></td>
     <td></td>
     <td></td>
@@ -318,9 +318,9 @@ To obtain the diagrams, it suffices to run Spana with the *.dat files that can b
     <td align="center" border="1" bgcolor="#ffe6ff">Ar</td>
   </tr>
   <tr border="1">
-    <td align="center" border="1" bgcolor="#ffe6ff">K</td>
-    <td align="center" border="1" bgcolor="#ffe6ff">Ca</td>
-    <td align="center" border="1" bgcolor="#ffe6ff">Sc</td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Potassium.dat" target="_blank" rel="noopener">K</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Calcium.dat" target="_blank" rel="noopener">Ca</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Scandium.dat" target="_blank" rel="noopener">Sc</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Titanium(IV)cor.dat" target="_blank" rel="noopener">Ti(IV)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Vanadium(IV).dat" target="_blank" rel="noopener">V(IV)</a><br/><a  style="color: black" href="docs/Spana/Vanadium(V).dat" target="_blank" rel="noopener">V(V)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Chromium(III).dat" target="_blank" rel="noopener">Cr(III)</a><br/><a  style="color: black" href="docs/Spana/Chromium(VI).dat" target="_blank" rel="noopener">Cr(VI)</a></td>
