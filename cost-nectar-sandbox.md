@@ -339,7 +339,7 @@ When you are reday, press the top/left button showing a plot and the diagram wil
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Gallium.dat" target="_blank" rel="noopener">Ga</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Germanium.dat" target="_blank" rel="noopener">Ge</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Arsenic(III).dat" target="_blank" rel="noopener">As(III)</a><br/><a  style="color: black" href="docs/Spana/Arsenic(V).dat" target="_blank" rel="noopener">As(V)</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Selenium(-II).dat" target="_blank" rel="noopener">Se(-II)</a><br/><a  style="color: black" href="docs/Spana/Selenium(IV).dat" target="_blank" rel="noopener">Se(IV)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Selenium(-II).dat" target="_blank" rel="noopener">Se(-II)</a><br/><a  style="color: black" href="docs/Spana/Selenium(IV).dat" target="_blank" rel="noopener">Se(VI)</a><br/><a  style="color: black" href="docs/Spana/Selenium(VI).dat" target="_blank" rel="noopener">Se(IV)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Br</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Kr</td>
   </tr>
