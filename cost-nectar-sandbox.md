@@ -368,7 +368,7 @@ When you are reday, press the top/left button showing a plot and the diagram wil
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Barium.dat" target="_blank" rel="noopener">Ba</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Lanthanum.dat" target="_blank" rel="noopener">La</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Hf</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tantalum Ta(OH)5.dat" target="_blank" rel="noopener">Ta(OH)<sub>5</sub></a><br/><a  style="color: black" href="docs/Spana/Tantalum Ta6O19.dat" target="_blank" rel="noopener">Ta<sub>6</sub>O<sub>19</sub></a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tantalum.dat" target="_blank" rel="noopener">Ta</td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Tungsten.dat" target="_blank" rel="noopener">W</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Re</td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Osmium(VI).dat" target="_blank" rel="noopener">Os(VI)</a></td>
