@@ -248,18 +248,22 @@ In this table, many entries still mirror the COST action table but, progressivel
 
 ## Equilibrium diagrams
 
-Equilibrium diagrams can be easily derived from the values given for different compounds. You can use your preferred software to plot them. If you do not have any of your choice, an easy-to-use program is offered here to you, namely <a  href="https://www.kth.se/che/medusa/downloads-1.386254" target="_blank" rel="noopener">Spana</a>, developed by Ignasi Puigdomènech at KTH, Stockholm.
+Equilibrium diagrams can be easily obtained from the hydrolysis constants above at other element concentrations using <a  href="https://www.kth.se/che/medusa/downloads-1.386254" target="_blank" rel="noopener">Spana</a>, a program developed by Ignasi Puigdomènech at KTH, Stockholm. Ready data files are available in the periodic table below.
 
-Download and install the Java version that corresponds to your Operating System. Be sure that you have Java installed in your computer.
+Procedure:
 
-First, in the table below, click on the element for which you want to plost all species. Probably, some columns would be truncated. If so, use the slider at the bottom of the table to show the missing columns.
+1. Download and install the version of Java that corresponds to your operating system. Make sure you have Java installed on your computer.
 
-Then, run Spana. Once in the Spana interface, select File > Data file > Open (make a diagram). Select a *.dat file that you have previously downloaded from this site and press Open. A new interface appears already pre-filled. It might be good to check that, on the right panel, the box Write a file with table of results is ticked. This will produce, when generating the plot, a *.csv file that will allow you to plot the points calculated with your preferred plotting software, for instance Excel. Also on the right-hand panel, you will see a slider under the title Number of calculation steps. The higher the number, the smoother the curve obtained will be.
+2. In the table below, click on the element for which you are getting the diagram. A *.dat file will be downloaded to your computer. If some columns appear truncated, use the slider at the bottom of the table to display the missing columns.
 
-By default, on the left/hand panel, Diagram type is set to Fraction and the pH range goes from 0 to 14. Do not change the type, but you can select a smaller rage of pH values. More importantly, clicking on Total conc. [compound name] = you can change the concentration. If you do so, press OK. Else, you no figure can be plotted. The title of the figure can also be changed.
+3. Run Spana. Once in the Spana interface, select File > Data File > Open (make a diagram). Select the *.dat file you have previously downloaded and press Open. A new pre-filled interface will appear.
 
-When you are reday, press the top/left button showing a plot and the diagram will be generated.
+4. Check that, in the right pane, the box Write a file with results table is ticked. This will create, when generating the plot, a *.csv file that will allow you to plot a better quality plot with Excel or any other plotting software of your choice. In the same right panel, a slider under the heading Number of calculation steps allows you to adjust the smoothness of the curves by increasing the number of calculated points.
 
+5. By default, in the left/manual panel, Diagram type is set to Fraction and the pH ranges from 0 to 14. You can select a different pH value range. By clicking on Total concentration [compound name] =, you can change the concentration. Press OK to confirm the change, otherwise no figure can be plotted. You can also change the title of the figure.
+
+6. When you are ready, press the top/left button which shows a graph and the diagram will be generated.
+ 
 <table style="font-size:11px; color:green" >
   <tr>
     <td align="center" border="1" bgcolor="#ffe6ff">H</td>
@@ -462,3 +466,5 @@ When you are reday, press the top/left button showing a plot and the diagram wil
     <td></td>
   </tr>
 </table>
+
+Credit: Original *.elt and *.txt files were kindly produced by Emanuele Zanda. Josep Bonet created the *.dat files and this page.
