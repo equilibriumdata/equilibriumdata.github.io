@@ -37,13 +37,11 @@ layout: default
 
 # Metal hydrolysis and associated equilibrium constants
 
-The Working Group “NECTAR for highly hydrolysable (HHC) cations” (WG1) of the COST Action 18202, Network for Equilibria and Chemical Thermodynamics Advanced Research, is compiling published critical values of metal hydrolysis constants.
+By clicking on a given element in the table below, you can access a PDF file containing its hydrolysis constants (lg values) at infinite dilution and T = 298 K gathered from the most relevant literature compilations (in green, recommended values). Distribution diagrams of the species formed as a function of pH calculated at two concentrations (1 mM = 1x10<sup>-3</sup> mol L<sup>-1</sup> and 1 &mu;M = 1x10<sup>-6</sup> mol L<sup>-1</sup>) are also included. Diagrams assume a limiting case of zero ionic strength (i.e., even neglecting plotted ions) and are only intended to provide a quick overview of the distribution of the elements.
 
-By clicking on a given element in the table below, you can access a PDF file containing its hydrolysis constants (lg values) at infinite dilution and T = 298 K gathered from the most relevant literature compilations (in green, recommended values).
+The origin of the table is a compilation prepared by the Working Group “NECTAR for highly hydrolysable (HHC) cations” (WG1) of the EU COST Action 18202, Network for Equilibria and Chemical Thermodynamics Advanced Research. Contributors (in alphabetical order): Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Galceran, Sofia Gama, Elżbieta Gumienna-Kontecka, Gabriele Lando, Demetrio Milea, Andrejz Mular, Bartosz Orzeł, Michaela Rendošová, Vladimir Sladkov, Kamila Stokowa-Sołtys, Yuliya Toporivska, Zuzana Vargová, Emanuele Zanda, Veronika Zinovyeva. All figures were drawn by Emanuele Zanda. The final EU COST table can be found at the <a  href="https://www.cost-nectar.eu/pages/wg1_period.html" target="_blank" rel="noopener">COST action webpage</a>.
 
-This table is a mirror of the periodic table available at the <a href="https://www.cost-nectar.eu/pages/wg1_period.html" target="_blank" rel="noopener">COST action webpage</a>.
-
-Contributors: Clemente Bretti, Elvira Bura Nakić, Montserrat Filella, Josep Galceran, Sofia Gama, Elżbieta Gumienna-Kontecka, Gabriele Lando, Demetrio Milea, Andrejz Mular, Bartosz Orzeł, Michaela Rendošová, Vladimir Sladkov, Kamila Stokowa-Sołtys, Yuliya Toporivska, Zuzana Vargová, Emanuele Zanda, Veronika Zinovyeva.
+In this table, many entries still mirror the COST action table but, progressively, errors from the original compilation are, and will be, corrected and values updated. All information has also been uploaded and is updated on Wikipedia.
 
 <table style="font-size:11px; color:green" >
   <tr>
