@@ -327,7 +327,7 @@ When you are reday, press the top/left button showing a plot and the diagram wil
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Potassium.dat" target="_blank" rel="noopener">K</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Calcium.dat" target="_blank" rel="noopener">Ca</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Scandium.dat" target="_blank" rel="noopener">Sc</a></td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Titanium(IV)cor.dat" target="_blank" rel="noopener">Ti(IV)</a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Titanium(III).dat" target="_blank" rel="noopener">Ti(III)</a><br/><a  style="color: black" href="docs/Spana/Titanium(IV).dat" target="_blank" rel="noopener">Ti(IV)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Vanadium(IV).dat" target="_blank" rel="noopener">V(IV)</a><br/><a  style="color: black" href="docs/Spana/Vanadium(V).dat" target="_blank" rel="noopener">V(V)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Chromium(III).dat" target="_blank" rel="noopener">Cr(III)</a><br/><a  style="color: black" href="docs/Spana/Chromium(VI).dat" target="_blank" rel="noopener">Cr(VI)</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a style="color: black" href="docs/Spana/Manganese(II).dat" target="blank">Mn(II)</a><br/><a style="color: black" href="docs/Spana/Manganese(III).dat" target="blank">Mn(III)</a></td>
