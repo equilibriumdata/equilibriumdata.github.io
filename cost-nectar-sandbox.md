@@ -348,7 +348,7 @@ When you are reday, press the top/left button showing a plot and the diagram wil
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Strontium.dat" target="_blank" rel="noopener">Sr</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Yttrium.dat" target="_blank" rel="noopener">Y</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Zr</td>
-    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Niobium Nb(OH)5.dat" target="_blank" rel="noopener">Nb(OH)<sub>5</sub></a><br/><a  style="color: black" href="docs/Spana/Niobium Nb6O19.dat" target="_blank" rel="noopener">Nb<sub>6</sub>O<sub>19</sub></a></td>
+    <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Niobium.dat" target="_blank" rel="noopener">Nb</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff"><a  style="color: black" href="docs/Spana/Molybdenum.dat" target="_blank" rel="noopener">Mo</a></td>
     <td align="center" border="1" bgcolor="#ffe6ff">Tc</td>
     <td align="center" border="1" bgcolor="#ffe6ff">Ru</td>
