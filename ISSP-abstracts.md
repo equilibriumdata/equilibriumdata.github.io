@@ -1,5 +1,5 @@
 ---
-title: ISSP Abstract Books
+title: Equilibrium data
 layout: default
 ---
 <ul>
