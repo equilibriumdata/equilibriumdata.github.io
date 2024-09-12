@@ -32,7 +32,7 @@ layout: default
       <a href="TCE/tellurium.html">Tellurium</a>
     </div>
   </li>
-  <li><a class="active" href="ISSP-abstracts.html">ISSP Abstract Books</a></li>
+  <li><a class="active" href="ISSP-abstracts.html">ISSP Abstracts</a></li>
 </ul>
 
 # ISSP Abstract Books
@@ -80,4 +80,5 @@ Llista de Congressos:
 &bull;1988 - ISSP3 - Guildford, Surrey, UK
 
 &bull;1986 - ISSP2 - Newark, NJ, USA
-984 - ISSP1 - London, ON, Canada
+
+&bull;984 - ISSP1 - London, ON, Canada
