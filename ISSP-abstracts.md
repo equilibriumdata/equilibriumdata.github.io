@@ -41,11 +41,11 @@ XXXXX
 Llista de Congressos:
 
 <ul>
-  <li>2024 - ISSP21 - Novi Sad, Serbia</ul>li>
+  <li>2024 - ISSP21 - Novi Sad, Serbial</li>
   <li>2022 - ISSP20 - Bragança, Portugal</li>
   <li>2021 - ISSP19 - Los Alamos, NM, USA</li>
   <li>2018 - ISSP18 - Tours, France</li>
-  <li><a href="ISSP/ISSP17-Book.pdf>2016 - ISSP17 - Geneva, Switzerland</a></li>
+  <li>2016 - <a href="ISSP/ISSP17-Book.pdf>ISSP17 - Geneva, Switzerland</a></li>
   <li>2014 - ISSP16 - Karlsruhe, Germany</li>
   <li>2012 - ISSP15 - Xining, China</li>
   <li>2010 - ISSP14 - Leoben, Austria</li>
