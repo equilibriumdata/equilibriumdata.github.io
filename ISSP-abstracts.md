@@ -32,7 +32,7 @@ layout: default
       <a href="TCE/tellurium.html">Tellurium</a>
     </div>
   </li>
-  <li>ISSP Abstract Books</li>
+  <li><a href="ISSP-abstracts.html">ISSP Abstract Books</a></li>
 </ul>
 
 # ISSP Abstract Books
