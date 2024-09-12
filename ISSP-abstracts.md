@@ -22,7 +22,7 @@ layout: default
     </div>
   </li>
   <li><a href="/sc-database.html">SC-Database</a></li>
-  <li><a class="active" href="/cost-nectar.html">Metal hydrolysis</a></li>
+  <li><a href="/cost-nectar.html">Metal hydrolysis</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">TCEs</a>
     <div class="dropdown-content">
@@ -32,7 +32,7 @@ layout: default
       <a href="TCE/tellurium.html">Tellurium</a>
     </div>
   </li>
-  <li><a href="ISSP-abstracts.html">ISSP Abstract Books</a></li>
+  <li><a class="active" href="ISSP-abstracts.html">ISSP Abstract Books</a></li>
 </ul>
 
 # ISSP Abstract Books
