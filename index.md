@@ -29,7 +29,7 @@
       <a href="TCE/tellurium.html">Tellurium</a>
     </div>
   </li>
-  <li><a href="/ISSP/ISSP-abstracts.html">ISSP Abstract Books</a></li>
+  <li><a href="ISSP-abstracts.html">ISSP Abstract Books</a></li>
 </ul>
 
 # Equilibrium data
