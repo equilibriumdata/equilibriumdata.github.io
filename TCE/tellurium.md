@@ -33,7 +33,7 @@ layout: default
       <a class="active" href="../tellurium.html">Tellurium</a>
     </div>
   </li>
-  <li><a href="ISSP-abstracts.html">ISSP Abstracts</a></li>
+  <li><a href="../ISSP-abstracts.html">ISSP Abstracts</a></li>
 </ul>
 
 # Tellurium
