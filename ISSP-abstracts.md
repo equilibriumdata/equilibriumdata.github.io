@@ -39,8 +39,6 @@ layout: default
 
 The International Symposium on Solubility Phenomena and Related Equilibrium Processes (ISSP) is a well-established biennial series of symposia organised through the IUPAC Subcommittee on Solubility and Equilibrium Data (SSED). It brings together international experts in equilibrium and solubility studies to exchange new research and concepts. It has been held 21 times and hosted on every continent except Australia. This page aims to ensure the perennity of the corresponding Book of Abstracts.
 
-Llista de Congressos:
-
 &bull; 2024 - ISSP21 - Novi Sad, Serbia
 
 &bull; 2022 - ISSP20 - Bragança, Portugal
