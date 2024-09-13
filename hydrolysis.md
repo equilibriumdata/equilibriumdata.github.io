@@ -33,6 +33,7 @@ layout: default
       <a href="TCE/tellurium.html">Tellurium</a>
     </div>
   </li>
+  <li><a href="ISSP-abstracts.html">ISSP Abstracts</a></li>
 </ul>
 
 # Metal hydrolysis and associated equilibrium constants
