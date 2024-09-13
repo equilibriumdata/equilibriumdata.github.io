@@ -30,7 +30,7 @@ layout: default
       <a href="germanium.html">Germanium</a>
       <a href="niobium.html">Niobium</a>
       <a href="tantalum.html">Tantalum</a>
-      <a class="active" href="tellurium.html">Tellurium</a>
+      <a class="active" href="../tellurium.html">Tellurium</a>
     </div>
   </li>
   <li><a href="ISSP-abstracts.html">ISSP Abstracts</a></li>
