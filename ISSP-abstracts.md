@@ -41,7 +41,7 @@ The International Symposium on Solubility Phenomena and Related Equilibrium Proc
 
 &bull; 2024 - ISSP21 - Novi Sad, Serbia
 
-&bull; 2022 - ISSP20 - Bragança, Portugal
+&bull; 2022 - <a href="ISSP/ISSP20-Book.pdf">ISSP20 - Bragança, Portugal</a>
 
 &bull; 2021 - ISSP19 - Los Alamos, NM, USA
 
