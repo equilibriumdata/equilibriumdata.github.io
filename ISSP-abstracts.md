@@ -39,19 +39,19 @@ layout: default
 
 The International Symposium on Solubility Phenomena and Related Equilibrium Processes (ISSP) is a well-established biennial series of symposia organised through the IUPAC Subcommittee on Solubility and Equilibrium Data (SSED). It brings together international experts in equilibrium and solubility studies to exchange new research and concepts. It has been held 21 times and hosted on every continent except Australia. This page aims to ensure the perennity of the corresponding Book of Abstracts.
 
-&bull; 2024 - <a href="ISSP/ISSP21_Book of Abstracts.pdf">ISSP21 - Novi Sad, Serbia</a>
+&bull; 2024 - <a href="ISSP/ISSP21_Book of Abstracts.pdf" target="_blank" rel="noopener">ISSP21 - Novi Sad, Serbia</a>
 
-&bull; 2022 - <a href="ISSP/ISSP20_Book of Abstracts.pdf">ISSP20 - Bragança, Portugal</a>
+&bull; 2022 - <a href="ISSP/ISSP20_Book of Abstracts.pdf" target="_blank" rel="noopener">ISSP20 - Bragança, Portugal</a>
 
 &bull; 2021 - ISSP19 - Los Alamos, NM, USA
 
 &bull; 2018 - ISSP18 - Tours, France
 
-&bull; 2016 - <a href="ISSP/ISSP17_Book of Abstracts.pdf">ISSP17 - Geneva, Switzerland</a>
+&bull; 2016 - <a href="ISSP/ISSP17_Book of Abstracts.pdf" target="_blank" rel="noopener">ISSP17 - Geneva, Switzerland</a>
 
-&bull; 2014 - <a href="ISSP/ISSP16_Book of Abstracts.pdf">ISSP16 - Karlsruhe, Germany</a>
+&bull; 2014 - <a href="ISSP/ISSP16_Book of Abstracts.pdf" target="_blank" rel="noopener">ISSP16 - Karlsruhe, Germany</a>
 
-&bull; 2012 - <a href="ISSP/ISSP15_Book of Abstracts.pdf">ISSP15 - Xining, China</a>
+&bull; 2012 - <a href="ISSP/ISSP15_Book of Abstracts.pdf" target="_blank" rel="noopener">ISSP15 - Xining, China</a>
 
 &bull; 2010 - ISSP14 - Leoben, Austria
 
