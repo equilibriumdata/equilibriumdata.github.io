@@ -57,7 +57,7 @@ The International Symposium on Solubility Phenomena and Related Equilibrium Proc
 
 &bull; 2008 - ISSP13 - Dublin, Ireland
 
-&bull; 2006 - ISSP12 - Freiberg, Germany
+&bull; 2006 - <a href="ISSP/ISSP12_Book of Abstracts.pdf" target="_blank" rel="noopener">ISSP12 - Freiberg, Germany</a>
 
 &bull; 2004 - ISSP11 - Aveiro, Portugal
 
