@@ -41,6 +41,69 @@ The TDB 2020 includes thermodynamic data for 53 elements, 1'034 aqueous species 
 
 The data evaluation procedures and the selection of values are documented in all steps to maximise traceability of the review process. Working Excel files are provided here. The number of files will be regularly uploaded. Forty are already available.
 
-<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.1-Ac_G_redox.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.1-Ac_G_redox.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.1-Ac_G_redox.xlsx">TDB2020-NTB21-03-Chapter2.3.1-Ac_G_redox.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.2-Ac(OH)3(s)-Solubility.xlsx">TDB2020-NTB21-03-Chapter2.3.2.2-Ac(OH)3(s)-Solubility.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.3-Ac-F.xlsx">TDB2020-NTB21-03-Chapter2.3.3-Ac-F.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.4-Ac-Cl.xlsx">TDB2020-NTB21-03-Chapter2.3.4-Ac-Cl.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.5-Ac-PO4.xlsx">TDB2020-NTB21-03-Chapter2.3.5-Ac-PO4.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.6-Ac-SO4.xlsx">TDB2020-NTB21-03-Chapter2.3.6-Ac-SO4.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.7-Ac-SCN.xlsx">TDB2020-NTB21-03-Chapter2.3.7-Ac-SCN.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.8-Ac-ox.xlsx">TDB2020-NTB21-03-Chapter2.3.8-Ac-ox.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.9-Ac-cit.xlsx">TDB2020-NTB21-03-Chapter2.3.9-Ac-cit.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.10-Ac-edta.xlsx">TDB2020-NTB21-03-Chapter2.3.10-Ac-edta.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter3.1.2-Li_G_redox.xlsx">TDB2020-NTB21-03-Chapter3.1.2-Li_G_redox.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter3.1.4.1-LiF.xlsx">TDB2020-NTB21-03-Chapter3.1.4.1-LiF.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter3.1.7.1-LiSO4.xlsx">TDB2020-NTB21-03-Chapter3.1.7.1-LiSO4.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter3.1.8.1-LiPO4.xlsx">TDB2020-NTB21-03-Chapter3.1.8.1-LiPO4.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter3.2.2-Na_G_redox.xlsx">TDB2020-NTB21-03-Chapter3.2.2-Na_G_redox.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter3.2.4.1-NaF(aq) -Temperature.xlsx">TDB2020-NTB21-03-Chapter3.2.4.1-NaF(aq) -Temperature.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a><br/>
 <a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a>
-
