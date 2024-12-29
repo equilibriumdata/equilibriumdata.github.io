@@ -41,6 +41,6 @@ The TDB 2020 includes thermodynamic data for 53 elements, 1'034 aqueous species 
 
 The data evaluation procedures and the selection of values are documented in all steps to maximise traceability of the review process. Working Excel files are provided here. The number of files will be regularly uploaded. Forty are already available.
 
-<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.1-Ac_G_redox.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.1-Ac_G_redox.xlsx</a>.
-<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a>.
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.1-Ac_G_redox.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.1-Ac_G_redox.xlsx</a><br/>
+<a href="Nagra/TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx" target="_blank" rel="noopener">TDB2020-NTB21-03-Chapter2.3.2.1-Ac-OH.xlsx</a>
 
