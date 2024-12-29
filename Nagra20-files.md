@@ -35,7 +35,7 @@
 
 # Nagra 2020 working files
 
-The TDB 2020 is an update from the Paul Scherrer Institute (PSI)/Nagra TDB 12/07, published in 2014, and its predecessor Nagra/PSI TDB 01/01, published in 2002. The update was carried out over the period 2017 – 2020 and was completed in 2021. The authors are W. Hummel & T. Thoenen. The document is available at <a href="https://nagra.ch/wp-content/uploads/2023/05/NTB-21-03.pdf">https://nagra.ch/wp-content/uploads/2023/05/NTB-21-03.pdf</a>.
+The TDB 2020 is an update from the Paul Scherrer Institute (PSI)/Nagra TDB 12/07, published in 2014, and its predecessor Nagra/PSI TDB 01/01, published in 2002. The update was carried out over the period 2017 – 2020 and was completed in 2021. The authors are W. Hummel & T. Thoenen. The document is available at <a href="https://nagra.ch/wp-content/uploads/2023/05/NTB-21-03.pdf" target="_blank" rel="noopener">https://nagra.ch/wp-content/uploads/2023/05/NTB-21-03.pdf</a>.
 
 The TDB 2020 includes thermodynamic data for 53 elements, 1'034 aqueous species (and SIT ion interaction coefficients for all species), 358 solids and 8 gases.
 
