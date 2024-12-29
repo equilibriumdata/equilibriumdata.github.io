@@ -67,7 +67,7 @@ NEA published volumes
 | Iron – Part 1	| <a  href="https://www.oecd-nea.org/jcms/pl_14374/chemical-thermodynamics-of-iron-part-1" target="_blank" rel="noopener">Lemire et al. (2013)</a> |
 | Iron – Part 2 | <a  href="https://www.oecd-nea.org/jcms/pl_22611/chemical-thermodynamics-of-iron-part-2" target="_blank" rel="noopener">Lemire et al. (2019)</a> |
 | Second update of uranium, neptunium, plutonium, americium and technetium | <a  href="https://www.oecd-nea.org/jcms/pl_46643/second-update-on-the-chemical-thermodynamics-of-u-np-pu-am-and-tc" target="_blank" rel="noopener">Grenthe et al. (2020)</a> |
-
+| Selected Ancillary Compounds of Interest to Radioactive Waste Management | <a  href="https://www.oecd-nea.org/jcms/pl_93961/selected-ancillary-compounds-of-interest-to-radioactive-waste-management" target="_blank" rel="noopener">Rand et al. (2024)</a> |
 
 ## Availability
 
