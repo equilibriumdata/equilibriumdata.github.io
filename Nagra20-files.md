@@ -29,11 +29,14 @@
       <a href="TCE/tellurium.html">Tellurium</a>
     </div>
   </li>
+  <li><a class="active" href="/">Nagra'20 files</a></li>
   <li><a href="ISSP-abstracts.html">ISSP Abstracts</a></li>
 </ul>
 
-# Equilibrium data
+# Nagra 2020 working files
 
-A crucial part of any equilibrium modelling calculation is the selection of equilibrium constants that quantify the strength of interactions between metals and ligands. Locating suitable equilibrium constants that lead to reliable model results can be difficult. Numerous large compilations of equilibrium constant values have been published each having their own limitations, coverage and  availability. The persistence of existing compilations is problematic given that it is widely underappreciated how much ongoing work and effort are required just to maintain and distribute functional versions of computer databases. As a result, the access to some existing compilations of equilibrium has become impossible and, in general, navigating in the field is not easy, particularly for 'new people'.
+The TDB 2020 is an update from the Paul Scherrer Institute (PSI)/Nagra TDB 12/07, published in 2014, and its predecessor Nagra/PSI TDB 01/01, published in 2002. The update was carried out over the period 2017 – 2020 and was completed in 2021. The authors are W. Hummel & T. Thoenen. The document is available at <a href="https://nagra.ch/wp-content/uploads/2023/05/NTB-21-03.pdf">https://nagra.ch/wp-content/uploads/2023/05/NTB-21-03.pdf</a>.
 
-This site is intended to offer an overview of the situation as well as data rescued from discontinued databases or new compilations. It focuses mainly on ambient temperature at 1 atm pressure.
+The TDB 2020 includes thermodynamic data for 53 elements, 1'034 aqueous species (and SIT ion interaction coefficients for all species), 358 solids and 8 gases.
+
+The data evaluation procedures and the selection of values are documented in all steps to maximise traceability of the review process. Working Excel files are provided here. The number of files will be regularly uploaded. Forty are already available.
