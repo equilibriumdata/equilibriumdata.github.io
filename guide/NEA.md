@@ -46,7 +46,7 @@ In 1986, the Nuclear Energy Agency (ΝΕΑ) of the Organisation for Economic Co-
 
 ## Scope
 
-Fifteen volumes of the Chemical Thermodynamics Series have been produced so far, totalling more than 11’500 pages of documentation. The recommended data refer to the standard state and to 25 °C; extensive discussions of the data analyses and review processes are made available in the interests of transparency. Regarding the data labelled “for scoping calculations”, it is up to the user to read the documentation and to find the useful data.
+Sixteen volumes of the Chemical Thermodynamics Series have been produced so far. The recommended data refer to the standard state and to 25&nbsp;°C; extensive discussions of the data analyses and review processes are made available in the interests of transparency. Regarding the data labelled “for scoping calculations”, it is up to the user to read the documentation and to find the useful data.
 
 NEA published volumes
 
