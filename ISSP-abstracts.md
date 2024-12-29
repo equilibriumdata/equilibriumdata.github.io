@@ -55,7 +55,7 @@ The International Symposium on Solubility Phenomena and Related Equilibrium Proc
 
 &bull; 2010 - ISSP14 - Leoben, Austria
 
-&bull; 2008 - ISSP13 - Dublin, Ireland
+&bull; 2008 - <a href="ISSP/ISSP13_Book of Abstracts.pdf" target="_blank" rel="noopener">ISSP13 - Dublin, Ireland</a>
 
 &bull; 2006 - <a href="ISSP/ISSP12_Book of Abstracts.pdf" target="_blank" rel="noopener">ISSP12 - Freiberg, Germany</a>
 
