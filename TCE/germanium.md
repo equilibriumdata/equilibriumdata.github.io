@@ -249,7 +249,7 @@ Vehov, V.A., Birtuhnovskaya, B.S., Doronkina, R.F., 1964. Changes of germanium d
 
 Wagman, D.D., Schumm, R.H., Parker, V.B., 1977. National Bureau of Standards Rep. NBSIR 77-1300, A Computer-assisted evaluation of the thermochemical data of the compounds of thorium.  National Bureau of Standards, Washington DC, USA.
 
-Wagman, D.D., Evans, W.H., Parker, V.B., Schumm, R.H., Halow, I., Bailey, S.M., Churney, K.L., Nuttall, R.L., 1982. The NBS Tables of Chemical Thermodynamic Properties – Selected Values for Inorganic and C1 and C2 Organic Substances in SI Units J. Phys. Chem. Ref. Data 11, Suppl. 2. Cross-ref: J. Phys. Chem. Ref. Data, 1989, 18, 1807.
+<a  href="//doi.org/10.1063/1.555845" target="_blank" rel="noopener">Wagman, D.D., Evans, W.H., Parker, V.B., Schumm, R.H., Halow, I., Bailey, S.M., Churney, K.L., Nuttall, R.L., 1982. The NBS Tables of Chemical Thermodynamic Properties – Selected Values for Inorganic and C1 and C2 Organic Substances in SI Units J. Phys. Chem. Ref. Data 11, Suppl. 2. Cross-ref: J. Phys. Chem. Ref. Data, 1989, 18, 1807.</a>
 
 <a  href="//doi.org/10.1002/prac.18860340122" target="_blank" rel="noopener">Winkler, C., 1886. Mittheilungen über das Germanium. J. prakt. Chem. 34, 177–229.</a>
 
