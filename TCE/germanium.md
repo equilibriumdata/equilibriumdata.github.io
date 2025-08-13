@@ -255,6 +255,6 @@ Wagman, D.D., Evans, W.H., Parker, V.B., Schumm, R.H., Halow, I., Bailey, S.M., 
 
 <a  href="//doi.org/10.1016/j.gca.2016.09.028" target="_blank" rel="noopener">Wolery, T.J., Jové Colón, C.F., 2017. Chemical thermodynamic data. 1. The concept of links to the chemical elements and the historical development of key thermodynamic data. Geochim. Cosmochim. Acta 213, 635–676.</a>
 
-<a  href="//doi.org/10.1016/j.oregeorev.2003.06.002Zoubov 1974" target="_blank" rel="noopener">Wood, S.A., Samson, I.M., 2006. The aqueous geochemistry of gallium, germanium, indium and scandium. Ore Geology Reviews 28, 57–102.</a>
+<a  href="//doi.org/10.1016/j.oregeorev.2003.06.002" target="_blank" rel="noopener">Wood, S.A., Samson, I.M., 2006. The aqueous geochemistry of gallium, germanium, indium and scandium. Ore Geology Reviews 28, 57–102.</a>
 
 de Zoubov, N., Deltombe, E., Vanleugenhaghe, C., Pourbaix, M., 1974. Germanium. In: Atlas of Electrochemical Equilibria in Aqueous Solutions. Pourbaix, M. (ed.) National Association of Corrosion Engineers, Houston, Texas, USA and CEBELCOR, Brussels, chapter IV, section 17.3, pp. 464-474.
